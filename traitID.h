@@ -9,7 +9,6 @@ class traitID {
     vector <string> traitTable; 
 
     public: 
-    // CONSTRUCTORS // TODO
     traitID() {}
 
     // SEARCH
@@ -22,11 +21,23 @@ class traitID {
         return false; 
     }
 
-    // INSERT //
+    // Input Parsing //
     string parse_trait(string input)
     {
-        return input; //TODO
+        string head; 
+        bool found = false; 
+        for (auto i : input)
+        {
+            if (i == '<' || i == '(' || i == '|')
+            {
+                break; 
+            }
+            head.push_back(i);
+        }
+        return head; 
     }
+
+    // INSERT //
 
     void insert(string s)
     {
@@ -68,6 +79,7 @@ class traitID {
         for (int i = 0; i < traitTable.size(); i++){
             cout << i << ": " << traitTable.at(i) << endl; 
         }
+        cout << endl; 
     }
 
 };
