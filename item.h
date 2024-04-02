@@ -1,4 +1,4 @@
-#include "traitDB.h"
+#include "traitID.h"
 #include <algorithm>
 
 class Item {
@@ -69,9 +69,9 @@ class Item {
         if (entry == "NA") entry.clear(); 
         entry += " " + x; 
     }
-    void addTrait (string x)
+    void addTrait (string s)
     {
-
+        traits.insert(s);
     }
 
     // GET //
@@ -84,6 +84,8 @@ class Item {
     {
         name = originSource = coin = entry = "NA"; 
         page = level = price = bulk = -1; 
+        traits.clear();
+        otherSources.clear(); 
     }
     void printSources()
     {
@@ -91,7 +93,7 @@ class Item {
     }
     void printTraits() // TODO 
     {
-        cout << "--- Traits ---" << endl; 
+        traits.print(); 
     }
     void print()
     {

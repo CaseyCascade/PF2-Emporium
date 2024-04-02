@@ -8,7 +8,6 @@
 using json = nlohmann::json;
 
 //File dependencies
-#include "globals.h"
 #include "item.h"
 
 bool ignore_var(string s){
