@@ -1,8 +1,0 @@
-File Dependency Structure
-
-
-                                                        JSON 
-                                                          |
-globals.h -> trait.h -> linklist.h -> traitDB.h -> item.h -> initTraitDB.h?
-                                                      |
-                                                      + -> 
