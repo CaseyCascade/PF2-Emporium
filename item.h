@@ -1,5 +1,4 @@
 #include "traitID.h"
-#include <algorithm>
 
 class Item {
     private: 
@@ -29,6 +28,7 @@ class Item {
     // SETTERS // 
     void setName(string x)
     {
+        trim(x);
         name = x; 
     }
     void addSource(string x)
@@ -38,6 +38,7 @@ class Item {
             if (i == '|') 
             {
                 i = ' '; 
+                trim(x);
                 otherSources.push_back(x);
                 return; 
             }
@@ -68,9 +69,11 @@ class Item {
     {
         if (entry == "NA") entry.clear(); 
         entry += " " + x; 
+        trim(entry);
     }
-    void addTrait (string s)
+    void addTrait (string s) //TODO "modular" is being input twice when parsed
     {
+        trim(s);        
         traits.insert(s);
     }
 
