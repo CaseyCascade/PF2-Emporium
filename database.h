@@ -1,13 +1,24 @@
-#include "read.h"
+#include "dataParser.h"
 
 class Database {
     vector <Item> database; 
-    Read read; 
+    DataParser parser;
 
-    Database() {}
+    public:
+    Database() // TODO DEBUG
+    {
+        database = parser.read_from_json("Input/baseitems.json");
+    }
 
     void load () {}
-    void save () {}
+    void save () 
+    {
+        string line; 
+        for (auto i : database)
+        {
+
+        }
+    }
     void update() {}
     void check_for_update() {}
 };

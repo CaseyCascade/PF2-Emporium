@@ -10,10 +10,10 @@ using json = nlohmann::json;
 //File dependencies
 #include "item.h"
 
-struct Read {
+struct DataParser {
     string temp; 
 
-    Read() {}
+    DataParser() {}
 
     bool ignore_var(string s)
     {
@@ -36,48 +36,48 @@ struct Read {
             if (i.value().is_object()) initialize (i.value(), newItem); // Recursive Call into SubObject
             
             // Hard Coded Data Entries //
-            else if (i.key() == "name") newItem.setName(i.value());
-            else if (i.key() == "source") newItem.addSource(i.value()); 
-            else if (i.key() == "otherSources") newItem.addSource(i.value());
-            else if (i.key() == "page") newItem.setPage(i.value()); 
-            else if (i.key() == "level") newItem.setLevel(i.value());
-            else if (i.key() == "amount") newItem.setPrice(i.value()); 
-            else if (i.key() == "coin") newItem.setCoin(i.value()); 
-            else if (i.value().is_boolean()) newItem.addTrait(i.key()); 
+            else if (i.key() == "name") newItem.set_name(i.value());
+            else if (i.key() == "source") newItem.add_source(i.value()); 
+            else if (i.key() == "otherSources") newItem.add_source(i.value());
+            else if (i.key() == "page") newItem.set_page(i.value()); 
+            else if (i.key() == "level") newItem.set_level(i.value());
+            else if (i.key() == "amount") newItem.set_price(i.value()); 
+            else if (i.key() == "coin") newItem.set_coin(i.value()); 
+            else if (i.value().is_boolean()) newItem.add_trait(i.key()); 
                 
             // Cases of Possible Differing Data Types //
             else if (i.key() == "entries")  //There are sometimes sub-objects here, but we're choosing to ignore them
             {
-                for (auto &j : i.value()) if (j.is_string()) newItem.addEntry(j); 
+                for (auto &j : i.value()) if (j.is_string()) newItem.add_entry(j); 
             }
             else if (i.key() == "bulk")
             {
                 if (i.value().is_string())
                 {
-                    if (i.value() == "L") newItem.setBulk(0.1); 
-                    else newItem.setBulk(0); 
+                    if (i.value() == "L") newItem.set_bulk(0.1); 
+                    else newItem.set_bulk(0); 
                 }
-                else newItem.setBulk(i.value()); 
+                else newItem.set_bulk(i.value()); 
             }
             else if (i.key() == "hands")
             {
             if (i.value().is_string()) temp = i.value();
                 else temp = to_string(i.value());
                 temp += " hand(s)"; 
-                newItem.addTrait(temp); 
+                newItem.add_trait(temp); 
                 temp.clear(); 
             }
 
             // Trait Entries //
-            else if (i.value().is_string()) newItem.addTrait(i.value()); 
+            else if (i.value().is_string()) newItem.add_trait(i.value()); 
             else if (i.value().is_array() && i.key() != "entries") //Array
             {
                 for (auto &j : i.value())
                 {
                     if (j.is_string()) 
                     {
-                        if (i.key() == "Originally" || i.key() == "Reprinted") newItem.addSource(j);
-                        else newItem.addTrait(j);
+                        if (i.key() == "Originally" || i.key() == "Reprinted") newItem.add_source(j);
+                        else newItem.add_trait(j);
                     }
                     else 
                     {
@@ -113,6 +113,9 @@ struct Read {
 
     vector <Item> read_from_txt(string filePath)
     {
-        
+        vector <Item> storedItems;
+        ifstream file (filePath);
+
+        return storedItems; 
     }
 };
