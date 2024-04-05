@@ -1,5 +1,6 @@
 #include "read.h"
 
 int main(){
-    read(); 
+    Read rd; 
+    rd.read_from_JSON("Input/baseitems.json");
 }

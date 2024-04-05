@@ -91,12 +91,6 @@ class traitID {
         traitTable.clear(); 
     }
 
-    // LOAD / SAVE //
-    void load () {}
-    void save () {}
-    void update() {}
-    void check_for_update() {}
-
     // DEBUG //
     void print()
     {
