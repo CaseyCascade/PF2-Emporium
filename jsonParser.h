@@ -13,10 +13,10 @@ using json = nlohmann::json;
 //File dependencies
 #include "item.h"
 
-struct DataParser {
+struct JsonParser {
     string temp; 
 
-    DataParser() {}
+    JsonParser() {}
 
     bool ignore_var(string s)
     {

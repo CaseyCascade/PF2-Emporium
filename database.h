@@ -1,17 +1,17 @@
-#include "dataParser.h"
+#include "jsonParser.h"
 #include <filesystem>
 
 using namespace std::filesystem; 
 
 class Database {
     vector <Item> database; 
-    DataParser parser; //TODO Eventually we will want to move this so that it is not including the JSON library until we need it to 
+    JsonParser parser; //TODO Eventually we will want to do this in another file entirely and decouple from database 
 
     path inputPath = "input"; 
     path dataPath = "data"; 
 
     public:
-    Database() // TODO DEBUG
+    Database()
     {
         if (!exists(inputPath)) create_directory(inputPath); 
         if (!exists(dataPath)) create_directory(dataPath); 
