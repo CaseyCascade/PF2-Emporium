@@ -2,6 +2,9 @@
 #include <fstream>
 #include <cctype> 
 #include <queue> 
+#include <filesystem> 
+
+using namespace std::filesystem;
 
 //json 
 #include "include/json.hpp"
@@ -90,7 +93,7 @@ struct DataParser {
         }
     }
 
-    vector <Item> read_from_json(string filePath)
+    vector <Item> read_from_json(path filePath)
     {
         vector <Item> storedItems;
         ifstream file (filePath);
