@@ -18,7 +18,8 @@ class Database {
             i.print(); 
         }
     }
-    void load_json_directory () 
+
+    void load_json_directory () // TODO Also temporary, eventually we want to only load from txt
     {
         database.clear();
         vector <Item> contents;
