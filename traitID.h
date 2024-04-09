@@ -68,7 +68,10 @@ class traitID {
         string trait = parse_trait(s);
         if (!search(trait))
         {
-            traitTable.push_back(trait);  
+            if (trait.size() < 15) //Excludes ridiculously long Region/Organization based and Ammunition traits
+            {
+                traitTable.push_back(trait); 
+            } 
         }
         return;
     }

@@ -1,7 +1,4 @@
 #include "jsonParser.h"
-#include <filesystem>
-
-using namespace std::filesystem; 
 
 class Database {
     vector <Item> database; 
@@ -12,33 +9,23 @@ class Database {
 
     public:
     Database()
-    {
-        if (!exists(inputPath)) create_directory(inputPath); 
-        if (!exists(dataPath)) create_directory(dataPath); 
-    }
+    {}
 
-    bool search_directory(path directoryPath, string fileName)
+    void print()
     {
-        path filePath = directoryPath / fileName;
-        if (exists(directoryPath) && is_directory(directoryPath)) 
-        { 
-            for (const auto& entry : directory_iterator(directoryPath)) 
-            { 
-                if (entry.path() == filePath) return true;  
-            }
-            return false;  
-        } 
-        else 
-        { 
-            cerr << "Directory not found." << endl; 
-        } 
+        for (auto& i : database)
+        {
+            i.print(); 
+        }
     }
-    void json_to_txt () 
+    void load_json_directory () 
     {
+        database.clear();
         vector <Item> contents;
         for (const auto& file : directory_iterator(inputPath))
         {
             contents = parser.read_from_json(file.path()); 
+            database.insert(database.end(), contents.begin(), contents.end());
         }
     }
 };

@@ -113,12 +113,4 @@ struct JsonParser {
         }
         return storedItems; 
     }
-
-    vector <Item> read_from_txt(string filePath)
-    {
-        vector <Item> storedItems;
-        ifstream file (filePath);
-
-        return storedItems; 
-    }
 };
