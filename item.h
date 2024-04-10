@@ -73,7 +73,7 @@ class Item {
     }
     void add_trait (string s) //TODO "modular" is being input twice when parsed
     {
-        trim(s);        
+        trim(s);       
         traits.insert(s);
     }
 

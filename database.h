@@ -1,7 +1,4 @@
 #include "jsonParser.h"
-#include <filesystem>
-
-using namespace std::filesystem; 
 
 class Database {
     vector <Item> database; 
@@ -39,6 +36,7 @@ class Database {
         for (const auto& file : directory_iterator(inputPath))
         {
             contents = parser.read_from_json(file.path()); 
+            database.insert(database.end(), contents.begin(), contents.end());
         }
     }
     
