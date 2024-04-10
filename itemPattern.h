@@ -15,6 +15,11 @@ class ItemPattern {
     {
 
     }
+
+    vector <pair <string, double> > get_weighted_traits()
+    {
+        return weightedTraits; 
+    }
     vector <string> get_source_blacklist ()
     {
         return sourceBlacklist;

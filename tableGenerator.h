@@ -26,22 +26,31 @@ class TableGenerator {
             if (current.search_trait(blacklisted)) return true;
         }
         if (!pattern.accept_level(current.get_level())) return true;
+
+        return false;
     }
 
-    void calculate_score (Item current)
+    double calculate_score (Item current)
     {
-        double score; 
-
-        
+        double score = 0;  
+        for (auto& weightedTrait : pattern.get_weighted_traits())
+        {
+            if (current.search_trait(weightedTrait.first)) score += weightedTrait.second; 
+        }
     }
 
     void generate ()
     {
+        pair <Item, double> scoredItem;
+
         for (auto& item : pointerDatabase->get_items())
         {
             if (early_reject(item)) continue; 
-            
+            scoredItem = make_pair(item, calculate_score(item));
+            if (scoredItem.second < 0) continue;
+            scoredTable.push_back(scoredItem);
         }
+        // TODO add mergesort
     }
         
 };
