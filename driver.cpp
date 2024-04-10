@@ -3,7 +3,7 @@
 int main(){
     Database db;
     db.load_json_directory(); 
-    db.print();
+    //db.print();
 
     ItemPattern pattern; 
 
@@ -11,5 +11,5 @@ int main(){
     
     pattern.set_weights(vec); 
 
-    TableGenerator table (db, pattern);
+    TableGenerator table;
 }

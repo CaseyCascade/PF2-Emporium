@@ -9,6 +9,7 @@ class TableGenerator {
     vector <pair <Item, double> > scoredTable;
 
 public:
+    TableGenerator() {}
     TableGenerator (Database& global, ItemPattern p)
     {
         pointerDatabase = &global;  
