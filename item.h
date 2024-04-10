@@ -82,6 +82,10 @@ class Item {
     {
         return name; 
     }
+    string get_origin_source()
+    {
+        return originSource; 
+    }
     // Functions // 
     void clear()
     {

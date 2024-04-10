@@ -11,12 +11,12 @@ class Database {
     path dataPath = "data"; 
 
     public:
+    // Initialization //
     Database()
     {
         if (!exists(inputPath)) create_directory(inputPath); 
         if (!exists(dataPath)) create_directory(dataPath); 
     }
-
     bool search_directory(path directoryPath, string fileName)
     {
         path filePath = directoryPath / fileName;
@@ -41,4 +41,11 @@ class Database {
             contents = parser.read_from_json(file.path()); 
         }
     }
+    
+    // Getters //
+    vector <Item> get_items()
+    {
+        return database; 
+    }
+
 };
