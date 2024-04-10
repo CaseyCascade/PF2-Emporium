@@ -1,6 +1,4 @@
-#include "database.h"
 #include "itemPattern.h"
-#include "tableSort.h"
 
 class TableGenerator {
     Database* pointerDatabase; 
@@ -10,6 +8,7 @@ class TableGenerator {
 
     vector <pair <Item, double> > scoredTable;
 
+public:
     TableGenerator (Database& global, ItemPattern p)
     {
         pointerDatabase = &global;  
@@ -38,6 +37,7 @@ class TableGenerator {
         {
             if (current.search_trait(weightedTrait.first)) score += weightedTrait.second; 
         }
+        return score;
     }
 
     void generate ()

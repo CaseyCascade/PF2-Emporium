@@ -2,6 +2,8 @@
 
 class Database {
     vector <Item> database; 
+    vector <string> allTraits; //TODO 
+
     JsonParser parser; //TODO Eventually we will want to do this in another file entirely and decouple from database 
 
     path inputPath = "input"; 
@@ -30,16 +32,21 @@ class Database {
             cerr << "Directory not found." << endl; 
         } 
     }
-    void json_to_txt () 
+    void load_json_directory () 
     {
         vector <Item> contents;
         for (const auto& file : directory_iterator(inputPath))
         {
+            if (file.path().extension().string() != ".json") continue; 
             contents = parser.read_from_json(file.path()); 
             database.insert(database.end(), contents.begin(), contents.end());
         }
     }
     
+    void print()
+    {
+        for (auto& item : database) item.print(); 
+    }
     // Getters //
     vector <Item> get_items()
     {

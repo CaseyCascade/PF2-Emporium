@@ -92,7 +92,7 @@ class Item {
     }
     bool search_trait(string trait)
     {
-        traits.search(trait); 
+        return traits.search(trait); 
     }
     // Functions // 
     void clear()

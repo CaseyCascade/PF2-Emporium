@@ -1,5 +1,5 @@
 #include <utility>
-#include "item.h"
+#include "tableSort.h"
 
 class ItemPattern {
     vector <pair <string, double> > weightedTraits; 
@@ -10,10 +10,15 @@ class ItemPattern {
     int levelMax; 
 
     public:
-
-    void set_weights()
+    
+    ItemPattern () {}
+    void set_weights(vector <string> traits) //TODO for debugging
     {
-
+        double weight = 1 / traits.size();
+        for (auto& i : traits)
+        {
+            weightedTraits.push_back(make_pair(i, weight));
+        }
     }
 
     vector <pair <string, double> > get_weighted_traits()

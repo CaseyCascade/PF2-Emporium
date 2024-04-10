@@ -1,4 +1,4 @@
-#include "item.h"
+#include "database.h"
 
 // Merge two sorted subvectors [left..mid] and [mid+1..right]
 void merge(vector<pair<Item, double>>& arr, int left, int mid, int right) {
