@@ -56,9 +56,9 @@ void mergesort(vector<pair<Item, double>>& arr, int left, int right) {
     }
 }
 
-void printTable(vector<pair<Item, double>>& arr) {
+void print_table(vector<pair<Item, double>>& arr) {
     for (auto& p : arr) {
-        cout << "(" << p.first.get_name() << ", " << p.second << ") ";
+        cout << "(" << p.first.get_name() << ", " << p.second << ") " << endl; 
     }
     cout << endl;
 }

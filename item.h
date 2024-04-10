@@ -71,10 +71,14 @@ class Item {
         entry += " " + x; 
         trim(entry);
     }
-    void add_trait (string s) //TODO "modular" is being input twice when parsed
+    void add_trait (string s) 
     {
         trim(s);       
         traits.insert(s);
+    }
+    void finish_initialization() // Need to copy traits to a repository of all known traits. 
+    {
+        if (level == -1) level = 0; 
     }
 
     // GET //

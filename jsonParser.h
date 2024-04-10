@@ -107,6 +107,7 @@ struct JsonParser {
             for (auto &j : i.items()) // Contains Each Individual Item per Input File 
             { 
                 initialize(j, newItem); // Called on Each Item, iterates through their Objects 
+                newItem.finish_initialization(); 
                 storedItems.push_back(newItem); 
                 newItem.clear();
             }

@@ -5,11 +5,12 @@ int main(){
     db.load_json_directory(); 
     //db.print();
 
-    ItemPattern pattern; 
-
     vector <string> vec = {"Shield"}; 
-    
-    pattern.set_weights(vec); 
+    ItemPattern pattern(vec, 0, 20);
 
-    TableGenerator table;
+
+    TableGenerator table(&db, pattern);
+    //table.test();
+    table.generate(); 
+    table.print();
 }

@@ -10,9 +10,9 @@ class TableGenerator {
 
 public:
     TableGenerator() {}
-    TableGenerator (Database& global, ItemPattern p)
+    TableGenerator (Database* global, ItemPattern p)
     {
-        pointerDatabase = &global;  
+        pointerDatabase = global;  
         pattern = p; 
     }
 
@@ -20,7 +20,7 @@ public:
     {
         for (auto& blacklisted : pattern.get_source_blacklist())
         {
-            if (current.get_origin_source() == blacklisted) return true;
+            if (current.get_origin_source() == blacklisted) return true; // TODO Origin source always has a page # atm so this will fail every time
         }
         for (auto& blacklisted : pattern.get_trait_blacklist())
         {
@@ -41,18 +41,38 @@ public:
         return score;
     }
 
+    void print()
+    {
+        print_table(scoredTable);
+    }
+
     void generate ()
     {
-        pair <Item, double> scoredItem;
+        Item newItem;
+        double score = -1.0;
+        pair <Item, double> scoredItem = make_pair(newItem, score);
+        
 
         for (auto& item : pointerDatabase->get_items())
         {
+            scoredItem = make_pair(newItem, -1.0);
+
             if (early_reject(item)) continue; 
-            scoredItem = make_pair(item, calculate_score(item));
-            if (scoredItem.second < 0) continue;
+            score = calculate_score(item);
+            if (score <= 0) continue;
+
+            scoredItem = make_pair(item, score);
             scoredTable.push_back(scoredItem);
         }
-        mergesort(scoredTable, 0, scoredTable.size()-1);
+        cout << "Table Size: " << scoredTable.size() << endl; 
+        //mergesort(scoredTable, 0, scoredTable.size()-1);
+        cout << "Table Size: " << scoredTable.size() << endl; 
     }
-        
+    void test () 
+    {
+        for (auto& item : pointerDatabase->get_items()) 
+        {
+            item.print(); 
+        }
+    }
 };
