@@ -13,7 +13,7 @@ class Item {
     double price;
 
     vector <string> otherSources; 
-    traitID traits; 
+    TraitID traits; 
 
     public: 
     // CONSTRUCTORS //
@@ -85,6 +85,14 @@ class Item {
     string get_origin_source()
     {
         return originSource; 
+    }
+    int get_level()
+    {
+        return level; 
+    }
+    bool search_trait(string trait)
+    {
+        traits.search(trait); 
     }
     // Functions // 
     void clear()

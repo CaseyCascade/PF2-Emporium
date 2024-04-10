@@ -28,11 +28,11 @@ void trim(string &input)
     rtrim(input);
 }
 
-class traitID {
+class TraitID {
     vector <string> traitTable; 
 
     public: 
-    traitID() {}
+    TraitID() {}
 
     // SEARCH
     bool search (string s) 
