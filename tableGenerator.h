@@ -1,5 +1,6 @@
 #include "database.h"
 #include "itemPattern.h"
+#include "tableSort.h"
 
 class TableGenerator {
     Database* pointerDatabase; 
@@ -50,7 +51,7 @@ class TableGenerator {
             if (scoredItem.second < 0) continue;
             scoredTable.push_back(scoredItem);
         }
-        // TODO add mergesort
+        mergesort(scoredTable, 0, scoredTable.size()-1);
     }
         
 };
