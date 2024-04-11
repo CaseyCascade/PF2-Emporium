@@ -60,7 +60,10 @@ class TraitID {
         trim(head);
         return head; 
     }
-
+    vector<string> get_table()
+    {
+        return traitTable; 
+    }
     // INSERT //
 
     void insert(string s)

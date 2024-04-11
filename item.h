@@ -95,6 +95,10 @@ class Item {
     {
         return level; 
     }
+    vector<string> get_traits()
+    {
+        return traits.get_table();
+    }
     bool search_trait(string trait)
     {
         return traits.search(trait); 
