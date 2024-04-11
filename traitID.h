@@ -94,6 +94,23 @@ class TraitID {
         traitTable.clear(); 
     }
 
+    string toUpper(const std::string& str)
+    {
+        std::string result = str;
+        for (char& c : result) {
+            c = std::toupper(static_cast<unsigned char>(c));
+        }
+        return result;
+    }
+
+    void toUpperTable ()
+    {
+        for (auto& i : traitTable)
+        {
+            i = toUpper(i); 
+        }
+    }
+
     // DEBUG //
     void print()
     {

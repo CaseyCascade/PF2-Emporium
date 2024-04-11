@@ -79,6 +79,7 @@ class Item {
     void finish_initialization() // Need to copy traits to a repository of all known traits. 
     {
         if (level == -1) level = 0; 
+        traits.toUpperTable();
     }
 
     // GET //
