@@ -15,9 +15,9 @@ class ItemPattern {
         set_weights(traits);
         set_level_range(min, max);
     }
-    void set_weights(vector <string> traits) //TODO for debugging
+    void set_weights(vector <string> traits) 
     {
-        double weight = 1 / traits.size();
+        double weight = 1; // This calculation may change TODO
         for (auto& i : traits)
         {
             weightedTraits.push_back(make_pair(i, weight));

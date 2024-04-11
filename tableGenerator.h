@@ -2,8 +2,6 @@
 
 class TableGenerator {
     Database* pointerDatabase; 
-    // *allItems to access actual class
-    //  allItems to access address
     ItemPattern pattern;
 
     vector <pair <Item, double> > scoredTable;
@@ -34,6 +32,7 @@ public:
     double calculate_score (Item current)
     {
         double score = 0;  
+        int i = 0; 
         for (auto& weightedTrait : pattern.get_weighted_traits())
         {
             if (current.search_trait(weightedTrait.first)) score += weightedTrait.second; 
@@ -64,9 +63,7 @@ public:
             scoredItem = make_pair(item, score);
             scoredTable.push_back(scoredItem);
         }
-        cout << "Table Size: " << scoredTable.size() << endl; 
-        //mergesort(scoredTable, 0, scoredTable.size()-1);
-        cout << "Table Size: " << scoredTable.size() << endl; 
+        countingSort(scoredTable);
     }
     void test () 
     {

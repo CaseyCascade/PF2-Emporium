@@ -3,9 +3,8 @@
 int main(){
     Database db;
     db.load_json_directory(); 
-    //db.print();
 
-    vector <string> vec = {"Shield"}; 
+    vector <string> vec = {"dwarf", "Weapon", "B"}; 
     ItemPattern pattern(vec, 0, 20);
 
 

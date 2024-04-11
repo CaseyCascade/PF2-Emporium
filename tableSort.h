@@ -1,5 +1,40 @@
 #include "database.h"
 
+#include <iostream>
+#include <vector>
+#include <limits> 
+
+void countingSort(vector<pair<Item, double>>& arr) {
+    // Find the maximum element in the array
+    double maxElement = numeric_limits<double>::min();
+    for (const auto& pair : arr)
+        maxElement = max(maxElement, pair.second);
+
+    // Create a count array to store the count of each element
+    vector<int> count(static_cast<int>(maxElement) + 1, 0);
+
+    // Count the occurrences of each element
+    for (const auto& pair : arr)
+        count[static_cast<int>(pair.second)]++;
+
+    // Update the count array to store the actual position of each element
+    for (int i = 1; i <= maxElement; ++i)
+        count[i] += count[i - 1];
+
+    // Create a temporary array to store the sorted output
+    vector<pair<Item, double>> output(arr.size());
+
+    // Build the sorted output array
+    for (int i = arr.size() - 1; i >= 0; --i) {
+        output[count[static_cast<int>(arr[i].second)] - 1] = arr[i];
+        count[static_cast<int>(arr[i].second)]--;
+    }
+
+    // Copy the sorted output back to the original array
+    for (int i = 0; i < arr.size(); ++i)
+        arr[i] = output[i];
+}
+
 // Merge two sorted subvectors [left..mid] and [mid+1..right]
 void merge(vector<pair<Item, double>>& arr, int left, int mid, int right) {
     int n1 = mid - left + 1;
