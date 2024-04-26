@@ -1,4 +1,5 @@
 #include "itemPattern.h"
+#include <random>
 
 class TableGenerator {
     Database* pointerDatabase; 
@@ -64,6 +65,24 @@ public:
             scoredTable.push_back(scoredItem);
         }
         countingSort(scoredTable);
+    }
+
+    vector <Item> pick (int N)
+    {
+        // Create a random number generator
+        random_device rd;
+        mt19937 gen(rd());
+        uniform_int_distribution<> dis(0, scoredTable.size() - 1);
+
+        // Pick a random item from the vector
+        int randomIndex;
+        Item randomItem;
+
+        for (int i = 0; i < N; i++)
+        {
+            randomIndex = dis(gen);
+            randomItem = scoredTable.at(randomIndex).first;
+        }
     }
     void test () 
     {

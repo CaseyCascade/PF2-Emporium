@@ -3,7 +3,7 @@
 int main(){
     Database db;
     db.load_json_directory(); 
-    db.print_traits();
+    // db.print_traits();
     vector <string> vec = {"DWARF", "WEAPON", "B"}; 
     ItemPattern pattern(vec, 0, 20);
 
@@ -11,5 +11,5 @@ int main(){
     TableGenerator table(&db, pattern);
     //table.test();
     table.generate(); 
-    //table.print();
+    table.print();
 }
