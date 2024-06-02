@@ -4,7 +4,7 @@ class TableGenerator {
     Database* pointerDatabase; 
     ItemPattern pattern;
 
-    vector <pair <Item, double> > scoredTable;
+    vector <pair <Item, int> > scoredTable;
 
 public:
     TableGenerator() {}
@@ -29,9 +29,9 @@ public:
         return false;
     }
 
-    double calculate_score (Item current)
+    int calculate_score (Item current)
     {
-        double score = 0;  
+        int score = 0;  
         int i = 0; 
         for (auto& weightedTrait : pattern.get_weighted_traits())
         {
@@ -48,10 +48,9 @@ public:
     void generate ()
     {
         Item newItem;
-        double score = -1.0;
-        pair <Item, double> scoredItem = make_pair(newItem, score);
+        int score = -1;
+        pair <Item, int> scoredItem = make_pair(newItem, score);
         
-
         for (auto& item : pointerDatabase->get_items())
         {
             scoredItem = make_pair(newItem, -1.0);
@@ -65,11 +64,17 @@ public:
         }
         countingSort(scoredTable);
     }
+
     void test () 
     {
         for (auto& item : pointerDatabase->get_items()) 
         {
             item.print(); 
         }
+    }
+
+    vector <pair <Item, int> > get_scored_table ()
+    {
+        return scoredTable; 
     }
 };

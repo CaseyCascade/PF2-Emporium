@@ -4,9 +4,9 @@
 #include <vector>
 #include <limits> 
 
-void countingSort(vector<pair<Item, double>>& arr) {
+void countingSort(vector<pair<Item, int>>& arr) {
     // Find the maximum element in the array
-    double maxElement = numeric_limits<double>::min();
+    int maxElement = numeric_limits<int>::min();
     for (const auto& pair : arr)
         maxElement = max(maxElement, pair.second);
 
@@ -22,7 +22,7 @@ void countingSort(vector<pair<Item, double>>& arr) {
         count[i] += count[i - 1];
 
     // Create a temporary array to store the sorted output
-    vector<pair<Item, double>> output(arr.size());
+    vector<pair<Item, int>> output(arr.size());
 
     // Build the sorted output array
     for (int i = arr.size() - 1; i >= 0; --i) {
@@ -36,12 +36,12 @@ void countingSort(vector<pair<Item, double>>& arr) {
 }
 
 // Merge two sorted subvectors [left..mid] and [mid+1..right]
-void merge(vector<pair<Item, double>>& arr, int left, int mid, int right) {
+void merge(vector<pair<Item, int>>& arr, int left, int mid, int right) {
     int n1 = mid - left + 1;
     int n2 = right - mid;
 
     // Create temporary vectors
-    vector<pair<Item, double>> L(n1), R(n2);
+    vector<pair<Item, int>> L(n1), R(n2);
 
     // Copy data to temporary vectors L[] and R[]
     for (int i = 0; i < n1; i++)
@@ -78,7 +78,7 @@ void merge(vector<pair<Item, double>>& arr, int left, int mid, int right) {
 }
 
 // Merge sort function
-void mergesort(vector<pair<Item, double>>& arr, int left, int right) {
+void mergesort(vector<pair<Item, int>>& arr, int left, int right) {
     if (left < right) {
         int mid = left + (right - left) / 2;
 
@@ -91,7 +91,7 @@ void mergesort(vector<pair<Item, double>>& arr, int left, int right) {
     }
 }
 
-void print_table(vector<pair<Item, double>>& arr) {
+void print_table(vector<pair<Item, int>>& arr) {
     for (auto& p : arr) {
         cout << "(" << p.first.get_name() << ", " << p.second << ") " << endl; 
     }
