@@ -10,8 +10,7 @@ int main(){
 
     TableGenerator table(&db, pattern);
     table.generate(); 
-    //table.print();
 
-    RandomItemPicker picker(table.get_scored_table()); 
-    picker.rubberband_generator(10, 0.75);
+    RandomItemPicker picker(table.get_scored_table(), 0.75); 
+    picker.rubberband_generator(10);
 }

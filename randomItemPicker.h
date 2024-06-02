@@ -2,13 +2,21 @@
 #include <random> 
 
 class RandomItemPicker {
+    protected: 
+        vector <pair <Item, int> > scoredTable;
+        float percentile; 
+        int target; 
 
-    vector <pair <Item, int> > scoredTable;
+        vector <int> pickedItemIndexes; 
+        bool debug = true; 
 
     public: 
-        RandomItemPicker(vector <pair <Item, int> > t)
+        RandomItemPicker(vector <pair <Item, int> > t, float p)
         {
             scoredTable = t;  
+            percentile = p; 
+
+            target = scoredTable.size() * percentile;
         }
 
         bool search_vector (vector <int> range, int n)
@@ -42,7 +50,7 @@ class RandomItemPicker {
 
         int get_average (vector <int> pickedNumbers) //TODO This is not working right 
         {
-            int sum; 
+            int sum = 0;
             for (auto& i : pickedNumbers)
             {
                 sum += i; 
@@ -50,7 +58,20 @@ class RandomItemPicker {
             return sum / pickedNumbers.size(); 
         }
 
-        void rubberband_recursion (vector <int> &pickedNumbers, int tableSize, int target, int N)
+        void print_results()
+        {
+            cout << "Target: " << target << endl; 
+            cout << "Average: " << get_average(pickedItemIndexes) << endl; 
+            print_vector(pickedItemIndexes);
+
+            cout << endl << "Picked Items: " << endl; 
+            for (auto& i : pickedItemIndexes)
+            {
+                cout << scoredTable.at(i).first.get_name() << endl;  
+            }
+        }
+
+        void rubberband_recursion (vector <int> &pickedNumbers, int N)
         {
             random_device rd;
             mt19937 gen(rd());
@@ -62,7 +83,7 @@ class RandomItemPicker {
             {
                 if (average <= target)
                 {
-                    uniform_int_distribution<> distrib(target, tableSize);
+                    uniform_int_distribution<> distrib(target, scoredTable.size());
                     random_number = distrib(gen);
                 }
                 else 
@@ -77,31 +98,24 @@ class RandomItemPicker {
             N--; 
 
             if (N == 0) return; 
-            rubberband_recursion(pickedNumbers, tableSize, target, N); 
+            rubberband_recursion(pickedNumbers, N); 
         }
 
-        vector <Item> rubberband_generator(int N, float percentile)
+        void rubberband_generator(int N)
         {
-
             // Seed with a real random value, if available
-            vector <Item> result; 
             random_device rd;
-            int tableSize = scoredTable.size(); 
-            int target = tableSize * percentile; 
-            vector <int> pickedNumbers; 
             
             // Base Case
             mt19937 gen(rd());
-            uniform_int_distribution<> distrib(0, tableSize);
+            uniform_int_distribution<> distrib(0, scoredTable.size());
             int random_number = distrib(gen);
-            pickedNumbers.push_back(random_number); 
+            pickedItemIndexes.push_back(random_number); 
 
             //Recursive Case
-            rubberband_recursion(pickedNumbers, tableSize, target, N - 1);   
+            rubberband_recursion(pickedItemIndexes, N - 1);   
 
-            cout << "Average: " << get_average(pickedNumbers) << endl;  // TODO THIS IS WRONG 
-            print_vector(pickedNumbers); 
-            return result;          
+            if (debug) print_results();          
         }
 
 };
