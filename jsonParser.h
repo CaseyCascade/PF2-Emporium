@@ -15,6 +15,7 @@ using json = nlohmann::json;
 
 struct JsonParser {
     string temp; 
+    bool debug = true; 
 
     JsonParser() {}
 
@@ -33,6 +34,7 @@ struct JsonParser {
     {
         for (auto &i : item.items()) //Individual Item 
         {
+
             if (ignore_var(i.key())) continue; 
             
             // Recursion // 
@@ -43,7 +45,11 @@ struct JsonParser {
             else if (i.key() == "source") newItem.add_source(i.value()); 
             else if (i.key() == "otherSources") newItem.add_source(i.value());
             else if (i.key() == "page") newItem.set_page(i.value()); 
-            else if (i.key() == "level") newItem.set_level(i.value());
+            else if (i.key() == "level") 
+            {
+                cout << i.value() << endl; //TODO  
+                newItem.set_level(i.value());
+            }
             else if (i.key() == "amount") newItem.set_price(i.value()); 
             else if (i.key() == "coin") newItem.set_coin(i.value()); 
             else if (i.value().is_boolean()) newItem.add_trait(i.key()); 
