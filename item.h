@@ -13,7 +13,7 @@ class Item {
     double price;
 
     vector <string> otherSources; 
-    traitID traits; 
+    TraitID traits; 
 
     public: 
     // CONSTRUCTORS //
@@ -26,12 +26,12 @@ class Item {
     }
 
     // SETTERS // 
-    void setName(string x)
+    void set_name(string x)
     {
         trim(x);
         name = x; 
     }
-    void addSource(string x)
+    void add_source(string x)
     {
         for (auto &i : x)
         {
@@ -45,42 +45,63 @@ class Item {
         }
         originSource = x; 
     }
-    void setPage(int x)
+    void set_page(int x)
     {
         page = x; 
     }
-    void setLevel(int x)
+    void set_level(int x)
     {
         level = x; 
     }
-    void setPrice(int x)
+    void set_price(int x)
     {
         price = x; 
     }
-    void setCoin(string x)
+    void set_coin(string x)
     {
         coin = x; 
     }
-    void setBulk (int x)
+    void set_bulk (int x)
     {
         bulk = x; 
     }
-    void addEntry(string x)
+    void add_entry(string x)
     {
         if (entry == "NA") entry.clear(); 
         entry += " " + x; 
         trim(entry);
     }
-    void addTrait (string s) //TODO "modular" is being input twice when parsed
+    void add_trait (string s) 
     {
-        trim(s);        
+        trim(s);       
         traits.insert(s);
+    }
+    void finish_initialization() // Need to copy traits to a repository of all known traits. 
+    {
+        if (level == -1) level = 0; 
+        traits.toUpperTable();
     }
 
     // GET //
-    string getName() 
+    string get_name() 
     {
         return name; 
+    }
+    string get_origin_source()
+    {
+        return originSource; 
+    }
+    int get_level()
+    {
+        return level; 
+    }
+    vector<string> get_traits()
+    {
+        return traits.get_table();
+    }
+    bool search_trait(string trait)
+    {
+        return traits.search(trait); 
     }
     // Functions // 
     void clear()
@@ -90,11 +111,11 @@ class Item {
         traits.clear();
         otherSources.clear(); 
     }
-    void printSources()
+    void print_sources()
     {
         if (!otherSources.empty()) {for (auto &i : otherSources) cout << "Other Sources: " << i << ", \n";} 
     }
-    void printTraits() // TODO 
+    void print_traits() 
     {
         traits.print(); 
     }
@@ -103,11 +124,11 @@ class Item {
         cout << "--- " << name << " ---" << endl; 
         cout << "Original Source: "; 
         cout << originSource << " " << page << endl; 
-        printSources(); 
+        print_sources(); 
         cout << "Level: " << level << endl; 
         cout << "Price: " << price << " " << coin << endl; 
         cout << "Bulk: " << bulk << endl;
         cout << "Entry: " << entry << endl << endl; 
-        printTraits();  
+        print_traits();  
     }
 };

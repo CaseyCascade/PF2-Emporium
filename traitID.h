@@ -28,11 +28,11 @@ void trim(string &input)
     rtrim(input);
 }
 
-class traitID {
+class TraitID {
     vector <string> traitTable; 
 
     public: 
-    traitID() {}
+    TraitID() {}
 
     // SEARCH
     bool search (string s) 
@@ -60,7 +60,10 @@ class traitID {
         trim(head);
         return head; 
     }
-
+    vector<string> get_table()
+    {
+        return traitTable; 
+    }
     // INSERT //
 
     void insert(string s)
@@ -68,7 +71,10 @@ class traitID {
         string trait = parse_trait(s);
         if (!search(trait))
         {
-            traitTable.push_back(trait);  
+            if (trait.size() < 15) //Excludes ridiculously long Region/Organization based and Ammunition traits
+            {
+                traitTable.push_back(trait); 
+            } 
         }
         return;
     }
@@ -91,11 +97,22 @@ class traitID {
         traitTable.clear(); 
     }
 
-    // LOAD / SAVE //
-    void load () {}
-    void save () {}
-    void update() {}
-    void check_for_update() {}
+    string toUpper(const std::string& str)
+    {
+        std::string result = str;
+        for (char& c : result) {
+            c = std::toupper(static_cast<unsigned char>(c));
+        }
+        return result;
+    }
+
+    void toUpperTable ()
+    {
+        for (auto& i : traitTable)
+        {
+            i = toUpper(i); 
+        }
+    }
 
     // DEBUG //
     void print()
