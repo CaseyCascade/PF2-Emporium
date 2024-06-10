@@ -1,7 +1,6 @@
 import json 
 import os 
 
-
 class Item: 
     def __init__(self, name):
         return 
@@ -28,10 +27,11 @@ def check_for_new_json_files(json_dir, data_dir):
             write_items_to_file(os.path.abspath(file))
     return 
 
+script_directory = os.path.dirname(os.path.abspath(__file__))
 json_directory = 'json_input'
 data_directory = 'data/core_items'
 
-full_json_path = os.path.abspath(json_directory)
-full_data_path = os.path.abspath(data_directory)
+full_json_path = os.path.join(script_directory, json_directory)
+full_data_path = os.path.join(script_directory, data_directory)
 
 check_for_new_json_files(full_json_path, full_data_path)
