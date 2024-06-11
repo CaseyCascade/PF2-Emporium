@@ -52,8 +52,21 @@ class Item:
     def set_remaster(self):
         self.remaster = True
 
+    def clear(self):
+        self.name = None
+        self.page = None
+        self.gold = None
+        self.level = None
+        self.bulk = None
+        self.sources = []
+        self.entries = []
+        self.traits = []
+        self.remaster = False
+
     def write_to_file(filepath):
         return 
+    
+    
     
 def walk(data):
     if isinstance(data, dict):
