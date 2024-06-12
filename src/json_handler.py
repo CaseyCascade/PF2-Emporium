@@ -1,14 +1,16 @@
 import json 
 import os 
 
-trait_keys = ['category', 'subCategory', 'type', 'damageType', 'group', ]
 class Item: 
     name = None
     page = None
     gold = None
     level = None
     bulk = None
-    sources = []
+    source = None
+
+    price = None
+    coin = None
     entries = []
     traits = []
     remaster = False
@@ -34,14 +36,30 @@ class Item:
         else:
             print("Coin Value Not Recognized: ", coin)
 
+    def gold_ready(self):
+        if self.price and self.coin:
+            return True
+        else:
+            return False
+        
+    def set_price(self, price):
+        self.price = price 
+        if self.gold_ready():
+            self.set_gold(self.coin, self.price)
+
+    def set_coin(self, coin):
+        self.coin = coin
+        if self.gold_ready():
+            self.set_gold(self.coin, self.price)
+
     def set_level (self, level):
         self.level = level 
 
     def set_bulk (self, bulk): #TODO needs specific entry case similar to set_gold
         self.bulk = bulk 
 
-    def add_source(self, source):
-        self.sources.append(source)
+    def set_source(self, source):
+        self.source = source
 
     def add_entry(self, entry):
         self.entries.append(entry)
@@ -58,34 +76,62 @@ class Item:
         self.gold = None
         self.level = None
         self.bulk = None
-        self.sources = []
+        self.source = None
         self.entries = []
         self.traits = []
         self.remaster = False
 
-    def write_to_file(filepath):
+    def write_to_file(self, filepath):
+        if not self.name:
+            return 
         return 
     
+def process_data(item: Item, key, value):
+    if key == 'name':
+        item.set_name(value)
+    elif key == 'page':
+        item.set_page(value)
+    elif key == 'amount':
+        item.set_price(value)
+    elif key == 'coin':
+        item.set_coin(value)
+    elif key == 'level':
+        item.set_level(value)
+    elif key == 'bulk':
+        item.set_bulk(value)
+    elif key == 'source':
+        item.set_source(value)
+    elif key == 'entries':
+        item.add_entry(value)
+    elif key in trait_keys:
+        item.add_trait(value)
+        
+
+        
     
-    
-def walk(data):
+def walk_item(data, new_item, previous_key):
     if isinstance(data, dict):
         for key, value in data.items():
-            print(f'Key: {key}')
-            # print(f'Key: {key}, Value: {value}')
-            walk(value)
+            walk_item(value, new_item, key)
     elif isinstance(data, list):
         for index, item in enumerate(data):
-            #print(f'Index: {index}, Item: {item}')
-            walk(item)
-    #else:
-        #print(f'Value: {data}')
+            walk_item(item, new_item, previous_key)
+    else:
+        process_data(new_item, previous_key, data)
 
-def write_items_to_file(json_file_path): #TODO
-    print(json_file_path)
+def process_file(json_file_path):
+    instance = Item()
     with open(json_file_path, 'r') as file:
         data = json.load(file)
-        walk(data)
+    if isinstance(data, dict): 
+        for key, value in data.items():
+            if isinstance(value, list):
+                for index, item in enumerate(value):
+                    walk_item(item, instance, None)
+                    instance.write_to_file(full_data_path)
+                    instance.clear()
+    else:
+        print("ERROR: Unusual JSON Formatting - No Outer List")
 
 def file_exists_in_data(filename, data_dir):
     for file in os.listdir(data_dir):
@@ -100,8 +146,11 @@ def check_for_new_json_files(json_dir, data_dir):
         if extension != '.json': 
             continue 
         if not file_exists_in_data(name, data_dir):
-            write_items_to_file(os.path.join(json_dir, file))
+            process_file(os.path.join(json_dir, file))
     return 
+
+trait_keys = ['category', 'subCategory', 'type', 'damageType', 'group', ]
+new_item = Item()
 
 repo_directory = os.path.dirname(os.path.abspath(os.path.dirname(os.path.abspath(__file__)))) 
 json_directory = 'json_input'
