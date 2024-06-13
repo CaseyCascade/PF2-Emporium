@@ -124,7 +124,7 @@ class Item:
             file.write('\n')
         return 
     
-def process_data(item: Item, key, value): #TODO Needs testing
+def process_data(item: Item, key, value): #TODO Needs a way to handle alternate items of different levels
     if key == 'name':
         item.set_name(value)
     elif key == 'page':
