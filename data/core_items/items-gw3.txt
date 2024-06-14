@@ -1,0 +1,184 @@
+NAME
+Aether Marbles
+SOURCE
+GW3
+PAGE
+75
+GOLD
+3400
+LEVEL
+18
+BULK
+L
+ENTRY
+Aether marbles create violent, lingering eddies of force that extend partially into unseen planes. When the bomb explodes, it deals the listed force damage and force {@trait splash} damage. Many aether marbles grant an item bonus to attack rolls.
+TRAITS
+uncommon
+bomb
+consumable
+force
+splash
+
+NAME
+Telekinetic Converters
+SOURCE
+GW3
+PAGE
+75
+GOLD
+1950
+LEVEL
+12
+BULK
+L
+ENTRY
+Copper cables run from these thick leather gloves to nodes that attach to the wearer's temples, allowing a spellcaster to convert the magic they normally cast to pure psychic intention. When you {@action Cast a Spell} using the telekinetic converters, you substitute any verbal spellcasting components for mental components of simple thought, granting the {@trait concentrate} trait to the spell you're casting.
+TRAITS
+rare
+invested
+magical
+transmutation
+worn
+
+NAME
+Psychic Colors Elixir
+SOURCE
+GW3
+PAGE
+75
+GOLD
+100
+LEVEL
+8
+BULK
+L
+ENTRY
+This orange liquid lets you visibly detect the psychic energies that enable telekinesis and telepathy. For the next minute, you can sense if a creature you can see is using a telepathic or telekinetic ability, such as the telepathy monster ability, spells like telekinetic projectile or telepathic bond, or similar abilities. You also can sense if an object or creature you can see is being manipulated or contacted by such an ability. Both the user and the target of the ability are outlined in faint shimmers of matching color.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+
+NAME
+Vat-Grown Brain
+SOURCE
+GW3
+PAGE
+75
+GOLD
+190
+LEVEL
+10
+BULK
+1
+ENTRY
+A malformed, artificial brain pulses with alchemical life inside a nutrient-rich vat. When the vat-grown brain is activated, it attempts to counteract one condition of your choice that was gained from an ability with the {@trait mental} trait, which it does by drawing the negative mental impressions into itself. However, the artificial brain is not robust, and the strain of the transfer quickly destroys it.
+TRAITS
+rare
+alchemical
+consumable
+
+NAME
+Ice Forge
+SOURCE
+GW3
+PAGE
+76
+GOLD
+1300
+LEVEL
+11
+BULK
+L (when not activated)
+ENTRY
+While many of the magical wonders created by saumen kar have been destroyed, ice forges, while rare, still see use today among the few individuals who manage to discover and keep one of these portable treasures. When an ice forge isn't activated, it appears to be a small anvil carved from a lump of ice no larger than an apple. While in this state, the ice forge remains cold to the touch but doesn't melt in the presence of high temperatures. It can be used to chill a beverage in a small container, although those who venerate and respect these items' legacy would doubtless find this use to be insulting at best.
+TRAITS
+rare
+conjuration
+magical
+structure
+
+NAME
+Oil of Corpse Restoration
+SOURCE
+GW3
+PAGE
+77
+GOLD
+150
+LEVEL
+9
+BULK
+L
+ENTRY
+Adlet spiritual leaders create this thick purple gel so that the dead can temporarily assume their appearance in life during ancestral worship ceremonies. Spreading it over the bones of an undead creature or a lifeless corpse causes the gel to congeal, forming a cosmetic layer that covers or restores any missing or compromised flesh until the body mimics its appearance in life. The dead creature's flesh looks healthy and whole. It gains a +2 circumstance bonus on {@skill Deception} checks to look like a living creature. The gel does not restore life or Hit Points and the flesh quickly rots away 8 hours after application.
+TRAITS
+uncommon
+consumable
+magical
+necromancy
+oil
+
+NAME
+Rime Jar
+SOURCE
+GW3
+PAGE
+77
+GOLD
+175
+LEVEL
+10
+BULK
+1
+ENTRY
+Magical reagents slosh inside this rime-frosted pottery jar the size of a human head. Despite appearing to be rimed in hoarfrost, the jar is warm to the touch. Ilverani wizards create rime jars to sustain themselves during the coldest winter nights.
+TRAITS
+uncommon
+evocation
+magical
+held
+
+NAME
+Star of Cynosure
+SOURCE
+GW3
+PAGE
+77
+GOLD
+175
+LEVEL
+10
+BULK
+—
+ENTRY
+Found throughout Golarion, these star-shaped talismans of whalebone scrimshaw are carved by Erutaki from the Crown of the World. They are popular with adherents to the cult of {@deity Desna}, who believe the talismans protect their dreams. When you activate this talisman, you gain a +2 status bonus to saves against enchantment magic with the {@trait mental} trait for 1 minute. On the triggering save, if the outcome of the roll is a failure, you get a success instead, or if the outcome is a critical failure, you get a failure instead.
+TRAITS
+uncommon
+abjuration
+consumable
+magical
+talisman
+
+NAME
+Mindsponge
+SOURCE
+GW3
+PAGE
+77
+GOLD
+700
+LEVEL
+9
+BULK
+L
+ENTRY
+A mindsponge appears as a misshapen gray sponge that unsettlingly resembles a malformed human brain. Though pliable in all the same ways as a damp sponge, a mindsponge has no ability to absorb water and, in fact, doesn't seem terribly porous at all. Instead, a mindsponge is used to absorb thoughts and memories from living creatures.
+TRAITS
+unique
+mental
+necromancy
+occult
+held
+

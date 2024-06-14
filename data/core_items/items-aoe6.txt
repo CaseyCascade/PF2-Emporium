@@ -1,0 +1,99 @@
+NAME
+Cane Of The Maelstrom
+SOURCE
+AoE6
+PAGE
+73
+GOLD
+None
+LEVEL
+22
+BULK
+L
+ENTRY
+A large crystal of {@item warpglass|aoe6} floats above the head of this silvery purple +3 anarchic greater striking club. If you successfully {@action Strike} a creature, the cane also affects the target with a {@ability warpwave|AOE6}. While you carry the cane, you hear a constant, distracting chorus of laughing, incoherent Protean whispers and sing-song voices in your mind. Blatant acts of self-indulgence or narcissism quell these whispers, from a few minutes up to a full day depending on the scope of the act, but they immediately return when you use the artifact's powers.
+TRAITS
+unique
+artifact
+conjuration
+cursed
+divine
+
+NAME
+Radiant Spark
+SOURCE
+AoE6
+PAGE
+74
+GOLD
+None
+LEVEL
+25
+BULK
+L
+ENTRY
+This shining prism is bound within a golden frame. The bright glow within the artifact is the gleaming essence of celestials bound within it in ancient times. Each activation consumes a bit of this celestial energy, projecting the screams of the celestials into your mind. While holding the Radiant Spark, you gain a +2 item bonus to saving throws against divine spells and effects and you are aware of its powers. If you are good, while holding the Radiant Spark, you are {@condition sickened|CRB|sickened 3} and can't recover from this condition.
+TRAITS
+unique
+artifact
+conjuration
+occult
+
+NAME
+Ring Of Recalcitrant Wishes
+SOURCE
+AoE6
+PAGE
+74
+GOLD
+10000
+LEVEL
+20
+BULK
+None
+ENTRY
+This band of interwoven gold and copper, traced with Aklo symbols, is topped with a gleaming, luminescent opal gently bleeding wisps of shadowstuff.
+TRAITS
+rare
+divination
+invested
+magical
+worn
+
+NAME
+Warpglass
+SOURCE
+AoE6
+PAGE
+74
+GOLD
+8000
+LEVEL
+17
+BULK
+1
+ENTRY
+Raw warpglass is an opalescent glassy material with surprising strength. When worked, it changes its appearance—though not its properties—to appear as random striations of other metals and types of stone.
+TRAITS
+rare
+precious
+material
+
+NAME
+Warpglass Weapon
+SOURCE
+AoE6
+PAGE
+75
+GOLD
+14000
+LEVEL
+17
+BULK
+varies
+ENTRY
+If you critically hit a creature with a {@action Strike} with a warpglass weapon, the target is affected by a {@affliction warpwave|aoe6} and automatically fails its saving throw.
+TRAITS
+rare
+material
+

@@ -1,0 +1,62 @@
+NAME
+Nexian Sealing Blade
+SOURCE
+WtD1
+PAGE
+25
+GOLD
+4000
+LEVEL
+14
+BULK
+1
+ENTRY
+More often called by their nickname "screamswords," the Nexian sealing blades were developed by the Arclords of Nex as special tools to ward off Gebbite infiltrators and assassins. Screamswords are {@runeItem longsword||+1 weapon potency||striking||disrupting||+1 striking disrupting silver longswords} with a couple of extra tricks. Each Nexian sealing blade can sense {@trait undead} within 60 feet and responds by screaming loudly until there are no longer {@trait undead} within that range. This same screaming can be unleashed as a sonic blast if needed.
+TRAITS
+rare
+arcane
+evocation
+magical
+held
+
+NAME
+Rattling Bolt
+SOURCE
+WtD1
+PAGE
+26
+GOLD
+425
+LEVEL
+13
+BULK
+None
+ENTRY
+Sometimes when dealing with {@trait undead} incursions, a more subtle approach is called for. Paradoxically, this is precisely what the rattling bolts are most often used for, despite each one ringing like a shaken chain when launched. Once it hits the target, the rattling transfers into that creature's body. A target damaged by the rattling bolt must succeed at a {@dc 25} Fortitude save or be {@condition deafened} and {@condition stupefied 1} for 1 round (or 1 minute on a critical hit). An {@trait undead} affected by a rattling bolt further loses any {@ability lifesense} ability it might have had for the same duration as the deafening.
+TRAITS
+uncommon
+arcane
+consumable
+evocation
+magical
+ammunition
+
+NAME
+Silver Orb
+SOURCE
+WtD1
+PAGE
+26
+GOLD
+5000
+LEVEL
+18
+BULK
+L
+ENTRY
+Filled with sharp silver filings and alchemical reagents, this glass sphere leaves behind a cloud of dangerous shards. A creature hit with the orb takes 1 slashing damage and is covered with silver filings, making weapons and unarmed attacks damaging them be treated as {@item silver} until they spend an {@action Interact} action to clean off.
+TRAITS
+uncommon
+alchemical
+bomb
+

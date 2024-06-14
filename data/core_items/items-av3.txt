@@ -1,0 +1,193 @@
+NAME
+Crimson Fulcrum Lens
+SOURCE
+AV3
+PAGE
+75
+GOLD
+700
+LEVEL
+9
+BULK
+1
+ENTRY
+This concave lens has a drifting crimson cloud resembling slowly swirling blood within it. While you have the Crimson Fulcrum Lens invested, you seethe with malevolent fury you can barely contain. You gain a +2 item bonus to saving throws against {@trait fear} effects and a +2 item bonus to your melee {@action Strike} damage (this increases to a +4 item bonus to damage if the melee {@action Strike} is a jaws attack). You can also activate the lens in the following ways.
+TRAITS
+unique
+enchantment
+invested
+occult
+other
+attack
+possession
+
+NAME
+Ebon Fulcrum Lens
+SOURCE
+AV3
+PAGE
+76
+GOLD
+2000
+LEVEL
+12
+BULK
+L
+ENTRY
+This strangest and most powerful of the fulcrum lenses resembles a chip of smooth obsidian containing three dark glimmers of {@deity Nhimbaloth|LOGM}'s essence. Incorporeal creatures can touch and hold the Ebon Fulcrum Lens. While you have the Ebon Fulcrum Lens invested, and you're a corporeal creature, you become insubstantial, gain the {@trait incorporeal} trait, and are {@condition drained|CRB|drained 2}. Your {@condition drained} condition can't be reduced below 2 as long as you have the lens invested. You can activate the lens in the following ways. Both require expenditures of glimmers within the lens; once the lens is depleted of its three glimmers, it retains its ability to make corporeal creatures insubstantial but can't be used for its other abilities until its glimmers are restored (which generally requires a ritual or being steeped in an area of {@deity Nhimbaloth|LOGM}'s power).
+TRAITS
+unique
+invested
+necromancy
+occult
+other
+
+NAME
+Emerald Fulcrum Lens
+SOURCE
+AV3
+PAGE
+76
+GOLD
+1000
+LEVEL
+10
+BULK
+3
+ENTRY
+This concave green lens is pitted and flawed; its jagged edges can cut those who don't handle it with care. While you have the Emerald Fulcrum Lens invested, your flesh appears waxen and pallid. You gain negative healing and {@spell harm} spells gain a +4 status bonus to the Hit Points they restore to you.
+TRAITS
+unique
+invested
+necromancy
+negative
+occult
+other
+healing
+attack
+possession
+
+NAME
+Fulcrum Lattice
+SOURCE
+AV3
+PAGE
+76
+GOLD
+1200
+LEVEL
+11
+BULK
+2
+ENTRY
+This silver and copper framework is shaped to hold four focusing lenses, one behind the other, from smallest to largest. It has a socketed base to be mounted into a stand, such as that found in a lighthouse lantern. The Fulcrum Lattice was specifically designed to hold the four fulcrum lenses from smallest to largest (ebon, crimson, ochre, emerald), and it hums slightly while within 10 feet of any fulcrum lens. A fulcrum lens slotted into the Fulcrum Lattice has no Bulk; the lattice remains at 1 Bulk and can be carried easily. Inserting or removing a lens from the Fulcrum Lattice requires a single {@action Interact} action.
+TRAITS
+unique
+occult
+transmutation
+held
+
+NAME
+Fungal Walk Musk
+SOURCE
+AV3
+PAGE
+74
+GOLD
+21
+LEVEL
+5
+BULK
+L
+ENTRY
+This foul-smelling unguent dulls the odors and traces that fungus creatures detect. For 1 day after you slather this musk on your body, fungus creatures take a –4 penalty to {@skill Perception} checks to {@action Seek} you or otherwise notice you. If a fungus creature is mindless, it instead has a –6 penalty.
+TRAITS
+alchemical
+consumable
+olfactory
+
+NAME
+Necrotic Bomb
+SOURCE
+AV3
+PAGE
+74
+GOLD
+2500
+LEVEL
+17
+BULK
+L
+ENTRY
+Necrotic bombs combine reagents most people consider disgusting at best and unholy at worst, creating a life-sucking miasma upon contact with air. A necrotic bomb deals the listed negative damage and {@trait splash} damage, and it sickens the primary target on a critical hit. This damage harms only living creatures.
+TRAITS
+alchemical
+bomb
+consumable
+negative
+splash
+
+NAME
+Ochre Fulcrum Lens
+SOURCE
+AV3
+PAGE
+76
+GOLD
+1400
+LEVEL
+11
+BULK
+2
+ENTRY
+This brownish-orange lens always seems dusty and gritty, even when wet. While you have the Ochre Fulcrum Lens invested, lassitude grips you. You gain resistance 10 to mental damage and a +2 status bonus to saves against {@trait emotion} effects. You can also activate the lens in the following ways.
+TRAITS
+unique
+enchantment
+invested
+occult
+other
+attack
+possession
+
+NAME
+Shootist Bandolier
+SOURCE
+AV3
+PAGE
+73
+GOLD
+1
+LEVEL
+None
+BULK
+None
+ENTRY
+This leather bandolier holds up to three {@item repeating hand crossbow magazine|G&G|repeating hand crossbow magazines} in leather pockets that pop open with the quick flick of a thumb. You reduce the reload time for a {@item repeating hand crossbow magazine|G&G} from the bandolier by 1, to a total of 2 actions. You can wear only one shootist bandolier at a time.
+TRAITS
+uncommon
+adventuring gear
+
+NAME
+Stupor Poison
+SOURCE
+AV3
+PAGE
+74
+GOLD
+16
+LEVEL
+4
+BULK
+L
+ENTRY
+Stupor poison is a more potent distillation of lethargy poison. Further exposure to stupor poison doesn't require the target to attempt additional saving throws; only failing a saving throw against an ongoing exposure can progress its stage.
+TRAITS
+uncommon
+alchemical
+consumable
+incapacitation
+injury
+poison
+sleep
+

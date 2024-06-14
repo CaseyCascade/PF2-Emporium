@@ -1,0 +1,63 @@
+NAME
+Grimoire of Unknown Necessities
+SOURCE
+SoT5
+PAGE
+77
+GOLD
+8000
+LEVEL
+16
+BULK
+L
+ENTRY
+The cover of this grimoire is bound in a strange crimson, pebbly leather that a DC 40 {@skill Occultism} check to {@action Recall Knowledge} identifies as the hide of a rare monster from the distant plane of Leng. The grimoire's spine is bound in copper and a spiral of shifting runes slowly swirls across its surface.
+TRAITS
+unique
+divination
+grimoire
+invested
+magical
+arcane
+
+NAME
+Spellcutter
+SOURCE
+SoT5
+PAGE
+76
+GOLD
+15000
+LEVEL
+17
+BULK
+1
+ENTRY
+The blade of this +2 greater striking adamantine longsword seems to absorb light from the air around it, giving the impression the wielder is standing in the shadow of a much larger creature. While Spellcutter is a potent weapon for battling undead and constructs, an ancient restriction on the blade prevents it from harming living creatures; attacks against living beings deal no damage. This restriction doesn't apply to dhampirs or creatures with the negative healing ability who are otherwise living; the magic of the blade can't distinguish between such beings and undead.
+TRAITS
+unique
+abjuration
+cursed
+magical
+held
+
+NAME
+Wyrm Drinker
+SOURCE
+SoT5
+PAGE
+75
+GOLD
+13000
+LEVEL
+17
+BULK
+1
+ENTRY
+This staff is made from the femur of a gold dragon wrapped in the multicolored scales of every type of chromatic and metallic dragon. When wielding this staff, you gain a +1 circumstance bonus to skill checks to {@action Coerce}, {@action Make an Impression}, {@action Request}, or {@action Lie} to dragons and creatures with strong draconic ties (such as kobolds, dragon instinct barbarians, and draconic sorcerers).
+TRAITS
+unique
+conjuration
+magical
+staff
+

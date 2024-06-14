@@ -1,0 +1,184 @@
+NAME
+Spear of the Destroyer's Flame
+SOURCE
+LOMM
+PAGE
+16
+GOLD
+None
+LEVEL
+20
+BULK
+3
+ENTRY
+The tip of this {@runeItem longspear||+3 weapon potency||major striking||greater flaming||returning||speed|} is edged with several razor-sharp obsidian blades. The spear has the {@trait thrown||thrown 30 feet} weapon trait, in addition to the normal weapon traits for a longspear.
+TRAITS
+unique
+artifact
+evocation
+magical
+
+NAME
+Ridill
+SOURCE
+LOMM
+PAGE
+29
+GOLD
+None
+LEVEL
+20
+BULK
+4
+ENTRY
+This 12-foot sword was made by a cyclops in the ancient past. It might be the greatest dragon-killing weapon ever made, and {@creature Fafnheir|LOMM} justly fears it, which is why he keeps it hidden in his hoard. Runes of dragon slaying are written down its blade. Ridill is a {@runeItem greatsword||+3 weapon potency||major striking||bane|SoM|speed||+3 major striking dragon bane speed adamantine greatsword}. While wielding Ridill, you gain a +2 circumstance bonus to saves against {@trait fear}. This increases to +4 if the effect is from a dragon. If you have an ability that depends on Large weapons (such as barbarian giant instinct), it works with Ridill.
+TRAITS
+unique
+artifact
+evocation
+magical
+transmutation
+
+NAME
+Grisantian Pelt
+SOURCE
+LOMM
+PAGE
+35
+GOLD
+12000
+LEVEL
+18
+BULK
+None
+ENTRY
+This supernaturally tough animal skin is gold and shines in sunlight. It can be used to make any item usually made of cloth, leather, or hide. This material is immune to fire, and its Hardness is doubled against piercing or slashing damage. Up to 4 Bulk of grisantian pelt can be harvested from a single creature (this is usually more than enough for 4 suits of standard grade armor or 2 suit of high-grade armor).
+TRAITS
+rare
+precious
+material
+
+NAME
+Grisantian Pelt Armor
+SOURCE
+LOMM
+PAGE
+35
+GOLD
+33000
+LEVEL
+19
+BULK
+varies by armor
+ENTRY
+Grisantian pelt armor is immune to fire damage, and its Hardness is doubled against piercing or slashing damage. Wearing armor made from grisantian pelt also grants you a +1 circumstance bonus to your AC and saving throws against attacks and spells that deal fire damage.
+TRAITS
+rare
+armor
+
+NAME
+Mantle of the Grogrisant
+SOURCE
+LOMM
+PAGE
+35
+GOLD
+22000
+LEVEL
+18
+BULK
+L
+ENTRY
+This long, golden cloak is among the royal regalia of the emperors of Taldor. It was fashioned from the pelt of {@creature Grogrisant|LOMM} itself, after being slain by Taldaris, and Grogrisant's mane was fashioned into a thick fringe that runs all along the mantle's edges. The paws of the Grogrisant cross beneath the wearer's throat, giving you an imposing appearance. The Mantle of the Grogrisant grants you fire resistance 15 and physical resistance 5 (except bludgeoning).
+TRAITS
+unique
+abjuration
+invested
+primal
+worn
+evocation
+incapacitation
+light
+visual
+
+NAME
+Devil's Trident
+SOURCE
+LOMM
+PAGE
+47
+GOLD
+100
+LEVEL
+9
+BULK
+1
+ENTRY
+This {@runeItem trident||+1 weapon potency||striking||returning|} is made of an ancient black metal that glistens unnaturally and is cold to the touch. The prongs of this trident drip with metallic lake water. Strikes with the Devil's Trident trigger the weaknesses of any creature with a weakness to water.
+TRAITS
+unique
+enchantment
+magical
+weapon
+
+NAME
+0 Branches
+SOURCE
+LOMM
+PAGE
+59
+GOLD
+None
+LEVEL
+20
+BULK
+—
+ENTRY
+This coin-sized golden pin depicts a bundle of five trimmed tree branches. Once you've stolen the pin, accepted it from Krampus willingly, or carried it for at least 1 minute, its curse activates. After that happens, the pin fastens itself to your clothing, providing you an insistent empathic admonition not to be naughty and constantly informing Krampus of your location, as {@spell status}. The pin reappears and reattaches itself within moments if discarded or destroyed. The pin constantly monitors your actions, judging you against a good-aligned {@class champion}'s code of conduct, plus the following third tenet:
+TRAITS
+rare
+abjuration
+cursed
+magical
+worn
+
+NAME
+Gamepiece Chariot
+SOURCE
+LOMM
+PAGE
+65
+GOLD
+1200
+LEVEL
+11
+BULK
+—
+ENTRY
+This stone figurine of a chariot pulled by two horses was used by Tekritanin adults during strategy game competitions. Sometimes, though, mischievous adolescents snatched pieces like this one for joyriding.
+TRAITS
+rare
+conjuration
+magical
+held
+
+NAME
+Sandstorm Top
+SOURCE
+LOMM
+PAGE
+65
+GOLD
+3000
+LEVEL
+13
+BULK
+L
+ENTRY
+On Tekritanin holidays, children reenacted legendary battles of deities by playing with magical tops. Though the paint on this wooden top has long since faded, its magical runes once gleamed yellow-gold and fiery orange, evoking the color of the sky during a sandstorm. To set the top in motion, wind a string around its bottom and upward along its body, and then throw it while gripping the string.
+TRAITS
+rare
+evocation
+magical
+held
+

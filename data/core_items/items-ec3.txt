@@ -1,0 +1,85 @@
+NAME
+Golem Stylus
+SOURCE
+EC3
+PAGE
+69
+GOLD
+850
+LEVEL
+10
+BULK
+L
+ENTRY
+This small, diamond-tipped stylus allows you to inscribe a magical symbol on a golem's body and possibly gain control over it.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+held
+
+NAME
+Ring Of Stoneshifting
+SOURCE
+EC3
+PAGE
+69
+GOLD
+1800
+LEVEL
+12
+BULK
+L
+ENTRY
+This simple iron ring is faceted with a bulbous geode lined with bright purple crystals. A ring of stoneshifting grants you the ability to ignore {@quickref difficult terrain||3|terrain} caused by rubble or uneven ground made of stone and earth.
+TRAITS
+uncommon
+conjuration
+earth
+invested
+magical
+teleportation
+worn
+
+NAME
+Shoony Shovel
+SOURCE
+EC3
+PAGE
+69
+GOLD
+600
+LEVEL
+9
+BULK
+2
+ENTRY
+This ornate, compact shovel has a golden handle wrapped with beautiful crimson bulette leather. Its silver head never gets dirty or worn no matter how much you use it. Its true magic, however, is in its ability to dig on its own.
+TRAITS
+rare
+earth
+magical
+held
+
+NAME
+Skarja's Heartstone
+SOURCE
+EC3
+PAGE
+89
+GOLD
+2500
+LEVEL
+13
+BULK
+None
+ENTRY
+This pale gemstone grants its wearer a +2 item bonus to saving throws and the ability to discern a target's alignment (as detect alignment, but can detect chaotic, evil, good, and lawful auras simultaneously) at will by peering through the gemstone.
+TRAITS
+uncommon
+abjuration
+invested
+occult
+worn
+

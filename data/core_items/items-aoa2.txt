@@ -1,0 +1,41 @@
+NAME
+Dragon's Eye Charm
+SOURCE
+AoA2
+PAGE
+71
+GOLD
+360
+LEVEL
+7
+BULK
+L
+ENTRY
+This charm, a dragon-shaped pendant worn like a necklace or set into armor or clothing as a decoration, is warm and smooth to the touch. It must be held in one hand to be used (pressing the palm of one's hand to the charm also works, provided that your hand is otherwise empty). It has four distinct powers.
+TRAITS
+uncommon
+divination
+magical
+held
+
+NAME
+Eclipse
+SOURCE
+AoA2
+PAGE
+72
+GOLD
+450
+LEVEL
+8
+BULK
+L
+ENTRY
+This {@runeItem starknife||+1 weapon potency||striking||returning||+1 returning striking cold iron starknife} has an ornate central grip that depicts a silver dragon, the neck, wings, and tail of which wrap over and around the handle in knots to support the weapon's four cold iron blades. While the handle is polished to a mirrorlike shine, the blades of {@i Eclipse} are a flat black and entirely unreflective. {@i Eclipse} is also the portal key required to activate Dreamgate at {@deity Alseta|LOGM}'s Ring.
+TRAITS
+unique
+evocation
+light
+magical
+held
+

@@ -1,0 +1,232 @@
+NAME
+Forgetful Ink
+SOURCE
+SoT1
+PAGE
+75
+GOLD
+32
+LEVEL
+6
+BULK
+L
+ENTRY
+Used to write secret messages, a single dose of forgetful ink is enough to pen a page of text, often with flourishes extending to the page's edges. Anyone handling the page is exposed to the poison. This includes casual reading, unless the reader specifically takes precautions not to physically touch it. Unlike other poisons, forgetful ink retains its potency for one year, regardless of the number of victims exposed.
+TRAITS
+uncommon
+alchemical
+consumable
+contact
+poison
+
+NAME
+Goz Mask
+SOURCE
+SoT1
+PAGE
+73
+GOLD
+1900
+LEVEL
+12
+BULK
+None
+ENTRY
+Originally designed by a fanatical sect of Gozren priests, goz masks were designed to help navigate the area around the Eye of Abendego. The masks couldn't contend with the might of the storm, but they remain in use by people all around the Mwangi Expanse. These masks are typically made of wood and crafted to sport round, exaggerated features.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Herd Mask
+SOURCE
+SoT1
+PAGE
+73
+GOLD
+210
+LEVEL
+6
+BULK
+None
+ENTRY
+All herd masks are linked to at least one other herd mask and are usually sold in sets of multiple masks. Linked herd masks look similar to one another, with only the slightest of differences to tell them apart.
+TRAITS
+uncommon
+conjuration
+invested
+magical
+teleportation
+worn
+
+NAME
+Mask Of Mercy
+SOURCE
+SoT1
+PAGE
+74
+GOLD
+100
+LEVEL
+4
+BULK
+None
+ENTRY
+This porcelain or alabaster mask portrays an angelic visage of kindness and mercy.
+TRAITS
+uncommon
+fortune
+invested
+magical
+necromancy
+worn
+
+NAME
+Mask Of The Cursed Eye
+SOURCE
+SoT1
+PAGE
+74
+GOLD
+475
+LEVEL
+8
+BULK
+None
+ENTRY
+These masks are always decorated with at least one wide, staring eye.
+TRAITS
+uncommon
+invested
+magical
+necromancy
+worn
+
+NAME
+Psychopomp Mask
+SOURCE
+SoT1
+PAGE
+74
+GOLD
+5
+LEVEL
+1
+BULK
+None
+ENTRY
+These minor magic items are painted to resemble your face, or some metaphorical depiction thereof, to encourage the ushers of death to take the mask in your place. If you begin your turn with a {@condition dying} value of 3 or greater, instead of making your recovery check, you lose the {@condition dying} condition but remain {@condition unconscious} at 0 Hit Points. The mask then cracks in half and is destroyed. The psychopomps won't be so easily fooled again—you are temporarily immune to the effects of any psychopomp mask for 1 year.
+TRAITS
+uncommon
+invested
+magical
+necromancy
+worn
+
+NAME
+Rhinoceros Mask
+SOURCE
+SoT1
+PAGE
+74
+GOLD
+425
+LEVEL
+8
+BULK
+None
+ENTRY
+Covered with thick armor and bearing a thicker horn, this face mask grants you increased momentum. If you {@action Stride} at least 10 feet, your next melee {@action Strike} before the end of your turn ignores the Hardness of objects with a Hardness of 5 or less. If the object has more than Hardness 5, the mask grants no benefit.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Rhythm Bone
+SOURCE
+SoT1
+PAGE
+76
+GOLD
+64
+LEVEL
+4
+BULK
+L
+ENTRY
+This small, enchanted bone (most often a jaw) is usually capped with metal at its ends. It's activated by striking it against a hard surface.
+TRAITS
+uncommon
+auditory
+magical
+held
+
+NAME
+Shapespeak Mask
+SOURCE
+SoT1
+PAGE
+74
+GOLD
+80
+LEVEL
+4
+BULK
+None
+ENTRY
+This simple wooden mask is carved into the shape of an animal, usually tailored to a species of beast that the user favors. While wearing this mask, you can speak even when polymorphed into an animal. The shapespeak mask does not otherwise remove any limitations, such as the inability to cast spells when transformed.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Skittering Mask
+SOURCE
+SoT1
+PAGE
+74
+GOLD
+500
+LEVEL
+8
+BULK
+1
+ENTRY
+This carved wooden full-head mask sports several holes along each side of the face. The first time each day that you begin your turn {@condition unconscious} and within 25 feet of an enemy, metallic insect legs emerge from the holes in the mask and {@action Step} 5 feet away from the nearest enemy, dragging your body along with the mask. If more than one enemy is equidistant, the mask {@action Step||Steps} away from one of them at random. The mask possesses no special senses and does not react to {@condition hidden} or {@condition undetected} enemies, nor can it distinguish that a creature not acting openly {@condition hostile} is an enemy.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Tlil Mask
+SOURCE
+SoT1
+PAGE
+75
+GOLD
+240
+LEVEL
+9
+BULK
+L
+ENTRY
+Colorful, beaded tlil masks are most commonly found on the distant continent of Arcadia, but trade between the two regions means that they can be found in the Mwangi Expanse as curiosities. These masks usually bear floral patterns and attune your senses to plants of all varieties.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+

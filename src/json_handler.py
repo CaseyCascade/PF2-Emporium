@@ -14,7 +14,6 @@ class Item:
     coin = None
     entry = None
     traits = []
-    remaster = False
     lock_entry = False
 
     def __init__(self):
@@ -67,8 +66,29 @@ class Item:
         self.entry = entry 
         self.lock_entry = True
 
-    def add_trait(self, trait): #TODO we need to do some string parsing on input traits (Crossbow|PC1 && two-hand <d8>)
-        self.traits.append(trait)
+    def add_trait(self, input):
+        trait = input.lower() 
+        parts = trait.split("<") # Weapon traits specifying damage, damage type, and range
+        if len(parts) > 1:
+            if parts[0] in self.traits:
+                return
+            else:
+                self.traits.append(parts[0])
+                return 
+        parts = trait.split("|") # Separates source appending from some traits 
+        if len(parts) > 1:
+            if parts[0] in self.traits:
+                return
+            else:
+                self.traits.append(parts[0])
+                return 
+        for identifier in reject_trait_identifiers: # Checks for traits to outright reject 
+            if identifier in trait: 
+                return
+        if trait in self.traits:
+            return 
+        else:
+            self.traits.append(trait) # If none apply, accept trait as is 
 
     def set_remaster(self):
         self.remaster = True
@@ -102,6 +122,8 @@ class Item:
     def write_to_file(self, filepath):
         if not self.name:
             return 
+        if not self.entry:
+            self.entry = "NA"
         with open(filepath, 'a') as file:
             file.write("NAME\n")
             file.write(self.name)
@@ -156,6 +178,7 @@ def walk_item(data, new_item, previous_key):
 
 def process_file(json_file_path):
     instance = Item()
+    instance.clear()
     with open(json_file_path, 'r') as file:
         data = json.load(file)
     if isinstance(data, dict): 
@@ -192,6 +215,7 @@ def check_for_new_json_files(json_dir, data_dir):
                 print(file, "already exists as a .txt. Will not be updated.")
     return 
 
+reject_trait_identifiers = ['region', 'Member']
 trait_keys = ['category', 'subCategory', 'damage', 'damageType', 'group', 'traits', 'access']
 new_item = Item()
 

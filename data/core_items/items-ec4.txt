@@ -1,0 +1,103 @@
+NAME
+Ankylostar
+SOURCE
+EC4
+PAGE
+75
+GOLD
+2800
+LEVEL
+13
+BULK
+1
+ENTRY
+This hefty spiked club is made from the fossilized tail-club of a young ankylosaurus. It can be wielded as a +2 greater striking morningstar.
+TRAITS
+uncommon
+magical
+transmutation
+held
+
+NAME
+Jawbreaker Shield
+SOURCE
+EC4
+PAGE
+75
+GOLD
+1650
+LEVEL
+12
+BULK
+1
+ENTRY
+This heavy bone shield is composed of a massive plate of dinosaur bone with jagged, tooth-like ridges ringing its edge. It has Hardness 12, HP 48, and BT 24. The ridges are unremovable +1 striking shield spikes that deal slashing damage instead of piercing damage.
+TRAITS
+uncommon
+abjuration
+magical
+held
+
+NAME
+Noxious Jerkin
+SOURCE
+EC4
+PAGE
+76
+GOLD
+2800
+LEVEL
+13
+BULK
+L
+ENTRY
+This +2 resilient padded armor is woven from many strands of gut cord strung with dried organs and preserved xulgath scent glands. When worn, it infuses your body with a ghastly and nauseating flavor.
+TRAITS
+rare
+evocation
+magical
+worn
+
+NAME
+Spore Sap
+SOURCE
+EC4
+PAGE
+76
+GOLD
+1250
+LEVEL
+11
+BULK
+L
+ENTRY
+This flexible +2 striking sap is crafted from the stalks of cave fungi and bound around a mesh of spore-infused gills. Demon-worshipping xulgaths use spore saps to capture spellcasters alive for later sacrifice.
+TRAITS
+uncommon
+evocation
+fungus
+magical
+held
+poison
+
+NAME
+Stoneraiser Javelin
+SOURCE
+EC4
+PAGE
+76
+GOLD
+1200
+LEVEL
+11
+BULK
+L
+ENTRY
+This stone-headed +2 striking returning javelin draws forth the power of the earth itself to strike at enemies.
+TRAITS
+uncommon
+conjuration
+earth
+magical
+held
+

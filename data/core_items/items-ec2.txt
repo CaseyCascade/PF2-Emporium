@@ -1,0 +1,291 @@
+NAME
+Acrobat's Staff
+SOURCE
+EC2
+PAGE
+73
+GOLD
+235
+LEVEL
+6
+BULK
+2
+ENTRY
+This +1 striking bo staff is particularly long, making it useful as a balancing pole. While you wield it, the acrobat's staff releases chalk dust to make your grip more secure, granting you a +1 circumstance bonus to your Reflex DC against checks to {@action Disarm} you of it.
+TRAITS
+uncommon
+fortune
+magical
+transmutation
+held
+
+NAME
+Beckoning Cat Amulet
+SOURCE
+EC2
+PAGE
+73
+GOLD
+26
+LEVEL
+5
+BULK
+None
+ENTRY
+This clay figurine resembles a white cat with a paw outstretched. When it's activated, any allies within 10 feet who also just failed or critically failed a Reflex saving throw from the same source (such as a {@spell fireball} spell) can also reroll their saving throw and use the better result.
+TRAITS
+uncommon
+consumable
+divination
+fortune
+magical
+talisman
+
+NAME
+Bullhook
+SOURCE
+EC2
+PAGE
+73
+GOLD
+1900
+LEVEL
+12
+BULK
+1
+ENTRY
+A bullhook is a stout rod about 4 feet long with a blunt hook on the end. Too dull to be useful as a weapon, a bullhook is instead used to direct animals in training or in performing their tasks. A bullhook grants you an item bonus to {@skill Nature} checks to {@action Command an Animal} while you are holding it.
+TRAITS
+uncommon
+enchantment
+magical
+held
+
+NAME
+Grail Of Twisted Desires
+SOURCE
+EC2
+PAGE
+73
+GOLD
+850
+LEVEL
+10
+BULK
+L
+ENTRY
+This timeworn chalice is constructed of dull tin. It has an unassuming appearance save for the gold, silver, and ebony rings that encircle its rim.
+TRAITS
+unique
+conjuration
+illusion
+magical
+held
+
+NAME
+Inspiring Spotlight
+SOURCE
+EC2
+PAGE
+73
+GOLD
+650
+LEVEL
+9
+BULK
+3
+ENTRY
+An inspiring spotlight is a bulky contraption consisting of a drum-shaped metal housing around several reflective metal plates. Two handles on either side, each with a small button, allow you to aim the spotlight outward from your body.
+TRAITS
+uncommon
+enchantment
+light
+magical
+held
+
+NAME
+Invisible Net
+SOURCE
+EC2
+PAGE
+74
+GOLD
+60
+LEVEL
+7
+BULK
+None
+ENTRY
+You activate this folded lace handkerchief by spreading it out on the ground, where it grows to cover a 30-footby- 30-foot square area. Pale and diaphanous, the spread handkerchief is exceptionally difficult to see from more than 30 feet away and evaporates entirely after 1 minute. Any creature that falls on the net doesn't take falling damage.
+TRAITS
+uncommon
+abjuration
+consumable
+magical
+
+NAME
+Marvelous Calliope
+SOURCE
+EC2
+PAGE
+74
+GOLD
+100
+LEVEL
+4
+BULK
+L (when not activated)
+ENTRY
+This large slide whistle appears to be made of fine brass, the sides of which are engraved with musical notes and dancing clowns.
+TRAITS
+uncommon
+conjuration
+magical
+structure
+
+NAME
+Moonstone Diadem
+SOURCE
+EC2
+PAGE
+74
+GOLD
+500
+LEVEL
+8
+BULK
+L
+ENTRY
+This delicate and elegant diadem is woven of intricate silver wires set with three tear-shaped pearlescent moonstones. You gain a +1 item bonus to {@skill Religion} checks.
+TRAITS
+rare
+divination
+invested
+magical
+worn
+
+NAME
+Ringmaster's Staff
+SOURCE
+EC2
+PAGE
+74
+GOLD
+1800
+LEVEL
+12
+BULK
+1
+ENTRY
+This highly polished black wooden staff resembles an aristocrat's oversized walking cane, complete with a silver head shaped like a large circus animal such as a horse or elephant. Ringmasters or announcers use ringmaster's staves to draw attention from their audiences or to salvage acts that fall flat mid-performance. While wielding a ringmaster's staff, your normal voice can be clearly heard by all creatures within 300 feet regardless of intervening barriers or ambient noise, although your voice can't penetrate magical silence and you can't use this to extend an {@trait auditory} or {@trait sonic} effect through barriers that would otherwise block it.
+TRAITS
+uncommon
+illusion
+magical
+staff
+
+NAME
+Saints' Balm
+SOURCE
+EC2
+PAGE
+75
+GOLD
+70
+LEVEL
+7
+BULK
+None
+ENTRY
+This luminescent paste is made from the powdered bones of a long-forgotten saint, mixed with herbs and blessed by a priest. It typically comes in a tightly sealed, palmsized dish etched with holy symbols. Applying saints' balm to yourself or a creature within reach restores {@dice 3d8+10} Hit Points to the creature to which it's applied.
+TRAITS
+uncommon
+consumable
+healing
+magical
+necromancy
+oil
+
+NAME
+Spangled Rider's Suit
+SOURCE
+EC2
+PAGE
+75
+GOLD
+700
+LEVEL
+9
+BULK
+1
+ENTRY
+This +1 resilient studded leather armor is adorned with colorful sequins that sparkle in even the faintest light. While wearing the spangled rider's suit, you gain a +2 item bonus to {@action Command an Animal} you are riding. Any animal you ride automatically knows the {@action Drop Prone} and {@action Step} basic actions, in addition to any other basic actions it knows (normally only {@action Leap}, {@action Seek}, {@action Stand}, {@action Stride}, and {@action Strike}).
+TRAITS
+uncommon
+divination
+invested
+magical
+armor
+move
+
+NAME
+Stole Of Civility
+SOURCE
+EC2
+PAGE
+75
+GOLD
+700
+LEVEL
+9
+BULK
+L
+ENTRY
+Woven from swaths of rich brocade silk and embroidered with ancient Azlanti script in golden thread, this stole imparts a noble appearance to even the homeliest of individuals when draped over the shoulders. While wearing a stole of civility, you receive a +2 item bonus to {@skill Diplomacy} checks to {@action Make an Impression} with humans or Make a {@action Request} of humans, and a +2 item bonus to {@skill Intimidation} checks against humans. The stole also grants you full understanding of the Azlanti language.
+TRAITS
+uncommon
+enchantment
+invested
+magical
+worn
+
+NAME
+Whip Of Compliance
+SOURCE
+EC2
+PAGE
+75
+GOLD
+3000
+LEVEL
+9
+BULK
+1
+ENTRY
+The handle of this braided leather +1 striking whip is made from the hairs of a variety of rare and mythical animals. When used against an animal, the whip of compliance can potentially force the target to follow your commands.
+TRAITS
+uncommon
+enchantment
+magical
+held
+
+NAME
+Wondrous Figurines
+SOURCE
+EC2
+PAGE
+75
+GOLD
+350
+LEVEL
+7
+BULK
+L
+ENTRY
+The magical statuettes known as wondrous figurines are described on page 576 of the Pathfinder Core Rulebook.
+TRAITS
+uncommon
+conjuration
+magical
+held
+

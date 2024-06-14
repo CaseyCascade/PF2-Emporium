@@ -1,0 +1,185 @@
+NAME
+Flaying Knife
+SOURCE
+Sli
+PAGE
+60
+GOLD
+480
+LEVEL
+8
+BULK
+1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+magical
+necromancy
+held
+
+NAME
+Gluttonous Spear
+SOURCE
+Sli
+PAGE
+60
+GOLD
+250
+LEVEL
+6
+BULK
+1
+ENTRY
+The head of this +1 striking returning spear is wrapped in greasy hide, and its head resembles a thick, clawed finger.
+TRAITS
+uncommon
+magical
+necromancy
+held
+
+NAME
+Oily Button
+SOURCE
+Sli
+PAGE
+60
+GOLD
+30
+LEVEL
+5
+BULK
+None
+ENTRY
+A thin sheen of slick oil covers this gaudy button. When you activate the oily button, your attempts to {@action Disarm} your opponent of an item before the start of the opponent's next turn gain a +4 circumstance bonus instead of +2, and the –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item lasts until the end of its next turn or until it uses an {@action Interact} action to adjust its grip.
+TRAITS
+uncommon
+conjuration
+consumable
+magical
+talisman
+
+NAME
+Putrescent Glob
+SOURCE
+Sli
+PAGE
+61
+GOLD
+65
+LEVEL
+7
+BULK
+None
+ENTRY
+This repulsive, hairy glob dangles from the end of your weapon. When you activate the putrescent glob, the creature you damaged must succeed at a DC 23 Fortitude save or its {@condition sickened} condition increases to {@condition sickened|CRB|sickened 2}, and it can't reduce its {@condition sickened} condition until the end of its next turn. On a critical failure, it's also {@condition slowed|CRB|slowed 1} until the end of its next turn.
+TRAITS
+uncommon
+conjuration
+consumable
+magical
+talisman
+
+NAME
+Sixfingers Elixir
+SOURCE
+Sli
+PAGE
+61
+GOLD
+2500
+LEVEL
+17
+BULK
+L
+ENTRY
+This gritty, spicy fluid causes you to grow a sixth finger on each hand and gives you a spiderlike grip.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+polymorph
+
+NAME
+Slime Whip
+SOURCE
+Sli
+PAGE
+61
+GOLD
+360
+LEVEL
+7
+BULK
+1
+ENTRY
+This thick, greasy +1 striking shifting whip is made from a slimy pseudopod. You don't take the usual –2 circumstance penalty to your attack rolls when using the slime whip to make a lethal attack. The whip's form can be changed just like any weapon with the shifting rune, but it reverts to its original form as soon as it isn't wielded. When in its whip form, you can use the following action.
+TRAITS
+uncommon
+magical
+transmutation
+held
+
+NAME
+Slippery Ribbon
+SOURCE
+Sli
+PAGE
+61
+GOLD
+12
+LEVEL
+1
+BULK
+None
+ENTRY
+This ribbon is constantly greasy to the touch and stains the armor it's affixed to. When you activate the slippery ribbon, your Speed increases by an amount necessary for you to move all the way through the enemy's space.
+TRAITS
+uncommon
+consumable
+magical
+talisman
+transmutation
+
+NAME
+Wand Of Noisome Acid
+SOURCE
+Sli
+PAGE
+61
+GOLD
+24000
+LEVEL
+18
+BULK
+L
+ENTRY
+This greasy stick emits a stomach-churning scent when held in a hand.
+TRAITS
+uncommon
+acid
+evocation
+magical
+wand
+
+NAME
+Wand Of Teeming Ghosts
+SOURCE
+Sli
+PAGE
+61
+GOLD
+70000
+LEVEL
+20
+BULK
+L
+ENTRY
+This pale wooden wand is carved to resemble a thigh bone with metal caps at each end. Ghostly tendrils seem to swirl around it every so often.
+TRAITS
+uncommon
+magical
+necromancy
+wand
+

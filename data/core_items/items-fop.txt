@@ -1,0 +1,165 @@
+NAME
+Bort's Blessing
+SOURCE
+FoP
+PAGE
+58
+GOLD
+160
+LEVEL
+5
+BULK
+None
+ENTRY
+This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations. In addition, the wearer receives a +1 item bonus to {@skill Diplomacy} checks to {@action Make an Impression}.
+TRAITS
+rare
+divination
+invested
+worn
+
+NAME
+Energy Mutagen
+SOURCE
+FoP
+PAGE
+56
+GOLD
+3000
+LEVEL
+17
+BULK
+L
+ENTRY
+When created, this mutagen is attuned to your choice of one of four energy types: acid, cold, electricity, or fire.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Merchant's Guile
+SOURCE
+FoP
+PAGE
+58
+GOLD
+160
+LEVEL
+5
+BULK
+None
+ENTRY
+The band of this ring is made from bluecolored iron and has two sharp, decorative protrusions on each side of the red-stone inlay. It feels quite heavy and reliable.
+TRAITS
+uncommon
+enchantment
+invested
+worn
+
+NAME
+Ring Of Minor Arcana
+SOURCE
+FoP
+PAGE
+58
+GOLD
+160
+LEVEL
+5
+BULK
+None
+ENTRY
+This rose-gold ring is adorned in the center by a somewhat ominous-looking horned skull.
+TRAITS
+uncommon
+arcane
+evocation
+invested
+worn
+
+NAME
+Ring Of The Weary Traveler
+SOURCE
+FoP
+PAGE
+58
+GOLD
+160
+LEVEL
+5
+BULK
+None
+ENTRY
+This fanciful golden ring has an ornate band cast with delicate, swirling decorations and is inlaid with three bright-green emeralds. While wearing this ring, you gain a +10-foot item bonus to your Speed, but only when determining your overland movement per hour.
+TRAITS
+uncommon
+transmutation
+invested
+worn
+
+NAME
+Stalwart's Ring
+SOURCE
+FoP
+PAGE
+58
+GOLD
+160
+LEVEL
+5
+BULK
+None
+ENTRY
+This fairly simple ring has no gemstone inlaid, but the band is cast to resembled a fanged wolf's head. Once per day, during your daily preparations, you can meditate on this ring to grant yourself 5 temporary Hit Points.
+TRAITS
+uncommon
+necromancy
+invested
+worn
+
+NAME
+Stone Body Mutagen
+SOURCE
+FoP
+PAGE
+56
+GOLD
+920
+LEVEL
+15
+BULK
+L
+ENTRY
+This mutagen calcifies your body making it as hard as stone.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Warrior's Training Ring
+SOURCE
+FoP
+PAGE
+58
+GOLD
+160
+LEVEL
+5
+BULK
+None
+ENTRY
+This ring is utilitarian in design—indicating its martial use. Its band is decorated only with a simple, sharp-edged sculpture on the band's center. While wearing this ring, you add your level to your attack rolls with all weapons with which you are untrained.
+TRAITS
+uncommon
+divination
+invested
+worn
+

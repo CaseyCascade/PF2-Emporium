@@ -1,0 +1,539 @@
+NAME
+Armor of the Holy Warrior
+SOURCE
+LOKL
+PAGE
+88
+GOLD
+9000
+LEVEL
+16
+BULK
+3
+ENTRY
+Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
+TRAITS
+rare
+divine
+good
+invested
+magical
+necromancy
+armor
+
+NAME
+Anointing Oil
+SOURCE
+LOKL
+PAGE
+88
+GOLD
+180
+LEVEL
+10
+BULK
+L
+ENTRY
+Carried by many Knights of Lastwall, this amber-colored, fragrant-smelling oil is meant to prevent those who fall in battle from rising as undead. Applying anointing oil to a corpse casts gentle repose on it. The effects last for 24 hours.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+consumable
+magical
+necromancy
+oil
+
+NAME
+Banner of the Restful
+SOURCE
+LOKL
+PAGE
+88
+GOLD
+700
+LEVEL
+9
+BULK
+1
+ENTRY
+Carried by knights who expect to spend the night in the open, this simple-looking banner is accompanied by a long cross pole from which it hangs. Usually, the banner appears to be a piece of plain cloth; when activated, it automatically adopts whatever insignia the person activating it desires.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+abjuration
+magical
+held
+
+NAME
+Barding Saddle
+SOURCE
+LOKL
+PAGE
+88
+GOLD
+330
+LEVEL
+7
+BULK
+4
+ENTRY
+This saddle is covered with well-polished metal plates on the outside and adjusts itself to fit any mount.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+companion
+invested
+magical
+transmutation
+
+NAME
+Busine of Divine Reinforcements
+SOURCE
+LOKL
+PAGE
+89
+GOLD
+6000
+LEVEL
+15
+BULK
+1
+ENTRY
+This long, straight, trumpet-like instrument is made of well-polished brass and adorned with imagery of angels fighting demons or religious symbols.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+conjuration
+divine
+good
+magical
+held
+auditory
+
+NAME
+Called
+SOURCE
+LOKL
+PAGE
+89
+GOLD
+350
+LEVEL
+7
+BULK
+None
+ENTRY
+A called weapon can be teleported to its owner's hand.
+TRAITS
+conjuration
+magical
+rune
+
+NAME
+Camp Shroud
+SOURCE
+LOKL
+PAGE
+89
+GOLD
+1500
+LEVEL
+16
+BULK
+—
+ENTRY
+Knights make use of this magically treated powder to help hide their camps while traveling through the Gravelands or other dangerous regions. When you toss the powder into a campfire or other sizable fire, the fire produces a thin mist that enshrouds everything in a 10-foot emanation from the fire. The mist creates protective illusions that remain for up to 12 hours and make it difficult to spot the area from afar. You can end the effect earlier by putting out the fire. Light and smoke produced in the area aren't visible from outside the area. The illusions don't prevent sound from traveling nor prevent the area or its inhabitants from being seen.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+consumable
+illusion
+magical
+
+NAME
+Campaign Stable
+SOURCE
+LOKL
+PAGE
+89
+GOLD
+500
+LEVEL
+8
+BULK
+L (when not activated)
+ENTRY
+Used to facilitate the care of mounts during long campaigns or when it's necessary to move camp frequently, this object appears to be a simple, worn wooden horseshoe.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+conjuration
+magical
+structure
+
+NAME
+Detector Stone
+SOURCE
+LOKL
+PAGE
+90
+GOLD
+360
+LEVEL
+7
+BULK
+—
+ENTRY
+During their journeys across the Gravelands, the Knights of Lastwall found several smoky, gemstone-like objects that knights refer to as detector stones. Some of the knights' Magaambyan allies believe the stones are aeon stones corrupted by the same energies that corrupted the Gravelands, though they don't display the characteristic orbiting behavior of aeon stones when invested. Despite the controversy, many knights use the stones for their ability to detect the presence of undead.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+divination
+invested
+magical
+worn
+
+NAME
+Ghost Oil
+SOURCE
+LOKL
+PAGE
+90
+GOLD
+18
+LEVEL
+4
+BULK
+L
+ENTRY
+The vials containing this translucent, unsubstantial oil are always cold to the touch. Applying ghost oil to a melee weapon you're wielding or carrying causes it to become semitransparent and gain the effects of a {@item ghost touch} rune, but it also makes the weapon unable to harm corporeal creatures. The oil has no effect when applied to another creature's weapon. The effect of the oil lasts for 1 minute.
+TRAITS
+consumable
+magical
+oil
+transmutation
+
+NAME
+Guardian Shield
+SOURCE
+LOKL
+PAGE
+90
+GOLD
+1200
+LEVEL
+11
+BULK
+1
+ENTRY
+A guardian shield is a steel shield (Hardness 9, HP 36, BT 18) engraved with the symbol of a good deity.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+abjuration
+divine
+magical
+held
+
+NAME
+Knight Captain's Lance
+SOURCE
+LOKL
+PAGE
+90
+GOLD
+3000
+LEVEL
+13
+BULK
+2
+ENTRY
+The appearance of this beautifully crafted +2 disrupting greater striking lance changes to match the armor of its wielder. It has a cloth flag attached behind the lance point that displays whatever heraldry the wielder wishes.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+divine
+enchantment
+magical
+held
+
+NAME
+Shining Shield
+SOURCE
+LOKL
+PAGE
+90
+GOLD
+1000
+LEVEL
+10
+BULK
+1
+ENTRY
+Kalabrynne Iomedar commissioned the first of these shields, which have become some of the Shining Sentinels' most valued equipment, replicated among these knights. A shining shield is a seemingly simple wooden shield (Hardness 6, HP 24, BT 12) with the Shining Oath engraved on the inside. While raised, a shining shield moves itself to provide cover for your allies. If you have this shield raised and would provide cover to an ally against a foe by standing between them, the cover you provide increases one step. Thus, if you were to grant lesser cover, you grant standard cover instead; if you were to grant standard cover, you instead grant greater cover.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+enchantment
+magical
+held
+
+NAME
+Swiftmount Saddle
+SOURCE
+LOKL
+PAGE
+91
+GOLD
+360
+LEVEL
+7
+BULK
+2
+ENTRY
+This sturdy leather saddle was designed to improve communication between mount and rider, allowing even inexperienced knights to command their mounts in battle. A swiftmount saddle grants a +2 item bonus to {@skill Nature} checks made to {@action Command an Animal} for anyone who is riding the creature wearing it.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+companion
+divination
+invested
+magical
+primal
+
+NAME
+Undead Compendium
+SOURCE
+LOKL
+PAGE
+91
+GOLD
+6300
+LEVEL
+14
+BULK
+L
+ENTRY
+The best minds among the Magaambyan, Iomedaean, and Pharasmin Knights of Lastwall joined together to create these small, leather-bound journals. While you're holding an undead compendium, the information it contains slips into your mind, granting you a +2 item bonus to {@action Recall Knowledge} checks to obtain information about undead creatures.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+divination
+magical
+held
+auditory
+linguistic
+
+NAME
+Undead Scourge
+SOURCE
+LOKL
+PAGE
+91
+GOLD
+350
+LEVEL
+7
+BULK
+L
+ENTRY
+An undead scourge is a +1 striking disrupting dagger with a bluish-white metal blade that emits a faint glow.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+magical
+necromancy
+held
+
+NAME
+Whistle of Calling
+SOURCE
+LOKL
+PAGE
+91
+GOLD
+6300
+LEVEL
+15
+BULK
+—
+ENTRY
+A whistle of calling appears to be a simple brass whistle. It changes slightly in appearance depending on the type of creature to which it's attuned, depicting small carvings of hooves, feather patterns, claws, or other appropriate motifs.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+conjuration
+magical
+held
+
+NAME
+War Saddle
+SOURCE
+LOKL
+PAGE
+86
+GOLD
+50
+LEVEL
+5
+BULK
+1
+ENTRY
+Each war saddle is specifically fitted to a mount's body type and has numerous straps that can secure you on your mount. You remain mounted even if you fall unconscious until either you or someone else uses an {@action Interact} action to unfasten the straps on the saddle. A creature or effect can separate you from your mount by pulling so hard it tears the straps, but to do so, the effect's DC, attack roll, or skill check must exceed 20.
+TRAITS
+uncommon
+{@organization knights of lastwall} have access to this item.
+adventuring gear
+
+NAME
+Traveler's Cloak
+SOURCE
+LOKL
+PAGE
+86
+GOLD
+7
+LEVEL
+1
+BULK
+L
+ENTRY
+These cloaks are designed to accommodate long treks through various climates. Traveler's cloaks for hot climates might be bleached white and created from lighter materials, while those intended for cold climates are made of thicker materials and have linings intended to retain heat. While wearing a traveler's cloak for the appropriate type of weather, increase the time it takes to become fatigued from temperature effects by 2 hours (Core Rulebook 518). A traveler's cloak has no effect at extreme or incredible temperatures.
+TRAITS
+uncommon
+{@organization knights of lastwall} have access to this item.
+adventuring gear
+
+NAME
+Portable Altar
+SOURCE
+LOKL
+PAGE
+86
+GOLD
+25
+LEVEL
+3
+BULK
+3
+ENTRY
+This travel-ready kit contains a small altar featuring a deity's iconography. The altar's top can be lifted to reveal a compartment for materials of no more than light Bulk (such as candles, incense, oils, and small texts). The altar grants a +1 item bonus to checks made to conduct religious rites using {@skill Performance} or {@skill Religion}.
+TRAITS
+uncommon
+{@organization knights of lastwall} have access to this item.
+adventuring gear
+
+NAME
+Knight's Tabard
+SOURCE
+LOKL
+PAGE
+86
+GOLD
+15
+LEVEL
+3
+BULK
+L
+ENTRY
+This cloth vestment features the heraldry or symbol associated with an entity (such as a deity, kingdom, or organization). Knights typically wear it over armor and other clothing, helping them identify allies on the battlefield or distinguishing themselves in more peaceful situations. An individual wearing a tabard gains a +1 item bonus to {@action Make an Impression} on creatures who have a positive association with the entity represented on the tabard.
+TRAITS
+uncommon
+{@organization knights of lastwall} have access to this item.
+adventuring gear
+
+NAME
+Knight's Standard
+SOURCE
+LOKL
+PAGE
+86
+GOLD
+5
+LEVEL
+None
+BULK
+1
+ENTRY
+This cloth flag or banner, no larger than a few feet long, bears the symbol or heraldry of a deity, knightly house, nation, or similar organization. A typical standard comes with a stand or pole to hold it aloft. You can instead spend 2 consecutive Interact actions to mount a knight's standard on a two-handed polearm or spear weapon; the standard is visible as long as you wield the weapon with two hands. Some individuals are inspired by the sight of a standard or demoralized by the destruction of one.
+TRAITS
+uncommon
+{@organization knights of lastwall} have access to this item.
+adventuring gear
+
+NAME
+Knight's Maintenance Kit
+SOURCE
+LOKL
+PAGE
+86
+GOLD
+50
+LEVEL
+5
+BULK
+1
+ENTRY
+This set of gear contains a repair kit, cloth rolls for storing or covering equipment, and specialized mixtures developed by the Knights of Lastwall to clean and treat armaments for continued use. This kit gives you a +1 item bonus to checks to {@action Repair} weapons, shields, and armor using the {@skill Crafting} skill, and you restore an additional 5 Hit Points when you successfully {@action Repair} such items using it.
+TRAITS
+uncommon
+{@organization knights of lastwall} have access to this item.
+adventuring gear
+
+NAME
+Hollowed Hilt
+SOURCE
+LOKL
+PAGE
+86
+GOLD
+3
+LEVEL
+None
+BULK
+None
+ENTRY
+A hollowed hilt is a weapon modification that allows a pommel to be detached and its hilt meticulously hollowed out to create a small compartment without greatly affecting its balance. Often used by knight emissaries to hide important missives, this space can hold an object of light Bulk about the size of a scroll. A creature studying the weapon can find the hilt compartment with a successful DC 20 {@skill Perception} check. Any weapon with an appropriate hilt or pommel can be converted into a hollowed one by paying the equipment's price.
+TRAITS
+uncommon
+{@organization knights of lastwall} have access to this item.
+adventuring gear
+
+NAME
+Parade Armor
+SOURCE
+LOKL
+PAGE
+87
+GOLD
+10
+LEVEL
+2
+BULK
+None
+ENTRY
+Parade armor is an armor adjustment that creates a set of pseudo-decorative armor to wear during noncombat functions. Any medium or heavy armor can be fashioned into parade armor, which features custom designs based on the wearer's affiliation, military branch, or rank. A particular faction typically has one uniform appearance for its set of parade armor.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+adjustment
+
+NAME
+Throwing Shield
+SOURCE
+LOKL
+PAGE
+87
+GOLD
+5
+LEVEL
+1
+BULK
+None
+ENTRY
+These special straps and weightings fit over a shield or buckler, but not a tower shield. They are designed to let you doff and throw the shield in one swift movement. You can quickly remove the shield by spending a free action as part of the {@action Strike} to throw the shield. When thrown in this way, the shield is a martial thrown weapon that deals {@damage 1d6} bludgeoning damage and has the thrown <20 feet> trait. A shield with the throwing shield attachment can't have any attached weapons, such as shield spikes or a shield boss, and the adjustments to make it more aerodynamic make it slightly less sturdy, reducing its Hardness by 1.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+adjustment
+

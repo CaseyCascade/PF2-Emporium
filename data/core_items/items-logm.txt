@@ -1,0 +1,298 @@
+NAME
+Abadar's Flawless Scale
+SOURCE
+LOGM
+PAGE
+121
+GOLD
+50
+LEVEL
+3
+BULK
+1
+ENTRY
+This immaculate golden set of merchant's scales is considered a divine instrument among {@deity Abadar}'s most faithful. Unlike most scales, this one has only a single dish for placing small objects, and calculates value rather than weight. On the other side of the fulcrum, a steel arrow indicator points to various numbers engraved on the side of the scale. By placing an object of light Bulk onto the dish, you can determine its value in gold pieces in the market in which the scale was made (most of these scales are made in Katapesh or Absalom), based on its material composition and artisanship. For example, after placing a gemstone on the dish, the scale will indicate the fairest (average, in most cases) price you can expect to fetch in the market to which the scale is calibrated, but the scale wouldn't detect the gemstone's historical significance or any magical properties. Abadar's flawless scale can be calibrated to a different market by performing a 1-hour ritual in the proximity of that market.
+TRAITS
+uncommon
+divination
+magical
+follower of {@deity abadar}
+held
+
+NAME
+Bottomless Stein
+SOURCE
+LOGM
+PAGE
+121
+GOLD
+25
+LEVEL
+2
+BULK
+L
+ENTRY
+A magic item regarded as holy by followers of Cayden Cailean, this ornate metallic stein is always filled to the brim with delicious ale, no matter how much is drunk or spilled. If it is emptied (such as by being gulped quickly or upended onto the floor), the bottomless stein will fill again within 1 round as long as it is right side up, though it's impossible to transfer the ale to another container to sell it or store it for later. The exact type of ale with which the stein is filled is determined at the item's creation, and cannot be changed thereafter.
+TRAITS
+uncommon
+conjuration
+magical
+follower of {@deity cayden cailean}
+held
+
+NAME
+Dagger Of Eternal Sleep
+SOURCE
+LOGM
+PAGE
+121
+GOLD
+25
+LEVEL
+5
+BULK
+L
+ENTRY
+This tiny serrated dagger looks like a miniature sawtooth sabre. Until activated, it is too small and ornamental to function as a weapon, which might allow it to be passed off as a weapon-shaped decoration.
+TRAITS
+uncommon
+consumable
+magical
+necromancy
+follower of {@deity achaekek
+
+NAME
+Deteriorating Dust
+SOURCE
+LOGM
+PAGE
+122
+GOLD
+105
+LEVEL
+9
+BULK
+None
+ENTRY
+Contained in a specially enchanted small leather or hide sack, deteriorating dust is a potent caustic agent and a prized item among Rovagug's more discreet followers.
+TRAITS
+uncommon
+consumable
+evocation
+magical
+follower of {@deity rovagug}
+
+NAME
+Dreadsmoke Thurible
+SOURCE
+LOGM
+PAGE
+122
+GOLD
+600
+LEVEL
+9
+BULK
+1
+ENTRY
+This black-and-gray thurible is decorated with a skeleton motif; the jaw of one of the decorative skulls unhinges, allowing you to load it with incense as an action. A long, thin chain is connected to the top of the thurible.
+TRAITS
+uncommon
+magical
+necromancy
+follower of {@deity urgathoa}
+held
+
+NAME
+Glaive Of The Artist
+SOURCE
+LOGM
+PAGE
+122
+GOLD
+4000
+LEVEL
+14
+BULK
+2
+ENTRY
+This +2 holy greater striking glaive has a long, multi-tailed rainbow-colored banner affixed to the butt of the pole in the style of Shelyn's religious symbol. While wielding the glaive, you gain a +2 item bonus on {@skill Crafting} and {@skill Performance} checks.
+TRAITS
+uncommon
+enchantment
+magical
+follower of {@deity shelyn}
+held
+
+NAME
+Lucky Rabbit's Foot
+SOURCE
+LOGM
+PAGE
+122
+GOLD
+175
+LEVEL
+10
+BULK
+None
+ENTRY
+This treated rabbit's foot has shockingly blue fur and is often carried by vagabonds who worship Desna. When you activate the foot, reroll the triggering Reflex save. If you fail the second roll as well, you can {@action Stride} up to your Speed.
+TRAITS
+uncommon
+consumable
+divination
+fortune
+magical
+talisman
+follower of {@deity desna}
+
+NAME
+Manacles Of Persuasion
+SOURCE
+LOGM
+PAGE
+122
+GOLD
+45
+LEVEL
+3
+BULK
+1
+ENTRY
+These sturdy, average manacles are connected by a thick iron chain that is much heavier than its appearance suggests at a glance.
+TRAITS
+uncommon
+magical
+necromancy
+nonlethal
+follower of {@deity zon-kuthon}
+worn
+
+NAME
+Miter Of Communion
+SOURCE
+LOGM
+PAGE
+123
+GOLD
+800
+LEVEL
+10
+BULK
+L
+ENTRY
+This ornate headgear comes in many different shapes and sizes, though most are elaborately decorated with motifs of the deity whose honor in which it was made. The miter brings you spiritually closer to your deity's servitors, granting you a +2 item bonus to {@skill Religion} checks.
+TRAITS
+uncommon
+divination
+invested
+magical
+worn
+
+NAME
+Mortar Of Hidden Meaning
+SOURCE
+LOGM
+PAGE
+123
+GOLD
+75
+LEVEL
+4
+BULK
+L
+ENTRY
+This matching mortar and pestle are made from immaculate darkwood that looks nearly olive in the right light.
+TRAITS
+divination
+magical
+held
+
+NAME
+Necklace Of Knives
+SOURCE
+LOGM
+PAGE
+123
+GOLD
+25
+LEVEL
+2
+BULK
+None
+ENTRY
+This necklace strung with miniature stone throwing knives.
+TRAITS
+uncommon
+conjuration
+invested
+magical
+follower of {@deity pharasma}
+worn
+
+NAME
+Rat-catcher Trident
+SOURCE
+LOGM
+PAGE
+123
+GOLD
+1200
+LEVEL
+11
+BULK
+1
+ENTRY
+The haft of this +2 striking trident is carved with intricate designs of swarming rodents sacred to Hanspur, the drowned god of the Sellen River. When used against a swarm, it ignores the swarm's resistance to piercing damage, if any.
+TRAITS
+uncommon
+conjuration
+magical
+follower of {@deity hanspur
+held
+
+NAME
+Singing Bowl Of The Versatile Stance
+SOURCE
+LOGM
+PAGE
+123
+GOLD
+1175
+LEVEL
+11
+BULK
+L
+ENTRY
+In true Iroran form, the simplicity of this small, inverted copper bell belies its flawlessness.
+TRAITS
+uncommon
+enchantment
+magical
+follower of {@deity irori}
+held
+auditory
+
+NAME
+Torag's Silver Anvil
+SOURCE
+LOGM
+PAGE
+123
+GOLD
+24000
+LEVEL
+18
+BULK
+2
+ENTRY
+This portable silver anvil has a narrow hoop on one end, through which a long, sturdy chain has been strung.
+TRAITS
+uncommon
+divine
+magical
+transmutation
+follower of {@deity torag}
+held
+

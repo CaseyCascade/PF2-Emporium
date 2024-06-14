@@ -1,0 +1,81 @@
+NAME
+Antivenom Potion
+SOURCE
+TiO
+PAGE
+60
+GOLD
+6
+LEVEL
+2
+BULK
+L
+ENTRY
+This cloudy, white liquid helps protect against poisons.
+TRAITS
+consumable
+magical
+necromancy
+potion
+
+NAME
+Capsaicin Tonic
+SOURCE
+TiO
+PAGE
+60
+GOLD
+17
+LEVEL
+4
+BULK
+L
+ENTRY
+This translucent, pale-yellow drink has several pepper seeds suspended within it.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+
+NAME
+Sparkblade
+SOURCE
+TiO
+PAGE
+60
+GOLD
+70
+LEVEL
+3
+BULK
+None
+ENTRY
+Faint, delicate etchings of lightning trace across the blade of this cold iron {@runeItem shortsword||+1 weapon potency|}. Cold iron is made from particularly pure sources of iron and shaped with little to no heat, resulting in weapons deadly to demons and fey alike. Once per day, you can spend 1 action to point the {@italic sparkblade} at a foe within 30 feet of you and shoot an arc of lightning from the blade. This lightning can leap from your chosen foe to another creature you choose within 30 feet, dealing {@damage 2d4+4} electricity damage to each creature (DC 19 basic Reflex save).
+TRAITS
+evocation
+magical
+weapon
+
+NAME
+Sun Wheel
+SOURCE
+TiO
+PAGE
+60
+GOLD
+150
+LEVEL
+5
+BULK
+–
+ENTRY
+Created by the priests of a Qadiran sect of {@deity Sarenrae||Sarenites}, the {@italic sun wheels} were designed to protect the {@deity Sarenrae||Dawnflower}'s followers in their quest to hunt down a dangerous cult trying to raise a spawn of the evil god {@deity Rovagug}. Once they completed their crusade, these priests disbanded and went on to minister other congregations. They each took their {@italic sun wheels} with them, handing them down to the next generations.
+TRAITS
+rare
+abjuration
+invested
+magical
+worn
+concentrate
+

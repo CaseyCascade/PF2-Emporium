@@ -1,0 +1,1649 @@
+NAME
+Antler Arrow
+SOURCE
+APG
+PAGE
+256
+GOLD
+7
+LEVEL
+2
+BULK
+None
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Balisse Feather
+SOURCE
+APG
+PAGE
+256
+GOLD
+400
+LEVEL
+12
+BULK
+None
+ENTRY
+This long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the creature you damaged burns with holy light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn.
+TRAITS
+consumable
+divine
+evocation
+magical
+talisman
+
+NAME
+Basilisk Eye
+SOURCE
+APG
+PAGE
+256
+GOLD
+150
+LEVEL
+9
+BULK
+None
+ENTRY
+This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude save or become {@condition slowed|CRB|slowed 1} for 1 minute as its body slowly stiffens in partial petrification.
+TRAITS
+consumable
+magical
+talisman
+transmutation
+visual
+
+NAME
+Blight Bomb
+SOURCE
+APG
+PAGE
+252
+GOLD
+2500
+LEVEL
+17
+BULK
+L
+ENTRY
+Blight bombs contain volatile toxic chemicals that rot flesh. A blight bomb deals the listed poison damage, {@condition persistent damage||persistent poison damage}, and {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+poison
+splash
+
+NAME
+Bloodhound Mask
+SOURCE
+APG
+PAGE
+254
+GOLD
+250
+LEVEL
+11
+BULK
+L
+ENTRY
+This wide, single-use mask is designed to be slipped over your mouth and nose and its alchemical filter activated all with one hand. Once activated, the mask sharpens odors, giving you imprecise scent with the listed range. You can't wear other masks while you're wearing a bloodhound mask.
+TRAITS
+alchemical
+consumable
+
+NAME
+Brass Ear
+SOURCE
+APG
+PAGE
+248
+GOLD
+1
+LEVEL
+None
+BULK
+None
+ENTRY
+A brass ear is a short, flared tube with one end narrow enough to comfortably fit against the ear canal. When using a brass ear to listen through a door, window, thin wall, or similar barrier, if the barrier would normally increase the DC of your {@skill Perception} check to hear sounds on the other side, the DC increases by only half as much as normal.
+TRAITS
+adventuring gear
+
+NAME
+Candle Of Invocation
+SOURCE
+APG
+PAGE
+256
+GOLD
+2000
+LEVEL
+16
+BULK
+None
+ENTRY
+This golden candle bears the symbol of a specific deity emblazoned on its surface, surrounded by the iconography of that deity's faith. Once lit, this candle burns for 1 hour, and it can't be extinguished.
+TRAITS
+uncommon
+conjuration
+consumable
+divine
+
+NAME
+Candle Of Revealing
+SOURCE
+APG
+PAGE
+257
+GOLD
+60
+LEVEL
+7
+BULK
+None
+ENTRY
+When lit, this black candle's eerie blue flame reveals the presence of {@condition invisible} creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the {@condition invisible} condition. Their bodies are outlined, not fully visible, so they are {@condition concealed}. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit.
+TRAITS
+consumable
+divination
+magical
+
+NAME
+Cerulean Scourge
+SOURCE
+APG
+PAGE
+254
+GOLD
+1450
+LEVEL
+16
+BULK
+L
+ENTRY
+Made from a carefully distilled blend of serpentine hemotoxins, the fast-acting cerulean scourge is infamous for transforming the blood vessels near the original wound, which glow with a bright blue light before painfully bursting.
+TRAITS
+alchemical
+consumable
+injury
+poison
+
+NAME
+Concealed Sheath
+SOURCE
+APG
+PAGE
+248
+GOLD
+25
+LEVEL
+3
+BULK
+None
+ENTRY
+This leather sheath is large enough to hold an item of up to light Bulk and is typically used for {@item dagger||daggers}, wands, {@item thieves' tools}, and similar objects. You can affix it to the inside of a boot, under a bracer or sleeve, or in other inconspicuous locations to gain a +1 item bonus to {@skill Stealth} checks and DCs to hide or conceal the item within.
+TRAITS
+adventuring gear
+
+NAME
+Corrosive Ammunition
+SOURCE
+APG
+PAGE
+257
+GOLD
+70
+LEVEL
+7
+BULK
+None
+ENTRY
+This peculiar ammunition is coated in yellow dust that leaves a stain on anything it touches. When activated corrosive ammunition hits a target, it dissolves across the target's armor. The armor takes {@damage 1d8} {@condition persistent damage||persistent acid damage} that ignores the armor's Hardness; if the target isn't wearing armor, it takes the acid damage instead. This damage occurs at the end of the target's turns.
+TRAITS
+consumable
+evocation
+magical
+
+NAME
+Crystal Shards
+SOURCE
+APG
+PAGE
+252
+GOLD
+4000
+LEVEL
+18
+BULK
+L
+ENTRY
+This flask holds a pressurized red-brown gas flecked with bits of sublimated crystal. You gain the listed item bonus to attack rolls. When the bomb explodes, it deals the listed piercing damage and piercing {@trait splash} damage as the mixture suddenly turns into solid crystals flying at high speeds.
+TRAITS
+alchemical
+bomb
+consumable
+earth
+splash
+
+NAME
+Detective's Kit
+SOURCE
+APG
+PAGE
+248
+GOLD
+25
+LEVEL
+3
+BULK
+1
+ENTRY
+This leather satchel contains empty vials, a pair of tweezers, a supply of small linen cloths, a set of brass calipers and a knotted string for measuring distances, several pieces of chalk, a pen, and a blank notebook for keeping notes. Every component of a detective's kit is of exceeding quality, and thus a detective's kit adds a +1 item bonus to checks to investigate a crime scene, a clue, or similar details.
+TRAITS
+adventuring gear
+
+NAME
+Final Surge
+SOURCE
+APG
+PAGE
+253
+GOLD
+3000
+LEVEL
+17
+BULK
+L
+ENTRY
+Your skin grows tough scales like a drake, your eyesight become sharp and your pupils slitted, and your limbs grow wiry and quick, but your mind and reflexes become slow.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Dread Ampoule
+SOURCE
+APG
+PAGE
+253
+GOLD
+3000
+LEVEL
+17
+BULK
+L
+ENTRY
+This flask is filled with a murky purple gas that briefly interferes with normal brain activity. A dread ampoule deals the listed mental damage and mental {@trait splash} damage.
+TRAITS
+alchemical
+bomb
+consumable
+emotion
+fear
+mental
+poison
+splash
+
+NAME
+Dueling Cape
+SOURCE
+APG
+PAGE
+248
+GOLD
+0.5
+LEVEL
+None
+BULK
+L
+ENTRY
+You can pull a dueling cape you're wearing from your shoulder and wrap it around your arm with an {@action Interact} action. While wielding the dueling cape this way, the cape uses that arm and hand, and you can't hold anything else in that hand. While you do so, you can spend an action to hold it in a protective position, giving you a +1 circumstance bonus to AC and to {@skill Deception} checks to {@action Feint} until the start of your next turn.
+TRAITS
+adventuring gear
+
+NAME
+Dust Of Corpse Animation
+SOURCE
+APG
+PAGE
+257
+GOLD
+1500
+LEVEL
+16
+BULK
+None
+ENTRY
+This black pouch contains what appears to be fine bone dust.
+TRAITS
+uncommon
+consumable
+magical
+necromancy
+
+NAME
+Earthglide Cloak
+SOURCE
+APG
+PAGE
+260
+GOLD
+6500
+LEVEL
+15
+BULK
+None
+ENTRY
+This brown-and-gold robe covers you from head to toe. Its weighty fabric doesn't move with the wind, instead hanging still as if carved of stone.
+TRAITS
+earth
+invested
+magical
+transmutation
+worn
+
+NAME
+Earthsight Box
+SOURCE
+APG
+PAGE
+260
+GOLD
+575
+LEVEL
+9
+BULK
+L
+ENTRY
+This fine wooden box is inlaid with Dwarven runes, with hinges and a clasp of forged iron.
+TRAITS
+uncommon
+divination
+magical
+scrying
+held
+
+NAME
+Engulfing Snare
+SOURCE
+APG
+PAGE
+256
+GOLD
+900
+LEVEL
+14
+BULK
+None
+ENTRY
+You arrange a spiky cage of bones, particularly tough vegetation, or other material to spring up when disturbed.
+TRAITS
+consumable
+mechanical
+snare
+trap
+
+NAME
+Envisioning Mask
+SOURCE
+APG
+PAGE
+260
+GOLD
+1200
+LEVEL
+11
+BULK
+None
+ENTRY
+These strange masks consist of a thin stone hood and a shimmering purple veil reminiscent of the pleroma aeon who first gifted them to mortals in the hope that sharing the means of aeon communication would reduce the misunderstandings and conflicts among mortal civilizations. An envisioning mask covers your entire face, though it doesn't hinder your vision or other senses.
+TRAITS
+divination
+invested
+magical
+mental
+worn
+
+NAME
+Exploding Shield
+SOURCE
+APG
+PAGE
+260
+GOLD
+25
+LEVEL
+5
+BULK
+1
+ENTRY
+The magic within this wooden shield (Hardness 3, HP 12, BT 6) lashes out at your foes as the shield is destroyed.
+TRAITS
+evocation
+magical
+held
+
+NAME
+Fearsome
+SOURCE
+APG
+PAGE
+260
+GOLD
+2000
+LEVEL
+12
+BULK
+None
+ENTRY
+When you critically hit with this weapon, the target becomes {@condition frightened 1}.
+TRAITS
+emotion
+enchantment
+fear
+magical
+mental
+rune
+
+NAME
+Fire-jump Ring
+SOURCE
+APG
+PAGE
+260
+GOLD
+940
+LEVEL
+10
+BULK
+None
+ENTRY
+This dark-red ring is engraved with ashen symbols and smells faintly of smoke.
+TRAITS
+uncommon
+conjuration
+fire
+invested
+magical
+teleportation
+worn
+
+NAME
+Flare Snare
+SOURCE
+APG
+PAGE
+256
+GOLD
+5
+LEVEL
+2
+BULK
+None
+ENTRY
+Using bioluminescent matter or alchemical reagents, you rig a short-lived flare to a trip wire or pressure plate. When a Small or larger creature enters the square, this flare shoots into the sky. To creatures with a clear view of the sky, this flare is visible from up to 2 miles away on a clear day or up to 5 miles away on a clear night.
+TRAITS
+consumable
+mechanical
+snare
+trap
+visual
+
+NAME
+Focus Cathartic
+SOURCE
+APG
+PAGE
+253
+GOLD
+3250
+LEVEL
+18
+BULK
+L
+ENTRY
+Focus briefly calms your neurons, helping ease {@trait mental} effects.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Forensic Dye
+SOURCE
+APG
+PAGE
+254
+GOLD
+3
+LEVEL
+1
+BULK
+L
+ENTRY
+Activating this vial of colorless liquid requires inserting a small amount of another chemical or material, such as blood or mud. The vial reacts rapidly, transforming into a murky, reddish-brown substance.
+TRAITS
+alchemical
+consumable
+
+NAME
+Four-ways Dogslicer
+SOURCE
+APG
+PAGE
+261
+GOLD
+1700
+LEVEL
+12
+BULK
+L
+ENTRY
+This +2 striking dogslicer is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade's cutting edge, three of which glow—one with fiery red light, one with a chill blue, and one that gives off sparks—while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.
+TRAITS
+uncommon
+cold
+electricity
+evocation
+fire
+magical
+held
+
+NAME
+Freezing Ammunition
+SOURCE
+APG
+PAGE
+257
+GOLD
+25
+LEVEL
+5
+BULK
+None
+ENTRY
+This chilly ammunition is dark blue and cold to the touch.
+TRAITS
+cold
+consumable
+evocation
+magical
+
+NAME
+Gecko Potion
+SOURCE
+APG
+PAGE
+257
+GOLD
+3
+LEVEL
+1
+BULK
+L
+ENTRY
+A gecko potion is a sticky, tawny brown liquid with flecks of sand suspended in it. For 5 minutes after drinking this potion, your fingertips sprout thousands of microscopic, bristled hairs that cling to objects, granting you a +1 item bonus to {@action Climb} and {@action Palm an Object}, and to your Reflex DC against {@action Disarm} attempts.
+TRAITS
+consumable
+magical
+potion
+transmutation
+
+NAME
+Ghost Charge
+SOURCE
+APG
+PAGE
+253
+GOLD
+2500
+LEVEL
+17
+BULK
+L
+ENTRY
+These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures. A ghost charge deals the listed positive damage and {@trait splash} damage, though as usual for positive damage, this damage harms only undead and creatures with negative healing. Ghost charges are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead. A primary target that takes damage from a ghost charge becomes {@condition enfeebled} until the start of your next turn. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+positive
+splash
+
+NAME
+Ghost Ink
+SOURCE
+APG
+PAGE
+255
+GOLD
+3
+LEVEL
+1
+BULK
+L
+ENTRY
+This pale-blue ink dries rapidly, becoming fully transparent 1 minute after application. The ink glows red when exposed to heat, such as that from a torch or other open flame. This glow lasts only as long as the ink is exposed to heat, after which the ink becomes {@condition invisible} again. The crafter of the ghost ink can alter the formula slightly to instead make the ink sensitive to sunlight, starlight, magical light, or heatless light created by an {@trait alchemical} effect such as a sunrod.
+TRAITS
+alchemical
+consumable
+
+NAME
+Glamorous Buckler
+SOURCE
+APG
+PAGE
+261
+GOLD
+35
+LEVEL
+2
+BULK
+L
+ENTRY
+A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to {@skill Deception} checks to {@action Feint}.
+TRAITS
+illusion
+magical
+held
+
+NAME
+Hellfire Boots
+SOURCE
+APG
+PAGE
+261
+GOLD
+3000
+LEVEL
+13
+BULK
+1
+ENTRY
+These heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While wearing hellfire boots, you gain resistance 10 to fire damage.
+TRAITS
+evocation
+fire
+invested
+magical
+worn
+
+NAME
+Incense Of Distilled Death
+SOURCE
+APG
+PAGE
+257
+GOLD
+350
+LEVEL
+12
+BULK
+None
+ENTRY
+This black incense smells of fresh earth and ash. You activate the incense by lighting it, whereupon it fills a 10-foot emanation with oily smoke and potent negative energy. Undead creatures, including incorporeal undead, gain fast healing 4 while in the area; though this healing comes from negative energy, it doesn't negatively impact living creatures. Once lit, the incense burns for 1 minute, and it can't be extinguished.
+TRAITS
+consumable
+magical
+necromancy
+negative
+
+NAME
+Infiltrator's Accessory
+SOURCE
+APG
+PAGE
+261
+GOLD
+150
+LEVEL
+5
+BULK
+1
+ENTRY
+This elegant +1 striking sword cane serves equally well as a fashionable accessory and {@condition hidden} weapon suitable for highsociety events where weapons aren't typically permitted.
+TRAITS
+illusion
+magical
+held
+
+NAME
+Leadenleg
+SOURCE
+APG
+PAGE
+254
+GOLD
+15
+LEVEL
+4
+BULK
+L
+ENTRY
+Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.
+TRAITS
+alchemical
+consumable
+injury
+poison
+
+NAME
+Lover's Gloves
+SOURCE
+APG
+PAGE
+261
+GOLD
+500
+LEVEL
+8
+BULK
+None
+ENTRY
+These white silk gloves are adorned in red hearts that glow faintly whenever you are adjacent to someone you feel particularly strongly toward.
+TRAITS
+emotion
+enchantment
+invested
+magical
+mental
+worn
+
+NAME
+Mask Of The Banshee
+SOURCE
+APG
+PAGE
+261
+GOLD
+700
+LEVEL
+19
+BULK
+None
+ENTRY
+This ice-blue half-mask is adorned with a wicked silver grin that covers the wearer's mouth, leaving the rest of the face uncovered. You gain a +2 item bonus to {@skill Intimidation} checks.
+TRAITS
+auditory
+invested
+magical
+necromancy
+negative
+worn
+
+NAME
+Medusa's Scream
+SOURCE
+APG
+PAGE
+261
+GOLD
+9000
+LEVEL
+16
+BULK
+1
+ENTRY
+The ghastly visage of a slain medusa's head stares out from this steel shield (Hardness 13, HP 52, BT 26). The shield comes with a thick leather cover to conceal the head.
+TRAITS
+magical
+transmutation
+held
+visual
+
+NAME
+Nauseating Snare
+SOURCE
+APG
+PAGE
+256
+GOLD
+40
+LEVEL
+6
+BULK
+None
+ENTRY
+You position particularly foul substances to splash over a creature. The first creature to enter the square must attempt a DC 20 Fortitude saving throw.
+TRAITS
+consumable
+mechanical
+poison
+snare
+trap
+
+NAME
+Net
+SOURCE
+APG
+PAGE
+248
+GOLD
+1
+LEVEL
+None
+BULK
+1
+ENTRY
+You can use a net either on its own or attached to a rope. When attached to a rope, you can use the net to {@action Grapple} a Medium or smaller creature up to 10 feet away (instead of only adjacent creatures). You can continue to {@action Grapple} to keep your hold on the target so long as the target remains within 10 feet and you continue to hold the net. The grabbed creature gains a +2 circumstance bonus to {@action Escape} unless you are adjacent to them, and it can attempt a DC 16 {@skill Athletics} check to {@action Force Open} the net entirely. Once the target is no longer {@condition grabbed}, the net is unwieldy until refolded as a {@trait Concentrate} action that requires two hands; if used without being refolded, {@action Grapple} checks made with the net take a –2 penalty.
+TRAITS
+adventuring gear
+
+NAME
+Oil Of Object Animation
+SOURCE
+APG
+PAGE
+258
+GOLD
+1400
+LEVEL
+16
+BULK
+None
+ENTRY
+This fine golden oil comes in a small blue canister. Carefully spreading the oil over an object turns it into an animated object (Bestiary 20) of the same type. For example, sprinkling it on a statue makes an animated statue. If the animated object's level would be greater than 3, the oil struggles to animate it and ultimately fails.
+TRAITS
+uncommon
+consumable
+magical
+oil
+transmutation
+
+NAME
+Oil Of Revelation
+SOURCE
+APG
+PAGE
+258
+GOLD
+25
+LEVEL
+5
+BULK
+L
+ENTRY
+This bright oil, first created by humans as a tool to help them fight in darkness, holds flecks of tiny gemstones in suspension and smells like a struck tindertwig.
+TRAITS
+consumable
+evocation
+magical
+oil
+
+NAME
+Oil Of Unlife
+SOURCE
+APG
+PAGE
+258
+GOLD
+5000
+LEVEL
+18
+BULK
+L
+ENTRY
+This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature's physical or spiritual form. When you dash oil of unlife onto an undead creature, or a living creature with negative healing, the oil absorbs quickly into its body, and the creature regains the listed number of Hit Points.
+TRAITS
+consumable
+magical
+necromancy
+negative
+oil
+
+NAME
+Olfactory Obfuscator
+SOURCE
+APG
+PAGE
+254
+GOLD
+225
+LEVEL
+10
+BULK
+L
+ENTRY
+This frothing fluid causes the drinker's body to exude trace odorabsorbing oils. For the listed duration after drinking this elixir, your scent is nearly unnoticeable. Creatures with imprecise scent don't detect you with that sense unless they {@action Seek} for you, and you are {@condition concealed} from creatures that perceive you with precise scent. You gain a +4 item bonus against attempts to {@action Seek} you by creatures using only scent-based senses; if they use any other senses as well, the bonus doesn't apply.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Origin Unguent
+SOURCE
+APG
+PAGE
+255
+GOLD
+6
+LEVEL
+2
+BULK
+L
+ENTRY
+This shimmering, violet unguent forms mild chemical bonds between objects with a matching composition. You apply the adhesive to two objects, or to an object and a creature. You can check if the two share an origin (such as if they were {@condition broken} from the same whole, or if a poison sample or body part came from the same creature) by holding them together with the unguent between; if they match, the unguent becomes sticky.
+TRAITS
+alchemical
+consumable
+
+NAME
+Parrying Scabbard
+SOURCE
+APG
+PAGE
+248
+GOLD
+0.5
+LEVEL
+None
+BULK
+L
+ENTRY
+You can draw this reinforced sheath during the same Interact action you use to draw the weapon it holds, wielding the weapon in one hand and the scabbard in your other. A parrying scabbard can be used for your defense much like a weapon with the {@trait parry} trait: you can spend an action to position it defensively, gaining a +1 circumstance bonus to AC until the start of your next turn. Parrying scabbards are available for any sword that can be wielded in one hand.
+TRAITS
+adventuring gear
+
+NAME
+Periscope
+SOURCE
+APG
+PAGE
+248
+GOLD
+25
+LEVEL
+2
+BULK
+L
+ENTRY
+This is a 2-foot-long tube with two angled mirrors, one at each end. When the mirrors are aligned correctly, you can look around obstacles while remaining behind cover. This doesn't provide a sufficient line of effect to target creatures around corners.
+TRAITS
+adventuring gear
+
+NAME
+Potion Of Disguise
+SOURCE
+APG
+PAGE
+258
+GOLD
+300
+LEVEL
+11
+BULK
+L
+ENTRY
+Upon imbibing this potion, you take on the appearance of a specific type of creature for {@dice 2d12} hours. The type of creature is determined when the potion is created. For example, you might have a potion of elf disguise or potion of frog disguise. Drinking the potion doesn't impart the knowledge of how long the effect lasts; the GM rolls the duration in secret.
+TRAITS
+uncommon
+consumable
+magical
+polymorph
+potion
+transmutation
+
+NAME
+Potion Of Expeditious Retreat
+SOURCE
+APG
+PAGE
+258
+GOLD
+3
+LEVEL
+1
+BULK
+L
+ENTRY
+The stopper for a potion of expeditious retreat is crafted to easily snap open in dire circumstances. When you drink this potion, you become {@condition fleeing} for 1 minute, and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are {@condition fleeing}. You immediately {@action Stride}.
+TRAITS
+consumable
+magical
+potion
+transmutation
+
+NAME
+Potion Of Retaliation
+SOURCE
+APG
+PAGE
+259
+GOLD
+5000
+LEVEL
+18
+BULK
+L
+ENTRY
+A potion of retaliation is available in four varieties—acid, cold, electricity, and fire—each with a faint shimmer reminiscent of the energy it contains. For 1 minute after drinking a potion of retaliation, you glow with a faint aura of that energy, and a creature that touches you (such as by making an unarmed attack or using a spell with a range of touch against you) takes damage of that type. The moderate, greater, and major versions also damage an adjacent creature that hits you with a melee weapon {@action Strike}.
+TRAITS
+consumable
+evocation
+magical
+potion
+
+NAME
+Potion Of Shared Memories
+SOURCE
+APG
+PAGE
+259
+GOLD
+4
+LEVEL
+1
+BULK
+L
+ENTRY
+A potion of shared memories can transfer recollections from one creature to another. To place a memory in the potion, you must hold the vial and focus on a particular memory for 1 minute. This memory must be of a single event, location, person, or otherwise encompass a span of about 1 minute.
+TRAITS
+consumable
+divination
+magical
+mental
+potion
+
+NAME
+Predictable Silver Piece
+SOURCE
+APG
+PAGE
+262
+GOLD
+3
+LEVEL
+1
+BULK
+None
+ENTRY
+This seemingly unremarkable, weathered silver coin bears the bust of an unnamed monarch on the face and a majestic bird on the tail. You can toss the coin without activating it, in which case it follows the normal laws of probability.
+TRAITS
+divination
+magical
+held
+
+NAME
+Ration Tonic
+SOURCE
+APG
+PAGE
+259
+GOLD
+55
+LEVEL
+7
+BULK
+L
+ENTRY
+This slender vial appears to hold clean, clear water with a faintly fruity scent. Drinking a ration tonic magically nourishes you with the equivalent of a day's worth of food and water.
+TRAITS
+conjuration
+consumable
+magical
+potion
+
+NAME
+Ready
+SOURCE
+APG
+PAGE
+262
+GOLD
+1200
+LEVEL
+11
+BULK
+None
+ENTRY
+A ready rune draws component pieces of a suit of armor toward one another, making it easier and faster to get into. You can don light armor with this rune as a 3-action activity or medium or heavy armor with this rune in 1 minute.
+TRAITS
+evocation
+magical
+rune
+
+NAME
+Rod Of Cancellation
+SOURCE
+APG
+PAGE
+262
+GOLD
+75000
+LEVEL
+20
+BULK
+1
+ENTRY
+This powerful magic rod is inimical to all magic.
+TRAITS
+rare
+abjuration
+magical
+held
+
+NAME
+Rope Of Climbing
+SOURCE
+APG
+PAGE
+262
+GOLD
+300
+LEVEL
+7
+BULK
+L
+ENTRY
+This silk rope measures 50 feet long and is capable of holding up to 3,000 pounds. If the rope is ever cut, only the longest remaining portion retains its magic.
+TRAITS
+magical
+transmutation
+held
+
+NAME
+Shielding Salve
+SOURCE
+APG
+PAGE
+259
+GOLD
+4
+LEVEL
+1
+BULK
+L
+ENTRY
+This shimmering paste has many properties of a {@spell shield} spell.
+TRAITS
+abjuration
+consumable
+magical
+oil
+
+NAME
+Sinew-shock Serum
+SOURCE
+APG
+PAGE
+254
+GOLD
+3250
+LEVEL
+18
+BULK
+L
+ENTRY
+This serum jolts the body to help shake off physical debilitations.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Skinstitch Salve
+SOURCE
+APG
+PAGE
+255
+GOLD
+55
+LEVEL
+7
+BULK
+L
+ENTRY
+This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.
+TRAITS
+alchemical
+consumable
+healing
+
+NAME
+Slates Of Distant Letters
+SOURCE
+APG
+PAGE
+262
+GOLD
+2450
+LEVEL
+13
+BULK
+L
+ENTRY
+This matched pair of slates, roughly one handspan wide and tall, have identical ornate frames.
+TRAITS
+divination
+magical
+held
+
+NAME
+Sleeves Of Storage
+SOURCE
+APG
+PAGE
+263
+GOLD
+600
+LEVEL
+9
+BULK
+L
+ENTRY
+This loose robe has wide, voluminous sleeves that each contain an extradimensional space. These spaces each function as a bag of holding that can hold up to 5 Bulk of items (for a total of 10 Bulk), though no individual item can be of more than 1 Bulk; the sleeves grow slightly heavy as you reach maximum capacity. You can add or remove an item from a sleeve with a single hand free as an {@action Interact} action.
+TRAITS
+conjuration
+extradimensional
+invested
+magical
+worn
+
+NAME
+Snagging Hook Snare
+SOURCE
+APG
+PAGE
+256
+GOLD
+180
+LEVEL
+10
+BULK
+None
+ENTRY
+This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes {@damage 5d8} piercing damage and {@damage 5d8} slashing damage, with a DC 27 basic Reflex save. On a critical failure, the hooks piercing its flesh make the creature {@condition immobilized} until it successfully Escapes (DC 27)
+TRAITS
+consumable
+mechanical
+snare
+trap
+
+NAME
+Sovereign Glue
+SOURCE
+APG
+PAGE
+255
+GOLD
+55
+LEVEL
+7
+BULK
+L
+ENTRY
+This peculiar amber glue bonds two surfaces together almost inseparably. A single flask covers an area up to 1 square foot and must be used all at once to form a single bond between two surfaces. If the activation is interrupted, the bond fails and the glue is wasted.
+TRAITS
+alchemical
+consumable
+
+NAME
+Spellguard Blade
+SOURCE
+APG
+PAGE
+263
+GOLD
+320
+LEVEL
+7
+BULK
+L
+ENTRY
+The guard of this +1 striking main-gauche is inscribed with eldritch glyphs that guard against magic. When you are benefiting from the +1 circumstance bonus to AC from this weapon's {@trait parry} trait, you also apply that circumstance bonus to your saving throws against spells that target you.
+TRAITS
+abjuration
+magical
+held
+
+NAME
+Spiritsight Crossbow
+SOURCE
+APG
+PAGE
+263
+GOLD
+450
+LEVEL
+8
+BULK
+2
+ENTRY
+This +1 striking {@item ghost touch} crossbow has an array of crystalline lenses and silver fittings along the stock and feels strangely light.
+TRAITS
+uncommon
+conjuration
+magical
+teleportation
+held
+
+NAME
+Staff Of Impossible Visions
+SOURCE
+APG
+PAGE
+263
+GOLD
+70000
+LEVEL
+20
+BULK
+1
+ENTRY
+This bizarre staff is made from oak, capped with a cluster of eye-shaped gemstones that seem to move and undulate at the corner of your vision. While wielding the staff, you can peer through the eyes, using your normal visual senses (including any benefits of spells affecting your vision, like see invisibility). You can maneuver the staff to see things around corners, at higher elevations, or in places where the staff can fit but your head can't. This doesn't provide sufficient line of effect to target creatures around corners.
+TRAITS
+uncommon
+illusion
+magical
+staff
+
+NAME
+Staff Of Nature's Vengeance
+SOURCE
+APG
+PAGE
+263
+GOLD
+24000
+LEVEL
+18
+BULK
+1
+ENTRY
+This stout staff is made from gnarled hawthorn. When used as a weapon, a staff of nature's vengeance permanently has the effects of {@spell shillelagh}.
+TRAITS
+evocation
+magical
+staff
+
+NAME
+Staff Of Providence
+SOURCE
+APG
+PAGE
+264
+GOLD
+64000
+LEVEL
+20
+BULK
+1
+ENTRY
+A large, stylized symbol of an eye adorns the top of this wooden staff, representing the watchful eye of the divine powers. The bearer of the staff can guide and protect, seeing bounties and tragedies that could befall them in the future. When wielding this staff, you gain a +1 item bonus on {@skill Survival} checks to {@action Sense Direction} or {@action Subsist}, and to {@skill Religion} checks to {@action Recall Knowledge}.
+TRAITS
+divination
+magical
+staff
+
+NAME
+Terrifying Ammunition
+SOURCE
+APG
+PAGE
+259
+GOLD
+50
+LEVEL
+6
+BULK
+None
+ENTRY
+This black-and-gray ammunition is etched with occult symbols and tiny, grinning skulls. When activated terrifying ammunition damages a creature, it fills the creature's mind with visions of their own failures, tragedies, and eventually, their own death. The creature must attempt a DC 20 Will save.
+TRAITS
+consumable
+emotion
+enchantment
+fear
+magical
+mental
+
+NAME
+Time Shield Potion
+SOURCE
+APG
+PAGE
+259
+GOLD
+600
+LEVEL
+13
+BULK
+L
+ENTRY
+This purple potion has a bitter taste and seems to blur with motion. When you drink a time shield potion, you are frozen in time for {@dice 2d4} rounds. You can't act or be targeted, you become immune to all effects, and you vanish from your space; as far as the universe is concerned, you simply don't exist as long as the potion lasts. The durations of any effects targeting you when you drink the potion are suspended until it wears off.
+TRAITS
+consumable
+magical
+potion
+transmutation
+
+NAME
+Timeless Salts
+SOURCE
+APG
+PAGE
+255
+GOLD
+14
+LEVEL
+4
+BULK
+L
+ENTRY
+You sprinkle these salts onto a single object up to 10 cubic feet in volume and no more than 40 Bulk to preserve it for 1 week.
+TRAITS
+alchemical
+consumable
+
+NAME
+Universal Solvent
+SOURCE
+APG
+PAGE
+255
+GOLD
+3250
+LEVEL
+18
+BULK
+L
+ENTRY
+Originally formulated as a means of dissolving sovereign glue, this powerful solvent can break almost any adhesive's grip.
+TRAITS
+alchemical
+consumable
+
+NAME
+Urn Of Ashes
+SOURCE
+APG
+PAGE
+264
+GOLD
+700
+LEVEL
+9
+BULK
+None
+ENTRY
+This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.
+TRAITS
+magical
+necromancy
+negative
+held
+attack
+
+NAME
+Victory Plate
+SOURCE
+APG
+PAGE
+264
+GOLD
+5500
+LEVEL
+15
+BULK
+4
+ENTRY
+The metal plates of this +1 resilient full plate are covered by a bright tabard featuring a distinctive coat of arms divided into four fields. This insignia magically records your recent victories, displaying one triumph in each field of the coat of arms, allowing you to call upon those victories for aid in future battles.
+TRAITS
+uncommon
+abjuration
+invested
+magical
+armor
+
+NAME
+Walking Cauldron
+SOURCE
+APG
+PAGE
+264
+GOLD
+12
+LEVEL
+1
+BULK
+4
+ENTRY
+This iron cauldron stands upon sturdy iron crow's feet. A walking cauldron has a land Speed of 25 feet and can be used as a suitable tool to {@action Craft} potions, oils, or other liquids.
+TRAITS
+invested
+magical
+transmutation
+other
+
+NAME
+Wand Of Crackling Lightning
+SOURCE
+APG
+PAGE
+265
+GOLD
+24000
+LEVEL
+18
+BULK
+L
+ENTRY
+This wand is made of two copper plates separated by a ceramic center.
+TRAITS
+electricity
+evocation
+magical
+wand
+
+NAME
+Wand Of Hopeless Night
+SOURCE
+APG
+PAGE
+265
+GOLD
+1000
+LEVEL
+10
+BULK
+L
+ENTRY
+This wand is a length of wrought black iron.
+TRAITS
+darkness
+evocation
+magical
+wand
+
+NAME
+Wand Of Overflowing Life
+SOURCE
+APG
+PAGE
+265
+GOLD
+40000
+LEVEL
+19
+BULK
+L
+ENTRY
+This alabaster wand has a clear crystal at the tip.
+TRAITS
+healing
+magical
+necromancy
+positive
+wand
+
+NAME
+Wand Of The Snowfields
+SOURCE
+APG
+PAGE
+265
+GOLD
+24000
+LEVEL
+18
+BULK
+L
+ENTRY
+This wand is a slender length of ice-blue glass.
+TRAITS
+cold
+evocation
+magical
+wand
+
+NAME
+Wand Of The Spider
+SOURCE
+APG
+PAGE
+265
+GOLD
+1400
+LEVEL
+11
+BULK
+L
+ENTRY
+The handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing.
+TRAITS
+conjuration
+magical
+poison
+wand
+
+NAME
+Winged
+SOURCE
+APG
+PAGE
+265
+GOLD
+35000
+LEVEL
+19
+BULK
+None
+ENTRY
+This rune is a swirling glyph on the front of the armor. A large pair of transparent, ephemeral wings floats out from the back of the armor.
+TRAITS
+magical
+transmutation
+rune
+

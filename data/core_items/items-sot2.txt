@@ -1,0 +1,207 @@
+NAME
+Bag Of Cats
+SOURCE
+SoT2
+PAGE
+75
+GOLD
+500
+LEVEL
+8
+BULK
+1
+ENTRY
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
+TRAITS
+uncommon
+conjuration
+magical
+transmutation
+held
+
+NAME
+Crown Of The Companion
+SOURCE
+SoT2
+PAGE
+75
+GOLD
+250
+LEVEL
+6
+BULK
+L
+ENTRY
+Stories tell of a forgotten king who once loved his subjects so much he was willing to give his own life energy for them. Whether true or not, this majestic wooden crown bears elaborate carvings depicting that tale. It's ringed with images of the same kingly figure giving more and more of himself to a throng of needy subjects. While wearing it, you gain a +1 item bonus to {@skill Diplomacy} checks.
+TRAITS
+uncommon
+healing
+invested
+magical
+necromancy
+positive
+worn
+
+NAME
+Fulminating Spear
+SOURCE
+SoT2
+PAGE
+76
+GOLD
+360
+LEVEL
+7
+BULK
+1
+ENTRY
+This +1 striking returning spear is warm to the touch. The head of the spear is crafted from gold with ivory inlay and has a ruby set into the shaft. You can make the spear glow like a torch or suppress its light by using an action, which has the {@trait concentrate} trait.
+TRAITS
+uncommon
+evocation
+fire
+magical
+held
+
+NAME
+Habu's Cudgel
+SOURCE
+SoT2
+PAGE
+76
+GOLD
+415
+LEVEL
+8
+BULK
+1
+ENTRY
+Long associated with a notorious crime boss in Nantambu, this stout +1 striking {@item fearsome|APG} club is studded with vicious-looking knobs of obsidian and wrapped in cloth for a better grip.
+TRAITS
+unique
+magical
+necromancy
+held
+
+NAME
+Leopard's Armor
+SOURCE
+SoT2
+PAGE
+76
+GOLD
+700
+LEVEL
+9
+BULK
+2
+ENTRY
+Made of cobalt-colored steel rings that flow down the entire length of the garment, this +1 resilient chain mail includes an armored face covering. The armor is said to be based on the same armor once worn by Azure Leopard, one of Old-Mage Jatembe's magic warriors.
+TRAITS
+uncommon
+magical
+transmutation
+armor
+
+NAME
+Rhino Hide Brooch
+SOURCE
+SoT2
+PAGE
+76
+GOLD
+28
+LEVEL
+5
+BULK
+None
+ENTRY
+This thick brooch is carved from a single piece of rhino hide. It's lacquered and covered in a thin layer of silver dust. When activated, the talisman grants you resistance 5 to physical damage until the end of the current creature's turn. This resistance applies to the triggering attack.
+TRAITS
+uncommon
+abjuration
+consumable
+magical
+talisman
+
+NAME
+Singing Muse
+SOURCE
+SoT2
+PAGE
+76
+GOLD
+250
+LEVEL
+6
+BULK
+None
+ENTRY
+This small figurine is carved from a single piece of silvery, spiky stone and resembles a beautiful dryad pouring water into a small pool. When you activate the muse, you are momentarily enlightened with inspiration that bolsters your performance. If you roll a success on your triggering check, you get a critical success instead.
+TRAITS
+uncommon
+abjuration
+consumable
+magical
+talisman
+
+NAME
+Spellender
+SOURCE
+SoT2
+PAGE
+76
+GOLD
+600
+LEVEL
+9
+BULK
+L
+ENTRY
+This knife is a +1 striking returning dagger with a wide blade and thick wooden handle. A prayer for protection from evil magic is carved into the handle in tiny script, running around the handle in a spiral. The grooves of the carved prayer provide a good grip on the knife and make it easy to catch when it returns to your hand.
+TRAITS
+uncommon
+abjuration
+magical
+held
+
+NAME
+Warcaller's Chime
+SOURCE
+SoT2
+PAGE
+77
+GOLD
+2000
+LEVEL
+12
+BULK
+L
+ENTRY
+The Nantambu Chime-Ringers created these magical chimes to aid in their defense of their city. Each chime is made from elaborately carved wood depicting the nature of a given chime's power.
+TRAITS
+uncommon
+evocation
+magical
+held
+
+NAME
+Wondrous Figurines
+SOURCE
+SoT2
+PAGE
+77
+GOLD
+700
+LEVEL
+9
+BULK
+L
+ENTRY
+The magical statuettes known as wondrous figurines are described on page 576 of the Pathfinder Core Rulebook.
+TRAITS
+uncommon
+conjuration
+magical
+held
+

@@ -1,0 +1,213 @@
+NAME
+Cooperative Blade
+SOURCE
+AV2
+PAGE
+71
+GOLD
+250
+LEVEL
+6
+BULK
+1
+ENTRY
+This +1 striking longsword has a mirror-like blade free of tarnish despite being millennia old. While wielding it, you gain a +2 item bonus to checks to {@action Aid}. If you're an expert with the skill or attack roll you're using to {@action Aid} and you critically succeed, you grant your ally a +3 circumstance bonus to the triggering check instead of a +2 bonus.
+TRAITS
+unique
+divination
+magical
+held
+
+NAME
+Devil's Luck
+SOURCE
+AV2
+PAGE
+74
+GOLD
+None
+LEVEL
+3
+BULK
+None
+ENTRY
+You've bargained with an imp, one of the least powerful devils, for a fragment of infernal luck.
+TRAITS
+rare
+contract
+enchantment
+fortune
+invested
+magical
+
+NAME
+Drover's Band
+SOURCE
+AV2
+PAGE
+72
+GOLD
+675
+LEVEL
+7
+BULK
+L
+ENTRY
+This black leather wrist guard has a bright red gem on the inside of the wrist. Faint glyphs and words of domination in Infernal swim inside the gem. Your words become harsh and clipped when you have this magic item invested.
+TRAITS
+rare
+enchantment
+incapacitation
+invested
+magical
+worn
+
+NAME
+Folding Drums
+SOURCE
+AV2
+PAGE
+72
+GOLD
+160
+LEVEL
+5
+BULK
+varies (see text)
+ENTRY
+You can unfold this virtuoso percussion instrument into a {@item Virtuoso Handheld Musical Instrument||hand drum} (1 Bulk), a {@item Virtuoso Handheld Musical Instrument||marching drum set} with a shoulder harness and back brace (3 Bulk), or a {@item Virtuoso Heavy Musical Instrument||large standing drum set} with a built-in stool (16 Bulk). Changing the folding drum's size is a 3-action {@action Interact} activity, and the drums must have sufficient open space to accommodate their new size.
+TRAITS
+uncommon
+magical
+transmutation
+held
+concentrate
+
+NAME
+Hunter's Brooch
+SOURCE
+AV2
+PAGE
+71
+GOLD
+80
+LEVEL
+4
+BULK
+L
+ENTRY
+While wearing this silver religious symbol of {@deity Erastil}, you can cast the {@spell disrupt undead} cantrip as an innate divine spell.
+TRAITS
+unique
+divine
+invested
+positive
+transmutation
+worn
+
+NAME
+Ichthyosis Mutagen
+SOURCE
+AV2
+PAGE
+72
+GOLD
+24
+LEVEL
+5
+BULK
+L
+ENTRY
+After you drink this mutagen, your skin continually renews itself, thickening into large, scaly patches.
+TRAITS
+rare
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Icy Disposition
+SOURCE
+AV2
+PAGE
+75
+GOLD
+None
+LEVEL
+11
+BULK
+None
+ENTRY
+Your flesh looks no different, but is cold to the touch.
+TRAITS
+rare
+abjuration
+contract
+invested
+magical
+
+NAME
+Pact Of Blood-taking
+SOURCE
+AV2
+PAGE
+75
+GOLD
+None
+LEVEL
+5
+BULK
+None
+ENTRY
+You negotiate for might and viciousness.
+TRAITS
+rare
+contract
+invested
+magical
+necromancy
+
+NAME
+Right Of Retribution
+SOURCE
+AV2
+PAGE
+75
+GOLD
+None
+LEVEL
+8
+BULK
+None
+ENTRY
+Profane powers of vengeance are yours to inflict.
+TRAITS
+rare
+contract
+enchantment
+invested
+magical
+
+NAME
+Sloughing Toxin
+SOURCE
+AV2
+PAGE
+72
+GOLD
+60
+LEVEL
+7
+BULK
+L
+ENTRY
+This complex toxin makes the muscles beneath a creature's skin loose and malleable, which fleshwarpers find useful in their work. Rough or jerky movements the victim performs concentrate the toxin in subdermal muscles and eventually cause skin and muscle to slough away.
+TRAITS
+rare
+alchemical
+consumable
+injury
+poison
+

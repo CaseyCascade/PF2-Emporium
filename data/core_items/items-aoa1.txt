@@ -1,0 +1,20 @@
+NAME
+Cinderclaw Gauntlet
+SOURCE
+AoA1
+PAGE
+77
+GOLD
+150
+LEVEL
+5
+BULK
+L
+ENTRY
+This sharp-taloned {@runeItem spiked gauntlet||+1 weapon potency||striking|} appears to have been crafted from dragon scales, with claws built from iron. In addition to the typical weapon traits, a {@i Cinderclaw gauntlet} has the {@trait versatile <s>} trait.
+TRAITS
+uncommon
+evocation
+magical
+worn
+

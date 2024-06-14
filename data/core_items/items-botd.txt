@@ -1,0 +1,302 @@
+NAME
+Lady's Chalice
+SOURCE
+BotD
+PAGE
+200
+GOLD
+60
+LEVEL
+3
+BULK
+L
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+uncommon
+conjuration
+divine
+good
+held
+
+NAME
+Soul Cage
+SOURCE
+BotD
+PAGE
+50
+GOLD
+1600
+LEVEL
+12
+BULK
+—
+ENTRY
+As you {@action Craft} your soul cage, you trap your soul within it, an integral part of the complicated process of becoming a lich.
+TRAITS
+rare
+arcane
+necromancy
+negative
+held
+
+NAME
+Peachwood Weapon
+SOURCE
+BotD
+PAGE
+20
+GOLD
+19000
+LEVEL
+18
+BULK
+varies by weapon
+ENTRY
+Peachwood weapons have a particularly auburn tinge to them when under direct sunlight.
+TRAITS
+uncommon
+material
+
+NAME
+Bottled Sunlight
+SOURCE
+BotD
+PAGE
+18
+GOLD
+4500
+LEVEL
+18
+BULK
+L
+ENTRY
+This mirrored bottle contains various chemicals dissolved in two immiscible solvents. Shaking the bottle induces chemical reactions that cause it to glow. For 1 hour, the bottle sheds bright light in a 20-foot radius (and dim light to the next 40 feet). During this hour, it can be thrown like a bomb. This requires a single action to Activate with a {@action Strike}, like other bombs, and deals the damage below. If it's not thrown within an hour of the first activation, it defuses harmlessly and is consumed.
+TRAITS
+alchemical
+bomb
+consumable
+fire
+light
+positive
+splash
+
+NAME
+Celestial Peachwood Sword
+SOURCE
+BotD
+PAGE
+18
+GOLD
+15000
+LEVEL
+17
+BULK
+L
+ENTRY
+From blade to pommel, this sword is carved from a branch of the now-extinct celestial peach tree. The blade of this +3 greater striking disrupting holy peachwood (page 20) shortsword has ancient runes that can permanently destroy the most powerful undead—if you are willing to pay the price. An undead creature of 12th level or lower that takes damage from a {@action Strike} with the sword takes {@damage 10d6} positive damage (DC 35 basic Fortitude save). This damage is separate from the {@action Strike} itself and isn't included in {@trait any} effect based on the {@action Strike}'s damage.
+TRAITS
+rare
+good
+magical
+necromancy
+positive
+held
+
+NAME
+Dawnlight
+SOURCE
+BotD
+PAGE
+18
+GOLD
+1300
+LEVEL
+11
+BULK
+L
+ENTRY
+This shining symbol of {@deity Sarenrae} depicts the goddess with her arms held wide. In the center of the symbol is a crystal reliquary with a perfect feather floating inside, glowing bright as a candle with the light of the goddess.
+TRAITS
+uncommon
+divine
+evocation
+held
+
+NAME
+Ectoplasmic Tracer
+SOURCE
+BotD
+PAGE
+19
+GOLD
+12
+LEVEL
+3
+BULK
+L
+ENTRY
+This sticky, fluorescing substance, stored in an atomizing nozzle, sprays all creatures within a 15-foot cone when released. This marks any incorporeal creatures in the cone for {@dice 1d4} days. Anyone attempting to {@action Track} a marked creature gains a +2 item bonus to the check. The tracer has no effect on corporeal creatures, nor incorporeal creatures not formed of spiritual essence, such as animate dreams that are purely mental in nature.
+TRAITS
+alchemical
+consumable
+
+NAME
+banquet of hungry ghosts
+SOURCE
+BotD
+PAGE
+19
+GOLD
+350
+LEVEL
+12
+BULK
+8
+ENTRY
+This lavish meal with meats, fresh and dried fruits, grains, and wine smells absolutely scrumptious, especially to undead. It comes complete with dishes and dining utensils. You spend an hour setting up this feast to feed one undead creature, who is present throughout the process. The undead must be willing, but the food smells delicious and feeds any unusual hunger the undead has, so an undead motivated mainly by hunger will usually be willing to dine. Incorporeal undead consume the various essences of the meal, allowing them to eat it despite their lack of a body. After it has consumed the meal, the undead becomes {@condition friendly} to you for 24 hours, or until you take actions to antagonize or anger it. The meal also sates the undead during that time, which could allow an undead with an unnatural hunger to stave off that hunger for a time.
+TRAITS
+consumable
+enchantment
+magical
+
+NAME
+Final Rest
+SOURCE
+BotD
+PAGE
+19
+GOLD
+24000
+LEVEL
+18
+BULK
+1
+ENTRY
+This +3 greater disrupting greater striking silver longsword is made from the purest silver. The blade is carefully etched to depict a vast and sprawling necropolis, a place where the dead are laid to rest. Whenever you critically hit an undead creature with final rest, the undead creature takes {@damage 3d6} {@condition persistent damage||persistent good damage}, with a DC 36 Fortitude save.
+TRAITS
+magical
+necromancy
+held
+
+NAME
+Grim Ring
+SOURCE
+BotD
+PAGE
+19
+GOLD
+150
+LEVEL
+5
+BULK
+—
+ENTRY
+This golden ring is sculpted with the visage of a grinning skull on the side. While wearing the ring, you can attempt to detect the presence of undead creatures as an exploration activity.
+TRAITS
+uncommon
+detection
+divination
+divine
+invested
+worn
+positive
+
+NAME
+Lady's Spiral
+SOURCE
+BotD
+PAGE
+19
+GOLD
+360
+LEVEL
+7
+BULK
+1
+ENTRY
+This +1 disrupting striking whip has a single strip of anointed leather wrapped around its hilt in a spiral pattern. The handle of the whip ends in an oak spike that has been sanctified with ashes from {@deity Pharasma}'s Boneyard. If the spike is used to stake a vampire that's vulnerable to being staked, the vampire is immediately destroyed, without having to sever its head and anoint it with holy water. If the whip is buried with a creature, that creature can't rise as an undead as long as the whip remains by its side.
+TRAITS
+uncommon
+magical
+necromancy
+held
+
+NAME
+Life Salt
+SOURCE
+BotD
+PAGE
+20
+GOLD
+25
+LEVEL
+5
+BULK
+L
+ENTRY
+This crystal vial contains salts blessed by channeling life-giving energies into waters purified by holy fire.
+TRAITS
+consumable
+divine
+positive
+
+NAME
+high-grade peachwood object
+SOURCE
+BotD
+PAGE
+20
+GOLD
+7500
+LEVEL
+16
+BULK
+L
+ENTRY
+Peachwood, often cultivated by Pharasmin priests, can ward against undead—even incorporeal ones. However, the wood loses its magical properties when it comes in contact with metal, requiring advanced carpentry to make full use of it.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Peachwood Talisman
+SOURCE
+BotD
+PAGE
+20
+GOLD
+40
+LEVEL
+6
+BULK
+None
+ENTRY
+Symbols of good fortune and luck are carved on this thin, square wooden plaque. It smells of sandalwood from the blessings placed upon it. After activation, for the next minute, you can sense attacks from undead. You aren't {@condition flat-footed} to {@condition hidden}, {@condition undetected}, or flanking undead of your level or lower, or undead of your level or lower using surprise attack. However, they can still help their allies flank.
+TRAITS
+uncommon
+abjuration
+consumable
+magical
+talisman
+
+NAME
+Undead Detection Dye
+SOURCE
+BotD
+PAGE
+20
+GOLD
+20
+LEVEL
+4
+BULK
+L
+ENTRY
+The liquid in this test tube is as clear as water. You can drop in a sample collected from the environment or a creature to reveal what kind of undead has been in contact with the sample in the past 24 hours. The water changes color, as seen on the table, or remains clear if it doesn't detect any traces of undead. The higher the undead's level or number of undead in contact with the sample, the more intense the color. This isn't a foolproof way to identify a disguised creature as undead, since any contact with undead causes the sample to change colors. If an undead has been disguising its undead nature or its presence in an area, the GM can roll a secret DC 20 {@skill Deception} or {@skill Stealth} check for the creature when the dye is activated. On a success, the creature avoided leaving traces.
+TRAITS
+uncommon
+alchemical
+consumable
+

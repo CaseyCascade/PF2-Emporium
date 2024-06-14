@@ -1,0 +1,146 @@
+NAME
+Deathless Light
+SOURCE
+SoT4
+PAGE
+85
+GOLD
+165
+LEVEL
+10
+BULK
+L
+ENTRY
+This glowing piece of flesh increases the spell level of a spell with the {@trait light} trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a {@spell darkness} spell.
+TRAITS
+uncommon
+catalyst
+consumable
+magical
+
+NAME
+Deflecting Branch
+SOURCE
+SoT4
+PAGE
+75
+GOLD
+4500
+LEVEL
+14
+BULK
+2
+ENTRY
+This massive branch has been cut into a general club shape but still bears several knots and has a number of runes carved along its length. The deflecting branch is a +2 greater striking greatclub. On a critical hit, you knock the target {@condition prone}.
+TRAITS
+uncommon
+abjuration
+magical
+held
+
+NAME
+Golden Blade of Mzali
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+6500
+LEVEL
+15
+BULK
+1
+ENTRY
+Each of these golden spears was forged in the days of old Mzali, when the sun kings ruled the city. The majority of these weapons are lost, most likely buried with warriors in tombs and temples sealed by {@deity Walkena|LOGM}'s decrees.
+TRAITS
+rare
+evocation
+fire
+light
+magical
+held
+
+NAME
+Midday Lantern
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+18750
+LEVEL
+18
+BULK
+L
+ENTRY
+This hooded lantern is made from brilliant, reinforced gold engraved with the image of the sun high in the sky. The lantern uses oil, as a standard lantern, except that any light the lantern emits is magical and similar to sunlight. The lantern doesn't emit dim light, instead only emitting bright light to its normal radius (20 feet for typical lights when using oil). This bright light is close enough to sunlight to open temple doors that require sunlight or similar light, but it doesn't shine direct sunlight, so it doesn't trigger effects such as a vampire's sunlight weakness.
+TRAITS
+uncommon
+light
+magical
+transmutation
+held
+
+NAME
+Sun Shot
+SOURCE
+SoT4
+PAGE
+78
+GOLD
+0.1
+LEVEL
+None
+BULK
+L
+ENTRY
+A sun sling is a small staff with a head of woven netting. The staff is small enough to hold in a single hand, making it useful for hit-and-run tactics, but once loaded with ammunition, it requires two hands to properly swing and fire. Sun slings use small metal bullets covered in sharp spikes known as sun shots.
+TRAITS
+ammunition
+
+NAME
+Sun Sling
+SOURCE
+SoT4
+PAGE
+78
+GOLD
+3
+LEVEL
+0
+BULK
+L
+ENTRY
+A sun sling is a small staff with a head of woven netting. The staff is small enough to hold in a single hand, making it useful for hit-and-run tactics, but once loaded with ammunition, it requires two hands to properly swing and fire. Sun slings use small metal bullets covered in sharp spikes known as {@item sun shots|sot4}.
+TRAITS
+uncommon
+concussive
+propulsive
+weapon
+martial
+1d8
+p
+sling
+staff
+
+NAME
+Twilight Lantern
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+18750
+LEVEL
+18
+BULK
+L
+ENTRY
+This elegant hooded lantern is made from onyx-black metal. In dim light, flecks of white metal speckled within the lantern's housing resemble stars in a night sky. The lantern uses oil as a standard hooded lantern, except that any light the lantern emits is converted into magical light similar to moonlight. This magical moonlight is always dim light.
+TRAITS
+uncommon
+light
+magical
+transmutation
+held
+

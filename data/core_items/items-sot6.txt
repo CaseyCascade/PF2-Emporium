@@ -1,0 +1,63 @@
+NAME
+Ancestral Embrace
+SOURCE
+SoT6
+PAGE
+76
+GOLD
+None
+LEVEL
+26
+BULK
+1
+ENTRY
+This brightly colored +4 major resilient leather armor is inscribed with a spiral that has no end or beginning. Though it is a symbol of the ancient religion of Holy Xatramba, it also serves as a religious symbol of {@deity Pharasma}. When you invest the armor, you gain negative resistance 25 and can draw on the power of your ancestors. You gain an ancestry feat from your ancestry; the feat can be any level, but you must meet any other prerequisites of the feat.
+TRAITS
+unique
+artifact
+divine
+invested
+necromancy
+
+NAME
+Halcyon Heart
+SOURCE
+SoT6
+PAGE
+77
+GOLD
+None
+LEVEL
+21
+BULK
+1
+ENTRY
+This shekere features carved prayers barely visible under a fine silk net of colorful beads. The handheld percussion instrument grants a +3 item bonus to {@skill Performance} checks while playing music with it. In addition, when you {@action Perform} with it, you can make it heard by any number of creatures within 100 miles. You can specify one or more specific creatures, or otherwise describe those who will hear it, such as all humans, or all inhabitants of a village. You can send a message through the music that the targets understand. Demons and creatures connected to demons (such as a creature whose deity is a demon lord or a sorcerer with the demonic bloodline) can't easily understand any messages conveyed in this way, even if you wish to send the message to them. They must attempt a {@skill Society} check against your {@skill Performance} DC or against DC 40, whichever is higher. If your {@skill Performance} DC is higher than DC 40 and you want demons to be able to understand the message, you can choose to use DC 40 instead.
+TRAITS
+rare
+artifact
+divination
+magical
+
+NAME
+Shadowed Scale, the Jungle Secret
+SOURCE
+SoT6
+PAGE
+77
+GOLD
+None
+LEVEL
+22
+BULK
+L
+ENTRY
+This gold-inlaid wooden mask depicts the reptilian visage of a mokele-mbembe, a jungle predator seen by the Mwangi as embodiments of nature's strength and majesty.
+TRAITS
+unique
+artifact
+conjuration
+invested
+magical
+primal
+

@@ -1,0 +1,21 @@
+NAME
+Nosoi Charm
+SOURCE
+NGD
+PAGE
+63
+GOLD
+19000
+LEVEL
+18
+BULK
+—
+ENTRY
+Nosois serve as scribes and messengers to psychopomps. They are rare outside of the Boneyard, so it's common for psychopomps venturing to other planes to carry a nosoi facsimile to aid in their travels. This tiny icon of a masked raven emits twittering sounds in perfect accompaniment to your performances. You gain a +2 item bonus to {@skill Performance} checks to play an instrument, orate, or sing. You can cast {@spell sending} once per day as a divine innate spell.
+TRAITS
+rare
+divination
+invested
+magical
+held
+
