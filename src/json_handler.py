@@ -12,6 +12,7 @@ class Item:
     source = None
     price = None
     coin = None
+    
     entry = None
     traits = []
     lock_entry = False
