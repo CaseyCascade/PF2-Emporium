@@ -14,7 +14,7 @@ string Database :: getVariable(string line)
 
 void Database :: loadFile(string filepath)
 {
-    Item newItem; 
+    Item newItem = Item();
     ifstream file(filepath);
     if (!file.is_open())
     {
@@ -26,16 +26,43 @@ void Database :: loadFile(string filepath)
     string line; 
     while (getline(file, line))
     {
-        variable = getVariable(line);
-        while (getVariable(line) == "NONE")
+        if (line.empty())
         {
-            getline(file, line); 
+            itemDatabase.push_back(newItem);
+            newItem.clear(); 
+        }
+        else if (getVariable(line) != "NONE")
+        {
+            variable = getVariable(line); 
+        }
+        else 
+        {
             newItem.enterData(variable, line); 
         }
-        
     }
+    file.close(); 
 }
+
 void Database :: load()
 {
+    filesystem::path absolutePath; 
+    for (auto& i : itemDirectories)
+    {
+        absolutePath = filesystem::absolute(i);
+        if (filesystem::exists(absolutePath) && filesystem::is_directory(absolutePath))
+        {
+            for (const auto& entry : filesystem::directory_iterator(absolutePath))
+            {
+                loadFile(entry.path().string()); 
+            }
+        }
+    }
+}
 
+void Database :: print()
+{
+    for (auto& item : itemDatabase)
+    {
+        cout << item.getName() << endl; 
+    }
 }

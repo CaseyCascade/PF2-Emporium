@@ -10,13 +10,10 @@ void Item :: setBulk (float x) {bulk = x;}
 void Item :: setSource (string x) {source = x;}
 void Item :: setEntry (string x) {entry = x;}
 void Item :: addTrait (string x) {traits.push_back(x);}
-string Item :: enterData (string variable, string data)
+void Item :: enterData (string variable, string data)
 {
     if (variable == "NAME") {setName(data);}
-    else if (variable == "PAGE") 
-    {
-        setPage(stoi(data));
-    }
+    else if (variable == "PAGE") {setPage(stoi(data));}
     else if (variable == "GOLD") {setGold(stof(data));}
     else if (variable == "LEVEL") {setLevel(stoi(data));}
     else if (variable == "BULK") {setBulk(stof(data));}
@@ -34,3 +31,16 @@ float Item :: getBulk () {return bulk;}
 string Item :: getSource () {return source;}
 string Item :: getEntry () {return entry;}
 vector <string> Item :: getTraits () {return traits;}
+
+// Other
+void Item :: clear () 
+{
+    setName("NONE");
+    setPage(0);
+    setGold(0.0);
+    setLevel(0);
+    setBulk(0.0);
+    setSource("NONE");
+    setEntry("NONE");
+    traits.clear(); 
+}

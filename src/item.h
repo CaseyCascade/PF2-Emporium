@@ -39,4 +39,6 @@ class Item {
         string getEntry ();
         vector <string> getTraits ();
 
+        // Other
+        void clear (); 
 }; 
