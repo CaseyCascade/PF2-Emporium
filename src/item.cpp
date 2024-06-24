@@ -10,13 +10,31 @@ void Item :: setBulk (float x) {bulk = x;}
 void Item :: setSource (string x) {source = x;}
 void Item :: setEntry (string x) {entry = x;}
 void Item :: addTrait (string x) {traits.push_back(x);}
+
+float Item :: convertToFloat(const string& str) {
+    float defaultValue = -1.0;
+    try {
+        return stof(str);
+    } catch (const invalid_argument&) {
+        cerr << "Invalid argument: " << str << endl;
+    } catch (const out_of_range&) {
+        cerr << "Out of range: " << str << endl;
+    }
+
+    return defaultValue;
+}
+
+int Item:: convertToInt(const string& str) {
+    return static_cast<int>(convertToFloat(str)); 
+}
+
 void Item :: enterData (string variable, string data)
 {
     if (variable == "NAME") {setName(data);}
-    else if (variable == "PAGE") {setPage(stoi(data));}
-    else if (variable == "GOLD") {setGold(stof(data));}
-    else if (variable == "LEVEL") {setLevel(stoi(data));}
-    else if (variable == "BULK") {setBulk(stof(data));}
+    else if (variable == "PAGE") {setPage(convertToInt(data));}
+    else if (variable == "GOLD") {setGold(convertToFloat(data));}
+    else if (variable == "LEVEL") {setLevel(convertToInt(data));}
+    else if (variable == "BULK") {setBulk(convertToFloat(data));}
     else if (variable == "SOURCE") {setSource(data);}
     else if (variable == "ENTRY") {setEntry(data);}
     else if (variable == "TRAITS") {addTrait(data);}

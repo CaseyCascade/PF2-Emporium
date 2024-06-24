@@ -1,6 +1,6 @@
 #include <iostream>
 
-#include "./src/database.h"
+#include "database.h"
 
 using namespace std; 
 
@@ -8,5 +8,5 @@ int main ()
 {
     Database db; 
     db.load(); 
-    db.print(); 
+    //db.print(); 
 }

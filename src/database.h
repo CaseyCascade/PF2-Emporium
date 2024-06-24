@@ -14,7 +14,10 @@ class Database {
     protected:
         vector <Item> itemDatabase; 
         vector <string> traitDatabase; 
-        vector <filesystem::path> itemDirectories = {"data/core_items", "data/custom_items"}; //TODO
+        vector<filesystem::path> itemDirectories = {
+            filesystem::current_path().parent_path() / "data" / "core_items",
+            filesystem::current_path().parent_path() / "data" / "custom_items"
+        };
     public:
         Database();
         string getVariable(string);

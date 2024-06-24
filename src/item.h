@@ -1,5 +1,5 @@
 #pragma once
- 
+
 #include <iostream>
 #include <vector> 
 
@@ -27,6 +27,8 @@ class Item {
         void setSource (string x);
         void setEntry (string x);
         void addTrait (string x);
+        float convertToFloat(const string& str);
+        int convertToInt(const string& str);
         void enterData (string variable, string data); 
 
         // Getters

@@ -45,13 +45,11 @@ void Database :: loadFile(string filepath)
 
 void Database :: load()
 {
-    filesystem::path absolutePath; 
     for (auto& i : itemDirectories)
     {
-        absolutePath = filesystem::absolute(i);
-        if (filesystem::exists(absolutePath) && filesystem::is_directory(absolutePath))
+        if (filesystem::exists(i) && filesystem::is_directory(i))
         {
-            for (const auto& entry : filesystem::directory_iterator(absolutePath))
+            for (const auto& entry : filesystem::directory_iterator(i))
             {
                 loadFile(entry.path().string()); 
             }
@@ -61,6 +59,7 @@ void Database :: load()
 
 void Database :: print()
 {
+    cout << itemDatabase.size() << endl; 
     for (auto& item : itemDatabase)
     {
         cout << item.getName() << endl; 
