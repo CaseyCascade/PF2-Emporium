@@ -9,7 +9,7 @@ GOLD
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 This small, opalescent stone glows with a light that constantly shifts between colors. When you activate the stone, you throw it into a space within 100 feet. The stone then casts dimension door on you and transports you to itself. This destroys the stone.
 TRAITS
@@ -26,11 +26,11 @@ FRP1
 PAGE
 75
 GOLD
-None
+0
 LEVEL
 20
 BULK
-L
+0.1
 ENTRY
 This elegant silver {@runeItem fighting fan|LOGM|+3 weapon potency||greater striking||flaming|} features sharp silver feathers instead of traditional paper leaves in its design.
 TRAITS
@@ -47,11 +47,11 @@ FRP1
 PAGE
 75
 GOLD
-None
+0
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 This brilliant jewelry is made from fine silver interwoven with a uniquely malleable form of ruby that causes the necklace to glimmer like a flickering fire. Hao Jin created the necklaces to mitigate the potential of death during the Ruby Phoenix Tournament pre-qualifier, and she specially attuned each phoenix necklace to the silver feathers she created for the pre-qualifying round. While the silver feathers themselves aren't magical, they are required to activate the necklace's power. Each team starts with 3 feathers {@condition hidden} in their headquarters; they acquire more through challenges and events.
 TRAITS

@@ -32,7 +32,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 Carried by many Knights of Lastwall, this amber-colored, fragrant-smelling oil is meant to prevent those who fall in battle from rising as undead. Applying anointing oil to a corpse casts gentle repose on it. The effects last for 24 hours.
 TRAITS
@@ -121,7 +121,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 A called weapon can be teleported to its owner's hand.
 TRAITS
@@ -140,7 +140,7 @@ GOLD
 LEVEL
 16
 BULK
-—
+0.0
 ENTRY
 Knights make use of this magically treated powder to help hide their camps while traveling through the Gravelands or other dangerous regions. When you toss the powder into a campfire or other sizable fire, the fire produces a thin mist that enshrouds everything in a 10-foot emanation from the fire. The mist creates protective illusions that remain for up to 12 hours and make it difficult to spot the area from afar. You can end the effect earlier by putting out the fire. Light and smoke produced in the area aren't visible from outside the area. The illusions don't prevent sound from traveling nor prevent the area or its inhabitants from being seen.
 TRAITS
@@ -161,7 +161,7 @@ GOLD
 LEVEL
 8
 BULK
-L (when not activated)
+0.1
 ENTRY
 Used to facilitate the care of mounts during long campaigns or when it's necessary to move camp frequently, this object appears to be a simple, worn wooden horseshoe.
 TRAITS
@@ -182,7 +182,7 @@ GOLD
 LEVEL
 7
 BULK
-—
+0.0
 ENTRY
 During their journeys across the Gravelands, the Knights of Lastwall found several smoky, gemstone-like objects that knights refer to as detector stones. Some of the knights' Magaambyan allies believe the stones are aeon stones corrupted by the same energies that corrupted the Gravelands, though they don't display the characteristic orbiting behavior of aeon stones when invested. Despite the controversy, many knights use the stones for their ability to detect the presence of undead.
 TRAITS
@@ -204,7 +204,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 The vials containing this translucent, unsubstantial oil are always cold to the touch. Applying ghost oil to a melee weapon you're wielding or carrying causes it to become semitransparent and gain the effects of a {@item ghost touch} rune, but it also makes the weapon unable to harm corporeal creatures. The oil has no effect when applied to another creature's weapon. The effect of the oil lasts for 1 minute.
 TRAITS
@@ -312,7 +312,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 The best minds among the Magaambyan, Iomedaean, and Pharasmin Knights of Lastwall joined together to create these small, leather-bound journals. While you're holding an undead compendium, the information it contains slips into your mind, granting you a +2 item bonus to {@action Recall Knowledge} checks to obtain information about undead creatures.
 TRAITS
@@ -335,7 +335,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 An undead scourge is a +1 striking disrupting dagger with a bluish-white metal blade that emits a faint glow.
 TRAITS
@@ -356,7 +356,7 @@ GOLD
 LEVEL
 15
 BULK
-—
+0.0
 ENTRY
 A whistle of calling appears to be a simple brass whistle. It changes slightly in appearance depending on the type of creature to which it's attuned, depicting small carvings of hooves, feather patterns, claws, or other appropriate motifs.
 TRAITS
@@ -396,7 +396,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 These cloaks are designed to accommodate long treks through various climates. Traveler's cloaks for hot climates might be bleached white and created from lighter materials, while those intended for cold climates are made of thicker materials and have linings intended to retain heat. While wearing a traveler's cloak for the appropriate type of weather, increase the time it takes to become fatigued from temperature effects by 2 hours (Core Rulebook 518). A traveler's cloak has no effect at extreme or incredible temperatures.
 TRAITS
@@ -434,7 +434,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This cloth vestment features the heraldry or symbol associated with an entity (such as a deity, kingdom, or organization). Knights typically wear it over armor and other clothing, helping them identify allies on the battlefield or distinguishing themselves in more peaceful situations. An individual wearing a tabard gains a +1 item bonus to {@action Make an Impression} on creatures who have a positive association with the entity represented on the tabard.
 TRAITS
@@ -451,7 +451,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -489,9 +489,9 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
-None
+0
 ENTRY
 A hollowed hilt is a weapon modification that allows a pommel to be detached and its hilt meticulously hollowed out to create a small compartment without greatly affecting its balance. Often used by knight emissaries to hide important missives, this space can hold an object of light Bulk about the size of a scroll. A creature studying the weapon can find the hilt compartment with a successful DC 20 {@skill Perception} check. Any weapon with an appropriate hilt or pommel can be converted into a hollowed one by paying the equipment's price.
 TRAITS
@@ -510,7 +510,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 Parade armor is an armor adjustment that creates a set of pseudo-decorative armor to wear during noncombat functions. Any medium or heavy armor can be fashioned into parade armor, which features custom designs based on the wearer's affiliation, military branch, or rank. A particular faction typically has one uniform appearance for its set of parade armor.
 TRAITS
@@ -529,7 +529,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 These special straps and weightings fit over a shield or buckler, but not a tower shield. They are designed to let you doff and throw the shield in one swift movement. You can quickly remove the shield by spending a free action as part of the {@action Strike} to throw the shield. When thrown in this way, the shield is a martial thrown weapon that deals {@damage 1d6} bludgeoning damage and has the thrown <20 feet> trait. A shield with the throwing shield attachment can't have any attached weapons, such as shield spikes or a shield boss, and the adjustments to make it more aerodynamic make it slightly less sturdy, reducing its Hardness by 1.
 TRAITS

@@ -25,11 +25,11 @@ AV2
 PAGE
 74
 GOLD
-None
+0
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 You've bargained with an imp, one of the least powerful devils, for a fragment of infernal luck.
 TRAITS
@@ -51,7 +51,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This black leather wrist guard has a bright red gem on the inside of the wrist. Faint glyphs and words of domination in Infernal swim inside the gem. Your words become harsh and clipped when you have this magic item invested.
 TRAITS
@@ -73,7 +73,7 @@ GOLD
 LEVEL
 5
 BULK
-varies (see text)
+varies
 ENTRY
 You can unfold this virtuoso percussion instrument into a {@item Virtuoso Handheld Musical Instrument||hand drum} (1 Bulk), a {@item Virtuoso Handheld Musical Instrument||marching drum set} with a shoulder harness and back brace (3 Bulk), or a {@item Virtuoso Heavy Musical Instrument||large standing drum set} with a built-in stool (16 Bulk). Changing the folding drum's size is a 3-action {@action Interact} activity, and the drums must have sufficient open space to accommodate their new size.
 TRAITS
@@ -94,7 +94,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 While wearing this silver religious symbol of {@deity Erastil}, you can cast the {@spell disrupt undead} cantrip as an innate divine spell.
 TRAITS
@@ -116,7 +116,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 After you drink this mutagen, your skin continually renews itself, thickening into large, scaly patches.
 TRAITS
@@ -134,11 +134,11 @@ AV2
 PAGE
 75
 GOLD
-None
+0
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 Your flesh looks no different, but is cold to the touch.
 TRAITS
@@ -155,11 +155,11 @@ AV2
 PAGE
 75
 GOLD
-None
+0
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 You negotiate for might and viciousness.
 TRAITS
@@ -176,11 +176,11 @@ AV2
 PAGE
 75
 GOLD
-None
+0
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 Profane powers of vengeance are yours to inflict.
 TRAITS
@@ -201,7 +201,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This complex toxin makes the muscles beneath a creature's skin loose and malleable, which fleshwarpers find useful in their work. Rough or jerky movements the victim performs concentrate the toxin in subdermal muscles and eventually cause skin and muscle to slough away.
 TRAITS

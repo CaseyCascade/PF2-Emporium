@@ -32,7 +32,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 This strangest and most powerful of the fulcrum lenses resembles a chip of smooth obsidian containing three dark glimmers of {@deity Nhimbaloth|LOGM}'s essence. Incorporeal creatures can touch and hold the Ebon Fulcrum Lens. While you have the Ebon Fulcrum Lens invested, and you're a corporeal creature, you become insubstantial, gain the {@trait incorporeal} trait, and are {@condition drained|CRB|drained 2}. Your {@condition drained} condition can't be reduced below 2 as long as you have the lens invested. You can activate the lens in the following ways. Both require expenditures of glimmers within the lens; once the lens is depleted of its three glimmers, it retains its ability to make corporeal creatures insubstantial but can't be used for its other abilities until its glimmers are restored (which generally requires a ritual or being steeped in an area of {@deity Nhimbaloth|LOGM}'s power).
 TRAITS
@@ -98,7 +98,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This foul-smelling unguent dulls the odors and traces that fungus creatures detect. For 1 day after you slather this musk on your body, fungus creatures take a –4 penalty to {@skill Perception} checks to {@action Seek} you or otherwise notice you. If a fungus creature is mindless, it instead has a –6 penalty.
 TRAITS
@@ -117,7 +117,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 Necrotic bombs combine reagents most people consider disgusting at best and unholy at worst, creating a life-sucking miasma upon contact with air. A necrotic bomb deals the listed negative damage and {@trait splash} damage, and it sickens the primary target on a critical hit. This damage harms only living creatures.
 TRAITS
@@ -159,9 +159,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-None
+0
 ENTRY
 This leather bandolier holds up to three {@item repeating hand crossbow magazine|G&G|repeating hand crossbow magazines} in leather pockets that pop open with the quick flick of a thumb. You reduce the reload time for a {@item repeating hand crossbow magazine|G&G} from the bandolier by 1, to a total of 2 actions. You can wear only one shootist bandolier at a time.
 TRAITS
@@ -179,7 +179,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 Stupor poison is a more potent distillation of lethargy poison. Further exposure to stupor poison doesn't require the target to attempt additional saving throws; only failing a saving throw against an ongoing exposure can progress its stage.
 TRAITS

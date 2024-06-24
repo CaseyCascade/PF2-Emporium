@@ -9,7 +9,7 @@ GOLD
 LEVEL
 2
 BULK
-—
+0.0
 ENTRY
 This dark, iridescent scale is about the size of a small coin. When you swallow the scale, you immediately grow a patch of scales that cover the majority of your body. For 1 hour, you can hold your breath for 15 rounds plus your Constitution modifier (instead of 5 rounds + your Constitution modifier) before drowning. It has no effect in non-aquatic environments that require you to hold your breath. After this time, the scales wither and fall off your body.
 TRAITS
@@ -29,7 +29,7 @@ GOLD
 LEVEL
 4
 BULK
-—
+0.0
 ENTRY
 This plain wooden badge has the face of a roaring lion etched onto its surface. When you activate this talisman, reduce the value of your {@condition frightened} condition by 1 (to a minimum of 0). When this talisman is used, the image of the lion fades and the item becomes a plain, non-magical wooden badge.
 TRAITS
@@ -50,7 +50,7 @@ GOLD
 LEVEL
 3
 BULK
-—
+0.0
 ENTRY
 Both beaded bracelets in this pair have an even larger bead in their center. The bracelets are magically linked and only interact with their counterpart from the same pair. When you crush the largest bead to activate the bracelet, it creates a mental alert in the mind of the wearer of the paired bracelet. This alert works at any distance as long as both bracelets are on the same plane.
 TRAITS
@@ -70,7 +70,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 The blade of this {@runeItem sickle||+1 weapon potency|} is engraved to look like the curving feather of a particularly elaborate quill. The wooden handle has a pen nib at the base. You can use the {@i wordreaper}'s handle as an ink pen and it never runs out of ink.
 TRAITS

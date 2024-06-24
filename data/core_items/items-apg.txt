@@ -9,7 +9,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
@@ -28,7 +28,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 This long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the creature you damaged burns with holy light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn.
 TRAITS
@@ -49,7 +49,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude save or become {@condition slowed|CRB|slowed 1} for 1 minute as its body slowly stiffens in partial petrification.
 TRAITS
@@ -70,7 +70,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 Blight bombs contain volatile toxic chemicals that rot flesh. A blight bomb deals the listed poison damage, {@condition persistent damage||persistent poison damage}, and {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -91,7 +91,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 This wide, single-use mask is designed to be slipped over your mouth and nose and its alchemical filter activated all with one hand. Once activated, the mask sharpens odors, giving you imprecise scent with the listed range. You can't wear other masks while you're wearing a bloodhound mask.
 TRAITS
@@ -107,9 +107,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-None
+0
 ENTRY
 A brass ear is a short, flared tube with one end narrow enough to comfortably fit against the ear canal. When using a brass ear to listen through a door, window, thin wall, or similar barrier, if the barrier would normally increase the DC of your {@skill Perception} check to hear sounds on the other side, the DC increases by only half as much as normal.
 TRAITS
@@ -126,7 +126,7 @@ GOLD
 LEVEL
 16
 BULK
-None
+0
 ENTRY
 This golden candle bears the symbol of a specific deity emblazoned on its surface, surrounded by the iconography of that deity's faith. Once lit, this candle burns for 1 hour, and it can't be extinguished.
 TRAITS
@@ -146,7 +146,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 When lit, this black candle's eerie blue flame reveals the presence of {@condition invisible} creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the {@condition invisible} condition. Their bodies are outlined, not fully visible, so they are {@condition concealed}. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit.
 TRAITS
@@ -165,7 +165,7 @@ GOLD
 LEVEL
 16
 BULK
-L
+0.1
 ENTRY
 Made from a carefully distilled blend of serpentine hemotoxins, the fast-acting cerulean scourge is infamous for transforming the blood vessels near the original wound, which glow with a bright blue light before painfully bursting.
 TRAITS
@@ -185,7 +185,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This leather sheath is large enough to hold an item of up to light Bulk and is typically used for {@item dagger||daggers}, wands, {@item thieves' tools}, and similar objects. You can affix it to the inside of a boot, under a bracer or sleeve, or in other inconspicuous locations to gain a +1 item bonus to {@skill Stealth} checks and DCs to hide or conceal the item within.
 TRAITS
@@ -202,7 +202,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 This peculiar ammunition is coated in yellow dust that leaves a stain on anything it touches. When activated corrosive ammunition hits a target, it dissolves across the target's armor. The armor takes {@damage 1d8} {@condition persistent damage||persistent acid damage} that ignores the armor's Hardness; if the target isn't wearing armor, it takes the acid damage instead. This damage occurs at the end of the target's turns.
 TRAITS
@@ -221,7 +221,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This flask holds a pressurized red-brown gas flecked with bits of sublimated crystal. You gain the listed item bonus to attack rolls. When the bomb explodes, it deals the listed piercing damage and piercing {@trait splash} damage as the mixture suddenly turns into solid crystals flying at high speeds.
 TRAITS
@@ -259,7 +259,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 Your skin grows tough scales like a drake, your eyesight become sharp and your pupils slitted, and your limbs grow wiry and quick, but your mind and reflexes become slow.
 TRAITS
@@ -280,7 +280,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 This flask is filled with a murky purple gas that briefly interferes with normal brain activity. A dread ampoule deals the listed mental damage and mental {@trait splash} damage.
 TRAITS
@@ -302,9 +302,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 You can pull a dueling cape you're wearing from your shoulder and wrap it around your arm with an {@action Interact} action. While wielding the dueling cape this way, the cape uses that arm and hand, and you can't hold anything else in that hand. While you do so, you can spend an action to hold it in a protective position, giving you a +1 circumstance bonus to AC and to {@skill Deception} checks to {@action Feint} until the start of your next turn.
 TRAITS
@@ -321,7 +321,7 @@ GOLD
 LEVEL
 16
 BULK
-None
+0
 ENTRY
 This black pouch contains what appears to be fine bone dust.
 TRAITS
@@ -341,7 +341,7 @@ GOLD
 LEVEL
 15
 BULK
-None
+0
 ENTRY
 This brown-and-gold robe covers you from head to toe. Its weighty fabric doesn't move with the wind, instead hanging still as if carved of stone.
 TRAITS
@@ -362,7 +362,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 This fine wooden box is inlaid with Dwarven runes, with hinges and a clasp of forged iron.
 TRAITS
@@ -383,7 +383,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 You arrange a spiky cage of bones, particularly tough vegetation, or other material to spring up when disturbed.
 TRAITS
@@ -403,7 +403,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 These strange masks consist of a thin stone hood and a shimmering purple veil reminiscent of the pleroma aeon who first gifted them to mortals in the hope that sharing the means of aeon communication would reduce the misunderstandings and conflicts among mortal civilizations. An envisioning mask covers your entire face, though it doesn't hinder your vision or other senses.
 TRAITS
@@ -443,7 +443,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 When you critically hit with this weapon, the target becomes {@condition frightened 1}.
 TRAITS
@@ -465,7 +465,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 This dark-red ring is engraved with ashen symbols and smells faintly of smoke.
 TRAITS
@@ -488,7 +488,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 Using bioluminescent matter or alchemical reagents, you rig a short-lived flare to a trip wire or pressure plate. When a Small or larger creature enters the square, this flare shoots into the sky. To creatures with a clear view of the sky, this flare is visible from up to 2 miles away on a clear day or up to 5 miles away on a clear night.
 TRAITS
@@ -509,7 +509,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 Focus briefly calms your neurons, helping ease {@trait mental} effects.
 TRAITS
@@ -529,7 +529,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 Activating this vial of colorless liquid requires inserting a small amount of another chemical or material, such as blood or mud. The vial reacts rapidly, transforming into a murky, reddish-brown substance.
 TRAITS
@@ -547,7 +547,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 This +2 striking dogslicer is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade's cutting edge, three of which glow—one with fiery red light, one with a chill blue, and one that gives off sparks—while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.
 TRAITS
@@ -570,7 +570,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This chilly ammunition is dark blue and cold to the touch.
 TRAITS
@@ -590,7 +590,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 A gecko potion is a sticky, tawny brown liquid with flecks of sand suspended in it. For 5 minutes after drinking this potion, your fingertips sprout thousands of microscopic, bristled hairs that cling to objects, granting you a +1 item bonus to {@action Climb} and {@action Palm an Object}, and to your Reflex DC against {@action Disarm} attempts.
 TRAITS
@@ -610,7 +610,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures. A ghost charge deals the listed positive damage and {@trait splash} damage, though as usual for positive damage, this damage harms only undead and creatures with negative healing. Ghost charges are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead. A primary target that takes damage from a ghost charge becomes {@condition enfeebled} until the start of your next turn. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -631,7 +631,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This pale-blue ink dries rapidly, becoming fully transparent 1 minute after application. The ink glows red when exposed to heat, such as that from a torch or other open flame. This glow lasts only as long as the ink is exposed to heat, after which the ink becomes {@condition invisible} again. The crafter of the ghost ink can alter the formula slightly to instead make the ink sensitive to sunlight, starlight, magical light, or heatless light created by an {@trait alchemical} effect such as a sunrod.
 TRAITS
@@ -649,7 +649,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to {@skill Deception} checks to {@action Feint}.
 TRAITS
@@ -689,7 +689,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 This black incense smells of fresh earth and ash. You activate the incense by lighting it, whereupon it fills a 10-foot emanation with oily smoke and potent negative energy. Undead creatures, including incorporeal undead, gain fast healing 4 while in the area; though this healing comes from negative energy, it doesn't negatively impact living creatures. Once lit, the incense burns for 1 minute, and it can't be extinguished.
 TRAITS
@@ -728,7 +728,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.
 TRAITS
@@ -748,7 +748,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 These white silk gloves are adorned in red hearts that glow faintly whenever you are adjacent to someone you feel particularly strongly toward.
 TRAITS
@@ -770,7 +770,7 @@ GOLD
 LEVEL
 19
 BULK
-None
+0
 ENTRY
 This ice-blue half-mask is adorned with a wicked silver grin that covers the wearer's mouth, leaving the rest of the face uncovered. You gain a +2 item bonus to {@skill Intimidation} checks.
 TRAITS
@@ -812,7 +812,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 You position particularly foul substances to splash over a creature. The first creature to enter the square must attempt a DC 20 Fortitude saving throw.
 TRAITS
@@ -831,7 +831,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -850,7 +850,7 @@ GOLD
 LEVEL
 16
 BULK
-None
+0
 ENTRY
 This fine golden oil comes in a small blue canister. Carefully spreading the oil over an object turns it into an animated object (Bestiary 20) of the same type. For example, sprinkling it on a statue makes an animated statue. If the animated object's level would be greater than 3, the oil struggles to animate it and ultimately fails.
 TRAITS
@@ -871,7 +871,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This bright oil, first created by humans as a tool to help them fight in darkness, holds flecks of tiny gemstones in suspension and smells like a struck tindertwig.
 TRAITS
@@ -891,7 +891,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature's physical or spiritual form. When you dash oil of unlife onto an undead creature, or a living creature with negative healing, the oil absorbs quickly into its body, and the creature regains the listed number of Hit Points.
 TRAITS
@@ -912,7 +912,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This frothing fluid causes the drinker's body to exude trace odorabsorbing oils. For the listed duration after drinking this elixir, your scent is nearly unnoticeable. Creatures with imprecise scent don't detect you with that sense unless they {@action Seek} for you, and you are {@condition concealed} from creatures that perceive you with precise scent. You gain a +4 item bonus against attempts to {@action Seek} you by creatures using only scent-based senses; if they use any other senses as well, the bonus doesn't apply.
 TRAITS
@@ -931,7 +931,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 This shimmering, violet unguent forms mild chemical bonds between objects with a matching composition. You apply the adhesive to two objects, or to an object and a creature. You can check if the two share an origin (such as if they were {@condition broken} from the same whole, or if a poison sample or body part came from the same creature) by holding them together with the unguent between; if they match, the unguent becomes sticky.
 TRAITS
@@ -947,9 +947,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 You can draw this reinforced sheath during the same Interact action you use to draw the weapon it holds, wielding the weapon in one hand and the scabbard in your other. A parrying scabbard can be used for your defense much like a weapon with the {@trait parry} trait: you can spend an action to position it defensively, gaining a +1 circumstance bonus to AC until the start of your next turn. Parrying scabbards are available for any sword that can be wielded in one hand.
 TRAITS
@@ -966,7 +966,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 This is a 2-foot-long tube with two angled mirrors, one at each end. When the mirrors are aligned correctly, you can look around obstacles while remaining behind cover. This doesn't provide a sufficient line of effect to target creatures around corners.
 TRAITS
@@ -983,7 +983,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 Upon imbibing this potion, you take on the appearance of a specific type of creature for {@dice 2d12} hours. The type of creature is determined when the potion is created. For example, you might have a potion of elf disguise or potion of frog disguise. Drinking the potion doesn't impart the knowledge of how long the effect lasts; the GM rolls the duration in secret.
 TRAITS
@@ -1005,7 +1005,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 The stopper for a potion of expeditious retreat is crafted to easily snap open in dire circumstances. When you drink this potion, you become {@condition fleeing} for 1 minute, and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are {@condition fleeing}. You immediately {@action Stride}.
 TRAITS
@@ -1025,7 +1025,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 A potion of retaliation is available in four varieties—acid, cold, electricity, and fire—each with a faint shimmer reminiscent of the energy it contains. For 1 minute after drinking a potion of retaliation, you glow with a faint aura of that energy, and a creature that touches you (such as by making an unarmed attack or using a spell with a range of touch against you) takes damage of that type. The moderate, greater, and major versions also damage an adjacent creature that hits you with a melee weapon {@action Strike}.
 TRAITS
@@ -1045,7 +1045,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 A potion of shared memories can transfer recollections from one creature to another. To place a memory in the potion, you must hold the vial and focus on a particular memory for 1 minute. This memory must be of a single event, location, person, or otherwise encompass a span of about 1 minute.
 TRAITS
@@ -1066,7 +1066,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 This seemingly unremarkable, weathered silver coin bears the bust of an unnamed monarch on the face and a majestic bird on the tail. You can toss the coin without activating it, in which case it follows the normal laws of probability.
 TRAITS
@@ -1085,7 +1085,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This slender vial appears to hold clean, clear water with a faintly fruity scent. Drinking a ration tonic magically nourishes you with the equivalent of a day's worth of food and water.
 TRAITS
@@ -1105,7 +1105,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 A ready rune draws component pieces of a suit of armor toward one another, making it easier and faster to get into. You can don light armor with this rune as a 3-action activity or medium or heavy armor with this rune in 1 minute.
 TRAITS
@@ -1144,7 +1144,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This silk rope measures 50 feet long and is capable of holding up to 3,000 pounds. If the rope is ever cut, only the longest remaining portion retains its magic.
 TRAITS
@@ -1163,7 +1163,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This shimmering paste has many properties of a {@spell shield} spell.
 TRAITS
@@ -1183,7 +1183,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This serum jolts the body to help shake off physical debilitations.
 TRAITS
@@ -1203,7 +1203,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.
 TRAITS
@@ -1222,7 +1222,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 This matched pair of slates, roughly one handspan wide and tall, have identical ornate frames.
 TRAITS
@@ -1241,7 +1241,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 This loose robe has wide, voluminous sleeves that each contain an extradimensional space. These spaces each function as a bag of holding that can hold up to 5 Bulk of items (for a total of 10 Bulk), though no individual item can be of more than 1 Bulk; the sleeves grow slightly heavy as you reach maximum capacity. You can add or remove an item from a sleeve with a single hand free as an {@action Interact} action.
 TRAITS
@@ -1262,7 +1262,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes {@damage 5d8} piercing damage and {@damage 5d8} slashing damage, with a DC 27 basic Reflex save. On a critical failure, the hooks piercing its flesh make the creature {@condition immobilized} until it successfully Escapes (DC 27)
 TRAITS
@@ -1282,7 +1282,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This peculiar amber glue bonds two surfaces together almost inseparably. A single flask covers an area up to 1 square foot and must be used all at once to form a single bond between two surfaces. If the activation is interrupted, the bond fails and the glue is wasted.
 TRAITS
@@ -1300,7 +1300,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 The guard of this +1 striking main-gauche is inscribed with eldritch glyphs that guard against magic. When you are benefiting from the +1 circumstance bonus to AC from this weapon's {@trait parry} trait, you also apply that circumstance bonus to your saving throws against spells that target you.
 TRAITS
@@ -1398,7 +1398,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 This black-and-gray ammunition is etched with occult symbols and tiny, grinning skulls. When activated terrifying ammunition damages a creature, it fills the creature's mind with visions of their own failures, tragedies, and eventually, their own death. The creature must attempt a DC 20 Will save.
 TRAITS
@@ -1420,7 +1420,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 This purple potion has a bitter taste and seems to blur with motion. When you drink a time shield potion, you are frozen in time for {@dice 2d4} rounds. You can't act or be targeted, you become immune to all effects, and you vanish from your space; as far as the universe is concerned, you simply don't exist as long as the potion lasts. The durations of any effects targeting you when you drink the potion are suspended until it wears off.
 TRAITS
@@ -1440,7 +1440,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 You sprinkle these salts onto a single object up to 10 cubic feet in volume and no more than 40 Bulk to preserve it for 1 week.
 TRAITS
@@ -1458,7 +1458,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 Originally formulated as a means of dissolving sovereign glue, this powerful solvent can break almost any adhesive's grip.
 TRAITS
@@ -1476,7 +1476,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.
 TRAITS
@@ -1538,7 +1538,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This wand is made of two copper plates separated by a ceramic center.
 TRAITS
@@ -1558,7 +1558,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This wand is a length of wrought black iron.
 TRAITS
@@ -1578,7 +1578,7 @@ GOLD
 LEVEL
 19
 BULK
-L
+0.1
 ENTRY
 This alabaster wand has a clear crystal at the tip.
 TRAITS
@@ -1599,7 +1599,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This wand is a slender length of ice-blue glass.
 TRAITS
@@ -1619,7 +1619,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 The handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing.
 TRAITS
@@ -1639,7 +1639,7 @@ GOLD
 LEVEL
 19
 BULK
-None
+0
 ENTRY
 This rune is a swirling glyph on the front of the armor. A large pair of transparent, ephemeral wings floats out from the back of the armor.
 TRAITS

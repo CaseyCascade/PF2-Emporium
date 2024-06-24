@@ -49,7 +49,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 This +2 resilient padded armor is woven from many strands of gut cord strung with dried organs and preserved xulgath scent glands. When worn, it infuses your body with a ghastly and nauseating flavor.
 TRAITS
@@ -69,7 +69,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 This flexible +2 striking sap is crafted from the stalks of cave fungi and bound around a mesh of spore-infused gills. Demon-worshipping xulgaths use spore saps to capture spellcasters alive for later sacrifice.
 TRAITS
@@ -91,7 +91,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 This stone-headed +2 striking returning javelin draws forth the power of the earth itself to strike at enemies.
 TRAITS

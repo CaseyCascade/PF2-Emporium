@@ -29,7 +29,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 This heavy iron necklace is decorated with tiny gems that resemble the stars in the ceiling high above the Vault of the Black Desert. While you have invested this item, you cannot contract blightburn sickness. It doesn't cure blightburn sickness if you already have it, but the disease's stage can't progress while you wear it.
 TRAITS
@@ -70,7 +70,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 Cave worm repellent is a highly noxious oil that can be applied to a creature or sprinkled in a circle around a 10-footradius area. In either case, after it is applied, it lasts for 24 hours or until it is scrubbed clean with 1 minute of work.
 TRAITS
@@ -89,7 +89,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 This watery, mint-green emetic of xulgath design is often carried in a delicate obsidian vial or other fragile container.
 TRAITS
@@ -109,7 +109,7 @@ GOLD
 LEVEL
 15
 BULK
-L
+0.1
 ENTRY
 These wicked-looking spiked metal wheels fit around the ankles and jingle when the wearer walks, imposing a –1 item penalty on {@skill Stealth} checks. If used as a weapon, they are treated as a spiked gauntlet.
 TRAITS

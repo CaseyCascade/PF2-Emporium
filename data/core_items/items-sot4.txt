@@ -9,7 +9,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This glowing piece of flesh increases the spell level of a spell with the {@trait light} trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a {@spell darkness} spell.
 TRAITS
@@ -71,7 +71,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This hooded lantern is made from brilliant, reinforced gold engraved with the image of the sun high in the sky. The lantern uses oil, as a standard lantern, except that any light the lantern emits is magical and similar to sunlight. The lantern doesn't emit dim light, instead only emitting bright light to its normal radius (20 feet for typical lights when using oil). This bright light is close enough to sunlight to open temple doors that require sunlight or similar light, but it doesn't shine direct sunlight, so it doesn't trigger effects such as a vampire's sunlight weakness.
 TRAITS
@@ -90,9 +90,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A sun sling is a small staff with a head of woven netting. The staff is small enough to hold in a single hand, making it useful for hit-and-run tactics, but once loaded with ammunition, it requires two hands to properly swing and fire. Sun slings use small metal bullets covered in sharp spikes known as sun shots.
 TRAITS
@@ -109,7 +109,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 A sun sling is a small staff with a head of woven netting. The staff is small enough to hold in a single hand, making it useful for hit-and-run tactics, but once loaded with ammunition, it requires two hands to properly swing and fire. Sun slings use small metal bullets covered in sharp spikes known as {@item sun shots|sot4}.
 TRAITS
@@ -134,7 +134,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This elegant hooded lantern is made from onyx-black metal. In dim light, flecks of white metal speckled within the lantern's housing resemble stars in a night sky. The lantern uses oil as a standard hooded lantern, except that any light the lantern emits is converted into magical light similar to moonlight. This magical moonlight is always dim light.
 TRAITS

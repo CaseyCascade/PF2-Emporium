@@ -30,7 +30,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 A magic item regarded as holy by followers of Cayden Cailean, this ornate metallic stein is always filled to the brim with delicious ale, no matter how much is drunk or spilled. If it is emptied (such as by being gulped quickly or upended onto the floor), the bottomless stein will fill again within 1 round as long as it is right side up, though it's impossible to transfer the ale to another container to sell it or store it for later. The exact type of ale with which the stein is filled is determined at the item's creation, and cannot be changed thereafter.
 TRAITS
@@ -51,7 +51,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This tiny serrated dagger looks like a miniature sawtooth sabre. Until activated, it is too small and ornamental to function as a weapon, which might allow it to be passed off as a weapon-shaped decoration.
 TRAITS
@@ -72,7 +72,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 Contained in a specially enchanted small leather or hide sack, deteriorating dust is a potent caustic agent and a prized item among Rovagug's more discreet followers.
 TRAITS
@@ -135,7 +135,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 This treated rabbit's foot has shockingly blue fur and is often carried by vagabonds who worship Desna. When you activate the foot, reroll the triggering Reflex save. If you fail the second roll as well, you can {@action Stride} up to your Speed.
 TRAITS
@@ -180,7 +180,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This ornate headgear comes in many different shapes and sizes, though most are elaborately decorated with motifs of the deity whose honor in which it was made. The miter brings you spiritually closer to your deity's servitors, granting you a +2 item bonus to {@skill Religion} checks.
 TRAITS
@@ -201,7 +201,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 This matching mortar and pestle are made from immaculate darkwood that looks nearly olive in the right light.
 TRAITS
@@ -220,7 +220,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 This necklace strung with miniature stone throwing knives.
 TRAITS
@@ -263,7 +263,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 In true Iroran form, the simplicity of this small, inverted copper bell belies its flawlessness.
 TRAITS

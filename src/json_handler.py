@@ -3,6 +3,7 @@ import os
 
 debug = True
 
+# TODO Need to handle variant items & Vet for other weird inputs 
 class Item: 
     name = None
     page = None
@@ -57,8 +58,19 @@ class Item:
     def set_level (self, level):
         self.level = level 
 
-    def set_bulk (self, bulk): #TODO needs specific entry case similar to set_gold
-        self.bulk = bulk 
+    def set_bulk (self, data): #TODO needs specific entry case similar to set_gold
+        if isinstance(data, str):
+            elements = data.split()
+            bulk = elements[0]
+        else:
+            bulk = data
+
+        if bulk == 'L':
+            self.bulk = 0.1
+        elif bulk == '\u2014' or bulk == '-' or bulk == '\u2013':
+            self.bulk = 0.0
+        else:
+            self.bulk = bulk 
 
     def set_source(self, source):
         self.source = source
@@ -119,8 +131,16 @@ class Item:
             print(trait)
         print()
         
+    def finalilze(self):
+        if self.bulk == None:
+            self.set_bulk(0)
+        if self.gold == None: 
+            self.set_gold('gp', 0)
+        if self.level == None:
+            self.set_level(0)
 
     def write_to_file(self, filepath):
+        self.finalilze()
         if not self.name:
             return 
         if not self.entry:

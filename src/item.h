@@ -29,7 +29,7 @@ class Item {
         void addTrait (string x);
         float convertToFloat(const string& str);
         int convertToInt(const string& str);
-        void enterData (string variable, string data); 
+        bool enterData (string variable, string data); 
 
         // Getters
         string getName ();

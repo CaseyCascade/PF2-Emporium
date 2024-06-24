@@ -9,7 +9,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a {@item clockwork dial|LOPS}, except it has a maximum duration of 24 hours and is available to characters from Alkenstar.
 TRAITS
@@ -27,7 +27,7 @@ GOLD
 LEVEL
 5+
 BULK
-L
+0.1
 ENTRY
 This bottle of delicately sweet ice wine has the properties of alcohol (Pathfinder Gamemastery Guide 120). Made exclusively from grapes frozen in the Mana Wastes' erratic surge storms, Alkenstar ice wine finds a ready market among Geb, though undead are still immune to the drug's listed effects.
 TRAITS
@@ -50,7 +50,7 @@ GOLD
 LEVEL
 10
 BULK
-L (when not activated)
+0.1
 ENTRY
 This small square of dark blue fabric appears to be painted with a depiction of the night sky, shifting each day to match the sky above Geb the previous night.
 TRAITS
@@ -67,11 +67,11 @@ LOIL
 PAGE
 304
 GOLD
-None
+0
 LEVEL
 25
 BULK
-None
+0
 ENTRY
 The Cube of Nex acts as a {@item Lesser Cube of Nex|LOIL} except it suppresses all magic within 5 feet of it with the effects of a 10th-level antimagic field spell, instead of just one school. However, spells you cast and magic items you wield ignore the {@spell antimagic field} from the Cube of Nex.
 TRAITS
@@ -87,11 +87,11 @@ LOIL
 PAGE
 304
 GOLD
-None
+0
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 A Lesser Cube of Nex acts as a cube of force, but the effect lasts until you press the sixth face to {@action Dismiss} it, and the activation can be used once per hour. You must first {@action Dismiss} any previous activation before you use it again. Additionally, each Lesser Cube of Nex is attuned to a single school of magic. Within 5 feet of the Lesser Cube, all magic from that school is suppressed or impossible to cast, with the effects of a 10th-level {@spell antimagic field} spell. While there are eight Lesser Cubes of Nex, each of the artifacts is unique, as there's only one Lesser Cube of Nex for each school of magic.
 TRAITS
@@ -111,7 +111,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 The vengeful wails of a revenant, barely contained in this rattling jar, infuse your magic with all of their spite and malice. If a target fails its saving throw against your seal fate (Advanced Player's Guide 224) spell after you've added this catalyst, it takes {@damage 1d6} {@condition persistent damage} of the type chosen for the spell ({@dice 2d6} if it critically fails).
 TRAITS
@@ -131,7 +131,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 This still-bloody rib was taken from a priest of {@deity Urgathoa} at the moment they passed into undeath and has a constant stench of decay. The first time any creature critically fails its saving throw against a {@spell mask of terror} spell cast using this catalyst, it also takes {@damage 6d10} mental damage, with a basic Fortitude save against the spell's DC, as it lives through the memory of having its rib torn from its body. Once any creature takes this damage, the defiled costa's effect ends, and no other creatures take the damage, even if they critically fail.
 TRAITS
@@ -151,7 +151,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 This simple charm is made from compacted grave dirt infused with bone dust. A {@spell harm} spell that's empowered by this catalyst can reach faraway targets. If the {@spell harm} spell is cast with 1 action, its range is 30 feet; if it's cast with 2 actions, its range is 60 feet. This has no effect on the three-action area version of harm, though in most cases, you don't have enough actions to Activate the token and cast a three-action harm anyway.
 TRAITS
@@ -171,7 +171,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 Blood offered from a willing donor was taken directly from the vein and stored in an ornate vial that keeps it as pure and red as the day it was extracted. When this catalyst is added to a {@spell vampiric touch} spell of up to 4th level, instead of gaining temporary Hit Points based on the damage dealt, you recover half of the damage dealt as Hit Points.
 TRAITS
@@ -191,7 +191,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This fan of vulture feathers scatters on an unnatural gust of wind. If this catalyst is used to cast a {@spell ray of enfeeblement} spell that has been heightened to at least 5th level, instead of targeting a single creature, you cast the spell in a 30-foot-area cone. You don't make a spell attack roll, instead affecting all creatures within the area with the effect the spell would normally have on a hit. This means creatures within the area must attempt a Fortitude save to determine whether they're {@condition enfeebled}.
 TRAITS
@@ -211,7 +211,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 The bones of small animals decorate the cover of this tome, creating a pattern that resembles a gross perversion of {@deity Pharasma}'s holy symbol.
 TRAITS
@@ -231,7 +231,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This gold-and-ivory incense burner always emits a pleasant, floral-scented smoke without any need to be refilled. It has a chain that can be easily affixed to a belt or bag, allowing it to be worn without a free hand. As long as the censer is burning, the bearer benefits from the {@spell undetectable alignment} spell. They also don't appear undead to divination spells or abilities, or to senses such as lifesense, unless those abilities successfully counteract the censer. The censer can be lit or extinguished with an {@action Interact} action.
 TRAITS
@@ -251,7 +251,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 A spirited debate persists among scholars on whether the eponymous tyrant of this grimoire actually refers to Tar-Baphon, the necromancer Geb, or even the goddess {@deity Urgathoa} herself. This grimoire appears at first to be a series of writs that makes arrogant demands of the reader, those around them, and the universe. Anyone who gives these writings more than a cursory look realizes the writs hold spells much like any other grimoire, with the {@spell animate dead|APG} spell being particularly prominent. Tyrant's writs grants you the ability to demand more from the undead you animate.
 TRAITS
@@ -272,7 +272,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 Condensed mana is a crystal vial filled with concentrated miasma from the Mana Wastes. The colors shift abruptly and unpredictably within and the opening of the bottle is sealed tighter than any other potion or alchemical item, emphasizing its dangers.
 TRAITS
@@ -291,7 +291,7 @@ GOLD
 LEVEL
 13
 BULK
-—
+0.0
 ENTRY
 A cube of force is an enchanted cube that measures an inch across. While made from any hard material, the sides of a cube of force are decorated so that they can be distinguished by touch.
 TRAITS
@@ -311,7 +311,7 @@ GOLD
 LEVEL
 10
 BULK
-—
+0.0
 ENTRY
 {@deity Abraxas|LOGM} teaches knowledge is the only power that matters. This tattoo of a stylized eye provides a +1 item bonus to {@skill Lore} checks.
 TRAITS
@@ -331,7 +331,7 @@ GOLD
 LEVEL
 5
 BULK
-—
+0.0
 ENTRY
 {@deity Abraxas|LOGM} teaches that the true heart is impenetrable, dedicated only to knowledge. This tattoo of a venom-soaked heart provides a +1 item bonus to {@skill Occultism} checks.
 TRAITS
@@ -351,7 +351,7 @@ GOLD
 LEVEL
 11
 BULK
-—
+0.0
 ENTRY
 {@deity Abraxas|LOGM} teaches that minds can be robbed as surely as pockets. This tattoo of a clenched fist provides a +2 item bonus to {@skill Thievery} checks.
 TRAITS
@@ -371,7 +371,7 @@ GOLD
 LEVEL
 4
 BULK
-—
+0.0
 ENTRY
 {@deity Abraxas|LOGM} teaches that an eye for an eye is the basis of law. This tattoo of a coiled viper provides a +1 item bonus to {@skill Society} checks.
 TRAITS
@@ -391,7 +391,7 @@ GOLD
 LEVEL
 7
 BULK
-—
+0.0
 ENTRY
 Secrets must be unraveled, no matter how painful.
 TRAITS
@@ -411,7 +411,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 A goo grenade is a flask filled with a fast-growing, short-lived alchemical ooze. When you hit a creature with a goo grenade, that creature takes {@condition persistent damage||persistent acid damage} and a circumstance penalty to its Speeds from the clinging goo. The target can end any penalties, conditions, and {@condition persistent damage} caused by the bomb by Escaping or spending a total of 3 {@action Interact} actions to pry themselves free of the ooze. These {@action Interact} actions don't have to be consecutive, and other creatures can provide the actions as well.
 TRAITS
@@ -432,7 +432,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 You can pour this silver ooze into a lock or similar mechanism to create a set of malleable lockpicks and tools that conform to internal mechanisms. The ooze is treated as a set of thieves' tools that last for 1 hour and provide a +2 item bonus to {@skill Thievery} checks to Pick Lock or Disable Device against the mechanism into which they were first poured.
 TRAITS
@@ -451,7 +451,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 You can chew on this translucent green ooze to cause it to expand into a bubble of slime that envelops your mouth and nose. For the next hour, the ooze provides breathable oxygen, allowing you to breathe in environments where you couldn't normally breathe. It then harmlessly dries up and falls away.
 TRAITS
@@ -470,7 +470,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This stylized, palm-sized box contains a black, ooze-like substance that can easily devour a corpse in moments, breaking the body down into a necromantic sludge.
 TRAITS
@@ -508,7 +508,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 The ubiquity of clockwork constructs in Alkenstar spurred the development of the wrenchgear (a shortened "wrench in the gears") by innovative criminals ("wrenchers") to create security exploits and larcenous opportunities. You gain a +2 item bonus to {@action Disable a Device} checks made against clockwork creatures (typically to wind them down).
 TRAITS

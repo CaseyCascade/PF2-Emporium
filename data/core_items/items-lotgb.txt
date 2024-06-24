@@ -28,7 +28,7 @@ GOLD
 LEVEL
 19
 BULK
-varies by armor
+varies
 ENTRY
 Typically only creatures immune to abysium's effects would don abysium armor. You're {@condition sickened|CRB|sickened 2} while wearing standard-grade armor made from abysium, or {@condition sickened|CRB|sickened 3} while wearing high-grade armor made from abysium. You can't reduce your {@condition sickened} condition while wearing abysium armor, or for 1 hour after removing it. Abysium armor is dangerous to nearby creatures, too. Creatures within 10 feet of abysium armor must succeed at a Fortitude save (DC 30 for standard grade or DC 40 for high grade) or become {@condition sickened|CRB|sickened 1} ({@condition sickened|CRB|sickened 2} on a critical failure). Afterwards, the creature is temporarily immune for 1 minute, but if they remain within the area for longer than 1 minute, they automatically critically fail the next save.
 TRAITS
@@ -46,7 +46,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 This faintly glowing powder rapidly induces the symptoms of abysium poisoning.
 TRAITS
@@ -85,7 +85,7 @@ GOLD
 LEVEL
 18
 BULK
-varies by weapon
+varies
 ENTRY
 Abysium weapons are safe to carry, as the toxic metal is contained within an outer shell. However, the inherent toxicity in these blue-green weapons can irradiate open wounds and poison foes. Abysium weapons have one fewer property rune slot, but they deal {@damage 1d4} poison damage on a successful {@action Strike}, and on a critical hit, the target is {@condition sickened|CRB|sickened 1}, or {@condition sickened|CRB|sickened 2} with high-grade abysium.
 TRAITS
@@ -103,7 +103,7 @@ GOLD
 LEVEL
 0
 BULK
-L (1 if inflated)
+0.1
 ENTRY
 This weighted animal bladder can be inflated with air in preparation for a dive. It holds enough air to breathe for one round. As a free action, you can inhale the contents of the air bladder, which resets the number of rounds you can hold your breath (see the rules for drowning and suffocating on page 478 of the Core Rulebook). You can inflate the bladder or remove its attached weight as an {@action Interact} action. An unattached inflated bladder without the weight will float toward the surface of the water at a rate of 60 feet per round.
 TRAITS
@@ -120,7 +120,7 @@ GOLD
 LEVEL
 16
 BULK
-None
+0
 ENTRY
 This thin, multicolored scarf shifts between hues in almost dizzying patterns.
 TRAITS
@@ -163,7 +163,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This magical upgrade allows the wheelchair to shift its functionality between land and aquatic environments without a hitch, propelling through the water or on land with equal ease. Your chair has a base land Speed of 20 feet if that's faster than your land Speed (for example, if you are an aquatic creature with no land Speed or a very slow land Speed), and your chair has a base swim Speed of 20 feet if that's faster than any swim Speed you have. Additionally, while riding in the chair, you can magically breathe underwater if you normally breathe air, or breathe air if you can normally only breathe underwater.
 TRAITS
@@ -183,7 +183,7 @@ GOLD
 LEVEL
 18
 BULK
-None
+0
 ENTRY
 This rune prevents enemies from escaping your grasp by {@condition fleeing} to other planes. If you critically hit a target with an anchoring weapon, the weapon casts {@spell dimensional anchor} on the target (DC 27, counteract modifier +17).
 TRAITS
@@ -203,7 +203,7 @@ GOLD
 LEVEL
 15
 BULK
-None
+0
 ENTRY
 This tattoo takes the shape of the face of a roaring polar bear with piercing, ice-blue eyes. You don't take damage from extreme cold or severe cold (Core Rulebook 518).
 TRAITS
@@ -225,7 +225,7 @@ GOLD
 LEVEL
 18
 BULK
-None
+0
 ENTRY
 When a creature enters the snare's square, the snare releases countless stones to batter the creature, dealing {@damage 22d8} bludgeoning damage (DC 40 basic Reflex).
 TRAITS
@@ -242,11 +242,11 @@ LOTGB
 PAGE
 58
 GOLD
-None
+0
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 Toy balls come in a variety of shapes, sizes, and compositions, such as with squishy fabric, bouncy rubber, or lightweight wicker, or forms like bean-filled sacks and hard-hide balls.
 TRAITS
@@ -259,11 +259,11 @@ LOTGB
 PAGE
 58
 GOLD
-None
+0
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 Similar to a spool of string, a bandalore consists of two wooden disks connected to a central axle wound with string.
 TRAITS
@@ -280,7 +280,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 A basic cane is a straight cane with a curved handle, shaped like the tip of a hook. Its simple design helps with balance and only slightly assists with taking weight off the affected opposite leg. The cane is typically 2 to 3 feet long but can be lengthened or shortened as needed.
 TRAITS
@@ -298,7 +298,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 A set of corrective lenses might take the form of eyeglasses or specialized goggles. You can don or remove your corrective lenses as an {@action Interact} action.
 TRAITS
@@ -316,7 +316,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 Crutches come as singles or a pair depending on how much support you need while walking. A crutch fits under your armpit, and you use your hand and the swing of your arm to move with them.
 TRAITS
@@ -334,7 +334,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 A basic hearing aid rests on the ear and is made from carved wood, shaped metal, or even small clockwork pieces. The shape of the device aids those that are hard of hearing, and you can wear one or two depending on your hearing loss. You can attach or remove your hearing aids as an {@action Interact} action.
 TRAITS
@@ -352,7 +352,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 A basic prosthesis replaces a missing or damaged body part.
 TRAITS
@@ -370,7 +370,7 @@ GOLD
 LEVEL
 15
 BULK
-None
+0
 ENTRY
 A big rock bullet is a sling bullet made of heavy granite, but each piece of ammunition feels much more dense than it appears. When activated, a big rock bullet transforms into a giant rock just before hitting the target. The target takes {@damage 4d6} additional bludgeoning damage on a successful hit. Even on a failed attack roll (but not a critical failure), the target takes {@damage 2d6} bludgeoning damage. Creatures with the {@ability Catch Rock} reaction can use it against a big rock bullet.
 TRAITS
@@ -391,7 +391,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 While you wear this acrid armor, any creature that Engulfs you or Swallows you Whole is {@condition sickened|CRB|sickened 1}; if it spends an action retching to reduce the {@condition sickened} condition, you can attempt to {@action Escape} as a reaction.
 TRAITS
@@ -433,7 +433,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 The head of this bolt is a vented container that smells strongly of caustic pepper. When an activated blindpepper bolt hits a target, it deals no damage; instead the creature must attempt a DC 17 Fortitude save. If the {@action Strike} was a critical success, the target takes a –2 circumstance penalty to its Fortitude save. At the GM's discretion, a creature with no eyes or olfactory organs might not be affected by this item.
 TRAITS
@@ -452,7 +452,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 These wooden blocks can be stacked to build flimsy structures.
 TRAITS
@@ -469,7 +469,7 @@ GOLD
 LEVEL
 16
 BULK
-None
+0
 ENTRY
 The magic in this rune sings in time with your attacks and coaxes you into finishing your opponent. When you critically hit a target that's taking {@condition persistent damage||persistent bleed damage}, your target becomes {@condition drained|CRB|drained 1}.
 TRAITS
@@ -489,7 +489,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 When a brewer makes a batch of something they'd rather not drink, they often boil it down; add myrrh, mugwort extract, and violet salt; and sell it to chefs looking for cheap sandwich fillings. The thick, salty sourness ruins the taste of most other food, but it also creates a strong desire to live to taste anything else. For 1 hour after consumption, you gain a +2 item bonus to saves against {@trait death} and {@trait negative} effects.
 TRAITS
@@ -508,7 +508,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 This {@runeItem rapier||+2 weapon potency||brilliant|SoM|greater striking|} is formed entirely out of radiant energy, even more so than a usual brilliant weapon, and has left its physical form behind entirely. Instead of dealing piercing damage, it deals fire damage, and in addition to a rapier's normal weapon traits, it gains the versatile {@trait good} or {@trait positive} trait.
 TRAITS
@@ -529,7 +529,7 @@ GOLD
 LEVEL
 17
 BULK
-None
+0
 ENTRY
 This finely cut garnet brooch fills your mind with vigor and occasional bursts of mental clarity. While wearing the brooch, you gain a +1 item bonus to checks to {@action Recall Knowledge} with {@skill Lore} skills.
 TRAITS
@@ -551,7 +551,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 When a creature enters the trapped square, putrefied badger guts coated in hyper-flammable oil and several other incendiary reactants catch fire and are dumped in the snare's square, as well as up to two adjacent squares that you choose when you set the snare. The burning oil deals {@damage 5d8} fire damage to any creatures in the affected squares. Those creatures must attempt a DC 27 Fortitude save.
 TRAITS
@@ -573,7 +573,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 These highly polished metal plates can be added to any armor. While wearing armor with burnished plating, you gain the Sunshine! reaction. However, you take a –4 circumstance penalty to {@skill Stealth} checks except in darkness, and your armor's Strength entry increases its value by 2, requiring you to have a higher Strength score to overcome the armor's penalties. Even if you meet your armor's new Strength entry, you still take the penalty to {@skill Stealth} checks. When you are critically hit by an attack that deals bludgeoning damage, burnished plating stops working until someone spends 10 minutes repairing and polishing it; this doesn't require a {@skill Crafting} check.
 TRAITS
@@ -592,7 +592,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 With this rune, you can instantly retrieve an item in your possession without digging around looking for it.
 TRAITS
@@ -612,7 +612,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 The chair has an efficient allocated space to hold additional items. This reduces the amount of Bulk the items weigh when stored within the chair, much like a backpack. The first 2 Bulk of items stowed in your chair don't count against your Bulk limit. If you use both chair storage and a backpack at the same time, only 2 Bulk total isn't counted against your limit, much like if you used multiple backpacks or similar items at the same time.
 TRAITS
@@ -630,7 +630,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 An almost-impossible number of axes spring out at a target with lethal force. When a creature enters the snare's square, it's nearly buried beneath a storm of sharpened metal, which deals {@damage 16d8} slashing damage (DC 33 basic Reflex).
 TRAITS
@@ -647,11 +647,11 @@ LOTGB
 PAGE
 58
 GOLD
-None
+0
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 This malleable, oil-based clay can be shaped by hand and is available in a variety of colors. A single unit has 4 ounces of clay.
 TRAITS
@@ -668,7 +668,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This clockwork footwear features a marvelous mechanical heel built into the base to increase your speed. When you lean your weight onto your heel, a springboard triggers and pops out small metal wheels that propel you forward. You gain a +5-foot item bonus to your Speed.
 TRAITS
@@ -707,7 +707,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This thick silver coin is deeply worn on one side, creating a shallow dip.
 TRAITS
@@ -727,7 +727,7 @@ GOLD
 LEVEL
 15
 BULK
-L
+0.1
 ENTRY
 The contraption called cold comfort is a watertight pouch filled with a handful of small, heavy, silvery pellets. When emptied into an adjacent body of water, the pellets freeze the water's surface almost instantly, creating an ice block in a 10-foot square to a depth of 1 foot. Any creatures inside this space must attempt a DC 23 Reflex save. On a failure, the creature takes {@damage 2d6} cold damage and is {@condition immobilized} for 1 minute or until it {@action Escape||Escapes} (DC 20) or the ice is {@condition broken}. The entire ice block has AC 10, Hardness 10, and 40 Hit Points, and it's immune to critical hits, cold damage, and precision damage. The ice is strong enough to support one {@trait Large} creature or up to four {@trait Medium} or {@trait Small} creatures. Traversing the slippery ice requires a successful DC 20 {@skill Acrobatics} check to {@action Balance}.
 TRAITS
@@ -747,7 +747,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 A series of evenly spaced, unblinking tattooed eyes line your skin. When you enter an area that contains creatures within 60 feet that are {@condition unnoticed} to you, the GM rolls a secret {@skill Perception} check for you against the creatures' {@skill Stealth} DCs. On a success, the creature becomes {@condition undetected} by you, rather than {@condition unnoticed}, and on a critical success, the creature becomes {@condition hidden} to you. All creatures in the area are then temporarily immune to your crown of insight for 24 hours. The crown of insight doesn't help you find {@condition hidden} items or traps, nor can it help you discern a creature hiding in plain sight, such as a gargoyle pretending to be an inanimate statue. Additionally, since the effect occurs when you move to enter an area that contains creatures, it doesn't detect an {@condition unnoticed} creature Sneaking up on you.
 TRAITS
@@ -768,7 +768,7 @@ GOLD
 LEVEL
 16
 BULK
-L
+0.1
 ENTRY
 A wreath of flames dances around the rim of this golden crown. You gain resistance 5 to fire.
 TRAITS
@@ -789,7 +789,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 Weapons with this rune empower your strength, and attacks with these weapons leave your foe staggered. When you critically hit a target with this weapon, your target becomes {@condition clumsy|CRB|clumsy 1} and {@condition enfeebled|CRB|enfeebled 1} until the end of your next turn.
 TRAITS
@@ -829,7 +829,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 This snare is made of magnetized weights and heavy ropes rigged to a trip wire or pressure plate. When a creature enters the square, the magnets and ropes deploy, weighing down the creature's weapons and limbs. The creature must attempt a DC 18 Reflex save.
 TRAITS
@@ -851,7 +851,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 These symbols fortify your body's grasp on your soul, keeping it tethered when death approaches.
 TRAITS
@@ -930,7 +930,7 @@ GOLD
 LEVEL
 19
 BULK
-varies by armor
+varies
 ENTRY
 Armor made of djezet alloy is easy to enchant. Transferring runes onto djezet armor from other armor waives the usual 1/10 cost to etch the rune. This benefit has no effect on the cost of the rune itself or on the cost to transfer a rune off djezet armor onto a non-djezet armor. High-grade djezet armor can be etched with an additional property rune (to a maximum of four instead of three for +3 armor).
 TRAITS
@@ -948,7 +948,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 Some mages carry vials of djezet for its magic-enhancing properties. When you drink a djezet dose, if your next action is to {@action Cast a Spell}, you can apply the effects of the Reach Spell (Core Rulebook 122) or Widen Spell (Core Rulebook 134) metamagic feats.
 TRAITS
@@ -985,7 +985,7 @@ GOLD
 LEVEL
 18
 BULK
-varies by weapon
+varies
 ENTRY
 The djezet in weapons absorbs magical power. Critical hits made with a djezet weapon against a prepared or spontaneous spellcaster cause the target to lose one prepared spell or one spontaneous spell slot unless the target succeeds at a Will save (DC 30 for standard-grade or DC 40 for high-grade). The spell is randomly selected from among the caster's highest three spell levels (and then from among the spells prepared in that level, for a prepared spellcaster).
 TRAITS
@@ -1003,7 +1003,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 Dolls are found throughout Golarion in a wide variety of forms. Among the most common are miniature painted figurines, plush animals crafted from fur and stuffed with cotton, porcelain dolls with fine clothing and silky hair, fabric hand puppets, and elaborate marionettes.
 TRAITS
@@ -1020,7 +1020,7 @@ GOLD
 LEVEL
 19
 BULK
-L
+0.1
 ENTRY
 While some unscrupulous chefs claim that this savory pudding is made with real dragon's blood, its crimson color and acrid smell actually come from bloody mandrake paste, ginger root, and distilled terrap sap. This potent combination singes the nostrils and throat, removing effects that make you sluggish. When you consume the pudding, it attempts a counteract check with the listed counteract modifier to remove the {@condition slowed} condition from a single source, using the source of that condition to determine the counteract level and DC.
 TRAITS
@@ -1039,7 +1039,7 @@ GOLD
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 This rune depicts a specific type of dragon, resizing after application to fit the surface of the item.
 TRAITS
@@ -1060,7 +1060,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 This variant on the shield boss is usually shaped like a dragon's head, its jaws open wide enough to wedge a small vessel of liquid within. A dragon's crest can be etched with weapon runes, much like a shield boss or shield spikes, but doesn't otherwise alter your shield's statistics. A shield bearing a dragon's crest can't be combined with an attached weapon, like shield spikes.
 TRAITS
@@ -1079,7 +1079,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 Your eyes transform into those of a giant dragonfly, the thousands of separate facets wrapping around your head, and a pair of long, delicate, insectile wings grow from your upper back. You gain a fly Speed equal to your land Speed.
 TRAITS
@@ -1101,7 +1101,7 @@ GOLD
 LEVEL
 18
 BULK
-None
+0
 ENTRY
 Eerie symbols cover your armor, inspiring terror in your foes. {@condition Frightened} enemies within 30 feet that can see you must attempt a DC 20 Will save at the end of their turn; on a failure, the value of their {@condition frightened} condition doesn't decrease below 1 that turn.
 TRAITS
@@ -1146,7 +1146,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 A spiked glove is attached to the front of this buckler (Hardness 6, HP 24, BT 12), functioning as +1 striking shield spikes. Perforations and slits line the defensive side, shining bright light through them when the item's magic is activated.
 TRAITS
@@ -1167,7 +1167,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 This robe is made from dweomerweave, a magical fabric created by spinning minor illusions into the threads of ether spider silk. Dweomerweave is naturally hazy and translucent.
 TRAITS
@@ -1188,7 +1188,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This lockpick houses a small compartment containing many smaller picks and other miniature tools. The lockpick itself is surprisingly malleable, belying the components within. An almost-impossible number of other tools are {@condition hidden} in the compartment, including an entire set of infiltrator thieves' tools and any replacement picks, an elite disguise kit and any replacement cosmetics, and an extreme climber's kit, all while still somehow remaining only light Bulk. This makes the encompassing lockpick a favorite discreet option for rogues infiltrating high society events, as formal wear generally has few pockets and only allows a character to wear a single tool kit of light Bulk.
 TRAITS
@@ -1209,7 +1209,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 A weapon with this rune can absorb energy damage to empower it.
 TRAITS
@@ -1229,7 +1229,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This brightly colored linen robe is covered in delicate embroidery depicting creatures and natural phenomena suiting its aligned energy, such as a living thunderclap, pools of acid, roaring flames, or dancing marids.
 TRAITS
@@ -1250,7 +1250,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This arrow splits at the far end of the shaft into five branching arrowheads, making it impractical for single targets but deadly in combat.
 TRAITS
@@ -1270,7 +1270,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 These hearing aids work like {@item magical hearing aids|lotgb}, but they're designed with a more potent and focused magic.
 TRAITS
@@ -1290,7 +1290,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This tattoo is a series of six concentric circles that show up as a soft yellow on any skin tone. The marks carry in them a protective force that bolsters your body and soul. The first time each day that someone attempts to {@action Treat Wounds||Treat your Wounds} and rolls a critical failure, they get a failure instead.
 TRAITS
@@ -1312,7 +1312,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 This snare is coated with giant wasp venom and tipped with needles, which deliver the venom to the first creature to enter the square. That creature takes {@dice 4d6} damage (DC 23 basic Reflex) and, on a failure, the creature is exposed to the giant wasp venom.
 TRAITS
@@ -1334,7 +1334,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 Experimental clothing is custom tailored in radical, avant-garde styles by independent dressmakers, utilizing expensive or eccentric materials and unconventional patterns.
 TRAITS
@@ -1352,7 +1352,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 This prosthetic eye was designed by elven crafters but comes in a range of appearances for different ancestries.
 TRAITS
@@ -1373,7 +1373,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 Adventurers have found a number of uses for these animal blood–filled bladders, which were originally used in theatrical productions. Whenever you take slashing or piercing damage with the fake blood pack under your clothes or armor, roll a DC {@flatDC 11} flat check. On a success, the blood pack is punctured.
 TRAITS
@@ -1390,7 +1390,7 @@ GOLD
 LEVEL
 15
 BULK
-None
+0
 ENTRY
 When etched with this rune, a weapon's hilt or haft becomes engraved with grooves that match the imprints of a wolf's teeth. By putting a fanged weapon in your mouth, you can transform into an animal.
 TRAITS
@@ -1411,7 +1411,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 Fiery Anulite paprika, sunrise cinnamon, and winterbite are {@condition hidden} inside this salad's translucent leaves, bringing the cool of snow and the heat of steam to every bite. The dueling sensations make some diners sweat and others shiver, but all leave with a lasting sense of heat and cold that make other sources pale in comparison. When you consume the salad, you gain resistance 5 to fire and cold for 1 minute.
 TRAITS
@@ -1430,7 +1430,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 Originally developed as a body modification by oreads, fleshgems are crystals that can be implanted in the skin of a creature of any ancestry. While a fleshgem can be applied anywhere on the body for cosmetic purposes, the most common usage among adventurers is to implant them at the base of the fingers, to be used like brass knuckles.
 TRAITS
@@ -1471,7 +1471,7 @@ GOLD
 LEVEL
 0
 BULK
-1 (3 unfolded)
+1
 ENTRY
 This multi-hinged, 10-foot ladder is useful for climbing upward or across dangerous pits. You can fold or unfold the ladder with two total {@action Interact} actions, which don't need to consecutive.
 TRAITS
@@ -1484,11 +1484,11 @@ LOTGB
 PAGE
 47
 GOLD
-None
+0
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 These savory breaded snacks stuffed with cheese, peppers, and "secret ingredients" of draconic or demonic origin are often offered alongside a challenge—complete a full portion and get a free drink. For 1 hour after consuming follypops, your stomach gurgles and rumbles with magical potential.
 TRAITS
@@ -1508,7 +1508,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 A nigh-infinite assortment of games exist in Golarion. Simple games, including dice, a deck of cards, or dominoes, cost 5 sp. {@action Board|GMG} games vary in cost from 1 gp for dexterity games like Bungle, 3 gp for colorful children's games like Cauldron Quest, and 5 gp for complex strategy games like Kingmaker and Abendego Raiders. Lavish game sets can cost much more than these prices, as they are made of expensive components and are intricately crafted works of art unto themselves.
 TRAITS
@@ -1525,7 +1525,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 {@trait Small} flecks of mica, sand, and ground glass are packed into a spring-loaded canister that can be rigged to a trip wire or {@condition hidden} in a container. The first creature to enter the square or open the container must attempt a DC 20 Reflex save as the area is showered with bright, glittering dust that sticks to skin, fur, and clothing.
 TRAITS
@@ -1570,7 +1570,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 Hauling weapons are adept at moving creatures around the battlefield after a successful attack.
 TRAITS
@@ -1590,7 +1590,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 A weapon with a hopeful rune exudes positivity. On a critical hit with this weapon, you inspire your comrades, pushing them to fight harder and stand for your shared convictions. Allies within 30 feet that share at least one alignment component with you gain a +1 status bonus to attack rolls until the end of your next turn.
 TRAITS
@@ -1606,7 +1606,7 @@ LOTGB
 PAGE
 72
 GOLD
-None
+0
 LEVEL
 6+
 BULK
@@ -1630,7 +1630,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 This soapstone statuette resembles an unidentified lump with a vaguely animal shape, worn on a band or cord around the companion's neck. When your companion invests the item, the statuette changes to appear as a miniature carved soapstone version of the companion.
 TRAITS
@@ -1671,7 +1671,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 This substantial rune makes you difficult to hold back.
 TRAITS
@@ -1691,7 +1691,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 This sleight-of-hand for the taste buds is flavored with absinthe and honey and always resembles something completely unlike a cake, from a pile of armor to a bowl of soup. Eating the cake gives you the confidence to make the impossible seem possible: for 10 minutes after the meal, you gain a +2 item bonus to your {@skill Deception} checks to {@action Impersonate}, as well as to {@action Lie} to convince others that you possess knowledge about the type of item that the cake resembles.
 TRAITS
@@ -1710,7 +1710,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 The magical impulse control upgrade attaches the wheelchair to your fingers or nerve impulses, making it accessible for those with mobility restrictions or other health conditions.
 TRAITS
@@ -1749,7 +1749,7 @@ GOLD
 LEVEL
 18
 BULK
-varies by armor
+varies
 ENTRY
 Inubrix's malleable nature means armor crafted from it is less rigid than usual, though this slightly increased mobility comes at the cost of protection. Metal armor crafted from inubrix gains the flexible armor trait; its item bonus to AC decreases by 1 but its maximum Dexterity bonus increases by 1.
 TRAITS
@@ -1785,7 +1785,7 @@ GOLD
 LEVEL
 17
 BULK
-varies by weapon
+varies
 ENTRY
 While inubrix weapons don't pack the same punch as more durable weapons, they have the unique ability to bypass some of the protections offered by metal armors and shields.
 TRAITS
@@ -1803,7 +1803,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 Juxtaposition ammunition quivers with anticipation, as if the projectile wishes to constantly be in motion. When an activated juxtaposition ammunition hits a creature, it doesn't deal the {@action Strike}'s normal damage. Instead, the target must succeed at a DC 28 Will save or be teleported to a safe, unoccupied square of your choice within 60 feet of its original position and within the weapon's first range increment. On a critical failure, the target is also {@condition sickened|CRB|sickened 1} from the gut-wrenching sensation of sudden movement. Any relocation from the juxtaposition ammunition is {@quickref forced movement||3|forced movement}.
 TRAITS
@@ -1820,11 +1820,11 @@ LOTGB
 PAGE
 58
 GOLD
-None
+0
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 This colorful canvas kite is {@condition controlled} by twine and flies when it catches the wind.
 TRAITS
@@ -1861,7 +1861,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 This +1 striking returning dagger has an elaborate, gemmed handle and can be worn strapped to the inside of a wrist or tucked within a decorative bodice. Despite the name, which stems from the dagger's historical basis in Oppara as a lady's favor, this dagger is common among wielders of all genders and has become quite fashionable in Absalom of late, with most nobles who carry them matching their evening finery to the gems on the hilt.
 TRAITS
@@ -1901,7 +1901,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 These curved hearing aids hook over the top and sit behind your ear, with a receiver that fits into the ear opening. The external part of the device detects sound waves and, using divination magic, transfers them down the receiver and into your ear. You can wear one or two depending on your hearing loss, and you can turn your hearing aids on or off using an {@action Interact} action.
 TRAITS
@@ -1921,7 +1921,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This collection of small magnets and metal rods comes in a wooden box. The magnets are strong enough to firmly cling to metal objects but too weak to move or suspend them. The metal rods are a quarter of an inch in diameter and vary in length from 3 to 6 inches. If connected with the magnets, these rods can be used to build flimsy shapes and structures, which collapse if external weight or pressure is applied.
 TRAITS
@@ -1938,7 +1938,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 These well-aged wooden magnifying glasses are engraved with a variety of runes. Each is imbued with a specific language.
 TRAITS
@@ -1958,7 +1958,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 Your bones, muscles, and organs become vastly softer and more pliable. You can fit into and through small or narrow spaces as though you were smaller than your normal size, and you gain an item bonus to your Fortitude and Reflex DCs against attempts to {@action Grapple}, {@action Shove}, or {@action Trip} you.
 TRAITS
@@ -1978,7 +1978,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 These tiny round balls are made of polished stone and colorful glass, and come in a bag of 200. You can pour marbles in an empty square adjacent to you with an {@action Interact} action. The first creature that moves into that square must succeed at a DC 13 {@skill Acrobatics} check or Reflex save (its choice) or fall {@condition prone}. Once a creature enters a space with marbles, enough marbles are scattered that other creatures moving into that space don't need to attempt a roll to avoid falling.
 TRAITS
@@ -1995,7 +1995,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 A mask helps you use the {@action Impersonate} action to pass yourself off as someone you aren't.
 TRAITS
@@ -2012,7 +2012,7 @@ GOLD
 LEVEL
 14
 BULK
-— (when not activated)
+0.0
 ENTRY
 A memory palace is an elaborate magical structure that safely stores memories for easy access. It appears to be a miniature Taldan villa small enough to fit in the palm of a human hand.
 TRAITS
@@ -2052,7 +2052,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This jeweled mirror grants you gain greater control over your dreaming self. While invested, you can watch over your sleeping body from the Dreamlands, letting you see your own body and a 5-foot emanation around you, though you can't hear, smell, or use other senses from your dreaming self.
 TRAITS
@@ -2074,7 +2074,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 Thousands of small, reflective, mirrored glass shards have been carefully stitched down this long silk duster.
 TRAITS
@@ -2096,7 +2096,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 A mixture of metal shavings and flash powder inside this small, mirrored sphere ignites when disturbed, causing the ball to flash and spin. When a creature enters the square, the ball pops into the air, and all creatures within 10 feet who can see the mirror ball must succeed at a DC 22 Fortitude save or become {@condition dazzled} for 1 round. On a critical failure, affected creatures are instead {@condition dazzled} for 1 minute.
 TRAITS
@@ -2118,7 +2118,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 This brown leather satchel is made from a heavily oiled and rustic leather. The satchel is large enough to hold up to 1 Bulk worth of items.
 TRAITS
@@ -2138,7 +2138,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 Fired clay covers a pit of thin mud interspersed with fragile vials of blue dragon blood. The first creature to step into the square breaks through the clay and sinks into the pit, fracturing the vials and rapidly hardening the mud as it touches the blue dragon blood. That creature must attempt a DC 29 Fortitude save as the mud hardens over its legs.
 TRAITS
@@ -2179,7 +2179,7 @@ GOLD
 LEVEL
 19
 BULK
-varies by armor
+varies
 ENTRY
 The mere sight of a suit of noqual armor is enough to make some opposing spellcasters withdraw from the battlefield.
 TRAITS
@@ -2215,7 +2215,7 @@ GOLD
 LEVEL
 18
 BULK
-varies by weapon
+varies
 ENTRY
 Noqual weapons are inimical to summoned creatures and spell effects that can be damaged by conventional attacks.
 TRAITS
@@ -2233,7 +2233,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 This set of painting supplies includes paints, brushes, jars, a palette, a set of small canvases, and a miniature easel. You can refill your paint set with extra paints and canvas for 1 sp.
 TRAITS
@@ -2250,7 +2250,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 These runes always come in pairs and can be applied to a garment's pockets to be activated.
 TRAITS
@@ -2271,7 +2271,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This bronze, spherical device slowly rotates around a cluster of angled mirrors and a light-filled orb.
 TRAITS
@@ -2291,7 +2291,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 Pickpocket's tailoring modifies an existing outfit by adding concealed interior pockets and strategically opened seams for hiding small objects inside the lining. You gain a +1 item bonus to {@skill Stealth} checks to {@action Conceal an Object} of light Bulk or less in the pockets. When you get a failure (but not a critical failure, which works as normal) on a {@skill Stealth} check to {@item Conceal an Object||Conceal such an Object}, observers know you're concealing an object somewhere, but they don't find the object unless they succeed at a DC 20 {@skill Perception} check to locate the seams in the garment.
 TRAITS
@@ -2326,11 +2326,11 @@ LOTGB
 PAGE
 59
 GOLD
-None
+0
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 This paper and wood pinwheel spins when blown upon by a person or the wind.
 TRAITS
@@ -2347,7 +2347,7 @@ GOLD
 LEVEL
 16
 BULK
-L (when not activated)
+0.1
 ENTRY
 This item appears to be a miniature stone replica of an aristocratic home or a simple castle.
 TRAITS
@@ -2367,7 +2367,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 You can sprinkle popdust in an empty square adjacent to you.
 TRAITS
@@ -2387,7 +2387,7 @@ GOLD
 LEVEL
 8
 BULK
-L (when not activated)
+0.1
 ENTRY
 A portable gaming hall resembles a miniature roulette wheel, except it's marked with indecipherable runes, not numbers.
 TRAITS
@@ -2424,7 +2424,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 A bag of powder contains powdered chalk, flour, or similar materials. In addition to other uses for powder, it can be handy while adventuring to help pinpoint {@condition invisible} creatures.
 TRAITS
@@ -2441,7 +2441,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 A garment with this rune is always clean, as though it had just been affected by {@spell prestidigitation}. You gain a +1 item bonus to {@action Make an Impression} on those who would be impressed by a particular presentable outfit while wearing this garment.
 TRAITS
@@ -2482,7 +2482,7 @@ GOLD
 LEVEL
 6
 BULK
-L (when not activated)
+0.1
 ENTRY
 A private workshop is a model building about the size of a music box that resembles a smithy, tannery, alchemy lab, or other crafting facility.
 TRAITS
@@ -2523,7 +2523,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This snare unleashes a trio of large stones that batter the creature entering the snare's square, dealing {@damage 6d8} bludgeoning damage (DC 21 basic Reflex save).
 TRAITS
@@ -2544,7 +2544,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 A puzzle box features moving parts, locking mechanisms, and other components designed to confound the user. Solving a puzzle box typically requires three successful {@skill Lore||Games Lore} or {@skill Thievery} checks to Open a Lock, though puzzle boxes come in countless configurations and themes, and the GM can determine which skills are appropriate.
 TRAITS
@@ -2582,7 +2582,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 This light shirt is made of thin fabric embroidered with arrangements of winged feet.
 TRAITS
@@ -2603,7 +2603,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 A quick wig magically conceals your natural hair while worn, eliminating the need to braid or pin your hair beneath it.
 TRAITS
@@ -2624,7 +2624,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 As soon as a creature enters the snare's square, it unleashes a barrage of knives at the creature from all directions, dealing {@damage 11d8} piercing damage (DC 29 basic Reflex).
 TRAITS
@@ -2665,7 +2665,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 A reading ring is personalized to its user and capable of reading only languages in which the user is fluent. Each ring is unique and can't be used by anyone other than its specific bonded user. A reading ring is bonded to its user in a process that taps into the user's inner potential, similar to an invested item, except the process takes 10 minutes, is permanent, and doesn't count toward your number of invested items. You can wear the ring in various ways, often either on a finger or a chain worn about your person if you can't have it on a digit. You can use the reading ring to read text by taking an {@action Interact} action, and you read with the ring at roughly the same rate as a visual reader. There is no limit to how often you can use the ring to read in this manner.
 TRAITS
@@ -2685,7 +2685,7 @@ GOLD
 LEVEL
 3
 BULK
-L (8 if inflated)
+0.1
 ENTRY
 Tattletail developed this tether-covered bladder to help divers in Anuli's Crater Lake recover heavy salvage or escape dangerous underwater beasts. Pulling the ripcord causes a small, pressurized air tank to instantly inflate the bladder to the size of a rowboat, forcing up to 16 Bulk of attached items or creatures to jet to the surface of the water at a rate of 60 feet per round. Pulling the ripcord, or removing or affixing something to one of the many tethers on the recovery bladder, takes an {@action Interact} action. A recovery bladder can only be used once, as the quick inflation permanently stretches the bladder, and only a few tinkerers have the skills and equipment to refill a pressurized air tank.
 TRAITS
@@ -2703,7 +2703,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 This subtle pattern of complex dots, sunbursts, and lines is difficult to make out, as it's a near match for the wearer's skin tone. Serving as a barrier facing inward, this tattoo prevents ostentatious expressions of spells that are internal to you, making them easier to hide.
 TRAITS
@@ -2727,7 +2727,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 This surcoat is made of thick fabric and light chain, designed to protect vital areas. When you are critically hit by an attack, you gain physical resistance equal to 2 + the value of the armor's potency rune against the attack's damage.
 TRAITS
@@ -2746,7 +2746,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 The chair's wheels have been reinforced with tough, metal rims or a metal cap. While in the chair, you gain a wheel {@action Strike}. Your wheel deals {@damage 1d4} bludgeoning damage and has the agile, {@trait attached}, and {@trait free-hand} traits. A reinforced wheel is a simple melee weapon in the club weapon group. You can etch weapon runes onto reinforced wheels. A wheelchair can only have one attached weapon.
 TRAITS
@@ -2764,7 +2764,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 Sharp metal jaws wind tightly into the pressure plate mechanism of this snare. When triggered, the jaws clamp shut and spin, damaging limbs in the process. The snare deals {@damage 10d8} piercing damage to the first creature to enter the square; that creature must attempt a DC 33 Reflex save.
 TRAITS
@@ -2786,7 +2786,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This arrow is made of polished animal horn, with the head of a rhinoceros carved in place of a traditional arrowhead.
 TRAITS
@@ -2806,7 +2806,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 You weave plant matter among loose stones in an area with trees or a ceiling overhead. When a creature enters the square, the snare's square and each adjacent square becomes {@quickref difficult terrain||3|terrain}, and the triggering creature must attempt a DC 19 Reflex saving throw.
 TRAITS
@@ -2827,7 +2827,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 Each Sarkorian god-caller garb is emblazoned with a unique sigil of a particular Sarkorian deity and adorned with symbols sacred to Sarkorian god callers, the summoners and religious leaders of Sarkoris. These +1 explorer's clothing outfits look as if they were stitched together from multiple types of animals, featuring feathers, fur, leather, and scales.
 TRAITS
@@ -2869,7 +2869,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 The type of animal tongue used in this tomato-based stew shifts from region to region, but it's always cooked with spirit of wine and seasoned with refined pesh. Eating this restaurant-staff favorite empowers you to speak and understand a single language for 1 hour. This must be a language the stew's cook could speak and understand, chosen at the time of the stew's creation. It also helps your words land smoothly, granting you a +2 item bonus to {@skill Diplomacy} checks made in that language for the same duration. It doesn't allow you to read the newly acquired language in its written form.
 TRAITS
@@ -2889,7 +2889,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This comfortable and stylish wide-brimmed hat magically protects you from the worst of the heat in hot areas, even when the heat doesn't come from the sun. While wearing the shade hat, you are protected from mild and severe heat (but not extreme heat).
 TRAITS
@@ -2910,7 +2910,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 There are numerous methods to modify shields—snarling rods to catch weapons, bladed edges, padding for nonlethal strikes, and so on—but all share basic functionality. A shield augmentation can be etched with weapon runes, much like a shield boss or shield spikes, but doesn't otherwise alter your shield's statistics. A shield bearing an augmentation can't be combined with an attached weapon, like shield spikes.
 TRAITS
@@ -2969,7 +2969,7 @@ GOLD
 LEVEL
 19
 BULK
-varies by armor
+varies
 ENTRY
 Siccatite armor must be fitted with protective undercoats for it to be safely donned, making it heavier than other types of armor; add 1 Bulk to the armor's typical weight.
 TRAITS
@@ -3005,7 +3005,7 @@ GOLD
 LEVEL
 17
 BULK
-varies by weapon
+varies
 ENTRY
 {@action Craft||Crafting} weapons from siccatite is often enough to drive smiths to despair, as the extreme temperature of the metal can cause it to shatter while being worked. Siccatite weapons have substantial grip wrappings to protect their wielders from the metal's extreme temperatures. They're constantly surrounded by a heat haze or a halo of rime, depending on the siccatite's type. Siccatite weapons automatically gain either a flaming or frost property rune, for hot and cold siccatite respectively, even if they aren't otherwise enchanted; this rune can't be removed, and it deals {@dice 1d8} damage instead of {@dice 1d6} damage. This uses one of the weapon's property rune slots as normal. High-grade siccatite gains a greater flaming (hot siccatite) or greater frost (cold siccatite) property instead.
 TRAITS
@@ -3023,7 +3023,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 Silencing ammunition is particularly dense and seems to dampen sounds around it. On a successful {@action Strike}, an activated piece of silencing ammunition creates a 2nd-level {@spell silence} effect on the target. The target can resist the effects of the ammunition with a successful DC 25 Will save, though it takes a –2 circumstance penalty if the {@action Strike} was a critical hit. While the effect is active, the target can use an {@action Interact} action to try to tug out the arrow or bolt and end the effect early; this requires a successful DC 25 Will save.
 TRAITS
@@ -3043,7 +3043,7 @@ GOLD
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 In bright light, this dark cloak shimmers with patches of color that shift and move even when the cloth is still. In dim light or darkness, the cloak seems to blend into your surroundings and grants you a +3 item bonus to {@skill Stealth} checks.
 TRAITS
@@ -3064,7 +3064,7 @@ GOLD
 LEVEL
 15
 BULK
-L
+0.1
 ENTRY
 This oddly fuzzy buckler (Hardness 10, HP 60, BT 30) resembles the abdomen of a spider. Its defensive side is covered in fine hairs, and two small spinnerets protrude from the bottom of its rim. The spinnerets serve as +2 greater striking shield spikes.
 TRAITS
@@ -3084,7 +3084,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 Singularity ammunition seems to pull in the light around it, swirling along the surface in a misty pattern. An activated singularity arrow creates a strong gravitational force, centered on the creature hit.
 TRAITS
@@ -3104,7 +3104,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This azure bolt is carved in the shape of an undulating snake, its bared fangs framing the point of its head. When an activated sky serpent bolt successfully hits a target, the bolt takes the form of a snake made of pure lightning, dealing {@damage 2d12} electricity damage to all creatures in a 30-foot line (DC 19 basic Reflex save) starting from the target.
 TRAITS
@@ -3147,7 +3147,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 These goggles use lenses made out of smoked glass to protect against creatures with gaze attacks. While wearing smoked goggles, you're always considered to be {@action Avert Gaze||Averting your Gaze}, but all creatures have {@condition concealed||concealment} from you. The fact that the goggles conceal creatures is part of what grants the wearer the item's benefits. If you have a way to negate the {@condition concealed||concealment} from the smoked goggles, you no longer gain the benefit, either.
 TRAITS
@@ -3164,7 +3164,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This animated item attempts to catch you when you fall. You can attempt to {@action Grab an Edge} (Core Rulebook 472), even if your hands are tied behind your back or otherwise {@condition restrained}, so long as there's a solid edge within 10 feet. If you roll a success, you can Grab the Edge even if you don't have a hand free.
 TRAITS
@@ -3184,7 +3184,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 You can toss sneezing powder at an adjacent creature as an {@action Interact} action. The target must attempt a DC 15 Fortitude save to avoid sneezing. On a failed save, the creature sneezes uncontrollably, becoming {@condition slowed|CRB|slowed 1} for 1 round. On a critical failure, the creature is instead {@condition slowed|CRB|slowed 1} for 3 rounds.
 TRAITS
@@ -3204,7 +3204,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This item creates a small cushion of air that catches you when you fall. You treat falls as 10 feet shorter.
 TRAITS
@@ -3224,7 +3224,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 A spell-bastion rune creates a reservoir of eldritch energy within the shield. A spellcaster can spend 1 minute to {@action Cast a Spell} of 3rd level or lower into the shield. The spell must take 2 actions or fewer to cast and must be able to target a creature other than the caster. The spell has no immediate effect—it's instead stored for later. When you invest a spell-bastion shield, you immediately know the name and level of the stored spell. A spell-bastion shield found as treasure has a 50% chance of having a spell of the GM's choice stored in it.
 TRAITS
@@ -3244,7 +3244,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 Splints can be applied to the following joints: finger, hand, wrist, elbow, knee, and shin. They are strapped to the desired area but are more rigid in structure than supports and braces, with metal or wooden bars pulled firmly against the bone structure to provide constant support (ring splints only attach to a single digit)
 TRAITS
@@ -3322,7 +3322,7 @@ GOLD
 LEVEL
 17
 BULK
-None
+0
 ENTRY
 These symbols close bloody wounds. Armor with this rune reduces the DC of the flat check to end {@condition persistent damage||persistent bleed damage} from 15 to 12 (7 with particularly effective assistance).
 TRAITS
@@ -3342,7 +3342,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 You hide insulating crystals or other material that releases a strong static charge when the first creature enters the snare's square. That creature must attempt a DC 18 Reflex saving throw.
 TRAITS
@@ -3364,7 +3364,7 @@ GOLD
 LEVEL
 19
 BULK
-— (when not activated)
+0.0
 ENTRY
 A stone circle appears to be a thumb-sized rectangular gray stone until activated.
 TRAITS
@@ -3384,7 +3384,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 Each piece of stonethroat ammunition is tipped with an unusual yellow stone. When an activated piece of stonethroat ammunition hits a target, the target must attempt a DC 30 Fortitude save.
 TRAITS
@@ -3404,7 +3404,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 A thick, sulfurous, irritating gas fills this golden-yellow flask.
 TRAITS
@@ -3427,7 +3427,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 Supports, also commonly known as braces, can be applied to any of the following major joints: wrist, elbow, knee, and ankle. They typically strap around the desired area and provide not only support but warmth that soothes aches and pains.
 TRAITS
@@ -3466,7 +3466,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 These thick, overlapping layers of clothing are coupled with a matching hat, outfitted with mesh netting around its wide brim to keep you safe from insects. You gain resistance 3 to physical damage from swarms. Explorer's clothing altered in this way has a Dexterity cap of +2, check penalty of –1, and Speed penalty of –5 feet regardless of your Strength.
 TRAITS
@@ -3484,7 +3484,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 You coat a small firework with a thick layer of resin and tar, so it sticks firmly onto a target. When a creature enters the square, the rocket launches at the creature and potentially sticks to it. You determine the direction the rocket faces when crafting the snare. The triggering creature must attempt a DC 20 Reflex save.
 TRAITS
@@ -3505,7 +3505,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 Performers and criminals are both known to use disposable clothing designed to be torn off the body quickly and easily.
 TRAITS
@@ -3523,7 +3523,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 Frying mudwings—the remains of magical winged creatures found in blighted swamps—is a delicate balance. Cooked for too long and they lose their potency; cooked too briefly and the toxins in their system could end up harming whoever eats them. When you consume a perfectly cooked tapas, you grow two sets of mudwings that grant you a fly Speed of 30 feet or your Speed, whichever is lower, for 10 minutes. You can also use the following Activation.
 TRAITS
@@ -3543,7 +3543,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 This thick, oily salve reacts with the air to exude a toxic mucus when applied to skin. Once it's applied, you can activate the salve in one of the two ways detailed below. After either reaction has been used, the remaining mucus loses its reactive properties and falls away as the effect ends. You can only have one dose applied at a time. If you don't use either reaction, after 10 minutes, the mucus flakes away and the effect ends.
 TRAITS
@@ -3563,7 +3563,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 A miniature toy carriage is carved from wood and has fully functioning wheels. It can vary in size from 2 to 8 inches long, too small for even Tiny creatures to ride. If pushed or propelled, obstacles and terrain might slow, stop, tip, or divert the carriage's course.
 TRAITS
@@ -3580,7 +3580,7 @@ GOLD
 LEVEL
 15
 BULK
-None
+0
 ENTRY
 Transposition ammunition has a milky-white cast and will sometimes shift position subtly of its own accord. When you activate the ammunition, instead of making your {@action Strike} against a foe, you fire transposition ammunition at any unoccupied square you can see within your weapon's first range increment and succeed without making an attack roll. You pull yourself through the Astral Plane, teleporting along with any items you are holding into the square where you shot the ammunition. If this would carry along any other creature (even one in an extradimensional space), the activation fails.
 TRAITS
@@ -3642,7 +3642,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 This flask contains a fine red powder made from toxic berries. A vexing vapor bomb deals the listed mental damage and mental {@trait splash} damage. On a hit, the target must succeed at a DC {@flatDC 5} flat check before taking actions with the {@trait concentrate} trait. This lasts until the end of its next turn (1 minute on a critical hit).
 TRAITS
@@ -3706,7 +3706,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This red maple wand carved into a tongue of flame feels warm in your hand.
 TRAITS
@@ -3727,7 +3727,7 @@ GOLD
 LEVEL
 19
 BULK
-L
+0.1
 ENTRY
 This wand juts from an ornate hilt like a short, wooden dagger blade.
 TRAITS
@@ -3748,7 +3748,7 @@ GOLD
 LEVEL
 19
 BULK
-L
+0.1
 ENTRY
 A forked, lightning-like crack runs down the length of this ornate stone wand, which rumbles slightly with the peals of distant thunder.
 TRAITS
@@ -3769,7 +3769,7 @@ GOLD
 LEVEL
 20
 BULK
-L
+0.1
 ENTRY
 This large stone eye is the size of a fist and decorated with elaborate carvings of robes and other garments.
 TRAITS
@@ -3790,7 +3790,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This light barding is covered in wavelike patterns. The barding adjusts to fit your animal companion regardless of its shape.
 TRAITS
@@ -3811,7 +3811,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 A {@condition hidden} copper plate conceals a bag of electric eels. When a creature steps on the plate, the eels become agitated, and the creature takes {@damage 4d8} electricity damage (DC 21 basic Reflex save). On a critical failure, the current causes the creature to become {@condition stunned|CRB|stunned 2}. The eels are unharmed after use, but the mechanism is {@condition broken} as usual for snares.
 TRAITS
@@ -3833,7 +3833,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 A set of large blades have been attached to your chair's wheels. While in the chair, you gain a wheel blade {@action Strike}.
 TRAITS
@@ -3851,7 +3851,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 A set of thick, sharp spikes have been added to the chair's wheels, granting you a piercing attack. While in the chair, you gain a wheel spike {@action Strike}. Your wheel spike deals {@damage 1d4} piercing damage and has the agile, {@trait attached}, and {@trait free-hand} traits. A wheel spike is a simple melee weapon in the knife weapon group. You can etch weapon runes onto wheel spikes.
 TRAITS
@@ -3886,7 +3886,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 Wigs of holding are created from planar fibers and contain small extradimensional spaces accessible within the hair.
 TRAITS
@@ -3908,7 +3908,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 This rune is invested by the captain or pilot of the vehicle.
 TRAITS
@@ -3928,7 +3928,7 @@ GOLD
 LEVEL
 13
 BULK
-— (when not activated)
+0.0
 ENTRY
 A wizard's tower is a tiny gaming piece carved into the form of a stone tower.
 TRAITS

@@ -30,7 +30,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 Stories tell of a forgotten king who once loved his subjects so much he was willing to give his own life energy for them. Whether true or not, this majestic wooden crown bears elaborate carvings depicting that tale. It's ringed with images of the same kingly figure giving more and more of himself to a throng of needy subjects. While wearing it, you gain a +1 item bonus to {@skill Diplomacy} checks.
 TRAITS
@@ -114,7 +114,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This thick brooch is carved from a single piece of rhino hide. It's lacquered and covered in a thin layer of silver dust. When activated, the talisman grants you resistance 5 to physical damage until the end of the current creature's turn. This resistance applies to the triggering attack.
 TRAITS
@@ -135,7 +135,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 This small figurine is carved from a single piece of silvery, spiky stone and resembles a beautiful dryad pouring water into a small pool. When you activate the muse, you are momentarily enlightened with inspiration that bolsters your performance. If you roll a success on your triggering check, you get a critical success instead.
 TRAITS
@@ -156,7 +156,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 This knife is a +1 striking returning dagger with a wide blade and thick wooden handle. A prayer for protection from evil magic is carved into the handle in tiny script, running around the handle in a spiral. The grooves of the carved prayer provide a good grip on the knife and make it easy to catch when it returns to your hand.
 TRAITS
@@ -176,7 +176,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 The Nantambu Chime-Ringers created these magical chimes to aid in their defense of their city. Each chime is made from elaborately carved wood depicting the nature of a given chime's power.
 TRAITS
@@ -196,7 +196,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 The magical statuettes known as wondrous figurines are described on page 576 of the Pathfinder Core Rulebook.
 TRAITS

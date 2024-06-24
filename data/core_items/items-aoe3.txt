@@ -5,7 +5,7 @@ AoE3
 PAGE
 78
 GOLD
-None
+0
 LEVEL
 10
 BULK
@@ -31,7 +31,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 This oily, dark purple powder gives off the distinct odor of boiled leather. When delivered, the poison acts quickly to constrict the victim's blood flow to their extremities and turn their lungs into a soft jelly. A victim of blackfinger blight is recognizable by the pores of their fingertips weeping an inky oil that coats their hands and makes it difficult to hold things. Each round, at the beginning of their turn, a creature affected by blackfinger blight must succeed at a flat DC 5 check or drop one random item they're holding.
 TRAITS
@@ -53,7 +53,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This translucent yellow-green liquid has a sharp, tangy odor and an oily sheen. It's mildly acidic and can cause a minor rash after prolonged contact with skin. To unlock its true potential, you must submerge a piece of an intelligent creature's brain matter in the acid and allow the material to completely dissolve. This takes {@dice 2d10} minutes, during which time the mnemonic acid bubbles and steams eagerly.
 TRAITS

@@ -9,7 +9,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 Stealthy hunters and rogues can use this {@runeItem shortbow||+1 weapon potency||+1 magic shortbow} to attack from hiding. If you use this bow to {@action Strike} a target that can't see you and you get a critical hit, the target takes an extra {@dice 1d6} damage (this is in addition to sneak attack damage if you're a rogue).
 TRAITS
@@ -28,7 +28,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This {@runeItem dagger||+1 weapon potency||striking||+1 striking dagger} has an image of a snake emblazoned on its blade. When you critically succeed at an attack roll with the dagger, magical fangs emerge and poison the target, dealing {@damage 1d4} {@condition persistent damage||persistent poison damage}.
 TRAITS
@@ -48,7 +48,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 Smoke constantly belches from this {@runeItem longsword||+1 weapon potency||+1 magic longsword}. Any hit with this sword deals 1 extra fire damage. You can use a special action while holding the sword to command the blade's edges to light on fire.
 TRAITS
@@ -69,7 +69,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 Sparks of crackling electricity arc from this {@runeItem warhammer||+1 weapon potency||+1 magic warhammer}, and the head thrums with distant thunder. Any hit with this hammer deals 1 extra electricity damage. You can use a special action while holding the hammer to transform the sparks into lightning bolts.
 TRAITS
@@ -90,7 +90,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This liquid contains blood from a wyrmling green dragon. For 1 hour after you drink it, you can unleash a cloud of poison as a breath weapon. Exhaling dragon breath uses a single action. The breath weapon deals {@damage 2d6} poison damage in a 15-foot cone, and each creature in the area must attempt a DC 23 basic Fortitude save. After you use the breath weapon, you can't do so again for {@dice 1d4} rounds.
 TRAITS
@@ -111,7 +111,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 This lustrous, rat-shaped pyrite statuette is 1 inch tall. When activated, the statuette transforms into a flesh-and-blood giant rat. You can use the following action when you hold the {@italic pyrite rat}. You can use this action only once per day, and the rat remains transformed for 1 hour.
 TRAITS
@@ -132,7 +132,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 When you put on this belt, its silver buckle begins to glow, which slowly spreads into the heart-shaped jewel in the center. You increase your maximum Hit Points and current Hit Points by 4.
 TRAITS
@@ -151,7 +151,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 A grinning skull tops the bow of this macabre key. This key can be used in place of {@item thieves' tools} when attempting to {@action Pick a Lock}, and it grants a +1 item bonus to the {@skill Thievery} check.
 TRAITS
@@ -169,7 +169,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This elegant copper ring has miniature images of songbirds engraved around its circumference, and while you wear it, you sometimes can swear that you hear the sound of songbirds singing from somewhere within 60 feet, even when you're sure there aren't any birds around. You gain a +1 item bonus to {@skill Deception} checks.
 TRAITS
@@ -189,7 +189,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and can bear symbols or runes. In all its forms, the hat is the symbol of a stylish and professional mage. It grants you a +1 item bonus to {@skill Arcana} checks and allows you to cast the {@spell detect magic} wizard cantrip as often as you like, using the normal actions to do so.
 TRAITS
@@ -208,7 +208,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 When you drink this potion, you turn {@condition invisible} for 10 minutes. Creatures can't see you, but they might be able for 10 minutes. Creatures can't see you, but they might be able to {@action Seek} to figure out your location (though they still need to succeed at a DC {@flatDC 11} flat check to target you). If you attack a creature or use another hostile action, the potion's magic ends as soon as your hostile action is completed.
 TRAITS
@@ -228,7 +228,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 This vial contains magical water blessed by a good deity. You can throw it as a ranged {@action Strike}. {@italic Holy water} is a simple thrown weapon with a range increment of 20 feet. It shatters on a hit, dealing {@damage 1d6+1} good damage to the target and 1 good damage to every other creature within 5 feet of the target. {@italic Holy water} damages only undead.
 TRAITS
@@ -248,7 +248,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This jangling, silvery bracelet makes you lighter on your feet, giving you a +1 item bonus to {@skill Acrobatics} checks. Once per day, you can use the following action.
 TRAITS
@@ -268,7 +268,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 This terrifying mask resembles the visage of a leering demon and grants a +1 item bonus to {@skill Intimidation} checks. Once per day, you can use the following activity.
 TRAITS
@@ -288,7 +288,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 The opaque crystal lenses of these sleek goggles don't obscure vision, but rather enhance it. While wearing the goggles, you gain a +1 item bonus to {@skill Perception} checks involving sight. Once per day, you can use the following action.
 TRAITS
@@ -308,7 +308,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 This mummified elf hand hangs on a golden chain, its gnarled fingers locked in a peculiar pattern.
 TRAITS
@@ -328,7 +328,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 This ordinary-looking hat allows you to cloak yourself in illusions—perfect for pretending to be someone you're not. Once per day, you can use the following activity.
 TRAITS
@@ -348,7 +348,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 These clean white gloves never show signs of blood, even when used to stitch up wounds or treat other ailments. They give you a +1 item bonus to {@skill Medicine} checks. Once per day, you can use the following action.
 TRAITS
@@ -368,7 +368,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This hemp string has several lustrous, red beads of various sizes hanging from it. When activated, it briefly appears in its true form: a golden chain with golden spheres attached by fine threads. There's one large sphere and two smaller ones. You can use the beads one at a time to create magical fireballs. When all the beads are gone, the necklace becomes a non-magical hemp string.
 TRAITS

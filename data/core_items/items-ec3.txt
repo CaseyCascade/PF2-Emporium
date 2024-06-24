@@ -9,7 +9,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This small, diamond-tipped stylus allows you to inscribe a magical symbol on a golem's body and possibly gain control over it.
 TRAITS
@@ -30,7 +30,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 This simple iron ring is faceted with a bulbous geode lined with bright purple crystals. A ring of stoneshifting grants you the ability to ignore {@quickref difficult terrain||3|terrain} caused by rubble or uneven ground made of stone and earth.
 TRAITS
@@ -73,7 +73,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 This pale gemstone grants its wearer a +2 item bonus to saving throws and the ability to discern a target's alignment (as detect alignment, but can detect chaotic, evil, good, and lawful auras simultaneously) at will by peering through the gemstone.
 TRAITS

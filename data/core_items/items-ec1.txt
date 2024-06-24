@@ -9,7 +9,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 You hide fragile pods of pollen or other clinging powder that get in the eyes of the first creature that enters the snare's square. The creature must attempt a DC 17 Reflex saving throw. A creature {@condition dazzled} by the pollen can use an {@action Interact} action to attempt a DC {@flatDC 5} flat check to remove the condition.
 TRAITS
@@ -30,7 +30,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 You set snake fangs, poison stingers, or other venomous animal parts in the ground where they can be touched or stepped on by a creature that enters the snare's square.
 TRAITS
@@ -51,7 +51,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 You rig tree branches, thin strands of bark, or other plant matter to close in on a creature that enters the snare's square. The first creature to enter the square must attempt a DC 19 Reflex saving throw.
 TRAITS
@@ -72,7 +72,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 The snare makes a thunderous noise when a creature enters the snare's square, which can be heard up to 1,000 feet away. The creature must attempt a DC 18 Fortitude saving throw.
 TRAITS
@@ -93,7 +93,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 You pile waterlogged plants or access a nearby source of water to rain down on a Medium or smaller creature that enters the snare's square. When a creature enters the square, the snare's square and all adjacent squares become slippery {@quickref difficult terrain||3|terrain}, and the triggering creature must attempt a DC 19 Reflex saving throw, with the following effects.
 TRAITS

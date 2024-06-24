@@ -5,7 +5,7 @@ SoT6
 PAGE
 76
 GOLD
-None
+0
 LEVEL
 26
 BULK
@@ -26,7 +26,7 @@ SoT6
 PAGE
 77
 GOLD
-None
+0
 LEVEL
 21
 BULK
@@ -46,11 +46,11 @@ SoT6
 PAGE
 77
 GOLD
-None
+0
 LEVEL
 22
 BULK
-L
+0.1
 ENTRY
 This gold-inlaid wooden mask depicts the reptilian visage of a mokele-mbembe, a jungle predator seen by the Mwangi as embodiments of nature's strength and majesty.
 TRAITS

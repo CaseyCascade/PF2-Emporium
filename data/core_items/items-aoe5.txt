@@ -30,7 +30,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 Paper-thin interlocking gears and winding cogs make up this bronze cloak.
 TRAITS
@@ -51,7 +51,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 Rotating gears cover the outside of this imposing helmet. In order to function, the device must be wound for 10 minutes once every 24 hours. The clockwork helm has a calming and focusing effect on the mind. If you're affected by a detrimental condition caused by a {@trait mental} or {@trait emotion} effect, each round at the beginning of your turn, the gears of the helmet unwind and reduce the value of the condition by 1.
 TRAITS
@@ -72,7 +72,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This device has four finger-like latches centered around a whirring mass of gears.
 TRAITS
@@ -135,7 +135,7 @@ GOLD
 LEVEL
 15
 BULK
-None
+0
 ENTRY
 The shaft of this silver bolt is engraved with wiry designs.
 TRAITS
@@ -176,7 +176,7 @@ GOLD
 LEVEL
 16
 BULK
-L
+0.1
 ENTRY
 The crime lord Miogimo almost always appears with this special mask, crafted with a piece of his soul. It has two forms.
 TRAITS

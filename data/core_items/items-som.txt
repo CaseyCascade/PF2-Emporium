@@ -9,7 +9,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 This waterskin coruscates with holy energy, causing it to slowly fill itself with special blessed water unique to the item. After using any of the activations, the waterskin is empty, but slowly refills itself. It becomes full enough to use again at the next dawn.
 TRAITS
@@ -30,7 +30,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This unassuming yellow paper, affixed above a door or gate, flickers in the light. Pick an alignment trait: chaotic, good, lawful, or evil. When a creature with the opposing alignment trait of the fulu (good for an evil fulu, and so on) passes through the entrance, it must succeed at a DC 17 Fortitude save or become {@condition sickened 2}; regardless of whether they succeed, the creature becomes temporarily immune for 1 day.
 TRAITS
@@ -50,7 +50,7 @@ GOLD
 LEVEL
 18
 BULK
-None
+0
 ENTRY
 This strange contraption slides over your eyes, supernaturally sharpening your mind. While peering through it, you can feel some entity whispering to you, telling all sorts of things about the subject of your gaze. You gain a +3 item bonus to {@skill Occultism} (though some entities might grant a bonus to a different skill, as determined by your GM). In addition, when you employ an exploration tactic other than Investigating, you also gain the benefits of Investigating unless you choose not to.
 TRAITS
@@ -109,7 +109,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 A bane rune causes a weapon to grant you improved understanding of creatures of a particular type, allowing you to deal more damage to those creatures. The crafter chooses {@trait aberration}, {@trait animal}, {@trait beast}, {@trait celestial}, {@trait construct}, {@trait dragon}, {@trait elemental}, {@trait fey}, {@trait fiend}, {@trait giant}, {@trait monitor}, {@trait ooze}, or both {@trait fungus} and {@trait plant}. The weapon deals {@damage 1d6} additional damage of the weapon's damage type to creatures with the chosen trait or traits. The benefit doesn't apply against creatures of the chosen type disguised as other creatures. It's up to GM discretion whether the bane rune applies against a creature disguised as a creature of the chosen type.
 TRAITS
@@ -129,7 +129,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 This grimoire fancifully illustrates the spells you inscribe within it with illuminated drawings of creatures that have never existed, the pictures changing to depict new ones from time to time.
 TRAITS
@@ -149,7 +149,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 This talisman, a bright red coil that's warm to the touch and faintly resembles a serpent, wraps entirely around your weapon. When you activate this talisman's effect, attempt to {@action Grapple} the creature you hit. On a success, rather than the normal {@trait Grapple} effects, the coil instead wraps itself around the target with one end remaining attached to your weapon.
 TRAITS
@@ -169,7 +169,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This +2 greater striking shifting shortsword is formed of rapidly vibrating air and magical energy, though it uses the same statistics as iron. The wooden hilt is adorned with four gems, representing the energies of acid, cold, fire, and electricity, that sparkle in sequence at random intervals.
 TRAITS
@@ -188,7 +188,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 The common saying, "Where there is progress in the field of magic, there is always someone who uses it to set things on fire," is engraved in gold on the cover of this red spellbook.
 TRAITS
@@ -208,7 +208,7 @@ GOLD
 LEVEL
 18
 BULK
-None
+0
 ENTRY
 This rune causes a weapon to transform into pure, brilliant energy. The weapon deals an additional {@damage 1d4} fire damage on a successful {@action Strike}, as well as {@damage 1d4} good damage to fiends and {@damage 1d4} positive damage to undead.
 TRAITS
@@ -228,7 +228,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This well-crafted wooden shield (Hardness 5, HP 30, BT 15) is covered in numerous seed pods with long spurs. You can {@action Strike} with these burrs as though they were +1 striking shield spikes.
 TRAITS
@@ -266,7 +266,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 In an effort to spread the knowledge of magic as widely as possible, worshippers of {@deity Nethys} discovered a way to bind cantrips into cards accessible even to non-spellcasters.
 TRAITS
@@ -306,7 +306,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This black velvet cloak is featureless and very soft to the touch. Upon wearing it for the first time, you're momentarily overwhelmed with a sense of comfort and coziness. While wearing this cloak you can comfortably rest in any space, so long as it's not wet or particularly hazardous. While sleeping in this cloak you only take a –2 status penalty to auditory {@skill Perception} checks, rather than a –4 status penalty.
 TRAITS
@@ -326,7 +326,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 This finely crafted, seemingly mundane parchment is useful for writing sensitive documents. When words are written on this parchment, they instantly scramble into unrecognizable script, requiring a DC 20 check to {@action Decipher Writing}.
 TRAITS
@@ -345,7 +345,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 A female figure peers through her blindfold from the cover of this stately tome.
 TRAITS
@@ -364,7 +364,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 When you invest this collar for your eidolon, it changes its appearance to match the eidolon's form, possibly into a different sort of neckpiece such as a choker, and it glows brightly with the symbol you and your eidolon share.
 TRAITS
@@ -405,7 +405,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 When energy courses through these lustrous beads, they glow brightly in the sacred colors of the spellcaster's faith. A spiritual weapon empowered with this catalyst flashes with bright light when it critically {@action Strike||Strikes} a target, causing the target to be {@condition dazzled} until the beginning of your next turn. The type of rosary determines the maximum spell level of spiritual weapon that can use the rosary as a catalyst.
 TRAITS
@@ -424,7 +424,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 This set of 34 parchment cards usually comes in a velvet bag or simple leather wrap. Each card depicts a different creature, monster, or other being that, when the deck is activated, immediately appears as a believable, life-size illusion. You can look at the card's artwork, but no {@trait magical} effect takes place until you Activate the deck, shuffling and drawing randomly.
 TRAITS
@@ -444,7 +444,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 This deck of 54 cards appears nearly identical to standard playing cards. Comprised of four thematic suits of 13 cards each, as well as two wildcards, the deck of mischief is a favorite of scoundrels who prefer not to leave their games to chance—or to at least nudge the odds in their favor. If you know how to activate the deck, you can illusorily transform the ace and face cards into other cards in the deck.
 TRAITS
@@ -464,7 +464,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 Given to undisciplined acolytes at risk of breaking their vows, this fulu activates on its own if its wearer begins to perform an act anathema to a specific deity or cause, decided at the time of crafting. The fulu heats up when activated, giving you enough warning to correct your actions; if you proceed, the fulu immolates in a burst of flame. This deals {@damage 4d6} fire damage and brands your skin until you receive an appropriate atone ritual. Either way, activating the fulu consumes it.
 TRAITS
@@ -486,7 +486,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 Shelynites originally crafted this complex knot of vibrant string for bracelets meant to tie the destinies of two people together. Now, however, spellcasters of all religions use them to enhance their capacity with teleportation magic. Adding this catalyst to a 4th-level {@spell dimension door} spell allows you to bring a single willing adjacent creature along with you; however, the teleportation is somewhat disorienting for them, causing them to become {@condition stunned 1}.
 TRAITS
@@ -505,7 +505,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 The metals used to forge this lead shot were taken from a variety of continents and barely stay together. When an activated dispersing bullet hits a target, the bullet scatters into a sphere of metal shards as the metals try to return to their places of origin. All creatures in a 10-foot emanation around the target of the attack (and not including the target) must succeed at a DC 21 Fortitude save or be pushed 10 feet from the target (15 feet on a critical failure).
 TRAITS
@@ -525,7 +525,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 This arrowhead, carved from dragon bone, hangs off the shaft of your weapon. When you activate this talisman, until the end of the current turn, the affixed weapon gains the thrown <20 feet> weapon trait, and when you make a thrown {@action Strike} with it, it flies back to your hand after the {@action Strike} completes. If your hands are full when the weapon returns, it falls to the ground in your space.
 TRAITS
@@ -545,7 +545,7 @@ GOLD
 LEVEL
 18
 BULK
-None
+0
 ENTRY
 This small, heart-shaped amulet appears to be sculpted from stone with a single streak of dim light running through, like an ember just beneath ashes. When worn, the amulet gives off a gentle warmth, akin to being near a fireplace. You gain poison resistance 15 when wearing this amulet.
 TRAITS
@@ -567,7 +567,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 When opened, this grimoire has unlimited pages that, oddly, seem almost eager to transcribe spells. Unlike most grimoires, it has no limits to its number of spells. The grimoire's eagerness to contain your spells grants you a +1 item bonus to checks to {@action Learn a Spell} if you do so by transcribing the spell into the grimoire. If you use the grimoire during your daily preparations and are capable of preparing spells of the appropriate level, the grimoire's nature leaks into your mind, allowing you to prepare an additional 1st-level spell.
 TRAITS
@@ -586,7 +586,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 An extending rune allows you to extend your weapon to impossible lengths.
 TRAITS
@@ -605,7 +605,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This dried eye was plucked from a magical creature. You combine your observation about your enemy's reaction to your {@action Strike} with the stores of magical wisdom within the talisman to try to glean more information about the foe's true nature. When you activate this talisman, you attempt to {@action Recall Knowledge} about the creature you hit. If you roll a critical failure, you get a failure instead.
 TRAITS
@@ -625,7 +625,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This tattoo typically consists of an image of a small animal or of a familiar's name written in runes. Your familiar can meld into your familiar tattoo to be carried in your skin. The familiar must spend a single action, which has the magical, {@trait move}, and {@trait transmutation} traits, to meld into or exit your tattoo. It must be adjacent to you to meld into your tattoo, and it exits your tattoo in an open space adjacent to you.
 TRAITS
@@ -645,7 +645,7 @@ GOLD
 LEVEL
 15
 BULK
-L
+0.1
 ENTRY
 These compacted pellets of bat guano, sulfur, and magical accelerants have long been a staple for spellcasters on the battlefield. Adding a firestarter pellet to a {@spell fireball} spell produces clinging flames that deal {@condition persistent damage||persistent fire damage} to all who fail the saving throw against the effect (doubling on a critical failure).
 TRAITS
@@ -664,7 +664,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 Identical feathers radiate from the center of this spellheart, held in place by woven straw. The spell attack roll of any spell cast by {@action Activate an Item||Activating} this item is +8, and the spell DC is 18.
 TRAITS
@@ -684,7 +684,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 A sheen of red crosses the surface of this star-shaped goldstone medallion when the light hits it. The affixed armor or weapon is warm to the touch. The spell attack roll of any spell cast by {@action Activate an Item||Activating} this item is +7, and the spell DC is 17.
 TRAITS
@@ -704,7 +704,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 This is a metal drinking flask, 4 inches in diameter and 10 inches tall. Its screw top is covered by four simple metal cups that nest together.
 TRAITS
@@ -723,7 +723,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 Light refracts in strange ways through these precisely ground glass tiles, lengthening the refracted force and causing it to push back. Adding this catalyst to a {@spell wall of force} spell increases the wall's maximum length to 80 feet and maximum height to 40 feet and causes creatures that try to move into the wall's space (or are Shoved into the wall) to take {@damage 2d6} force damage.
 TRAITS
@@ -742,7 +742,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 Burnt fulu ashes float in this liquid, lending a distinctive red color and imparting it with a variety of purifying effects. Unlike many fulu items, fu water must be created using divine magic.
 TRAITS
@@ -764,7 +764,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This pamphlet-sized book records the various symbols seen on fulu and also contains some ready-made magic on a special page that restores itself every day at sunrise.
 TRAITS
@@ -784,7 +784,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 Duration 1 week The silver ink on this black paper charm ebbs in and out of sight, especially when caught out of the corner of your eye. Usually placed in the kitchen, this fulu slows the spread of fire in a 30-foot radius by half.
 TRAITS
@@ -804,7 +804,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 Duration 1 week This blue fulu bears dark ink that slowly swirls and twists about itself, expanding and contracting on the paper over the course of the day in time with the tides. This fulu is most effective in the lowest area of a building, or near the most valuable or least-waterproof items. They're often seen as the rainy season approaches, with demand spiking just before a particularly large storm hits.
 TRAITS
@@ -824,7 +824,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 The monkey on this fulu sits on the point of the armor just over the bearer's stomach, happily drinking any intoxicants that come flowing down. When you activate the fulu, you gain a +2 status bonus on the triggering Fortitude save and on Fortitude saves against the same poison for the next minute.
 TRAITS
@@ -845,7 +845,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 The ox on this fulu rests vigilantly on the point of the armor right over the bearer's heart, protecting the bearer against diseases and safeguarding their health. When you activate the fulu, you gain a +2 status bonus on the triggering Fortitude save and on all Fortitude saves against the same disease for the next minute.
 TRAITS
@@ -866,7 +866,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 Duration 1 hour This fulu comes in four pieces, one placed in each cardinal direction. Choose one of the following traits when {@action Activate an Item||Activating} the fulus: animal, beast, celestial, fey, fiend, humanoid, monitor, plant, or undead. Those within the fulus' circle upon activation (including the fulus themselves) gain the effect of invisibility sphere, but only against creatures with the chosen trait. If any of the fulus are moved or destroyed after activation, the effect ends.
 TRAITS
@@ -886,7 +886,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 This white paper fulu bears red ink and attunes a weapon to the spiritual essence of an incorporeal creature. Upon activation, the weapon gains the benefit of the {@item ghost touch} property rune against the triggering incorporeal creature for 1 minute.
 TRAITS
@@ -908,7 +908,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 Translucent and nearly weightless, this opalescent paint seems to resolve into occult symbols if stared at too long. When used to cover a 5-foot-wide, 10-foot-tall section of a wall, the paint turns that section of wall ghostly and incorporeal to a depth of 10 feet, allowing corporeal creatures and objects to pass through it. The portal persists for 10 minutes. When this effect wears off, anything remaining within the portal is shunted to the nearest exit.
 TRAITS
@@ -929,7 +929,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 These wire-rim glasses with large, circular lenses were invented for the sole purpose of avoiding awkward confrontations at social gatherings. They grant you a +1 item bonus to {@skill Diplomacy}.
 TRAITS
@@ -949,7 +949,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 The blade of this +2 striking returning dagger shines the color of twilight, with a triangular lattice design on the hilt. A thin string of darkness connects your shadow to that of the blade, even once it leaves your hand.
 TRAITS
@@ -970,7 +970,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 Threads of iridescent golden silk wrap around the core of this magical sling stone. When you activate and shoot a golden chrysalis, rather than making an attack roll for your {@action Strike}, you cause the chrysalis to unwind in midair to reveal a magical butterfly that flies in a 30-foot line, scattering golden scale dust that hangs in the air for 1 minute.
 TRAITS
@@ -990,7 +990,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 One bulb of this tiny hourglass contains black sand, the other white. After even a few grains pass from one side to the other, it reverses its flow to keep the two sides in equilibrium. The spell DC of any spell cast by {@action Activate an Item||Activating} this item is 17.
 TRAITS
@@ -1009,7 +1009,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 This +1 striking returning starknife is made of dark blue metal overlaid with smoky flecks of fused quartz. When you Cast an evocation Spell, your next attack this turn with this starknife reduces the target's cover, changing greater cover to standard cover or ignoring standard and lesser cover.
 TRAITS
@@ -1030,7 +1030,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 This pointy, brimmed hat made up of a rainbow patchwork of various materials seems to sit just a little lopsided on your head, no matter how you adjust it. You gain a +2 item bonus to checks to {@action Earn Income}.
 TRAITS
@@ -1049,7 +1049,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 An astringent aroma from rare succulent plants wafts off these soothing cloth patches. Adding this material component to a {@spell heal} spell bestows additional temporary Hit Points to one target healed by the spell. These temporary Hit Points last for 1 minute.
 TRAITS
@@ -1088,7 +1088,7 @@ GOLD
 LEVEL
 17
 BULK
-None
+0
 ENTRY
 This rune thrums with pure magical energy. Weapons with the rune deal an additional {@damage 1d6} force damage on a successful {@action Strike}. On a critical hit, you can choose to force the target to succeed at a DC 27 Fortitude save or be pushed 5 feet away from you.
 TRAITS
@@ -1108,7 +1108,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This worn and stained manual emits a chill when opened.
 TRAITS
@@ -1128,7 +1128,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 This +2 resilient invisibility chain shirt is itself {@condition invisible}. Other creatures can't see it at all, allowing you to wear it surreptitiously. Additionally, the armor's {@condition invisible} composition is quieter and more comfortable than a normal chain shirt.
 TRAITS
@@ -1147,7 +1147,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This small, ceramic jar is full, holding approximately a quarter gallon of sand.
 TRAITS
@@ -1167,7 +1167,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 These thieves' tools provide their owner the ability to have continued control over a lock while leaving it in place.
 TRAITS
@@ -1207,7 +1207,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 This dried claw from a mighty beast bestows upon you the ability of a predator. When you activate the claw, you learn to pounce on your prey in one fluid motion. You {@action Stride} and then {@action Strike} with the affixed weapon against one creature you were {@condition undetected} by. You remain {@condition undetected} by the creature until after you {@action Strike}.
 TRAITS
@@ -1227,7 +1227,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 Duration 1 hour The symbols on this fulu depict a lock and winding chains. Affixing this fulu over the seam or frame of the target locks it, even if it has no latch or existing lock.
 TRAITS
@@ -1247,7 +1247,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This mask appears to be a pool of mirrored, shifting silver adhered to a thin metal plate.
 TRAITS
@@ -1268,7 +1268,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This red fulu contains blessings for one's relationship from {@deity Shelyn}, goddess of beauty and love. You get a +2 status bonus to the {@skill Diplomacy} check, and if you roll a critical failure on the check, you get a failure instead.
 TRAITS
@@ -1290,7 +1290,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This deep red cloak fits lightly about your shoulders, and the edges perpetually twitch slightly, as though caught in a breeze. The cloth feels smoother than silk, rippling and swaying like liquid when in motion. You feel a lively energy infusing your arms and legs. You gain a +3 item bonus to {@skill Acrobatics} and {@skill Stealth}, and a +2 circumstance bonus to AC against attacks from reactions triggered by your movement.
 TRAITS
@@ -1333,7 +1333,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 Sold only in single sticks, this foul incense comes coated with a bevy of alchemical smoke that activates in the presence of intense heat, releasing its namesake pungent odor. Adding this catalyst to a {@spell wall of fire} spell fills all squares adjacent to the wall with thick, foul smoke. Creatures in this area are {@condition concealed}, and other creatures are {@condition concealed} to creatures in the area. The smoke lasts for the duration of the spell.
 TRAITS
@@ -1352,7 +1352,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 This silver brooch reverberates lightly with the sound of music every time anyone touches it. You can transform it into the shape of any chosen instrument when you Affix it. When you activate this talisman, your performance is accompanied by a grand procession of music that complements your own work, subject to your direction and intent. You receive a +1 status bonus to your {@skill Performance} check. If you roll a success, you get a critical success instead.
 TRAITS
@@ -1392,7 +1392,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 Intense blue water magically holds its shape—a perfect sphere. The spell DC of any spell cast by {@action Activate an Item||Activating} this item is 17.
 TRAITS
@@ -1412,7 +1412,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 Once you ingest this strongly spiced, glowing red potion, blazing wings of a phoenix sprout from your back and carry you through the air.
 TRAITS
@@ -1433,7 +1433,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 Sparks flash within this amber syrup. Drinking this potion turns you into a living lightning rod for 1 minute, drawing nearby electricity to strike you instead of allies. You gain the following reaction while the effect lasts.
 TRAITS
@@ -1454,7 +1454,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 No matter how carefully you open this bottle, it always lets out an audible, echoing pop. For 1 minute after drinking this potion, you gain a +2 status bonus to {@skill Perception} checks to hear.
 TRAITS
@@ -1474,7 +1474,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 Two swirling liquids fill this flask, each slightly distinct in color and brightness from the other. When you drink this potion, you consume only half of the contents. If another willing creature consumes the remainder of the contents within 1 minute, your vitalities become linked for 1 minute from the moment the second one of you drinks. The two of you share breath, so as long as you're within 60 feet of one another, neither of you can begin suffocating unless you're both suffocating. You both gain the following reaction.
 TRAITS
@@ -1494,7 +1494,7 @@ GOLD
 LEVEL
 16
 BULK
-L
+0.1
 ENTRY
 This aromatic potion is brewed from the white flowers and black roots of the magical herb moly. When you drink this potion, it immediately attempts to counteract all {@condition hostile} {@trait transmutation} effects affecting you. For the next hour, you gain an item bonus against {@trait transmutation} effects, which is greater against {@trait polymorph} effects. If you roll a success against a {@trait polymorph} effect during that time, you get a critical success instead.
 TRAITS
@@ -1514,7 +1514,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 Block reaction with the shield to which this fulu is affixed.
 TRAITS
@@ -1535,7 +1535,7 @@ GOLD
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 This +3 greater resilient greater fortification breastplate absorbs impacts for later release. While wearing the armor, you gain resistance 5 to bludgeoning, piercing, and slashing damage and resistance 10 to force damage.
 TRAITS
@@ -1555,7 +1555,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 The end of this ammunition is a metallic tuning fork with magical etchings. When an activated resonating arrow hits its target, the tuning fork resonates with residual energy from the shot, transforming it into dangerous sound waves. This deals {@damage 5d10} sonic damage to the target and each creature within 10 feet of it with a basic DC 28 Fortitude save.
 TRAITS
@@ -1575,7 +1575,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 Duration 1 hour This fulu depicts the five-spoke wheel of {@deity Qi Zhong|LOGM}, god of magic and medicine, and burns away slowly, like incense. If you fall asleep within the fulu's duration, you regain double the amount of Hit Points you usually gain from resting. You also gain a +2 status bonus to saves against {@trait mental} effects that occur in your dreams, such as the {@spell nightmare} spell.
 TRAITS
@@ -1615,7 +1615,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 This triangular prism showing swirling black patterns inside constantly moves around on your armor, no matter where you affix it. As part of the process of {@action Affix a Talisman||Affixing the Talisman}, you attune it to a single item of 1 Bulk or less. When you activate this talisman, the attuned item immediately teleports into your hand.
 TRAITS
@@ -1636,7 +1636,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 This jagged glyph, one of the {@variantrule Thassilonian Rune Magic|SoM|Thassilonian runes of sin}, reacts to magic of a particular school (there's no rune for divination, as it was considered lesser within sin magic)
 TRAITS
@@ -1656,7 +1656,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 Each specialist's ring is dedicated to a single school of magic, and the ring is covered in symbols and glyphs related to that school according to the creator's arcane studies. A specialist's ring has the trait corresponding to its school of magic. You gain a +2 item bonus to {@skill Arcana} checks, and a +1 circumstance bonus to recognize {@trait magical} effects and items of the specific school of magic.
 TRAITS
@@ -1676,7 +1676,7 @@ GOLD
 LEVEL
 18
 BULK
-None
+0
 ENTRY
 The thin, glittering strands of rope that comprise this thick belt appear to be spun gold. Strung along the front of the belt are a collection of four multicolored, perfectly spherical beads: jade, turquoise, quartz, and amethyst.
 TRAITS
@@ -1696,7 +1696,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 This obsidian ring allows you to partially warp your spells through the Shadow Plane, allowing them to strike directly at a target's body.
 TRAITS
@@ -1717,7 +1717,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This luminous mica dust fluoresces for a short time after being exposed to significant amounts of magical energy. When a creature fails its save against a cloud of glitterdust created using this catalyst, glowing grains stick to them, causing them to shed dim light in a 20-foot radius for as long as their invisibility is negated by the spell as well as causing them to take a –2 circumstance penalty to {@skill Stealth} for that duration.
 TRAITS
@@ -1736,7 +1736,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 Though this item looks like a simple cookie in the shape of a humanoid, it springs to life once decorated with icing or other edible substances. The cookie then scrambles away at a Speed of 15 feet, returning to the same spot about 1 hour later, which gives it enough time to travel roughly a half-mile away and then return along the same path. The cookie spy is oblivious to your instructions and can't be given directions, instead following a path of its own choosing. Upon its return, it falls to the ground, never to move again.
 TRAITS
@@ -1778,7 +1778,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 This +1 striking thundering light mace has twin tips, perfectly spaced to resonate when striking foes.
 TRAITS
@@ -1798,7 +1798,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 Performers popularized these bundles of aromatic herbs to calm the mind and ward off misfortune before a big show, though soldier bards have found them especially useful for clearing fear during particularly tumultuous battles. Adding this catalyst to a {@spell soothe} spell also causes the spell to reduce the target's {@condition frightened} condition value by 1.
 TRAITS
@@ -1838,7 +1838,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 When opening the book, whispers can be heard on the wind, or laughter rings in the distance.
 TRAITS
@@ -1857,7 +1857,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 This classic fulu seals the negative energy within an undead, freezing it in its tracks. Upon affixing, the target undead must attempt a Will save or be {@condition paralyzed} for 1 round.
 TRAITS
@@ -1938,7 +1938,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 When you invest this medallion for your eidolon, it changes shape to appear as a tiny bejeweled facsimile of the eidolon, magically attached just over your eidolon's heart. While your eidolon wears the medallion, they gain a +2 item bonus to {@skill Athletics} checks to {@action Shove} or {@action Trip}.
 TRAITS
@@ -1959,7 +1959,7 @@ GOLD
 LEVEL
 16
 BULK
-None
+0
 ENTRY
 This unassuming paper tag is inscribed with magical symbols. When you activate the fulu, it vanishes in a wisp of cloud, and you gain resistance 15 to cold, electricity, and sonic damage until the end of your next turn. For that duration, you ignore {@quickref difficult terrain||3|terrain} from wind and weather, and you can't be forcibly moved or teleported unless the effect counteracts the fulu (DC 40). These protections apply against the triggering effect.
 TRAITS
@@ -1981,7 +1981,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 Even while affixed, this electric blue feather sways lightly in the air, as if always accompanied by a breeze.
 TRAITS
@@ -2001,7 +2001,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 This green spellbook with gold trim contains a cautionary story about a boy who was eaten by a wolf after he previously lied about wolf attacks.
 TRAITS
@@ -2020,7 +2020,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 Classic summoning circles are engraved into the batons of this massive papyrus scroll.
 TRAITS
@@ -2040,7 +2040,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 This collection of lacquered rice paper scrolls mounted on flexible bamboo contains a wealth of calligraphic essays and paintings on the art of war, specifically focused on the use of various weapons in warfare and how to tactically deploy warriors using those weapons to the best possible advantage. Consulting the thesis grants a +2 item bonus to {@skill Lore||Warfare Lore} checks. Like most scholarly compendiums, this usage requires holding the thesis in one hand.
 TRAITS
@@ -2061,7 +2061,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 This carved chunk of amber contains a single tuft of gray feathers, which spark with electricity to create an odd jittery sensation in anyone holding the amber for long. When used as part of a {@spell shocking grasp} spell, thunderbird tuft funnels electricity back into the spellcaster in a defensive nimbus. For 1 minute, any creature that touches you or that hits you with a melee unarmed attack or non-reach melee weapon attack takes the listed electricity damage.
 TRAITS
@@ -2080,7 +2080,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 These bronze gauntlets each have a small red gem embedded in the wrist. You gain a +3 item bonus to {@skill Athletics} checks and a +1 circumstance bonus to {@skill Athletics} checks to {@action Grapple}. If you successfully {@action Grapple} an enemy that's at least one size category larger than you, the gauntlets dig into it, dealing bludgeoning damage equal to your Strength modifier, plus an additional {@dice 2d6} on a critical success.
 TRAITS
@@ -2101,7 +2101,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This slimy gel wriggles to the touch, as if covered by a multitude of imperceptible cilia. If applied to a creature or object no larger than 7 feet in any dimension, the protoplasm shifts it into an ooze-like state for 1 minute, allowing the subject to squash and stretch harmlessly. In this state, a creature that attempts a check to {@action Squeeze} uses the outcome one degree of success better than it rolls and can move its full Speed while {@action Squeeze||Squeezing}, and an object can fit through a space 2 feet across. One vial can cover a creature or object of up to Large size, but as each vial is made from a specific ooze, multiple vials can't be combined together to cover a larger object, as the two gels simply negate each other.
 TRAITS
@@ -2121,7 +2121,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 Used covertly by assassins and spies, this pair of fulus stick to one another when created but can be easily separated. Affix one fulu to a target before activating its pair. When activated, the unaffixed fulu flutters toward the affixed one at a speed of 30 feet per round, traveling for up to 1 hour and fluttering more rapidly the closer it comes to its pair. The unaffixed fulu always moves in a straight line towards the affixed fulu; it can't solve mazes or find its way through winding paths.
 TRAITS
@@ -2141,7 +2141,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 The crystal chamber within this split geode is divided into three lobes of equal size. The spell DC of any spell cast by {@action Activate an Item||Activating} this item is 17.
 TRAITS
@@ -2161,7 +2161,7 @@ GOLD
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 This amulet bears the true name of a single creature with a level no higher than the item's level. These amulets are typically made of gold and engraved, but could be made of anything, including simple clay. The name is clearly visible, though only to you, and only while you have the amulet invested.
 TRAITS
@@ -2181,7 +2181,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 You're an expert in the affixed armor and an expert in Reflex saves.
 TRAITS
@@ -2201,7 +2201,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This green fulu depicts venomous creatures and vermin.
 TRAITS
@@ -2222,7 +2222,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This grimoire takes the form of a series of baked clay tablets. Any text inked upon it turns swiftly into carved depressions.
 TRAITS
@@ -2242,7 +2242,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 Many cultures of Golarion have a tattoo to turn away harm; as such, warding tattoos often resemble whichever dangers are most common to the culture, such as a wild beast or a whirlpool in the high seas of the Shackles.
 TRAITS
@@ -2263,7 +2263,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 Many books and spellbooks are treated in this wax formula to protect them from the elements, but waterproofing wax's liquid-repellent properties can be further applied to split up a {@spell grease} spell into useful smaller sections. When the spell is cast in an area while using this catalyst, the conjured grease fills three 5-foot squares within 30 feet instead of its normal area; these squares don't need to be contiguous.
 TRAITS

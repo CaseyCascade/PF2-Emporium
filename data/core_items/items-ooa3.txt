@@ -54,7 +54,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 This +2 striking dueling pistol (Guns & Gears 152) is fashioned from silvery steel that glistens with a radiant light. You can choose to make a nonlethal attack with the redeemer's pistol without taking a –2 penalty; if you do so, the attack deals {@dice 1d6} additional mental damage. You can also call forth the redemptive spirit within the gun to pass judgment on your foes.
 TRAITS
@@ -138,7 +138,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This bullet is fashioned from a rubbery substance and stamped with the image of a diminutive ant twitching in surprise. The bullet deals no damage on a successful hit. Instead, the target must attempt a DC 19 Fortitude save.
 TRAITS
@@ -158,7 +158,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 symbol of a four-pointed star on their outer surface, explode outward in the shape of a cross whenever they {@action Strike} a target.
 TRAITS
@@ -180,7 +180,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This bone compass, made of the bones of sapient creatures that died violent deaths, is eerily effective when it comes to locating corpses. If you know you're Tracking a creature that's dead, you can use the compass's idiosyncrasies to your advantage and gain a +2 item bonus to your {@skill Survival} check to do so. Otherwise, it works as a normal compass.
 TRAITS
@@ -201,7 +201,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This bullet is crafted entirely from obsidian and engraved with hair-thin runes. When an activated corpsecaller round hits a target, the struck creature is called to the grave. It takes {@damage 4d10} negative damage with a DC 25 Fortitude saving throw.
 TRAITS
@@ -222,7 +222,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This device is a human-sized skull crafted entirely from metal plating and clockwork gears, which slots easily into a human skeleton in the spot where an ordinary skull would normally be located. While performing a create undead ritual, you can attach this skull bomb to the target creature in place of its own head. In order to do so, the target creature must be Medium and have the {@trait humanoid} trait. The target creature can have only one skull bomb attached in this fashion. The creature gains the following ability.
 TRAITS
@@ -244,7 +244,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This bubbly potion is purportedly made from winds gathered from the Mana Wastes and distilled into a liquor.
 TRAITS
@@ -266,7 +266,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 According to reports, as well as Emelett's own marketing pitches, this lotion is derived from rare mana rattlesnakes whose oils ward against poison and disease. When applied, you can attempt to counteract a {@trait poison} or {@trait disease} effect currently afflicting you. The potion has a counteract level of 5 and a +15 modifier for the roll. You also acquire a serpentine appearance, growing fangs and scaly skin. For 1 hour, you gain a fangs unarmed attack that deals {@damage 1d6} piercing damage plus 1 poison damage.
 TRAITS
@@ -287,7 +287,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This sludgy concoction is said to be derived from liquefied mutant scales. For 1 hour after you imbibe the potion, your skin warps and mutates to grant you resistance 5 to one type of energy damage. When you first drink the potion, choose either acid, cold, electricity, fire, or sonic damage. The potion starts by granting you resistance against this type of damage. Each time you take damage from one of these listed energy types other than the one you currently resist, your skin mutates, causing you to lose the energy resistance previously granted by this potion and gain resistance to the type of energy by which you were most recently damaged, and the potion's duration decreases by 10 minutes. The resistance shifts only after you take the damage, so it doesn't apply to the first instance of damage.
 TRAITS

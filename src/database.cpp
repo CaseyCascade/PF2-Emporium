@@ -37,7 +37,7 @@ void Database :: loadFile(string filepath)
         }
         else 
         {
-            newItem.enterData(variable, line); 
+            if (!newItem.enterData(variable, line)) cerr << "ITEM: " << newItem.getName() << endl;  
         }
     }
     file.close(); 

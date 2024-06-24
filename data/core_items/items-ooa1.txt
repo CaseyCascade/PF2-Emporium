@@ -9,7 +9,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 This acrid blend of black powder, honey, saltpeter, sulfur, and stranger ingredients sees plenty of use in the Mana Wastes, where magical environmental protection is unreliable. Users experience euphoric feelings of warmth and wellbeing followed by intense bouts of dehydration and disorientation.
 TRAITS
@@ -31,7 +31,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 Activating this black powder–infused alchemical bandage cauterizes wounds. You can apply a searing suture to yourself or an adjacent willing creature as you activate it. The target creature takes {@damage 1d6} fire damage and can immediately attempt a flat check to remove the {@condition persistent damage||persistent bleed damage}—the DC of this flat check depends on the type of searing suture applied. When applied against a bleed effect that is lower level than the searing suture, the flat check is automatically successful.
 TRAITS
@@ -51,7 +51,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 Upon drinking this mutagen, you can feel your blood surge through your body and hear a low-pitched humming in your ears. These sensations subside as the flesh and muscles of your arm loosen and stretch, the fibers of your very being reaching out to combine with the base of one melee weapon you're holding.
 TRAITS

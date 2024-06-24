@@ -5,11 +5,11 @@ LTiBA
 PAGE
 10
 GOLD
-None
+0
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 Granny's hedge trimmer resembles a polearm, with whirring blades attached to the end of a pole. The item can be used as a simple weapon in the {@group polearm} that deals {@damage 1d4} slashing damage.
 TRAITS

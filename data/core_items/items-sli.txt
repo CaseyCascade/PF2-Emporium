@@ -49,7 +49,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 A thin sheen of slick oil covers this gaudy button. When you activate the oily button, your attempts to {@action Disarm} your opponent of an item before the start of the opponent's next turn gain a +4 circumstance bonus instead of +2, and the –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item lasts until the end of its next turn or until it uses an {@action Interact} action to adjust its grip.
 TRAITS
@@ -70,7 +70,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 This repulsive, hairy glob dangles from the end of your weapon. When you activate the putrescent glob, the creature you damaged must succeed at a DC 23 Fortitude save or its {@condition sickened} condition increases to {@condition sickened|CRB|sickened 2}, and it can't reduce its {@condition sickened} condition until the end of its next turn. On a critical failure, it's also {@condition slowed|CRB|slowed 1} until the end of its next turn.
 TRAITS
@@ -91,7 +91,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 This gritty, spicy fluid causes you to grow a sixth finger on each hand and gives you a spiderlike grip.
 TRAITS
@@ -132,7 +132,7 @@ GOLD
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 This ribbon is constantly greasy to the touch and stains the armor it's affixed to. When you activate the slippery ribbon, your Speed increases by an amount necessary for you to move all the way through the enemy's space.
 TRAITS
@@ -153,7 +153,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This greasy stick emits a stomach-churning scent when held in a hand.
 TRAITS
@@ -174,7 +174,7 @@ GOLD
 LEVEL
 20
 BULK
-L
+0.1
 ENTRY
 This pale wooden wand is carved to resemble a thigh bone with metal caps at each end. Ghostly tendrils seem to swirl around it every so often.
 TRAITS

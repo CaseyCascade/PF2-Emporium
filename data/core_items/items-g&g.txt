@@ -47,7 +47,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 This tin clockwork lizard is activated when a creature moves adjacent to it, at which point it spits out a glob of acid. The target must succeed at a DC 20 Reflex saving throw or take {@damage 3d6} acid damage.
 TRAITS
@@ -70,7 +70,7 @@ GOLD
 LEVEL
 2
 BULK
-–
+0.0
 ENTRY
 This tiny copper gear is attached to the side of a firearm with a matching bolt or pin. When you activate it, the affixed weapon magically transfigures itself into the form of any simple or martial firearm to which you have access, harmlessly ejecting any contained ammunition in the process. Any runes or attached items present on the affixed weapon remain active unless incompatible with its new form, in which case they're suppressed for the duration of the transformation. The effect lasts until the beginning of your next turn.
 TRAITS
@@ -90,7 +90,7 @@ GOLD
 LEVEL
 4
 BULK
-–
+0.0
 ENTRY
 This wide strip of treated lizard hide is wrapped around the grip or stock of the affixed weapon, augmenting the unease that your gunshot creates. When you activate it, you fire your gun into the air with the effects of Warning Shot (page 112). If you already have the Warning Shot feat, the target doesn't become temporarily immune to your {@action Demoralize}, potentially allowing you to {@action Demoralize} them again.
 TRAITS
@@ -110,7 +110,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 Air cartridge firing mechanisms use a container of compressed air affixed to a sealed system that releases the air in a small burst to propel ammunition, and they're the default used in Arcadian air repeaters. Any firearm can be modified to replace its normal firing mechanism with an air cartridge firing system, allowing the weapon to be fired underwater or in other conditions that would normally prevent the ignition of black powder. The air cartridges lack much of the propulsive power of black powder, however, imposing a –10-foot penalty to the attached firearm's range increment. Weapons with the kickback trait don't gain that trait's benefits when using an air cartridge firing system.
 TRAITS
@@ -129,7 +129,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 Like the standard springald, an alchemical springald can launch three arrows simultaneously when its paddle is released. It fires specially crafted and balanced bomb arrows that carry black powder enhanced alchemical payloads that explode on impact.
 TRAITS
@@ -150,7 +150,7 @@ GOLD
 LEVEL
 15
 BULK
-None
+0
 ENTRY
 Named for Ancil Alkenstar, this bronze cannon is one of the largest pieces of mobile artillery ever deployed, though its immense weight limits just how mobile it actually is. The barrel of an Alkenstar cannon is nearly 3 feet in diameter, making it impractical to manufacture and handle cannonballs of sufficient size. Instead, Alkenstar cannons spray buckshot in a similar way to blunderbusses, firing large barrels that break apart mid-flight and release a rain of scattershot over a massive area. The slow movement and short range make this siege weapon fit fewer situations than most, but when used effectively, such as to stop a charge of Mana Waste mutants against the walls of Alkenstar, the results are devastating.
 TRAITS
@@ -167,7 +167,7 @@ G&G
 PAGE
 161
 GOLD
-None
+0
 LEVEL
 15
 BULK
@@ -209,7 +209,7 @@ G&G
 PAGE
 160
 GOLD
-None
+0
 LEVEL
 6
 BULK
@@ -234,7 +234,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 The components of this ammunition emit a strong smell when combined during its activation. A creature hit by an activated aromatic ammunition gains a distinct odor for up to 1 hour or until the scent is washed off (requiring at least a gallon of water and 10 minutes of scrubbing). Any creatures within 30 feet smell the target, allowing even those with a weak sense of smell to detect its presence, and all creatures gain a +1 item bonus to {@action Track} the affected creature for as long as it has the odor. A creature that has imprecise or precise scent doubles the range at which they can detect the target using their scent compared to the normal range of their scent.
 TRAITS
@@ -252,7 +252,7 @@ GOLD
 LEVEL
 17
 BULK
-None
+0
 ENTRY
 These bullets are formed from a liquefied high-grade precious metal and enchanted to unlock that metal's true potential. Each version has a different special effect.
 TRAITS
@@ -270,7 +270,7 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -288,7 +288,7 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -308,7 +308,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 Resembling a massive crossbow mounted on a tripod, but with a pair of arms for torsion instead of a single prod, a ballista flings massive bolts. Also referred to as a scorpion, this weapon requires fewer crew members than the larger heavy ballista and can be Aimed and Loaded much more quickly.
 TRAITS
@@ -369,7 +369,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 When a creature enters the snare's square, several strands of strong wires ending in jagged hooks latch onto it before hauling it to the ground. The snare deals {@damage 2d6} piercing damage, and the targeted creature must attempt a DC 28 Reflex save.
 TRAITS
@@ -390,7 +390,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 Black powder is a volatile and explosive alchemical substance commonly used in the production of firearm munitions.
 TRAITS
@@ -427,7 +427,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 These sets of rockets come in pairs and strap onto existing footwear (or a creature's feet). Inserting them and aligning them properly takes 1 minute. When you {@action Activate an Item||Activate} the blast boots, you can {@action High Jump} or {@action Long Jump}, without the need to {@action Stride} first. Higher-level versions increase the distance of your {@action High Jump} or {@action Long Jump}.
 TRAITS
@@ -468,7 +468,7 @@ GOLD
 LEVEL
 11
 BULK
-–
+0.0
 ENTRY
 These brass emblems come in a variety of designs, usually customized to the purchaser to reflect the heraldry of a family or guild. Blazons of shared power come in sets of three. When you invest the blazons, you wear one of the three on your chest, and you attach the others to a pair of one-handed weapons, choosing one as the primary weapon and one as the secondary weapon. These weapons can be either melee weapons or ranged weapons. As long as you're wielding both the primary weapon and the secondary weapon, the secondary weapon gains the benefit of the fundamental runes on the primary weapon. A weapon can only have a single blazon of shared power attached to it at a time.
 TRAITS
@@ -484,7 +484,7 @@ G&G
 PAGE
 162
 GOLD
-None
+0
 LEVEL
 3
 BULK
@@ -528,7 +528,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 Bombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but deploying them on a larger scale and scope. A bombard's body is usually made of brass or iron, which causes the bombard to resemble the shape of a large bell. While they are capable of moving very slowly, their {@condition clumsy} and weighty design means bombards usually remain stationary. This in turn means they're often used more defensively than offensively.
 TRAITS
@@ -570,7 +570,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 These spring-loaded inserts can be fitted into the breech of a double-barreled firearm over the course of 10 minutes or during the firearm's daily maintenance. After the weapon is fired, the ejectors hasten the reloading process by ejecting the spent detritus from the fired rounds.
 TRAITS
@@ -588,7 +588,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 This lightweight mesh fits easily over light armor. The suit is designed to incorporate local flora and ground clutter into the mesh to help you blend in seamlessly with the environment. Due to the abrasive nature of the materials used, this item is unsuitable for use by unarmored characters. You can prepare the suit for use within your current environment by using an exploration activity that takes at least 10 minutes, but sometimes longer if the materials are hard to find or the environment is unusual enough to warrant additional difficulty in preparing camouflage that can blend with it consistently.
 TRAITS
@@ -606,7 +606,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 Cannons are perhaps the most well known of all black powder siege weapons, and that's because they represent a good midpoint between power and expense. Keeps and fortresses in Alkenstar prefer to fortify their forces with cannons, as they're relatively easy to construct and their ammunition is cheap enough to build up great supplies.
 TRAITS
@@ -627,7 +627,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 A sturdy wooden frame holds the spring-loaded beam that gives this weapon its power. At the end of the beam, a bowl-shaped wooden recession holds the payload, typically heavy stones. The arm is winched back to create torsion, until the release is pulled to abruptly swing the arm forward and fling the payload.
 TRAITS
@@ -650,7 +650,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 This small, clockwork torch device uses a trigger-operated sparker to ignite a flow of flammable gas, creating a short, hot flame capable of rapidly cauterizing wounds and helping to stop bleeding. The cauterizing torch is applied to yourself or an adjacent target. The target attempts an immediate flat check to end any {@condition persistent damage||persistent bleed} effect with the lower DC for particularly effective assistance.
 TRAITS
@@ -669,7 +669,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 This complex clockwork outerwear, worn over armor or other clothing, is composed of thin, interlocking scales of myriad colors attached to numerous clockwork gears that can rotate between all visible colors and shades.
 TRAITS
@@ -727,7 +727,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This simple clockwork bird is no larger than a sparrow, designed to be wound up and perched on a tree branch or ledge. The Tiny clockwork remains immobile and silent until a Small or larger creature enters the square beneath its perch, at which point it springs into action. Once activated, it flies around making a loud chirping sound that can be heard up to 500 feet away. The bird then follows the creature that activated it for up to one hour or until it is destroyed, doing its best to stay just above the creature and out of reach, and continuing its string of loud chirps. The bird is an object with a Speed 10 feet, and a fly Speed of 25 feet. It has AC 15, Hardness 5, HP 10 (BT 5) and object immunities. Once {@condition broken}, it can no longer fly. It can't attack or otherwise damage other creatures. After an hour has passed after its activation, the clockwork chirper falls into a pile of useless components.
 TRAITS
@@ -771,7 +771,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This heavy set of mechanical goggles contains a variety of different lenses for different situations, including lenses that filter light at different intensities and frequencies and even some that capture heat and other stimuli. Clockwork mechanisms can swap between the lenses rapidly as needed.
 TRAITS
@@ -810,7 +810,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 These cute and unassuming toy monkeys are often dressed in loud clothing and carry a percussion instrument. It's activated once a creature moves adjacent to the square it sits in, at which point it leaps on the creature, scurrying about on its agile hind legs while it pounds on its instrument, riding the creature and raising a racket. The creature being assaulted by the monkey must find a way to escape its agitator either via flinging the monkey off with the {@action Escape} action (DC 18) or by breaking the monkey. The monkey has AC 19, Hardness 2, HP 10 (BT 5) and object immunities.
 TRAITS
@@ -833,7 +833,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This leather holster is crafted to better hide small firearms from view. Only firearms designed for use in one hand are small enough to disguise with this holster. You gain a +1 item bonus to {@skill Stealth} checks and DCs to hide or conceal a {@filter firearm|items||Hands=1|Group=Firearm} or {@item hand crossbow} in this holster.
 TRAITS
@@ -850,7 +850,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 When you {@action Activate an Item||Activate} a cryomister, you can either place it in an adjacent square or toss it up to 20 feet away. Once you've done so, the metallic device instantly disperses a heavy mist, settling quickly on nearby flat surfaces and forming a sheet of ice. The cryomister creates a burst with a radius depending on the type, making the affected area {@quickref difficult terrain||3|terrain} for 1 minute; , at the GM's discretion, however, this duration might be reduced in unusually hot conditions or increased in unusually cold ones. If an affected square takes fire damage, the {@quickref difficult terrain||3|terrain} is removed. Though not designed as a weapon, the cryomister's rapidly cooling mist deals cold splash damage depending on the type to creatures in the area on activation. Creatures attempting to move through the affected area can attempt an {@skill Acrobatics} check with a DC depending on the type to ignore the {@quickref difficult terrain||3|terrain} and move at their normal Speed. Throwing the cryomister onto the surface of a liquid creates a floating piece of ice for the same duration, capable of supporting one or more creatures of the listed size.
 TRAITS
@@ -870,7 +870,7 @@ GOLD
 LEVEL
 15
 BULK
-L
+0.1
 ENTRY
 These scopes, popular with snipers and other sneaky sharpshooters who ply their trade in the dead of night, incorporate clouded crystals with magical properties into their design. While relatively useless under normal lighting conditions, these crystals can help bring things into focus when used in dim light. The scope is then given an enchantment to enhance these properties for use in darkness. The scope grants you a +1 item bonus to {@skill Perception} checks involving sight in areas of dim light visible through the scope (as well as in areas of darkness, if the scope has been activated).
 TRAITS
@@ -890,7 +890,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 The darkened lenses of these goggles protect sensitive eyes from bright light but make seeing in the dark more difficult.
 TRAITS
@@ -908,7 +908,7 @@ GOLD
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 This modified Stasian coil of metal and glass stands about three feet tall. It activates when at least three creatures are within 20 feet of it, or if at least one creature stays within 20 feet of it for more than 1 round. It then lashes out with a torrent of electrical energy dealing {@damage 7d12} electricity damage to all creatures within 20 feet of it. Due to the fact that it doesn't trigger immediately when a creature enters its square, abilities like Surprise Snare (Advanced Player's Guide 194) don't work with a death coil. Creatures within that area must attempt a DC 43 Fortitude saving throw.
 TRAITS
@@ -948,7 +948,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This snare uses clockwork stressed almost to the breaking point, which activates with a powerful explosion that deals {@damage 3d8} piercing damage to the first creature entering the snare's square. The creature must attempt a DC 19 Reflex saving throw.
 TRAITS
@@ -1011,7 +1011,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 The night sky seems contained in this glass projectile.
 TRAITS
@@ -1030,7 +1030,7 @@ G&G
 PAGE
 162
 GOLD
-None
+0
 LEVEL
 13
 BULK
@@ -1056,9 +1056,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-None
+0
 ENTRY
 These small pieces of cloth and stuffing have been crafted to dramatically muffle sound and easily slide into and out of the ear canals of humanoid creatures. You can insert or remove earplugs from your ears or a willing creature's ears with a single {@action Interact} action using one hand. They take a –2 circumstance penalty to all {@trait auditory} {@skill Perception} checks but also gain a +2 circumstance bonus to saving throws against {@trait auditory} effects.
 TRAITS
@@ -1075,7 +1075,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This footlong length of conductive cable is capped on both ends by grounded handles containing Stasian coils. These coils can be turned on or off as a single action. While on, the coils electrify the cable, dealing {@damage 1d6} electricity and {@damage 1d6} fire damage in a thin precise line to anything the cable touches, though the cable is too unwieldy to use as a weapon. Electrocables are typically used to "cut" a thin straight line through metal. They ignore 10 points of a metal object's hardness.
 TRAITS
@@ -1114,7 +1114,7 @@ GOLD
 LEVEL
 4
 BULK
--
+0.0
 ENTRY
 This simple brass shell casing contains trace amounts of alchemical ingredients and is usually attached to the underside of the affixed weapon's barrel. When activated, it causes the ammunition fired from the affixed weapon to transform into your choice of acid, cold, electricity, or fire, dealing damage of the appropriate energy type instead of its usual damage as well as {@damage 1d6} {@condition persistent damage} of the same type on a critical hit.
 TRAITS
@@ -1134,7 +1134,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 Eroding bullets cast a faint green glow, and smell like the sicklysweet organic gases that rise from corpses. Handling an eroding bullet without gloves deals 1 point of acid damage and leaves the putrid scent coated on your fingers. Upon Striking an enemy, the glass casing inside the bullet bursts, releasing a splattering of bubbling green acid that coats the target. The target takes {@damage 2d6} {@condition persistent damage||persistent acid damage} in addition to the damage normally dealt by the attack.
 TRAITS
@@ -1173,7 +1173,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 When you {@action Activate an Item||Activate} an explosive mine, you place it on the ground in a square within your reach, priming it to explode when a creature steps on that square. If you have time in advance to prepare, you can place the mine on the ground before activating it, and you or an ally can try to use {@skill Stealth} to {@action Conceal an Object} before you {@action Activate an Item||Activate} the mine. If you don't {@action Conceal an Object||Conceal} the mine, its position is obvious at a glance.
 TRAITS
@@ -1192,7 +1192,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 This ammunition includes a small reservoir of a tacky red substance that coats the ammunition when you activate it. The substance makes a creature bleed more freely. For 1 minute after you deal damage to a creature with an activated exsanguinating ammunition that creature gains the listed weakness to {@condition persistent damage||persistent bleed damage}. In addition, the DC of any flat checks to end {@condition persistent damage||persistent bleed damage} increases from 15 to 17 (from 10 to 12 when receiving particularly effective assistance) for the duration.
 TRAITS
@@ -1210,7 +1210,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 This extendable rod features a pincer on one end and clamped handle on the other. By squeezing the handle, the pincer opens or closes. As an {@action Interact} action, you can extend or retract the rod by 5 feet to one of three settings, allowing you to {@action Interact} to pick up an object with the pincer either within your own space, in an adjacent space, or exactly 10 feet away.
 TRAITS
@@ -1229,7 +1229,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 These bullets glimmer with emerald green light that dances across the surface of the bullet like a mischievous sprite. On a successful {@action Strike}, a fairy bullet casts revealing light (DC 23) extending outward from a corner of the target's space. You choose which corner of the target's space you want the burst to extend out from at the time you declare the associated {@action Strike}. Since the fairy bullet is fired before revealing light can reveal the target, the effects don't affect the flat check for the attack roll with the fairy bullet if the target is hidden from you.
 TRAITS
@@ -1250,7 +1250,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 Fiend's mouth cannons are large-scale cannons designed to blast a target at great distance, from a stationary location.
 TRAITS
@@ -1271,7 +1271,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 Anyone who opens the box triggers a clockwork mechanism that unleashes a 15-foot cone of fire. The cone issues forth in a random direction determined by the GM but always including the creature who opened the box. Those within the cone must succeed at a DC 17 basic Reflex save or take {@damage 4d6} fire damage.
 TRAITS
@@ -1292,9 +1292,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This kit contains cleaning cloth, oil, small steel brushes, and other minor tools necessary for proper cleaning and maintenance of a firearm. Without a firearm cleaning kit, you can't perform the necessary tasks during your daily preparations to ensure that your firearm isn't at risk of misfiring under normal use conditions.
 TRAITS
@@ -1311,7 +1311,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 This alchemical black powder hybrid siege weapon uses a blast of black powder to spray alchemical fire from a long metal nozzle, often sculpted or painted with designs resembling a dragon's neck and head. The nozzle turns on a ratcheted, rotating disc with a reservoir in the center to hold a barrel full of combustible alchemical liquid, using black powder to propel the fire. This main structure is atop a wheeled cart to allow it to be easily moved. Unlike most mounted siege weapons, a firedrake is intended to be wheeled out into the thick of a skirmish rather than shooting from a distance.
 TRAITS
@@ -1331,7 +1331,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 The snare takes the form of a Tiny, drake-like clockwork toy. When a creature enters its square the snare activates, causing the drake to spit a gout of fire in a 15-foot cone in the direction from which the creature entered.
 TRAITS
@@ -1354,7 +1354,7 @@ GOLD
 LEVEL
 16
 BULK
-L
+0.1
 ENTRY
 Flare beacons create an incredibly bright light for a brief period of time. They are often used to signal others to the beacon's location, to coordinate assaults, to request rescue, or for other similar reasons. Higher-level beacons have a radius so large that they can be seen from miles away at night. When you {@action Activate an Item||Activate} a flare beacon, you can either place it on the ground in a space within your reach or toss it up to 60 feet straight up. The beacon then sparks into being, casting bright light in a 20-foot radius and dim light in the next 20 feet for 1 minute. A flare beacon in the air falls at a rate of 10 feet per round. Creatures adjacent to a flare beacon must succeed at a DC 15 Fortitude save or be {@condition dazzled} until they are no longer adjacent to it.
 TRAITS
@@ -1394,7 +1394,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 The snare takes the form of a Tiny frost worm clockwork toy. When a creature enters its square, the snare activates, causing the worm to let loose a 30-foot line of frost in the direction from which the creature entered the square. For instance, if a creature entered the square coming from the south, the worm would shoot the line south, to hit any allies of the triggering creature. Those within the line must succeed a DC 25 basic Reflex save or take {@damage 10d6} cold damage. After spitting its frost, the snare falls apart.
 TRAITS
@@ -1417,7 +1417,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 Gadget skates are metal devices that come in pairs and strap onto existing footwear (or a creature's feet)
 TRAITS
@@ -1438,7 +1438,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This porous steel coil wraps around a shard of onyx, supplementing the closely guarded science of galvaspheres with the magic of necromancy. When embedded in a body comprised of flesh, the blood and other fluids catalyze electrical pulses within the coil, activating the necromantic energies. In living creatures, this causes a dangerous surge that can damage the heart. In corpses, however, this can create a limited window of reanimation, with access to the corpse's final memories. Galvanic mortal coils are even rarer than other galvaspheres, and thought by most to be merely hypothetical.
 TRAITS
@@ -1458,7 +1458,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 A galvasphere animates a corpse to motion via electricity, rather than necromancy. When you Activate the galvasphere by inserting it into an adjacent intact Medium or Small humanoid corpse, the corpse animates as a galvaheart zombie for 1 minute. The galvaheart zombie has the statistics of a {@creature zombie shambler} except that it is a {@trait construct} instead of an {@trait undead}, isn't {@trait evil}, can't be harmed by positive energy, and is the same size as the corpse (Medium or Small). The zombie is your {@trait minion} and performs the actions you choose when you {@action Command an Animal||Command} it. If you don't {@action Command an Animal||Command} it, it takes no action, twitching in place as the electricity that animates it slowly expends itself.
 TRAITS
@@ -1477,7 +1477,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 Gecko pads are thin, clockwork devices shaped like palms, which can be strapped onto existing handwear or a creature's hands. When activated, they whir to life and improve your grip on surfaces, while slowly releasing a sticky substance stored within the device's surface to help you climb. The pads give you a climb Speed equal to your Speed as long as your hands are free.
 TRAITS
@@ -1497,7 +1497,7 @@ GOLD
 LEVEL
 11
 BULK
-–
+0.0
 ENTRY
 This long strip of linen is tightly wound around the barrel of the affixed firearm or the grip of a bow. When activated, the talisman's magic dampens the sound of the triggering shot, rendering it completely silent, and additionally skews the angle of the shot, so it appears to come from a different location and direction than your actual position. You don't become automatically {@condition observed} to any creatures due to making the triggering {@action Strike}.
 TRAITS
@@ -1517,7 +1517,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 These cartridges are filled with sticky clear glue. When a glue bullet hits, a syrupy webbing coats the target and sticks to the ground or a nearby surface, hindering their movement. The target takes a –10-foot circumstance penalty to its Speeds for {@dice 2d4} rounds, or until it Escapes against a DC of 18. On a critical hit, the target is also {@condition immobilized} until it Escapes.
 TRAITS
@@ -1536,7 +1536,7 @@ GOLD
 LEVEL
 5
 BULK
-–
+0.0
 ENTRY
 This colorful marble dangles from a leather thong wrapped around the affixed weapon. When you activate the band, for the triggering {@action Strike}, you don't need to attempt a flat check due to the enemy being {@condition concealed} or {@condition hidden} to you.
 TRAITS
@@ -1595,7 +1595,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This incredibly spacious bandolier can hold up to 4 onehanded crossbows or firearms that take no more than 1 action to completely reload (typically meaning that weapons with the capacity or repeating traits won't fit in the bandolier's holsters). A gunner's bandolier can be etched with runes as though it were a ranged weapon. When you invest the gunner's bandolier, you can attune it to each of the 4 weapons holstered in it.
 TRAITS
@@ -1636,7 +1636,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This fine cloak is lined with tiny tubes of slowly reacting alchemical reagents. These chemicals generate heat, which is circulated throughout the cloak by the wearer's movements.
 TRAITS
@@ -1654,7 +1654,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 Capable of launching bolts the size of fully grown trees, a heavy ballista is best suited to smashing down castle gates, walls, or similar fortifications.
 TRAITS
@@ -1677,7 +1677,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 A heavy bombard looks like little more than a large metal cylinder, resembling the barrel of a firearm so large that it's immobile. The sheer size of the weapon allows it to strike far and hard.
 TRAITS
@@ -1698,7 +1698,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 The holy steam ball is an odd-looking device that's nevertheless effective at reinforcing its user's mind against fiendish control. It's a hollow black-rubber ball with small, flexible twin tubes sticking out from its center. Sealed within the rubber ball is vapor made from a mixture of evaporated holy water and a special type of incense smoke. The tube's twin prongs are placed into the user's nostrils, after which the user squeezes the rubber ball to activate the device, forcing the vapor into the user's body through their nose.
 TRAITS
@@ -1720,7 +1720,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 Rather than a shoot a single, large projectile like a boulder, the hwacha fires dozens of rocket-propelled arrows at once. The frame of the hwacha holds 100 tubes, each loaded with an arrow or a small bundle of arrows wrapped with a small amount Fiend's Mouth Cannon Hwacha of black powder and attached to a fuse. By lighting a master fuse, you can make all of the arrows fire in rapid succession.
 TRAITS
@@ -1737,7 +1737,7 @@ G&G
 PAGE
 164
 GOLD
-None
+0
 LEVEL
 15
 BULK
@@ -1762,7 +1762,7 @@ GOLD
 LEVEL
 1
 BULK
--
+0.0
 ENTRY
 An ignitor uses interlocking clockwork to create a small spark in order to ignite flammable materials. While holding the ignitor, you can {@action Interact} with it to ignite a flammable object within reach.
 TRAITS
@@ -1780,7 +1780,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This pristine leather belt is made of treated and polished black leather with silver fittings; it features a pair of matching leather holsters that can each fit a one-handed firearm or hand crossbow.
 TRAITS
@@ -1798,7 +1798,7 @@ G&G
 PAGE
 160
 GOLD
-None
+0
 LEVEL
 10
 BULK
@@ -1845,7 +1845,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 While you're wearing an impact foam chassis wrapped around your body, it {@action Activate an Item||Activates} automatically whenever you fall at least 10 feet, causing a layer of soft, flexible impact foam to expand beneath and around you to cushion the fall. The impact foam decreases the falling damage by up to the listed amount, taking damage equal to the amount of falling damage the foam reduced. If this is enough to destroy the foam, it disperses immediately. However, if the foam has any Hit Points remaining, it remains surrounding you for up to 1 minute. While you're surrounded in foam, you are {@condition immobilized} and have standard cover against other creatures, and other creatures have standard cover against you. The foam has an {@action Escape} DC of 15; a creature can also remove it by spending three {@action Interact} actions. You or others can also attack the foam (the foam has an AC of 12), which disperses if reduced to 0 Hit Points.
 TRAITS
@@ -1864,7 +1864,7 @@ GOLD
 LEVEL
 15
 BULK
-–
+0.0
 ENTRY
 This talisman usually takes the form of a small sentimental object carried in a pocket or attached to the inside of a piece of armor. When you activate it, it slows the attack, and you reduce the damage from the triggering critical hit by 10, as the attack destroys the talisman. This effect only reduces the additional damage from a critical hit; it can't reduce the damage below the amount it would deal on a normal hit.
 TRAITS
@@ -1885,7 +1885,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 An instant spy is a tiny clockwork device that is small enough to be easily {@condition hidden}. It contains the same audio-recording mechanisms as a {@creature clockwork spy|b3}, as well as a short-lived gemstone that can store up to 1 hour of sound to play back later.
 TRAITS
@@ -1945,7 +1945,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This dubious weapon gets its name from the fact that it's typically crafted with multiple false barrels so that it's more difficult for enemies to predict the weapon's angle of fire from the four working barrels. Most of the time, this gun functions as a {@runeItem pepperbox|G&G|+1 weapon potency||striking|} with {@trait capacity <4>} instead of {@trait capacity <3>}, albeit one with a complicated loading mechanism involving rotating the barrels. In a pinch though, all four of the real barrels can be fired simultaneously.
 TRAITS
@@ -1986,7 +1986,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 This beige bandolier has a rectangular holster, which allows it to contain a standard-sized Harrow deck, and red pockets embroidered with goldwork in a strange but appealing mixture of Alkenstar and Varisian motifs.
 TRAITS
@@ -2026,7 +2026,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 More of a field projector than a scope, this small cylinder of magnetite has been enchanted to spread and accelerate the shrapnel of a scatter weapon further than the weapon's natural capabilities. Furthermore, some of the floating magnetite inside the scope's structure can help you when attempting to determine the your allies' locations. The magnetite scope grants you a +2 item bonus to {@skill Survival} checks to {@action Sense Direction} when using the scope to assist you in navigating. This scope can only be attached to firearms with the scatter trait.
 TRAITS
@@ -2046,7 +2046,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 These scopes use magically enhanced lenses to extend the range of your weapon and help spot distant foes. The scope grants you a +1 item bonus to visual {@skill Perception} checks to {@action Seek} creatures through the scope.
 TRAITS
@@ -2085,7 +2085,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 Powered by electricity, you can turn a mechanical torch on and off by toggling a lever on the torch with an {@action Interact} action. When active, the torch sheds bright light in either a 20-foot radius (and dim light to the next 40 feet) or a 40-foot cone (and dim light to the next 40 feet). Changing this area requires a single {@action Interact} action to flip a switch. The torch carries sufficient charge to operate for ten minutes.
 TRAITS
@@ -2103,7 +2103,7 @@ GOLD
 LEVEL
 17
 BULK
-None
+0
 ENTRY
 This craggy stone ammunition is warm to the touch. When you fire an activated meteor shot, it explodes into a small swarm of meteors as it reaches its target, scorching nearby creatures and littering the ground with rubble. In addition to the weapon's normal damage, the meteor shot deals fire damage and the ground in the area becomes {@quickref difficult terrain||3|terrain}.
 TRAITS
@@ -2125,7 +2125,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 A mortar fires its shells at a high angle, allowing it to bypass obstacles and strike from above. A crew typically sets up such a weapon behind a wall or in another hard-to-access area to protect themselves while retaining full functionality.
 TRAITS
@@ -2142,7 +2142,7 @@ G&G
 PAGE
 165
 GOLD
-None
+0
 LEVEL
 15
 BULK
@@ -2204,7 +2204,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 When a creature enters this snare's square, it triggers an extremely loud clockwork device, which explodes with a bang that can be heard from 200 feet away and deals {@damage 1d8} fire damage. The creature must attempt a DC 18 Reflex save.
 TRAITS
@@ -2223,11 +2223,11 @@ G&G
 PAGE
 161
 GOLD
-None
+0
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 Wielded in over a hundred duels by the famed Ustalavic noblewoman Countess Tasya Iserav, this +1 striking fearsome dueling pistol (Advanced Player's Guide 260) is a work of master craftsmanship, almost eerie in the axiomatic perfection present in each dimension and detail.
 TRAITS
@@ -2269,7 +2269,7 @@ GOLD
 LEVEL
 6
 BULK
-–
+0.0
 ENTRY
 This ragged piece of white cloth is wrapped around the grip, stock, or haft of the affixed weapon.
 TRAITS
@@ -2289,7 +2289,7 @@ GOLD
 LEVEL
 7
 BULK
-–
+0.0
 ENTRY
 This small magnetite block is attached to the barrel of the firearm by a thin metal wire drilled through a hole in its center. When you activate the lodestone, the ammunition from your missed shot is immediately recalled to your firearm, allowing you to fire again without reloading.
 TRAITS
@@ -2330,7 +2330,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 This +2 greater striking flintlock pistol bears strange, jagged markings of erratic design and has an oddly squishy grip. It can be activated to produce a variety of unusual effects.
 TRAITS
@@ -2368,9 +2368,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 While gunslingers have many methods for practicing their aim, these sturdy paper targets are excellent for tracking a gunslinger's progress over time, keeping score of how close they came to hitting the most vital spots. These targets are also used in situations where more detailed accuracy must be recorded, such as firearm competitions. Practice targets can appear in many shapes and sizes and usually come in packs of 10 held in protective cases made of heavy cloth or light leather.
 TRAITS
@@ -2406,7 +2406,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This cute and unassuming dragon toy activates once a creature moves into its square. It then unleashes a rapid burst of toxic gas in a 10-foot emanation. Those within the emanation when the snare is activated must attempt a DC 25 Fortitude saving throw or take {@damage 3d6} poison damage.
 TRAITS
@@ -2425,7 +2425,7 @@ G&G
 PAGE
 165
 GOLD
-None
+0
 LEVEL
 11
 BULK
@@ -2448,9 +2448,9 @@ PAGE
 GOLD
 0.9
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 {@note For use with repeating crossbows.}
 TRAITS
@@ -2466,9 +2466,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Firearms require ammunition consisting of a projectile and black powder. A round of ammo can vary in its composition but is typically either a prepackaged paper cartridge, including wadding, bullet, and black powder, or loose shot packed in manually. Some weapons, like hand cannons and blunderbusses, can fire other materials, but their ammunition has the same Price due to the cost of the black powder. Because making rounds of firearm ammunition requires creating black powder, you need the {@feat Alchemical Crafting} skill feat to make them. Firearm rounds are a valid option for magical ammunition, just like {@item arrow (generic)||arrows} or {@item bolt (generic)||bolts}. Crafting magical firearm ammunition requires you to be able to craft both alchemical and magical items.
 TRAITS
@@ -2482,7 +2482,7 @@ G&G
 PAGE
 166
 GOLD
-None
+0
 LEVEL
 16
 BULK
@@ -2507,7 +2507,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 A sambuca is a long, covered troop bridge designed to help troops move from sea to land. Preparing it for use requires lashing together two {@vehicle galley|GMG|galleys} or other ships of similar size. The sambuca is then mounted across the ships on one end with its length suspended upward, and attached to pulleys fastened to the tops of the ships' masts. Once the ships are moved into position, the sambuca can be lowered to rest on a battlement or other surface, allowing troops to rush from the ships onto their intended destination.
 TRAITS
@@ -2525,7 +2525,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 The dwarven gunsmiths of Dongun Hold originally created these scopes to help them clear out vermin in underground areas. This scope captures the sound that echoes off a creature hit by the firearm and transforms it into light, illuminating the target for all to see.
 TRAITS
@@ -2547,7 +2547,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 The scope of truth is a bit bigger than most to accommodate larger lenses, which have been magically prepared with tiny shards from crystal balls to reveal the truth. The scope grants you a +2 item bonus to {@skill Perception} checks made to {@action Seek} in areas you can see through the scope.
 TRAITS
@@ -2592,7 +2592,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 This miniature Stasian coil talisman emits small sparks when jostled. It uses a combination of Stasian technology and evocation magic to erupt in electricity when discharged.
 TRAITS
@@ -2613,7 +2613,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 This snare uses tightly wound springs, clockwork, and shrapnel to cause devastating damage. When a creature enters the snare's square, the trap releases, dealing {@damage 12d6} piercing damage in a deafening explosion. Everyone in a 10-foot radius of the snare's square must attempt a DC 31 Reflex save.
 TRAITS
@@ -2634,7 +2634,7 @@ GOLD
 LEVEL
 12
 BULK
-–
+0.0
 ENTRY
 This dried skull of a snake is mounted atop the firearm's barrel or affixed to a crossbow's stock. When activated, the skull crawls onto the ammunition loaded in the affixed weapon. If you {@action Strike} with the weapon before the end of your turn, the skull lets out a bloodcurdling scream as the ammunition approaches its target. Regardless of whether the {@action Strike} is a success, the screaming skull allows you to attempt to {@action Demoralize} the target as well as each enemy within 30 feet of the target.
 TRAITS
@@ -2653,9 +2653,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 One of the more prolifically used devices developed in the infamous Alkenstar Gunworks, these small firearm components are capable of muffling most of the weapons' explosive sound when fired. Without a silencer, a firearm's shot makes a loud and distinctive bang, which can easily be heard through doors and thin walls, but firearms equipped with silencers only make a quiet noise when fired. Due to engineering constraints, a silencer can't be attached to any firearm with the {@trait scatter} trait. Attaching a silencer to a firearm takes 1 minute, and the silencer is consumed the first time a shot is fired through it.
 TRAITS
@@ -2672,7 +2672,7 @@ GOLD
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 This shimmering, golden-hued ammunition never makes any sound. A creature hit by a silencing shot is subject to the effects of a 4th-level {@spell silence} spell (DC 25).
 TRAITS
@@ -2691,7 +2691,7 @@ GOLD
 LEVEL
 1
 BULK
-–
+0.0
 ENTRY
 This tiny, silver facsimile of a weapon tripod is usually attached to the underside of the affixed weapon's barrel.
 TRAITS
@@ -2712,7 +2712,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 When you {@action Activate an Item||Activate} a smoke fan, it creates a cloud of colored smoke. The smoke fills a 5-foot radius. The creator chooses the smoke's color when creating the smoke fan. Creatures within the smoke's area are {@condition concealed}, and all other creatures are {@condition concealed} to them. The smoke lasts for 1 minute or until dissipated by a strong wind.
 TRAITS
@@ -2731,7 +2731,7 @@ GOLD
 LEVEL
 16
 BULK
-–
+0.0
 ENTRY
 This plain wooden bead dangles from a string attached to the stock of the affixed weapon. When you activate the bead, its magic greatly lessens the effect of distance on your triggering attack.
 TRAITS
@@ -2815,7 +2815,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 This complicated snare is affixed with various crystals and Stasian coils attached to strange electrical relays, working.
 TRAITS
@@ -2855,7 +2855,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 A springald consists of a wooden board cranked backward and chutes that hold up to three oversized arrows. Rather than having a nock, each arrow has a flat back end. Releasing the board strikes the backs of the arrows, sending them hurtling through the air.
 TRAITS
@@ -2917,7 +2917,7 @@ GOLD
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 Named for Brondar Steelheart, one of the most important historical dwarven pioneers in the use of black powder, this remarkable piece of new Dongun artillery uses metallurgy and alchemy to negate nearly all of the immense amount of recoil a shot from a siege weapon usually produces. The barrel of the Steelheart 21 is suspended in a mix of alchemical fluids that first compress to dampen the recoil when fired, then expand to push the barrel back into place afterwards. The result reduces the amount of time needed to reset the aim of the siege weapon. The crew member who launches the Steelheart 21 can use the Quick Aim reaction (below), allowing them to adjust the weapon's aim on the fly as they fire to adapt to a faulty initial target, changing battlefield conditions, the use of illusions by the enemy, or any of a variety of other factors that lead to the need to alter the siege weapon's course.
 TRAITS
@@ -2938,7 +2938,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 A series of small stone discs pressed into a single round make up this ammunition. When you fire an activated stepping stone shot, whether you hit or miss your target, the shot creates a series of supports in a line that creatures can walk on as if solid ground. The line can ascend or descend at a 45-degree angle. The discs support any amount of weight, but don't otherwise pose any sort of obstacle; creatures and attacks can move through them if they wish. They crumble to dust if anything attempts to move or otherwise manipulate them. A creature can use a two-action activity, which has the {@trait manipulate} trait, to {@action Stride} up to its speed on the stones while causing them to crumble behind it. This ammunition does not work in firearms with the {@trait scatter} trait. The maximum length of the line depends on the type of ammunition. However, the line also can't extend beyond the maximum distance for a {@action Strike} from your firearm (usually six times the firearm's range increment).
 TRAITS
@@ -2976,7 +2976,7 @@ G&G
 PAGE
 163
 GOLD
-None
+0
 LEVEL
 8
 BULK
@@ -3063,7 +3063,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This clockwork cobra activates when a creature enters its square, at which point it lashes out and spits venom, dealing {@damage 3d6} poison damage. The target must attempt a DC 21 Fortitude save.
 TRAITS
@@ -3104,7 +3104,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 Built with a long wooden arm and a heavy counterweight, a trebuchet can hurl massive projectiles from a large sling, releasing the projectile at the ideal point in the arm's arc.
 TRAITS
@@ -3125,7 +3125,7 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3144,7 +3144,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This ammunition was developed in Dongun Hold to minimize casualties to {@condition friendly} fire, and is always marked by a burnished copper head or tip so it can be easily identified. Before you can fire a trustworthy round, you must call out a target. You don't need to specify a name; the target could be "The angry tiger attacking our group on the left." The round will only hit the specified target and will turn to gossamer dust midair if it misses the intended target or comes into contact with anything else; this also prevents abilities that redirect attacks. The round doesn't have any capabilities beyond your own to determine whether someone is who you think they are, so you can't use it to determine a disguised creature's identity.
 TRAITS
@@ -3163,7 +3163,7 @@ GOLD
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 This device replaces the attached firearm's normal firing mechanism (normally, most of the guns in this chapter use a flintlock or matchlock firing mechanism). When the firearm's wielder fires the weapon, a small rune etched on a piece of stone affixed inside the mechanism releases a magical spark that's propelled through the firing mechanism and into the firearm, launching its bullet. An underwater firing mechanism allows the attached firearm to be fired underwater or in other conditions that would normally prevent the ignition of black powder. Attaching an underwater firing mechanism to a firearm takes 1 hour, though this time can overlap with the standard time required to maintain and clean your firearm to prevent misfires.
 TRAITS
@@ -3199,9 +3199,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This buttoned, leather case protects a firearm and up to 6 rounds of ammunition from being damaged by water or other environmental effects.
 TRAITS
@@ -3238,7 +3238,7 @@ GOLD
 LEVEL
 12
 BULK
-None
+0
 ENTRY
 These delicate clockwork wings enable thrown weapons to soar through the air at high speeds, performing turns and other aerial maneuvers midflight. Wind-up wings also have different types of special effects depending on the type.
 TRAITS

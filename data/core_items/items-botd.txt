@@ -9,7 +9,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
 TRAITS
@@ -30,7 +30,7 @@ GOLD
 LEVEL
 12
 BULK
-—
+0.0
 ENTRY
 As you {@action Craft} your soul cage, you trap your soul within it, an integral part of the complicated process of becoming a lich.
 TRAITS
@@ -51,7 +51,7 @@ GOLD
 LEVEL
 18
 BULK
-varies by weapon
+varies
 ENTRY
 Peachwood weapons have a particularly auburn tinge to them when under direct sunlight.
 TRAITS
@@ -69,7 +69,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This mirrored bottle contains various chemicals dissolved in two immiscible solvents. Shaking the bottle induces chemical reactions that cause it to glow. For 1 hour, the bottle sheds bright light in a 20-foot radius (and dim light to the next 40 feet). During this hour, it can be thrown like a bomb. This requires a single action to Activate with a {@action Strike}, like other bombs, and deals the damage below. If it's not thrown within an hour of the first activation, it defuses harmlessly and is consumed.
 TRAITS
@@ -92,7 +92,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 From blade to pommel, this sword is carved from a branch of the now-extinct celestial peach tree. The blade of this +3 greater striking disrupting holy peachwood (page 20) shortsword has ancient runes that can permanently destroy the most powerful undead—if you are willing to pay the price. An undead creature of 12th level or lower that takes damage from a {@action Strike} with the sword takes {@damage 10d6} positive damage (DC 35 basic Fortitude save). This damage is separate from the {@action Strike} itself and isn't included in {@trait any} effect based on the {@action Strike}'s damage.
 TRAITS
@@ -114,7 +114,7 @@ GOLD
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 This shining symbol of {@deity Sarenrae} depicts the goddess with her arms held wide. In the center of the symbol is a crystal reliquary with a perfect feather floating inside, glowing bright as a candle with the light of the goddess.
 TRAITS
@@ -134,7 +134,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This sticky, fluorescing substance, stored in an atomizing nozzle, sprays all creatures within a 15-foot cone when released. This marks any incorporeal creatures in the cone for {@dice 1d4} days. Anyone attempting to {@action Track} a marked creature gains a +2 item bonus to the check. The tracer has no effect on corporeal creatures, nor incorporeal creatures not formed of spiritual essence, such as animate dreams that are purely mental in nature.
 TRAITS
@@ -190,7 +190,7 @@ GOLD
 LEVEL
 5
 BULK
-—
+0.0
 ENTRY
 This golden ring is sculpted with the visage of a grinning skull on the side. While wearing the ring, you can attempt to detect the presence of undead creatures as an exploration activity.
 TRAITS
@@ -233,7 +233,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 This crystal vial contains salts blessed by channeling life-giving energies into waters purified by holy fire.
 TRAITS
@@ -252,7 +252,7 @@ GOLD
 LEVEL
 16
 BULK
-L
+0.1
 ENTRY
 Peachwood, often cultivated by Pharasmin priests, can ward against undead—even incorporeal ones. However, the wood loses its magical properties when it comes in contact with metal, requiring advanced carpentry to make full use of it.
 TRAITS
@@ -271,7 +271,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 Symbols of good fortune and luck are carved on this thin, square wooden plaque. It smells of sandalwood from the blessings placed upon it. After activation, for the next minute, you can sense attacks from undead. You aren't {@condition flat-footed} to {@condition hidden}, {@condition undetected}, or flanking undead of your level or lower, or undead of your level or lower using surprise attack. However, they can still help their allies flank.
 TRAITS
@@ -292,7 +292,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 The liquid in this test tube is as clear as water. You can drop in a sample collected from the environment or a creature to reveal what kind of undead has been in contact with the sample in the past 24 hours. The water changes color, as seen on the table, or remains clear if it doesn't detect any traces of undead. The higher the undead's level or number of undead in contact with the sample, the more intense the color. This isn't a foolproof way to identify a disguised creature as undead, since any contact with undead causes the sample to change colors. If an undead has been disguising its undead nature or its presence in an area, the GM can roll a secret DC 20 {@skill Deception} or {@skill Stealth} check for the creature when the dye is activated. On a success, the creature avoided leaving traces.
 TRAITS

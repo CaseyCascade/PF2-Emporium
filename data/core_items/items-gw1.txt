@@ -5,11 +5,11 @@ GW1
 PAGE
 0
 GOLD
-None
+0
 LEVEL
 22
 BULK
-—
+0.0
 ENTRY
 This palm-sized talisman hangs on a string of braided bark fibers. It resembles a leaf from some unknown tree similar to oak, carved from jade and then dipped halfway into black ink that looks wet despite feeling completely dry. The gate key was originally created to open the aiudara known as the Seventh Arch. In recent years, corrupting magic has given it additional, stranger powers.
 TRAITS
@@ -32,7 +32,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This vial of glowing goo constantly sheds dim light in a 10-foot radius. When a bioluminescence bomb strikes a creature or a hard surface, it shatters and releases the bioluminescent fluid's energy in a flare of light. Each creature within 10 feet of where the bomb exploded must succeed at a DC 17 Reflex save or be marked with dye that continues to glow for 24 hours. An affected creature must also attempt a DC 17 Fortitude saving throw against the overwhelming burst of light.
 TRAITS
@@ -53,7 +53,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 This cloak appears to be woven from a thousand living leaves, hungry for flesh and eager to defend the cloak's wearer.
 TRAITS
@@ -74,7 +74,7 @@ GOLD
 LEVEL
 8
 BULK
-—
+0.0
 ENTRY
 These black leather goggle frames have no lenses. Instead, when a character puts them on and invests them, the wearer's eyes transform and lengthen into snail-like eyestalks. The wobbly eyestalks stretch out through the lens holes and up over the wearer's head on lengthened optic nerves.
 TRAITS
@@ -96,7 +96,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 This potion holds a tiny, tightly wrapped scroll and tastes like paper. Upon drinking it, you gain a burst of insight into your immediate future—and how to potentially avoid it. When you attempt a saving throw, you can roll twice and use the better result. The potion's magic ends when you make use of this effect, or after 1 minute. You then become immune to bottled omen potions for 24 hours.
 TRAITS
@@ -118,7 +118,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This potion's bottle glows softly with shimmering silver light. Upon drinking this potion, you're surrounded by a nimbus of blazing starlight that lasts for 1 minute. You emanate a field of bright light with a 20-foot radius (and dim light for another 20 feet, like a torch). You take a –20 penalty to {@skill Stealth} checks. Any creature that targets you with an attack or an ability must succeed at a DC 17 Fortitude save or be {@condition dazzled} for 1 round. A creature who succeeds at this save is immune to the effect for 24 hours.
 TRAITS

@@ -30,7 +30,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This clay figurine resembles a white cat with a paw outstretched. When it's activated, any allies within 10 feet who also just failed or critically failed a Reflex saving throw from the same source (such as a {@spell fireball} spell) can also reroll their saving throw and use the better result.
 TRAITS
@@ -72,7 +72,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This timeworn chalice is constructed of dull tin. It has an unassuming appearance save for the gold, silver, and ebony rings that encircle its rim.
 TRAITS
@@ -114,7 +114,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 You activate this folded lace handkerchief by spreading it out on the ground, where it grows to cover a 30-footby- 30-foot square area. Pale and diaphanous, the spread handkerchief is exceptionally difficult to see from more than 30 feet away and evaporates entirely after 1 minute. Any creature that falls on the net doesn't take falling damage.
 TRAITS
@@ -134,7 +134,7 @@ GOLD
 LEVEL
 4
 BULK
-L (when not activated)
+0.1
 ENTRY
 This large slide whistle appears to be made of fine brass, the sides of which are engraved with musical notes and dancing clowns.
 TRAITS
@@ -154,7 +154,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This delicate and elegant diadem is woven of intricate silver wires set with three tear-shaped pearlescent moonstones. You gain a +1 item bonus to {@skill Religion} checks.
 TRAITS
@@ -195,7 +195,7 @@ GOLD
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 This luminescent paste is made from the powdered bones of a long-forgotten saint, mixed with herbs and blessed by a priest. It typically comes in a tightly sealed, palmsized dish etched with holy symbols. Applying saints' balm to yourself or a creature within reach restores {@dice 3d8+10} Hit Points to the creature to which it's applied.
 TRAITS
@@ -239,7 +239,7 @@ GOLD
 LEVEL
 9
 BULK
-L
+0.1
 ENTRY
 Woven from swaths of rich brocade silk and embroidered with ancient Azlanti script in golden thread, this stole imparts a noble appearance to even the homeliest of individuals when draped over the shoulders. While wearing a stole of civility, you receive a +2 item bonus to {@skill Diplomacy} checks to {@action Make an Impression} with humans or Make a {@action Request} of humans, and a +2 item bonus to {@skill Intimidation} checks against humans. The stole also grants you full understanding of the Azlanti language.
 TRAITS
@@ -280,7 +280,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 The magical statuettes known as wondrous figurines are described on page 576 of the Pathfinder Core Rulebook.
 TRAITS

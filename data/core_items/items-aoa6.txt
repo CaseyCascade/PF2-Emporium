@@ -5,7 +5,7 @@ AoA6
 PAGE
 75
 GOLD
-None
+0
 LEVEL
 25
 BULK
@@ -25,11 +25,11 @@ AoA6
 PAGE
 75
 GOLD
-None
+0
 LEVEL
 20
 BULK
-–
+0.0
 ENTRY
 A shard of the {@i Orb of Gold Dragonkind} resembles a pointed length of crystal about the size and shape of a shortsword without a hilt. It functions as a {@runeItem shortsword||+3 weapon potency||striking|} that deals {@damage 2d6} extra damage to dragons.
 TRAITS

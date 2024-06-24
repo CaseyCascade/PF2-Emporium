@@ -5,7 +5,7 @@ LOMM
 PAGE
 16
 GOLD
-None
+0
 LEVEL
 20
 BULK
@@ -25,7 +25,7 @@ LOMM
 PAGE
 29
 GOLD
-None
+0
 LEVEL
 20
 BULK
@@ -50,7 +50,7 @@ GOLD
 LEVEL
 18
 BULK
-None
+0
 ENTRY
 This supernaturally tough animal skin is gold and shines in sunlight. It can be used to make any item usually made of cloth, leather, or hide. This material is immune to fire, and its Hardness is doubled against piercing or slashing damage. Up to 4 Bulk of grisantian pelt can be harvested from a single creature (this is usually more than enough for 4 suits of standard grade armor or 2 suit of high-grade armor).
 TRAITS
@@ -69,7 +69,7 @@ GOLD
 LEVEL
 19
 BULK
-varies by armor
+varies
 ENTRY
 Grisantian pelt armor is immune to fire damage, and its Hardness is doubled against piercing or slashing damage. Wearing armor made from grisantian pelt also grants you a +1 circumstance bonus to your AC and saving throws against attacks and spells that deal fire damage.
 TRAITS
@@ -87,7 +87,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This long, golden cloak is among the royal regalia of the emperors of Taldor. It was fashioned from the pelt of {@creature Grogrisant|LOMM} itself, after being slain by Taldaris, and Grogrisant's mane was fashioned into a thick fringe that runs all along the mantle's edges. The paws of the Grogrisant cross beneath the wearer's throat, giving you an imposing appearance. The Mantle of the Grogrisant grants you fire resistance 15 and physical resistance 5 (except bludgeoning).
 TRAITS
@@ -128,11 +128,11 @@ LOMM
 PAGE
 59
 GOLD
-None
+0
 LEVEL
 20
 BULK
-—
+0.0
 ENTRY
 This coin-sized golden pin depicts a bundle of five trimmed tree branches. Once you've stolen the pin, accepted it from Krampus willingly, or carried it for at least 1 minute, its curse activates. After that happens, the pin fastens itself to your clothing, providing you an insistent empathic admonition not to be naughty and constantly informing Krampus of your location, as {@spell status}. The pin reappears and reattaches itself within moments if discarded or destroyed. The pin constantly monitors your actions, judging you against a good-aligned {@class champion}'s code of conduct, plus the following third tenet:
 TRAITS
@@ -153,7 +153,7 @@ GOLD
 LEVEL
 11
 BULK
-—
+0.0
 ENTRY
 This stone figurine of a chariot pulled by two horses was used by Tekritanin adults during strategy game competitions. Sometimes, though, mischievous adolescents snatched pieces like this one for joyriding.
 TRAITS
@@ -173,7 +173,7 @@ GOLD
 LEVEL
 13
 BULK
-L
+0.1
 ENTRY
 On Tekritanin holidays, children reenacted legendary battles of deities by playing with magical tops. Though the paint on this wooden top has long since faded, its magical runes once gleamed yellow-gold and fiery orange, evoking the color of the sky during a sandstorm. To set the top in motion, wind a string around its bottom and upward along its body, and then throw it while gripping the string.
 TRAITS

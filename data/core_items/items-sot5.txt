@@ -9,7 +9,7 @@ GOLD
 LEVEL
 16
 BULK
-L
+0.1
 ENTRY
 The cover of this grimoire is bound in a strange crimson, pebbly leather that a DC 40 {@skill Occultism} check to {@action Recall Knowledge} identifies as the hide of a rare monster from the distant plane of Leng. The grimoire's spine is bound in copper and a spiral of shifting runes slowly swirls across its surface.
 TRAITS

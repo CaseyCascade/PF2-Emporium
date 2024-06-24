@@ -5,11 +5,11 @@ GMG
 PAGE
 120
 GOLD
-None
+0
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 Alcohol is a common substance available in stunning variety. The Price of a dose of alcohol depends on the specific beverage. You can't recover from the {@condition sickened} condition from alcohol while affected.
 TRAITS
@@ -26,11 +26,11 @@ GMG
 PAGE
 92
 GOLD
-None
+0
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 An item affected by an arrow attracting curse protects you normally, but it draws ranged attacks like a magnet. Whenever a creature within 120 feet misses with a ranged attack, it must immediately reroll the attack against your AC, affecting you depending on the result of the new attack roll. The arrow attraction curse activates only if you could have been a legitimate target. Creatures that intentionally attempt to miss a ranged attack do not activate an arrow attraction curse. Once the curse has activated for the first time, the item fuses to you.
 TRAITS
@@ -47,11 +47,11 @@ GMG
 PAGE
 92
 GOLD
-None
+0
 LEVEL
 7
 BULK
-None
+0
 ENTRY
 An {@i arsonous} curse creates flaws in the mystic pathways that channel magic through an item, allowing excess power to escape as sparks. Whenever you {@action activate an item||activate} the magic item, a random ally within 30 feet takes {@dice 1d10} {@condition persistent damage||persistent fire damage}. If no ally is in range, you take the damage instead. At the GM's discretion, this curse might ignite an unattended object or the surrounding environment instead.
 TRAITS
@@ -69,7 +69,7 @@ GMG
 PAGE
 106
 GOLD
-None
+0
 LEVEL
 26
 BULK
@@ -90,11 +90,11 @@ GMG
 PAGE
 92
 GOLD
-None
+0
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 A weapon with the {@i backbiting} curse warps space in response to catastrophic mishaps. Whenever you critically fail at a {@action Strike} with this weapon, the weapon curls around (or its projectile swerves through the air) to strike you in the back as though you hit yourself, automatically dealing maximum damage to you.
 TRAITS
@@ -111,7 +111,7 @@ GMG
 PAGE
 90
 GOLD
-None
+0
 LEVEL
 7+
 BULK
@@ -133,7 +133,7 @@ GMG
 PAGE
 90
 GOLD
-None
+0
 LEVEL
 4
 BULK
@@ -159,7 +159,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This potent drug is distilled from a certain tropical vine into a deep-red syrup that, over time, stains the user's lips and teeth a vivid shade of red.
 TRAITS
@@ -176,11 +176,11 @@ GMG
 PAGE
 92
 GOLD
-None
+0
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 A {@i bloodbiter} weapon is awakened by violence and fueled by blood. When you make a successful attack with the weapon, it inflicts a wound that deals {@damage 1d6} {@condition persistent damage||persistent bleed damage} (in addition to its normal damage), but it also deals {@damage 1d6} {@condition persistent damage||persistent bleed damage} to you. The curse remains dormant until the weapon hits a creature, at which point black thorns protrude from the weapon and dig into your body; the weapon fuses to you and you can't use the hand that holds the weapon for any other purpose. If the weapon is two-handed, it attaches itself to only a single hand (GM's choice).
 TRAITS
@@ -201,7 +201,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 A strong blend including several spices common in the Padishah Empire of Kelesh, bloodeye coffee is a favorite morning drink across the Inner Sea region. The maximum addiction stage of bloodeye coffee never progresses beyond stage 1.
 TRAITS
@@ -218,11 +218,11 @@ GMG
 PAGE
 90
 GOLD
-None
+0
 LEVEL
 11
 BULK
-L
+0.1
 ENTRY
 These boots act as greater boots of elvenkind, but they react wildly to strong physical exertion. While you wear the boots, the curse activates whenever you attempt an {@skill Athletics} check or {@action Stride} more than once in a single round during an encounter.
 TRAITS
@@ -240,11 +240,11 @@ GMG
 PAGE
 91
 GOLD
-None
+0
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 Appearing as a magic cloak such as a cloak of elvenkind, this garment is made of highly volatile fabric. While wearing it, if you take fire damage, you also take {@damage 1d10} {@condition persistent damage||persistent fire damage}. Taking fire damage while the {@condition persistent damage||persistent fire damage} is in effect has no additional effect. You can extinguish the {@condition persistent damage||persistent fire damage} as normal.
 TRAITS
@@ -266,7 +266,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 Deros use cytillesh in a variety of ways, and some surface-dwellers seek out the fungus for their own use. Memories lost to cytillesh can be restored through modify memory. The save for addiction to cytillesh is DC 20, and the addiction has the {@trait virulent} trait.
 TRAITS
@@ -284,11 +284,11 @@ GMG
 PAGE
 107
 GOLD
-None
+0
 LEVEL
 22
 BULK
-None
+0
 ENTRY
 These 22 cards of heavy vellum, usually stored in a box or a pouch, bear images or glyphs depicting symbols of magical power. Looking at a card without activating it shows the card face but has no {@trait magical} effect. Once the deck is face down, the cards randomize themselves—if you look at the top card multiple times, you may find it changes. Any card removed from the deck goes missing after a few seconds, reappearing in the deck. Advice on randomly selecting cards appears on page 108.
 TRAITS
@@ -304,11 +304,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 Failure makes the weapon crumble. Whenever you critically fail an attack roll with the weapon, the {@i degenerating} curse deals {@damage 1d10} acid damage to the weapon, ignoring its Hardness and resistances.
 TRAITS
@@ -326,11 +326,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 9
 BULK
-None
+0
 ENTRY
 The {@i dependent} curse makes an item function properly only under certain circumstances. Whenever you use the item to perform a skill check or use the weapon in combat, your degree of success is one worse than the result you rolled unless those specific conditions are met. The most common types of {@i dependent} curses are nocturnal or diurnal—functioning normally only at night or only during the day, respectively—but more restrictive curses do exist, such as a curse that restricts the item's use to underground or a curse that allows the item to function effectively only during autumn.
 TRAITS
@@ -351,7 +351,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 This lemony tea blended from rare Vudrani herbs and flowers is widely circulated by occult circles looking to transcend the boundaries of reality. The saving throw for addiction to dreamtime tea is DC 19.
 TRAITS
@@ -368,11 +368,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 When you invest this armor, a personal-sized cloud appears over your head and begins to rain on you, and the armor fuses to you. This extinguishes uncovered flames and soaks other objects you are carrying or holding, potentially ruining them. Cold Conditions are one step worse under the cloud, and at the GM's discretion it might cause other problems, such as interfering with sleep.
 TRAITS
@@ -389,7 +389,7 @@ GMG
 PAGE
 108
 GOLD
-None
+0
 LEVEL
 25
 BULK
@@ -413,7 +413,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 Specialists in Kyonin prepare this emerald-green beverage.
 TRAITS
@@ -430,11 +430,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 This curse bursts with uncontrolled teleportation magic when activated, unreliably transporting creatures across the battlefield. On a critical hit with the affected weapon, you and an ally within 60 feet (chosen randomly) teleport to switch places with one another. If either of the affected creatures is unable to entirely fit within its new space, the creature is placed in the nearest available squares instead.
 TRAITS
@@ -451,7 +451,7 @@ GMG
 PAGE
 108
 GOLD
-None
+0
 LEVEL
 28
 BULK
@@ -474,7 +474,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 The flayleaf plant is relatively common, though the mildly euphoric effects of smoking its dried leaves increase when it's sourced from plants specifically grown to produce such effects.
 TRAITS
@@ -492,11 +492,11 @@ GMG
 PAGE
 109
 GOLD
-None
+0
 LEVEL
 24
 BULK
-None
+0
 ENTRY
 This rune was created by {@deity Torag}, god of the forge, protection, and strategy, and shared with his greatest artisans and warriors. {@deity Torag} designed a small number of these seals as gifts to allied good deities; each one is nearly identical but has a different spell effect when using the reaction activation; for instance, {@deity Sarenrae}'s seal casts {@spell sunburst} instead of {@spell earthquake}.
 TRAITS
@@ -513,11 +513,11 @@ GMG
 PAGE
 89
 GOLD
-None
+0
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 The genius diadem is a {@item diadem of intellect} that typically acts like an arrogant professor or mentor, often boasting that it is a certified greater intellect and far superior to your own intelligence, even after the benefits the diadem grants you. The genius diadem encourages you to learn things for yourself rather than actually attempting to {@action Recall Knowledge} for you, though you or your allies might be able to play on its arrogance using {@skill Deception} to trick it into doing so. In addition to allowing you to activate it, the diadem can use the diadem of intellect's hypercognition activation with its own actions, though if it does so, the diadem gains the benefits instead of you. Only the diadem can use the following activation.
 TRAITS
@@ -535,11 +535,11 @@ GMG
 PAGE
 91
 GOLD
-None
+0
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 These gloves appear and function as gloves of storing but repel any item not stored in the gloves. When wearing them, whenever you {@action Interact} to draw or pick up an item, roll a DC {@flatDC 11} flat check. On a success, you do so as normal. On a failure, you instead fling the item 15 feet in a random direction. You can use a reaction to attempt a DC 23 Reflex save, causing the item to land at your feet instead if you succeed. Removing the stored item from the gloves does not trigger the item's curse.
 TRAITS
@@ -558,11 +558,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 Weapons with the {@i grandstanding} curse inspire overconfidence in their wielders, demanding style over pragmatism. Whenever you reduce a foe to 0 Hit Points, you lose all remaining actions on your turn, as you are compelled to flourish, gloat, pose, or otherwise waste your time in response.
 TRAITS
@@ -579,7 +579,7 @@ GMG
 PAGE
 109
 GOLD
-None
+0
 LEVEL
 26
 BULK
@@ -600,7 +600,7 @@ GMG
 PAGE
 89
 GOLD
-None
+0
 LEVEL
 7
 BULK
@@ -622,7 +622,7 @@ GMG
 PAGE
 91
 GOLD
-None
+0
 LEVEL
 14
 BULK
@@ -644,11 +644,11 @@ GMG
 PAGE
 110
 GOLD
-None
+0
 LEVEL
 25
 BULK
-L
+0.1
 ENTRY
 The silvery glass of this oval mirror displays alluring sights. Its dark wooden frame is studded with small green gems and is carved with the shapes of a male figure on one edge of the glass and a female figure on the other side.
 TRAITS
@@ -667,11 +667,11 @@ GMG
 PAGE
 91
 GOLD
-None
+0
 LEVEL
 20
 BULK
-L
+0.1
 ENTRY
 This dried, gnarled hand is clenched in a fist, waiting for a creature to pick it up. When you pick up the monkey's paw, the hand opens, revealing three withered fingers. The monkey's paw grants you three wishes, curling one finger after every one. Once you pick up the monkey's paw, you cannot discard the hand until it returns to a clenched fist by casting its three wishes. Any attempts to discard the hand, even with the effects of a {@spell miracle} or {@spell wish} spell, are unsuccessful as the monkey's paw reappears among your possessions within {@dice 1d4} hours; it doesn't work for any other creature in the intervening time. The hand returns even if another creature steals it from you. Once you make all three wishes, the monkey's paw uses plane shift to travel to a random point in the multiverse.
 TRAITS
@@ -689,11 +689,11 @@ GMG
 PAGE
 91
 GOLD
-None
+0
 LEVEL
 15
 BULK
-L
+0.1
 ENTRY
 This beautiful necklace appears to be a magical item such as a necklace of fireballs or a pendant of the occult. When invested, it magically locks in place, suspiciously tightly, and fuses to you. When you enter a situation of extreme stress (as determined by the GM), the necklace tightens around your neck, suffocating you (Core Rulebook 478) and dealing 30 bludgeoning damage to you at the end of each of your turns.
 TRAITS
@@ -711,7 +711,7 @@ GMG
 PAGE
 110
 GOLD
-None
+0
 LEVEL
 25
 BULK
@@ -731,11 +731,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 The weapon flashes excessive light with each attack. On a critical hit with the weapon, you are {@condition blinded} until the end of your turn and take the effects of a {@spell faerie fire} spell until the start of your next turn.
 TRAITS
@@ -752,7 +752,7 @@ GMG
 PAGE
 111
 GOLD
-None
+0
 LEVEL
 28
 BULK
@@ -773,11 +773,11 @@ GMG
 PAGE
 91
 GOLD
-None
+0
 LEVEL
 13+
 BULK
-L
+0.1
 ENTRY
 This innocuous-looking cloak is associated with a type of poison, set at the cloak's creation. It often appears as a clandestine cloak or a cloak of the bat to the unaware. When you invest this cloak, you lose any resistance to poison damage, and anytime you take piercing or slashing damage in combat, you are exposed to the type of poison associated with the poisonous cloak with no onset, even if it's not an injury poison. Once the curse has activated for the first time, the cloak fuses to you.
 TRAITS
@@ -795,11 +795,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 While more annoying than deadly, a {@i raucous} curse is the bane of subtlety. Whenever you use the affected item, you must loudly yell what you are attempting to do with it, ruining any attempts at stealth. Failure to announce your action or speak at an appropriate volume automatically causes the attempted action to become a critical failure.
 TRAITS
@@ -816,11 +816,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 A {@i ravenous} curse draws power from the wielder's body. Whenever you {@action activate an item||activate} the item, you become incredibly hungry and immediately begin to starve ({@book {@i Core Rulebook} 500|CRB|10|Starvation and Thirst}). You require 10 times as much food as normal for the next day.
 TRAITS
@@ -841,7 +841,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 When eaten or smoked, pesh gives users a sense of well-being, sometimes with hallucinations, aggression, and exhaustion.
 TRAITS
@@ -859,11 +859,11 @@ GMG
 PAGE
 91
 GOLD
-None
+0
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 This ring appears to be a ring of lies, but when invested, close investigation reveals angelic wings and divine creatures {@condition hidden} on the face of the ring. When you invest the ring, you are rendered unable to tell a deliberate lie, in either speech or writing. If you attempt to omit the truth or phrase things truthfully but deceptively, roll a DC {@flatDC 11} flat check; on a failure, the ring itself blurts out the entire truth (as you believe it) as an answer. Keeping silent does not activate the ring's curse.
 TRAITS
@@ -885,7 +885,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 This gritty powder improves responsiveness but suppresses thoughts and leaves you weakened. The saving throw for addiction to scour is DC 30, and the addiction is virulent.
 TRAITS
@@ -904,7 +904,7 @@ GMG
 PAGE
 112
 GOLD
-None
+0
 LEVEL
 23
 BULK
@@ -930,7 +930,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 A compound produced from the hallucinogenic venom of certain spiders, shiver is common in black markets.
 TRAITS
@@ -947,11 +947,11 @@ GMG
 PAGE
 112
 GOLD
-None
+0
 LEVEL
 23
 BULK
-None
+0
 ENTRY
 Legends claim that some long-forgotten god stole the original bundle of shots of the First Vault from Abadar's repository.
 TRAITS
@@ -967,7 +967,7 @@ GMG
 PAGE
 89
 GOLD
-None
+0
 LEVEL
 5
 BULK
@@ -989,11 +989,11 @@ GMG
 PAGE
 113
 GOLD
-None
+0
 LEVEL
 27
 BULK
-None
+0
 ENTRY
 A sphere of annihilation is a floating black sphere that pulls any matter that comes into contact with it into a void, destroying it utterly. Anything or anyone destroyed by the sphere can be brought back only by a deity's direct intervention. The sphere can't be counteracted by dispel magic or similar effects.
 TRAITS
@@ -1009,11 +1009,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 1
 BULK
-None
+0
 ENTRY
 This property is associated with a specific color, which is defined at the time of the curse's creation. Whenever you use the affected equipment while taking a {@trait manipulate} action with another object, the second object is permanently stained the associated color. For instance, if you used a set of yellow {@i staining lockpicks} to open a door, the lock would permanently become yellow. This color change does not otherwise unnaturally persist and can be changed via any normal mundane or magical means.
 TRAITS
@@ -1030,11 +1030,11 @@ GMG
 PAGE
 92
 GOLD
-None
+0
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 Also known as a loadstone, this small stone appears nonmagical and has a lovely sheen, giving the impression that it could be a valuable or a notable item or a magic stone of some kind. When you've carried the stone on your person for 1 minute, its curse activates: the stone's size does not change, but it suddenly increases in weight to 5 Bulk. This additional weight does not cause the stone to deal more damage if thrown or used as a weapon. It reappears in your possessions within 1 minute if you discard it, and can't be destroyed or thrown away permanently, or even placed in a container that would reduce or negate its Bulk (like a bag of holding), until it is subject to a {@spell remove curse} spell or similar magic effect.
 TRAITS
@@ -1051,11 +1051,11 @@ GMG
 PAGE
 113
 GOLD
-None
+0
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 This loop of adamantine can be slung on a chain to be worn as a necklace, but must be held to convey its benefits. A creature that can't cast either arcane or occult spells takes {@damage 8d6} mental damage just from picking up the item, and they take that damage again at the start of each of their turns if they continue to hold it.
 TRAITS
@@ -1071,11 +1071,11 @@ GMG
 PAGE
 93
 GOLD
-None
+0
 LEVEL
 13
 BULK
-None
+0
 ENTRY
 A {@i withering} curse shrivels vulnerable flesh. Whenever you {@action activate an item||activate} the item, one of your fingers turns black and falls off. You take a –1 status penalty to {@skill Thievery} checks and Dexterity-based attack rolls with a hand missing two or three fingers; if you lose more than four fingers on one hand, you can't use that hand to hold objects or use {@trait manipulate} actions. These fingers can be replaced by magic but are otherwise gone forever. The GM has the final say on how creatures with unusual appendages or numbers of fingers are affected by this curse.
 TRAITS
@@ -1096,7 +1096,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 This bitter paste is used among some gladiatorial rings for its short-term benefits in a fight.
 TRAITS

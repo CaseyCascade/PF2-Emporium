@@ -9,7 +9,7 @@ GOLD
 LEVEL
 10
 BULK
-ó (when not activated)
+0.0
 ENTRY
 The ancient inhabitants of Bloodsalt crafted these magic rocks to construct defenses quickly. In its stone form, a barricade stone appears to be a simple pebble with an unnaturally geometric shape. The size and shape of the stone's final form depends on the type of barricade stone.
 TRAITS
@@ -30,7 +30,7 @@ GOLD
 LEVEL
 11
 BULK
-ñ
+0.0
 ENTRY
 This polished golden bracelet is formed around the scale of a famous dragon. The bracelet is etched with esoteric symbols or wordsóalways in Draconicóthat indicate kinship with dragons. As many types of dragon rune bracelets exist as there are types of dragons, though dragon rune bracelets associated with Uncommon or Rare dragons are Rare.
 TRAITS
@@ -52,7 +52,7 @@ GOLD
 LEVEL
 14
 BULK
-ñ
+0.0
 ENTRY
 An exploration lens is a magical glass lens designed for a bull's-eye lantern. When light from the lantern passes through the lens, it alters the light to make it easier to perform a common exploration activity with the lantern. You can find more information about exploration activities related to these lenses on page 496 of the Core Rulebook. Alternatively, an exploration lens can be installed in a wayfinder like an aeon stone. In this case, light (such as that from a lantern, torch, or {@spell light} spell) must still pass through the lens and you must hold the wayfinder in your hand for it to function.
 TRAITS
@@ -73,7 +73,7 @@ GOLD
 LEVEL
 9
 BULK
-ñ
+0.0
 ENTRY
 Via some strange alchemical reaction with the gasses of Terwa Lake, the cloud dragon Ixam√®'s eyeballs have shriveled into sky-blue gems.
 TRAITS
@@ -94,7 +94,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 This mask is made from the gills of the red-rib salamander, an amphibious creature unique to Terwa Lake. Once activated, the mask intensifies the odors of gaseous toxins, allowing you to automatically detect toxic fumes within 30 feet and their approximate source (making the source {@condition undetected} instead of {@condition unnoticed}). You can't wear other masks while you're wearing a red-rib gill mask.
 TRAITS

@@ -9,7 +9,7 @@ GOLD
 LEVEL
 4
 BULK
-—
+0.0
 ENTRY
 This macabre staff is crafted from gleaming white bone, a spinal column spiralling out of its base with a skull swinging from the spine's tip. It was handcrafted for {@creature Nyctessa|WtD5} by her father, a powerful Blood Lord, from her mortal mother's bones.
 TRAITS
@@ -29,7 +29,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 Tiny black motes swirl around this crystalline vial. The vial can be thrown up to 20 feet, shattering and releasing the motes to absorb light within a 15-foot burst. Light sources within the motes' area of effect create a 5-foot radius of {@quickref dim light||3|dim light} instead of their normal light and light sources outside the motes do not illuminate the area within them. The darkness lasts for 1 minute, but will disperse immediately in a strong wind.
 TRAITS
@@ -71,7 +71,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 This catalyst is a bird's claw soaked in a mixture of blood and grave dirt. A {@spell shadow spy|DA} spell empowered by it creates an unusually long-lasting {@creature homunculus}. Instead of the spell expiring when you next make your daily preparations, you can renew it by expending a spell slot for {@spell shadow spy|DA} again, maintaining the same {@creature homunculus} so it can continue its observations. Steadfast sentinels are often used by powerful spellcasters of Geb to covertly monitor their rivals.
 TRAITS
@@ -91,7 +91,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 A viscous acidic goo fills this glass vial, specially designed to eat through metallic objects. You can throw the steelscour as an {@trait alchemical} {@trait bomb}, targeting a {@trait metal} creature or metal object held by a creature. Steelscour has no effect on living or {@trait undead} flesh and deals half damage to objects constructed of non-metal materials.
 TRAITS
@@ -112,7 +112,7 @@ GOLD
 LEVEL
 4
 BULK
-L
+0.1
 ENTRY
 This sachet is filled with a fine powder that seethes with energy distilled directly from the {@plane Negative Energy Plane}. When used in casting a {@spell grim tendrils} spell, void salts allow you to split the area of the spell, creating any number of lines originating from you that total 30 feet in length. A creature that multiple lines pass through is only affected once.
 TRAITS

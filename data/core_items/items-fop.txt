@@ -9,7 +9,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations. In addition, the wearer receives a +1 item bonus to {@skill Diplomacy} checks to {@action Make an Impression}.
 TRAITS
@@ -29,7 +29,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 When created, this mutagen is attuned to your choice of one of four energy types: acid, cold, electricity, or fire.
 TRAITS
@@ -51,7 +51,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 The band of this ring is made from bluecolored iron and has two sharp, decorative protrusions on each side of the red-stone inlay. It feels quite heavy and reliable.
 TRAITS
@@ -71,7 +71,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This rose-gold ring is adorned in the center by a somewhat ominous-looking horned skull.
 TRAITS
@@ -92,7 +92,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This fanciful golden ring has an ornate band cast with delicate, swirling decorations and is inlaid with three bright-green emeralds. While wearing this ring, you gain a +10-foot item bonus to your Speed, but only when determining your overland movement per hour.
 TRAITS
@@ -112,7 +112,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This fairly simple ring has no gemstone inlaid, but the band is cast to resembled a fanged wolf's head. Once per day, during your daily preparations, you can meditate on this ring to grant yourself 5 temporary Hit Points.
 TRAITS
@@ -132,7 +132,7 @@ GOLD
 LEVEL
 15
 BULK
-L
+0.1
 ENTRY
 This mutagen calcifies your body making it as hard as stone.
 TRAITS
@@ -154,7 +154,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This ring is utilitarian in design—indicating its martial use. Its band is decorated only with a simple, sharp-edged sculpture on the band's center. While wearing this ring, you add your level to your attack rolls with all weapons with which you are untrained.
 TRAITS

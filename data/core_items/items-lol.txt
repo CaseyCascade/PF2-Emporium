@@ -9,7 +9,7 @@ GOLD
 LEVEL
 14
 BULK
-L
+0.1
 ENTRY
 When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug, but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain an item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.
 TRAITS
@@ -28,7 +28,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 Khismar developed this unique atomizer that allows for the distribution of elixirs, oils, and potions as a fine spray or mist. The atomizer can hold a single elixir, oil, or potion. An atomizer contains enough reagents to use it up to 10 times before the reagents must be replaced. A new batch of reagents costs 5 gp and requires an {@action Interact} action to replace.
 TRAITS
@@ -47,7 +47,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 This gummy liquid disproportionately lengthens your legs, causing you to grow but making your movement awkward. The effect is very noticeable unless your clothes can adequately conceal it.
 TRAITS
@@ -90,7 +90,7 @@ GOLD
 LEVEL
 20
 BULK
-L
+0.1
 ENTRY
 Among Hao Jin's most precious treasures are three living plants, the last surviving celestial peach trees taken from the mountains of Chu Ye. One of the trees grows pearls in place of flowers, but the other two bear fruit that is far more valuable. Eating one of these small red peaches can heal even the most grievous of injuries.
 TRAITS
@@ -113,7 +113,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 This small recording device can be as tiny as a music box or around the size of large book and is typically {@condition concealed} in hollowed-out books and jewelry. A clockwork recorder can record up to 1 hour of sound before its wax cylinders must be retrieved and replaced.
 TRAITS
@@ -152,7 +152,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 A synthetic adrenaline supplement that increases awareness and reaction time. Diluted hype has been mixed with saltwater to allow for cheaper mass production.
 TRAITS
@@ -170,11 +170,11 @@ LOL
 PAGE
 10
 GOLD
-None
+0
 LEVEL
 11
 BULK
-None
+0
 ENTRY
 You tap into the fiendish ability to slip through space. When you {@action Stride}, you gain a +3 item bonus to Armor Class against reactions triggered by your movement. Once per day, from any distance, Abrogail Thrune II can call on a provision in your Thrune contract as a single action, causing you to become {@condition paralyzed} for 1 hour or until Abrogail releases you, whichever comes first.
 TRAITS
@@ -195,7 +195,7 @@ GOLD
 LEVEL
 10
 BULK
-L
+0.1
 ENTRY
 This sweet-scented poison triggers vivid hallucinations in those who succumb to it, causing most to believe swarms of ravenous biting insects are feeding on them. So vivid are these hallucinations that the victims damage themselves by scratching and clawing at the imaginary swarm. At the GM's discretion, a creature incapable of clawing at itself might instead slam against solid objects, in which case the poison inflicts bludgeoning damage.
 TRAITS
@@ -216,7 +216,7 @@ GOLD
 LEVEL
 8
 BULK
-L
+0.1
 ENTRY
 A synthetic adrenaline supplement that increases awareness and reaction time.
 TRAITS
@@ -234,11 +234,11 @@ LOL
 PAGE
 10
 GOLD
-None
+0
 LEVEL
 15
 BULK
-None
+0
 ENTRY
 You regain triple the normal number of Hit Points when resting (meaning you regain triple your Constitution modifier multiplied by your level). The healing you gain from long-term rest is similarly tripled. Once per day, from any distance, Abrogail Thrune II can recite a voidability clause in your Thrune contract as a 1-minute activity to prevent you from regaining Hit Points from resting for 1 day.
 TRAITS
@@ -259,7 +259,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 This ink, derived from inks used by lovers to deliver secret messages, dries to a color similar to most parchments. Avarneus's version requires another dose of lover's ink and a specific agitation to reveal the {@condition hidden} message, preventing casual interception. Any message written with lovers' ink is revealed by applying a page worth of lover's ink and vigorously shaking, requiring 3 {@action Interact} actions. A typical vial provides enough ink to fill 1 page worth of text. While the text is {@condition hidden}, a creature closely examining a surface marked with lover's ink can detect the presence of the ink with a successful DC 25 {@skill Perception} check. On a critical success, they can make out the ink well enough to use {@skill Society} to {@action Decipher Writing}.
 TRAITS
@@ -278,7 +278,7 @@ GOLD
 LEVEL
 16
 BULK
-None
+0
 ENTRY
 This tiny, carved walnut shell contains a sacred mountain within. You can only activate mountain to the sky on an unoccupied patch of earth or soil. When activated, the walnut transforms into an impossibly steep mountain, 5,000 feet tall and 100 feet wide at the base. Climbing the mountain requires 8 hours and a successful DC 35 {@skill Athletics} check. After activating it, if you climb to the top of the mountain without any assistance from flight or magic, the mountain plane shifts you to Heaven when you reach the summit. You can return the mountain to the sky into the shape of a walnut shell as a 1-minute activity, which has the {@trait concentrate} and {@trait manipulate} traits, so long as no living creatures are present on the mountain.
 TRAITS
@@ -298,7 +298,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 This thick, elegant bracelet conceals a specialized firing mechanism that can hold a single blowgun dart. You can fire the dart normally from the bracelet. Recognizing the bracelet's nature requires a successful DC 25 {@skill Perception} check.
 TRAITS
@@ -316,7 +316,7 @@ GOLD
 LEVEL
 12
 BULK
-L
+0.1
 ENTRY
 A synthetic adrenaline supplement that increases awareness and reaction time. Plasma hype has been infused with a specific mixture of Numerian fluids and other alchemical reagents to improve upon the original hype formula.
 TRAITS
@@ -338,7 +338,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 The frayed threads from the rips and tears in Hao Jin's Tapestry still contain traces of the Ruby Phoenix's magic. Hao Jin has collected most of these loose strings, but others occasionally find these potent silk strands in unexpected places. A ruby string can fulfill the cost requirement for an 8th-level create demiplane ritual (Advanced Player's Guide 241). When used in this way, the ruby string negates the need for secondary casters, and you get a success for all secondary checks. Alternatively, you can activate it to create a smaller demiplane without requiring the ritual.
 TRAITS
@@ -376,7 +376,7 @@ GOLD
 LEVEL
 20
 BULK
-varies by armor
+varies
 ENTRY
 Sovereign steel armor sickens certain creatures that touch it. A creature with weakness to {@item cold iron (generic)||cold iron} that critically fails an unarmed attack against a creature in sovereign steel armor becomes {@condition sickened 1}, and such a creature is {@condition sickened 1} as long as it wears sovereign steel armor. The {@item noqual (generic)|lotgb|noqual} in sovereign steel armor provides protection against magic, granting you a +1 circumstance bonus to AC against spell attack rolls. If you {@action Cast a Spell} while wearing sovereign steel armor, you must succeed at a DC {@flatDC 5} flat check or the spell fails.
 TRAITS
@@ -394,7 +394,7 @@ GOLD
 LEVEL
 19
 BULK
-varies by weapon
+varies
 ENTRY
 Sovereign steel weapons are treated as {@item cold iron (generic)||cold iron} against creatures with a weakness to {@item cold iron (generic)||cold iron}, like demons and fey. In addition, the {@item noqual (generic)|lotgb|noqual} in sovereign steel weapons disrupts spellcasters' concentration, causing them to become {@condition stupefied 1} for 1 round on a critical hit.
 TRAITS
@@ -412,7 +412,7 @@ GOLD
 LEVEL
 14
 BULK
-None
+0
 ENTRY
 The metal of these arrows is said to have come from a star that ventured too close to Golarion and was shot down by a moonlit archer. When you activate and shoot a starshot arrow, you take no range penalties against any target that you can personally detect. There must be a line of effect between you and the target.
 TRAITS
@@ -432,7 +432,7 @@ GOLD
 LEVEL
 18
 BULK
-L
+0.1
 ENTRY
 The process of creating the sun orchid elixir leaves behind a large amount of thick paste with its own healing properties. Artokus commonly sells this paste to Thuvian natives who can't purchase the elixir proper and uses the income to support his alchemy students. When you apply the sun orchid poultice, it reduces your {@condition clumsy}, {@condition drained}, and {@condition enfeebled} condition values by 2. In addition, the poultice provides a youthful burst of energy, granting you a +3 item bonus to saves and 20 temporary Hit Points for 1 hour.
 TRAITS
@@ -466,11 +466,11 @@ LOL
 PAGE
 10
 GOLD
-None
+0
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 You cease aging, and if you were older than young adult in age, you become a young adult again. You gain a +4 status bonus to saves against {@trait death} effects and resistance to negative damage equal to half your level. Once per day, from any distance, Abrogail Thrune II can recite a mandatory appearance clause in your Thrune contract as a 3-action activity to summon you to her side, where you are {@condition controlled} by Abrogail for 1 minute before you return.
 TRAITS
@@ -491,7 +491,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 A vaccine grants a creature immunity to a specific strain of disease of a level equal to or less than the vaccine's level, and a +2 item bonus on all saving throws against other strains of the same disease. For example, a vaccine could grant immunity to filth fever inflicted by otyughs, but would only grant a +2 saving throw bonus against filth fever inflicted by a giant rat.
 TRAITS
@@ -510,7 +510,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 These simple lenses are alchemically treated to detect the faint smoke trail from a piece of specially formulated sandalwood incense. This incense has an odor undetectable by most people and a long burn time, making it perfect for discreetly tracking individuals. A stick of this incense costs 1 sp and can safely burn for up to 8 hours. While wearing the lenses, you see alchemical fumes in a distinct green tint, granting you a +1 item bonus to {@skill Survival} checks to {@action Track} a creature marked with the incense and to {@skill Perception} checks to {@action Seek} any alchemical vapors. If the smoke is fresh, {@action Track||Tracking} via the incense's fumes might use a lower DC than normal for tracking a creature walking on firm surfaces.
 TRAITS

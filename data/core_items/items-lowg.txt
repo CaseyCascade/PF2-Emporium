@@ -9,7 +9,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 An archaic wayfinder functions as a compass and acts as a repository for one cantrip cast into it. To fill an archaic wayfinder, a spellcaster casts the chosen cantrip into the empty device, providing any necessary cost; the spell cannot be one that is normally cast as a free action or reaction. {@action Activate an Item||Activating} an archaic wayfinder is the same as the casting for the relevant spell. Once it has been activated, it becomes empty again. An archaic wayfinder can hold an aeon stone and activate its resonant power. An archaic wayfinder counts against the limit of one wayfinder with a slotted resonant aeon stone.
 TRAITS
@@ -30,7 +30,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 You can activate the tattoo as a reaction instead of a two-action activity, triggered when a demon attacks you or you attempt a saving throw against a demon's ability.
 TRAITS
@@ -47,7 +47,7 @@ LOWG
 PAGE
 126
 GOLD
-None
+0
 LEVEL
 20
 BULK
@@ -73,7 +73,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 These gleaming golden epaulets are issued to Eagle Knight officers and worn as part of the uniform. While they can be enchanted to provide a variety of effects, the Golden Legion epaulet remains the most common.
 TRAITS
@@ -94,7 +94,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 These bioluminescent jellyfish are as bright as candles, come in a variety of colors, and can act as living lanterns. They dry up and die if removed from the water for more than 1 hour, but as long as they're allowed access to seawater, they can usually survive for up to 1 year by feeding on micronutrients.
 TRAITS
@@ -107,11 +107,11 @@ LOWG
 PAGE
 56
 GOLD
-None
+0
 LEVEL
 20
 BULK
-L
+0.1
 ENTRY
 When you drink this elixir, you physically become as you were in whatever phase of your youth you desire. Your new body begins in peak health, regardless of what your actual condition was at that age.
 TRAITS
@@ -132,7 +132,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 These flippers attach to your feet like tight shoes—donning or removing them requires three {@action Interact} actions. While worn, you gain a +5-foot item bonus to the distance you move when rolling {@skill Athletics} to {@action Swim}, not when using a swim Speed, and you take a –10-foot item penalty to your Speed.
 TRAITS

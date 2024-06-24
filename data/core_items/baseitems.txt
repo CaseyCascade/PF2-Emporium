@@ -7,7 +7,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -29,9 +29,9 @@ PAGE
 GOLD
 0.02
 LEVEL
-None
+0
 BULK
-None
+0
 ENTRY
 A chakri is a small, circular throwing weapon with a sharp outer edge.
 TRAITS
@@ -54,7 +54,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -80,9 +80,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Two small, curved blades extend from a single hilt. There's a hollow area inside that vishkanyas can use to store an unused dose of their blood, or other poison, for the future.
 TRAITS
@@ -107,7 +107,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -131,7 +131,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -155,7 +155,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -181,7 +181,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -205,7 +205,7 @@ PAGE
 GOLD
 0.6
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -232,7 +232,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -256,9 +256,9 @@ PAGE
 GOLD
 0.7
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This blade features multiple curves in a serpentine pattern set on a wide, asymmetrical base, its hilt and sheath often intricately decorated.
 TRAITS
@@ -280,9 +280,9 @@ PAGE
 GOLD
 0.8
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This long, narrow blade is attached to a gauntlet that also acts as a handguard.
 TRAITS
@@ -304,7 +304,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -330,9 +330,9 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A dagger attached to a retractable mechanism is integrated in this gauntlet's dorsum, so a combatant can quickly arm themself with a blade to exploit the weak points in an enemy's armor. Switching configurations on the gauntlet reveals or retracts the contained dagger as appropriate. The dagger isn't removable, and thus can't be wielded or etched with runes separately from the gauntlet.
 TRAITS
@@ -356,7 +356,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -380,7 +380,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -404,9 +404,9 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A thin-barreled firearm that uses a container of pressurized air instead of black powder to propel small metal bullets from an attached cartridge, the air repeater has fallen out of common use in Arcadia due to its poor stopping power, though it's still used occasionally for casual hunting and sport shooting. The air repeater and its {@item long air repeater|G&G|longer-ranged, two-handed variant} are still valued by some for their ability to allow a shooter to fire multiple rounds without needing to stop to reload or crank to a new chamber. A typical air repeater magazine holds 6 {@item pellets|G&G}.
 TRAITS
@@ -428,7 +428,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -501,7 +501,7 @@ PAGE
 GOLD
 10
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -526,7 +526,7 @@ PAGE
 GOLD
 10
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -665,7 +665,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 A crescent cross combines a small scizore with an arm-mounted crossbow apparatus that can hold up to three bolts at a time.
 TRAITS
@@ -796,7 +796,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -818,7 +818,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -840,7 +840,7 @@ PAGE
 GOLD
 15
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -864,9 +864,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This blade or spike can be attached to a crossbow or firearm but, unlike other attached weapons, can be wielded in one hand as its own weapon. When used as a separate weapon, it can't benefit from any runes or abilities that function only for attached weapons.
 TRAITS
@@ -914,9 +914,9 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This pair of knuckle dusters is fitted with an explosive charge of black powder within the hollowed spikes of the weapon and a firing mechanism you hold in your hand while in use.
 TRAITS
@@ -943,9 +943,9 @@ PAGE
 GOLD
 2.0
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This weapon consists of two bladed discs joined by a central axel, and is spun on a rope whose ends are attached to wand-like sticks. The wielder can hurl the diabolo from the rope like a stone from a sling, or swing it on the rope in melee.
 TRAITS
@@ -970,7 +970,7 @@ PAGE
 GOLD
 2.5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -995,7 +995,7 @@ PAGE
 GOLD
 0.9
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1018,7 +1018,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1044,7 +1044,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1069,7 +1069,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1096,9 +1096,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This long, narrow tube is used for shooting blowgun darts, using only the power of a forcefully exhaled breath.
 TRAITS
@@ -1119,7 +1119,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -1143,7 +1143,7 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -1168,9 +1168,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This small axe sports a spike opposite the blade that aids in climbing and is useful in clearing obstacles, such as fallen rigging. This weapon is common in the High Seas region, on the Isle of Kortos and within azarketi settlements.
 TRAITS
@@ -1218,9 +1218,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This throwing weapon consists of weights tied to the end of long cords, which can be used to entangle foes.
 TRAITS
@@ -1242,7 +1242,7 @@ PAGE
 GOLD
 20
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -1263,7 +1263,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -1282,9 +1282,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This very small shield is a favorite of duelists and quick, lightly armored warriors. It's typically made of steel and strapped to your forearm. You can {@action Raise a Shield} with your buckler as long as you have that hand free or are holding a light object that's not a weapon in that hand.
 TRAITS
@@ -1299,7 +1299,7 @@ PAGE
 GOLD
 9
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1323,9 +1323,9 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A gakgung is a type of composite reflex bow that combines speed and power in equal amounts for effective precision shooting.
 TRAITS
@@ -1347,7 +1347,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1369,7 +1369,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1392,9 +1392,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A spraysling is similar to a standard sling but with a wider cup fitted with a thin blade affixed to the cup's edges. When used to make an attack with a specially prepared packet of spray pellets, the razor slices open the packet and the weapon launches a cluster of stinging pellets.
 TRAITS
@@ -1417,9 +1417,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 The boomerang is a carved piece of wood designed to curve as it flies through the air, returning to the wielder after a successful throw.
 TRAITS
@@ -1441,9 +1441,9 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 NA
 TRAITS
@@ -1466,9 +1466,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Similar to a chakram, chakri are too light to be wielded in melee but allow the user significantly more control over their throws. A chakri is small and light enough that up to two can be worn on each wrist; a chakri worn on the wrist is reload 0 instead of reload —.
 TRAITS
@@ -1538,7 +1538,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1561,7 +1561,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -1586,9 +1586,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This short, single-edged sword typically features a cross guard that helps catch oncoming attacks. It's the preferred weapon of Butterfly Blades—highly skilled Gokan assassins. These swords are typically crafted and sold in pairs.
 TRAITS
@@ -1614,7 +1614,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1640,7 +1640,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1670,7 +1670,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -1691,7 +1691,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1712,9 +1712,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Simple, elegant, and portable, the chakram is an open-centered metal discus with a sharpened edge, as well as a grip running along the center so the wielder can hold it safely.
 TRAITS
@@ -1734,9 +1734,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This broad dagger is carried by dwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.
 TRAITS
@@ -1760,9 +1760,9 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 The tradition of dwarves displaying their clan affiliations with special clan daggers goes back millennia, but many of the dwarf clans of Dongun Hold have their own take on the tradition, with promising young gunsmiths claiming their adulthood by crafting a specialized personal firearm using the clan's unique smithing traditions. Losing or being forced to surrender their clan pistol is a terrible embarrassment for the dwarves that carry them.
 TRAITS
@@ -1785,9 +1785,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 The three parallel blades of this handheld weapon extend between the fingers to resemble the natural claws of the amurruns who created them, providing a way for those catfolk without suitable natural claws to share the fighting customs of their kin.
 TRAITS
@@ -1834,7 +1834,7 @@ PAGE
 GOLD
 550
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1858,9 +1858,9 @@ CRB
 PAGE
 280
 GOLD
-None
+0
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1882,9 +1882,9 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This small pistol is easily concealed inside a jacket or some other article of clothing. Rarely kept as a primary weapon, coat pistols are equally favored by clever assassins and traveling Alkenstar aristocrats.
 TRAITS
@@ -1933,7 +1933,7 @@ PAGE
 GOLD
 20
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -1957,7 +1957,7 @@ PAGE
 GOLD
 14
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -1980,7 +1980,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2001,9 +2001,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.
 TRAITS
@@ -2026,9 +2026,9 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This weapon, favored by rangers and other wilderness wanderers, takes the form of a stoutly built pistol with a dagger blade attached beneath the barrel and extending out past the muzzle.
 TRAITS
@@ -2057,9 +2057,9 @@ PAGE
 GOLD
 0.01
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.
 TRAITS
@@ -2105,9 +2105,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This short, curved, and crude makeshift blade often has holes drilled into it to reduce its weight. It's a favored weapon of goblins.
 TRAITS
@@ -2156,7 +2156,7 @@ PAGE
 GOLD
 7
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2181,7 +2181,7 @@ PAGE
 GOLD
 9
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2207,7 +2207,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 Made for settling disputes when diplomacy fails, dueling pistols are finely crafted and made to fit easily into a holster or pocket. Noble and wealthy merchants in both Alkenstar and Dongun Hold often own matching pairs of dueling pistols in case they're called upon to address a challenge—though this practice has become increasingly rare in the modern age.
 TRAITS
@@ -2230,7 +2230,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2281,7 +2281,7 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2303,7 +2303,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2328,7 +2328,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2354,7 +2354,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2379,7 +2379,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2399,7 +2399,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2549,7 +2549,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2568,7 +2568,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2588,7 +2588,7 @@ PAGE
 GOLD
 9
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2607,7 +2607,7 @@ PAGE
 GOLD
 7
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2628,7 +2628,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2648,7 +2648,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2668,7 +2668,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2688,7 +2688,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2708,7 +2708,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -2750,9 +2750,9 @@ PAGE
 GOLD
 1.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Scroll robes are composed of paper alchemically treated for strength and flexibility. A layered structure prevents cutting and tearing, and for the purpose of calculating damage, the robes are considered to be cloth. The paper accepts all sorts of decoration, including magical writing, as detailed in the inscribed trait.
 TRAITS
@@ -2770,9 +2770,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Also called martial arts suits or practice clothes, gi are outfits of tough cloth built for comfort and unrestricted movement—ideal for practicing martial arts. They have reinforced stitching resistant to strenuous use.
 TRAITS
@@ -2790,9 +2790,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Adventurers who don't wear armor travel in durable clothing. Though it's not armor and uses your unarmored defense proficiency, it still has a Dex Cap and can grant an item bonus to AC if etched with {@item armor potency (generic)||potency runes}.
 TRAITS
@@ -2839,7 +2839,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2862,9 +2862,9 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This kobold wire is thin and hard to see, making it perfect for an ambush. The wielder wraps the wire around a vulnerable spot, such as the neck, and twists it to inflict potentially fatal lacerations. The name derives from the use of a similar wire in traps, or slow fangs, with the word "slow" removed, as a fangwire gets quick results.
 TRAITS
@@ -2915,9 +2915,9 @@ PAGE
 GOLD
 0.9
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A scizore is a gauntlet or protective leather tube worn over the forearm and featuring a half-moon blade mounted to the end of the cap on a short pole.
 TRAITS
@@ -2938,9 +2938,9 @@ PAGE
 GOLD
 0.3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A war razor is an exaggerated version of the barbers' tool. It's a brittle but extremely sharp weapon that is very easy to slip into a pocket or sleeve.
 TRAITS
@@ -2963,7 +2963,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -2987,7 +2987,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3009,7 +3009,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3033,7 +3033,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3058,9 +3058,9 @@ PAGE
 GOLD
 0.7
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This medium-length sword has a wide, gently curved blade and long grip. Though it's typically used to hack through heavy foliage, the machete can also b used as a deadly weapon.
 TRAITS
@@ -3081,7 +3081,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3107,9 +3107,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This single-edged blade has a guardless hilt. Often decorated with elaborate etchings, a flyssa is longer than most daggers but shorter than average for most swords, making it useful in close and pitched combat.
 TRAITS
@@ -3131,7 +3131,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3156,7 +3156,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3182,7 +3182,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3207,7 +3207,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3231,9 +3231,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 The cast-iron frying pan is an essential tool for adventuring halflings, gold panners, and remote tavern owners. Characters with the {@feat Halfling Weapon Familiarity} ancestry feat are trained in the frying pan.
 TRAITS
@@ -3254,9 +3254,9 @@ PAGE
 GOLD
 0.3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A favored self-defense weapon among bar and tavern workers, the corset knife has a weighted hilt and a cylindrical, needlelike blade designed to be easily hidden in clothing, but quickly retrieved in a pinch.
 TRAITS
@@ -3279,9 +3279,9 @@ PAGE
 GOLD
 1.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This fan is useful for elegant dances as well as for slicing unsuspecting foes with the blades along its outer edge. If used in performances, it might be disguised as a frilly accessory, or it might be an obvious, though elegant, weapon.
 TRAITS
@@ -3306,9 +3306,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This halfling weapon looks like a long, two-pronged fork and is used as both a weapon and a cooking implement.
 TRAITS
@@ -3334,7 +3334,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3357,9 +3357,9 @@ PAGE
 GOLD
 5.0
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 These special poi are made from a rare, light metal or from fire-retardant fibers and can be ignited before being wielded. Igniting a pair of fire poi is an Interact action and requires 1 pint of oil for every 10 minutes the poi remain ignited. While lit, fire poi cast dim light in a 10-foot radius; in combat, they deal 1d4 bludgeoning plus {@damage 1d4} fire damage. On a critical hit with a lit fire poi, the target takes 1 {@condition persistent damage||persistent fire damage}. The fire can be extinguished using the {@action Interact} action. When unlit, the poi deal only the listed bludgeoning damage. Regardless of whether it is lit, the poi's {@damage 1d4} bludgeoning damage is the weapon damage dice, so striking runes and other effects don't affect the fire damage.
 TRAITS
@@ -3383,7 +3383,7 @@ PAGE
 GOLD
 0.8
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3407,7 +3407,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3433,7 +3433,7 @@ PAGE
 GOLD
 7
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3457,7 +3457,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3481,9 +3481,9 @@ PAGE
 GOLD
 0.3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Developed by Alkenstar scouts who often don't have time to break down a tripod when beset by the chaotic mutant monsters of the Mana Wastes, this two-pronged stabbing weapon can be used as a bipod to stabilize a gun with potent kickback. A forked bipod can be deployed or retrieved for use as a melee weapon as an {@action Interact} action.
 TRAITS
@@ -3525,7 +3525,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3548,9 +3548,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A pair of these metal gloves comes with {@item full plate}, {@item half plate}, and {@item splint armor}; they can also be purchased separately and worn with other types of armor. They not only protect your hands but also transform your hands into lethal weapons.
 TRAITS
@@ -3571,7 +3571,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3596,7 +3596,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3652,7 +3652,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3677,7 +3677,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3703,7 +3703,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3725,7 +3725,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3748,7 +3748,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3770,7 +3770,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3794,7 +3794,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 A griffon cane is named for the shape of its base, which features four small pronged supports splayed out in a manner similar to a griffon's talons. A griffon cane's splayed foot enables it to stand upright by itself. A griffon cane deals {@damage 1d6} bludgeoning damage, has the {@trait backswing} and {@trait two-hand <d10>} traits, and is a martial melee weapon in the {@group club} weapon group.
 TRAITS
@@ -3815,7 +3815,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3867,7 +3867,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -3909,7 +3909,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -3963,9 +3963,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This is a smaller version of an {@item adze|LOAG}, useful for more delicate woodworking or projects in cramped spaces. Gripplis use the hand adze for crafting and as close quarters weapons.
 TRAITS
@@ -3989,7 +3989,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4012,9 +4012,9 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Sometimes referred to as an alley bow by rogues or ruffians, this small crossbow fires small bolts that are sometimes used to deliver poison to the target. It's small enough to be shot one-handed, but it still requires two hands to load.
 TRAITS
@@ -4033,7 +4033,7 @@ PAGE
 GOLD
 10
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4056,9 +4056,9 @@ PAGE
 GOLD
 0.4
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This small axe can be used in close combat or thrown.
 TRAITS
@@ -4080,7 +4080,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4099,9 +4099,9 @@ G&G
 PAGE
 16
 GOLD
-None
+0
 LEVEL
-None
+0
 BULK
 3
 ENTRY
@@ -4122,7 +4122,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4141,7 +4141,7 @@ PAGE
 GOLD
 11
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4165,7 +4165,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4192,7 +4192,7 @@ PAGE
 GOLD
 0.9
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4242,9 +4242,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This thin spear is well balanced for throwing but is not designed for melee use.
 TRAITS
@@ -4288,9 +4288,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A juggling club is lighter than a typical club and balanced to be easily caught and thrown again by a juggler. While a juggling club deals less damage, the extra throwing distance its light weight allows is important for Juggling.
 TRAITS
@@ -4313,9 +4313,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Similar to a sickle and used in some regions to reap grain, a kama has a short, slightly curved blade and a wooden handle.
 TRAITS
@@ -4338,9 +4338,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This small curved blade resembles a tiger's claw and is capable of delivering deep wounds.
 TRAITS
@@ -4364,7 +4364,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4389,9 +4389,9 @@ PAGE
 GOLD
 0.3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Also known as punching daggers, katars are characterized by their H-shaped hand grip that allows the blade to jut out from the knuckles.
 TRAITS
@@ -4414,7 +4414,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4439,7 +4439,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4462,9 +4462,9 @@ PAGE
 GOLD
 0.3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This bit of hardened metal, favored by street toughs, is typically made of brass and features four finger holes so that it can sit atop the knuckles, adding extra power to a punch.
 TRAITS
@@ -4486,9 +4486,9 @@ PAGE
 GOLD
 0.6
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 The blade of this foot-long knife curves inward and lacks a cross guard at the hilt.
 TRAITS
@@ -4511,7 +4511,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4538,7 +4538,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4562,7 +4562,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4581,7 +4581,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4605,9 +4605,9 @@ PAGE
 GOLD
 0.3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This smaller version of the warhammer has a wooden or metal shaft ending in a metal head. Unlike its heavier cousin, it is light enough to throw.
 TRAITS
@@ -4628,9 +4628,9 @@ PAGE
 GOLD
 0.4
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A light mace has a short wooden or metal shaft ending with a dense metal head. Used much like a club, it delivers heavy bludgeoning blows, but with extra power derived from the head's metal ridges or spikes.
 TRAITS
@@ -4652,9 +4652,9 @@ PAGE
 GOLD
 0.4
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A light pick is a modified mining implement with a wooden shaft ending in a pick head crafted more to pierce armor and flesh than chip rocks.
 TRAITS
@@ -4677,7 +4677,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 A lion scythe resembles a common sickle but is specially weighted to allow for greater power when attacking. This is a martial melee weapon.
 TRAITS
@@ -4700,7 +4700,7 @@ PAGE
 GOLD
 9
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4723,7 +4723,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4746,7 +4746,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4769,7 +4769,7 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4791,7 +4791,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4840,7 +4840,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4862,7 +4862,7 @@ PAGE
 GOLD
 13
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4893,9 +4893,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This parrying dagger features a robust guard to protect the wielder's hand.
 TRAITS
@@ -4919,7 +4919,7 @@ PAGE
 GOLD
 0.6
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4944,7 +4944,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -4966,7 +4966,7 @@ PAGE
 GOLD
 9
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -4994,7 +4994,7 @@ GOLD
 LEVEL
 0
 BULK
-None
+0
 ENTRY
 Also called a "slungshot," the monkey's fist is a short length of rope ending in a thick knot wrapped around a metal weight. You can tie the loose end of a monkey's fist to your wrist; if you are {@action disarm||disarmed}, the weapon remains secured to your wrist rather than falling to the ground, though you must use an {@action Interact} action to grip it before using it again. A monkey's fist is a martial melee weapon.
 TRAITS
@@ -5016,7 +5016,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5038,7 +5038,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -5065,7 +5065,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 This collapsible baton consists of several nested, telescoping metal shafts that can be extended as a free action by flicking the wrist. Once extended to its full length (usually around 2 feet), the baton locks into shape until the wielder uses an {@action Interact} action to collapse it—a collapsed nightstick is 8 inches long, making it easily {@action conceal an object||concealed}.
 TRAITS
@@ -5089,7 +5089,7 @@ PAGE
 GOLD
 0.9
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5112,9 +5112,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 The nunchaku is constructed of two wooden or metal bars connected by a short length of rope or chain.
 TRAITS
@@ -5138,7 +5138,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5166,9 +5166,9 @@ PAGE
 GOLD
 0.7
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This stout, metal blade of orc design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.
 TRAITS
@@ -5191,7 +5191,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5216,9 +5216,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This armor is simply a layer of heavy, quilted cloth, but it is sometimes used because it's so inexpensive. Padded armor is easier to damage and destroy than other types of armor. Heavy armor comes with a padded armor undercoat included in its Price, though it loses the comfort trait when worn under heavy armor. You can wear just that padded armor undercoat to sleep in, if your heavy armor is destroyed, or when otherwise not wearing the full heavy armor. This allows you to keep the armor invested and benefit from the power of any runes on the associated heavy armor, but no one else can wear your heavy armor without the padded undercoat.
 TRAITS
@@ -5238,7 +5238,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 A pantograph gauntlet is a heavy, fist-like weight, mounted on an extendable frame and attached to your outer arm with a series of leather straps. The frame's set of mechanical linkages connected at various hinges allow movements to propagate across the frame based on reshaping parallelograms, further {@condition controlled} by a crossbar grasped in your hand. A pantograph gauntlet is driven by your own motion and mirrors your arm's movements—a punch thrown with your fist moves the pantograph, extending the weight out at a rapid speed to land blows up to 10 feet away. In some regions, such as Alkenstar and Ustalav, pantograph gauntlets are occasionally constructed entirely of metal and fashioned in the likeness of oversized arms, incorporating a complex system of gears or a miniature steam engine in place of the simpler pantograph mechanism.
 TRAITS
@@ -5262,7 +5262,7 @@ PAGE
 GOLD
 12
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5287,7 +5287,7 @@ PAGE
 GOLD
 0.7
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5309,7 +5309,7 @@ PAGE
 GOLD
 15
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5341,9 +5341,9 @@ PAGE
 GOLD
 0.4
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Made of a jagged blade with teeth pointing toward a leather-wrapped hilt, these weapons are particularly effective at disarming opponents. Piranha kisses were occasionally used during the Vidric Revolution, and some Firebrands carry them today. Members of the Firebrands have access to this weapon.
 TRAITS
@@ -5366,9 +5366,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Poi are light weights tethered to ropes or chains. Performers swing the weights, usually one in each hand, in rhythmic patterns.
 TRAITS
@@ -5416,7 +5416,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -5440,9 +5440,9 @@ G&G
 PAGE
 16
 GOLD
-None
+0
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -5463,7 +5463,7 @@ GOLD
 LEVEL
 0
 BULK
-L
+0.1
 ENTRY
 Your cane indicates that you have low vision or are blind. By holding this cane in front of you, you indicate to those around that you're partially sighted, which is particularly useful in urban or busy places to let others know to give you enough space.
 TRAITS
@@ -5484,7 +5484,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -5507,7 +5507,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5531,7 +5531,7 @@ PAGE
 GOLD
 10
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5561,9 +5561,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A reinforced stock is a weighted crossbow, firearm haft, or grip customized for striking in melee.
 TRAITS
@@ -5610,7 +5610,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This handheld crossbow features an ingeniously designed catch mechanism at the top of the flight groove, just in front of the latch, which automatically loads a bolt from a magazine and resets the string each time the weapon is fired. A typical repeating hand crossbow magazine holds five bolts.
 TRAITS
@@ -5654,7 +5654,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -5677,9 +5677,9 @@ PAGE
 GOLD
 0.4
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This specialized club is designed for throwing and is useful for both combat and hunting. Rungus were invented by Zenj humans of the Mwangi Expanse and are most common among their tribes, though gripplis have also adopted rungus for hunting creatures that hide high in treetops.
 TRAITS
@@ -5701,9 +5701,9 @@ PAGE
 GOLD
 0.6
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This piercing dagger is a metal spike flanked by a pair of prongs that can be used to trap an enemy's weapon.
 TRAITS
@@ -5728,9 +5728,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A sap has a soft wrapping around a dense core, typically a leather sheath around a lead rod. Its head is wider than its grip to disperse the force of a blow, as the weapon's purpose is to knock out its victim rather than to draw blood.
 TRAITS
@@ -5751,9 +5751,9 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 The signature weapon of the Red Mantis assassins, this curved blade is serrated like a saw, hence the name.
 TRAITS
@@ -5776,7 +5776,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -5795,7 +5795,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5818,9 +5818,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 A scorpion whip has a series of razor-sharp blades set along its tip. Unlike ordinary whips, a scorpion whip doesn't have the nonlethal trait, making it deadlier in combat but less effective when the wielder seeks to bring in foes alive.
 TRAITS
@@ -5844,7 +5844,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -5869,7 +5869,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -5894,9 +5894,9 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 The whipstaff is a 5-foot-long staff carved from alchemically treated wood. Exceptionally light and well-balanced, whipstaffs are favored by travelers and martial artists who prioritize speed over power.
 TRAITS
@@ -5947,7 +5947,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -5970,9 +5970,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 These strange curved blades are jagged and deadly weapons made from the alchemically strengthened teeth of dead urdefhans. Each weapon is typically named for the urdefhan whose teeth were forged into the weapon, which are often carried (and revered) by that urdefhan's descendants. Magical shauth blades allow an urdefhan wielder to channel their Wicked Bite ability through shauth blade {@action Strike||Strikes}. 
 TRAITS
@@ -5995,7 +5995,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6019,9 +6019,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This metal chain bears hook-like barbs made of alchemically strengthened urdefhan teeth. Magical shauth lashes have the same ability to channel an urdefhan wielder's Wicked Bite as magical shauth blades, and urdefhans hold these weapons with the same reverence as they do shauth blades.
 TRAITS
@@ -6044,9 +6044,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-—
+0.0
 ENTRY
 Typically a round, convex, or conical piece of thick metal attached to the center of a shield, a shield boss increases the bludgeoning damage of a shield bash.
 TRAITS
@@ -6066,9 +6066,9 @@ PAGE
 GOLD
 0.5
 LEVEL
-None
+0
 BULK
-—
+0.0
 ENTRY
 These metal spikes are strategically placed on the defensive side of the shield to deal piercing damage with a shield bash.
 TRAITS
@@ -6088,9 +6088,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Also known as wind and fire wheels, these large, flat steel rings feature several protruding blades typically stylized to resemble flames.
 TRAITS
@@ -6117,7 +6117,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6139,9 +6139,9 @@ PAGE
 GOLD
 0.9
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 These blades come in a variety of shapes and styles, but they are typically 2 feet long.
 TRAITS
@@ -6163,9 +6163,9 @@ PAGE
 GOLD
 0.01
 LEVEL
-None
+0
 BULK
-—
+0.0
 ENTRY
 This "throwing star" is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist.
 TRAITS
@@ -6188,9 +6188,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.
 TRAITS
@@ -6212,7 +6212,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6259,11 +6259,11 @@ CRB
 PAGE
 282
 GOLD
-None
+0
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Little more than a leather cup attached to a pair of straps, a sling can be used to fling smooth stones or sling bullets at a range.
 TRAITS
@@ -6283,7 +6283,7 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6305,7 +6305,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6330,9 +6330,9 @@ PAGE
 GOLD
 0.3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Providing the same defensive function as a standard gauntlet, this version has a group of spikes protruding from the knuckles to deliver piercing damage with a punch.
 TRAITS
@@ -6353,7 +6353,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6421,9 +6421,9 @@ CRB
 PAGE
 280
 GOLD
-None
+0
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6445,9 +6445,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 From a central metal ring, four tapering metal blades extend like points on a compass rose. When gripping a starknife from the center, the wielder can use it as a melee weapon. It can also be thrown short distances.
 TRAITS
@@ -6471,7 +6471,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6490,7 +6490,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This weapon is a fully functional, lavish ink pen with a clip that can be attached to a pocket or bandoleer and easily retrieved as a free action. Using an action to Interact with the pen allows its wielder to disengage a stiletto blade that slides free of the upper body or reattach the previously removed blade.
 TRAITS
@@ -6514,7 +6514,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6531,9 +6531,9 @@ G&G
 PAGE
 16
 GOLD
-None
+0
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6578,7 +6578,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6602,9 +6602,9 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 These circular weapons are among the many strange weapons used by urdefhans. The sharp metal circle contains numerous protruding blades, while an angled central handle provides a decent grip that spins the weapon as it's thrown.
 TRAITS
@@ -6655,7 +6655,7 @@ PAGE
 GOLD
 10
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6680,9 +6680,9 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of Bastet favor the tekko-kagi for catching their foes off guard.
 TRAITS
@@ -6707,7 +6707,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6731,9 +6731,9 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This fan-shaped sword, designed by members of the tengu ancestry, has five broad blades that join at its hilt. Tengu sailors also use gale blades as makeshift weather vanes, as the sword spins to show the wind's direction when loosely held aloft.
 TRAITS
@@ -6757,7 +6757,7 @@ PAGE
 GOLD
 12
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -6815,9 +6815,9 @@ PAGE
 GOLD
 0.3
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This light knife is optimally balanced to be thrown accurately at a greater distance than a common dagger. While this comes at the cost of a significant cutting edge, the difference is worth it for characters focused on thrown weapons.
 TRAITS
@@ -6840,9 +6840,9 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Tengu use these specialized slings to fire darts further and with greater force than when thrown by hand, which is particularly effective when attacking from great heights. A thunder sling uses {@item dart|crb|darts} as ammunition. It can also hurl {@item blowgun dart||blowgun darts} as ammunition but deals {@damage 1d4} piercing damage instead of {@damage 1d6} when used this way.
 TRAITS
@@ -6865,7 +6865,7 @@ PAGE
 GOLD
 0.2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -6888,9 +6888,9 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 These L-shaped fighting batons are good for striking and blocking. The wielder holds the handle and either spins the stick or strikes with the stick covering the forearm.
 TRAITS
@@ -6915,7 +6915,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6933,7 +6933,7 @@ PAGE
 GOLD
 8
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6969,7 +6969,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -6987,7 +6987,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -7005,7 +7005,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7022,7 +7022,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7040,7 +7040,7 @@ PAGE
 GOLD
 3
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7058,7 +7058,7 @@ PAGE
 GOLD
 4
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7076,7 +7076,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7095,7 +7095,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7113,7 +7113,7 @@ PAGE
 GOLD
 6
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7131,7 +7131,7 @@ PAGE
 GOLD
 10
 LEVEL
-None
+0
 BULK
 4
 ENTRY
@@ -7148,9 +7148,9 @@ PAGE
 GOLD
 0.8
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This punching dagger resembles the standard katar, save that a pair of blades can be folded out from the center blade, transforming the weapon into a starburst shape well suited to catching foes' weapons.
 TRAITS
@@ -7173,7 +7173,7 @@ PAGE
 GOLD
 10
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7199,7 +7199,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7247,7 +7247,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -7271,9 +7271,9 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This short-bladed, single-edged sword is typically carried as part of a pair alongside a katana.
 TRAITS
@@ -7297,7 +7297,7 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
 2
 ENTRY
@@ -7321,7 +7321,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7343,7 +7343,7 @@ PAGE
 GOLD
 0.1
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7369,7 +7369,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7395,9 +7395,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 This large, flat steel ring features several protruding blades typically stylized to resemble flames.
 TRAITS
@@ -7424,7 +7424,7 @@ PAGE
 GOLD
 5
 LEVEL
-None
+0
 BULK
 1
 ENTRY
@@ -7450,9 +7450,9 @@ PAGE
 GOLD
 2
 LEVEL
-None
+0
 BULK
-L
+0.1
 ENTRY
 Much like a {@item wish blade|LOAG}, the length of this knife is scored with intricate grooves capable of retaining energy. Wish knives are lighter than their counterparts, making them the weapon of choice for agile combatants.
 TRAITS
@@ -7478,7 +7478,7 @@ PAGE
 GOLD
 1
 LEVEL
-None
+0
 BULK
 1
 ENTRY

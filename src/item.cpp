@@ -28,16 +28,31 @@ int Item:: convertToInt(const string& str) {
     return static_cast<int>(convertToFloat(str)); 
 }
 
-void Item :: enterData (string variable, string data)
+bool Item :: enterData (string variable, string data)
 {
-    if (variable == "NAME") {setName(data);}
-    else if (variable == "PAGE") {setPage(convertToInt(data));}
-    else if (variable == "GOLD") {setGold(convertToFloat(data));}
-    else if (variable == "LEVEL") {setLevel(convertToInt(data));}
-    else if (variable == "BULK") {setBulk(convertToFloat(data));}
+    if (variable == "GOLD" || variable == "BULK")
+    {
+        float convertedFloat = convertToFloat(data); 
+        if (convertedFloat == -1.0)
+        {
+            cout << "Variable: " << variable << endl; 
+            return false; 
+        }
+    }
+    else if (variable == "PAGE" || variable == "LEVEL")
+    {
+        float convertedInt = convertToInt(data); 
+        if (convertedInt == -1)
+        {
+            cout << "Variable: " << variable << endl; 
+            return false; 
+        }
+    }
+    else if (variable == "NAME") {setName(data);}
     else if (variable == "SOURCE") {setSource(data);}
     else if (variable == "ENTRY") {setEntry(data);}
     else if (variable == "TRAITS") {addTrait(data);}
+    return true; 
 }
 
 // Getters

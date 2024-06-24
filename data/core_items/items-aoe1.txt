@@ -9,7 +9,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 You can apply this pale eggshell powder to one outfit, one object of up to Medium size, or up to 10 smaller objects in the same space, such as jewelry, to make them appear gilded for 1 hour. If used as part of {@action Make an Impression||Making an Impression} on an audience swayed by expensive clothing, it makes most clothing or jewelry seem to be worth 10 times as much as they really are. Only someone who closely inspects an affected item notices it's not real gold. If you apply the salts to an object made of metal, the metal softens like gold, reducing its Hardness by 4 (to a minimum of Hardness 10) for 1 hour.
 TRAITS
@@ -28,7 +28,7 @@ GOLD
 LEVEL
 5
 BULK
-L
+0.1
 ENTRY
 Though expensive, these single-use alchemical bombs are often used by police forces to disperse unruly crowds and quell riots without risking permanent physical injury to either officers or civilians. The bomb can be thrown up to 30 feet, causing it to explode, spraying the aerosolized pepper dust in a 15-foot-radius burst. All creatures in the area must succeed at a DC 18 Reflex save to avoid inhaling the dust or getting it in their eyes. On a failed save, the creature is {@condition blinded} for 1 round and then {@condition dazzled} for 1 round. On a critical failure, the creature is {@condition blinded} for 1 round, {@condition sickened|CRB|sickened 1}, and {@condition dazzled} until it removes the {@condition sickened} condition.
 TRAITS
@@ -49,7 +49,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This single-use pacification device consists of finely ground hot pepper loaded into a sealed, blowgun-style tube with a one-way valve and a range of 5 feet. To use it, the wielder must tear open the tube's seal as an {@action Interact} action, then spend another action to blow the hot pepper into an adjacent creature's face. These actions don't have to be taken in the same round. The target must attempt a DC 15 Reflex save to avoid inhaling the pepper or getting it in their eyes. On a failed save, the creature is {@condition blinded} for 1 round and then {@condition dazzled} for 1 round. On a critical failure, the creature is {@condition blinded} for 1 round, {@condition sickened|CRB|sickened 1}, and {@condition dazzled} until it removes the {@condition sickened} condition.
 TRAITS
@@ -69,7 +69,7 @@ GOLD
 LEVEL
 5
 BULK
-–
+0.0
 ENTRY
 This small pendant is usually shaped like a humanoid skull or small animal skull.
 TRAITS
@@ -90,7 +90,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 Rarely found outside of major metropolises, fingerprinting kits are a state-of-the-art, non-magical means of linking suspects to the scene of a crime.
 TRAITS
@@ -108,7 +108,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 This caligni-made, murky-green drug supercharges a creature's olfactory senses at the expense of dulling their mind. Popular throughout the Darklands for its ability to transform normally dull scents and flavors into intense, euphoric experiences, grolna can also be a great aid to trackers who want to follow scent trails, turning ordinary humanoids into effective bloodhounds.
 TRAITS
@@ -130,7 +130,7 @@ GOLD
 LEVEL
 17
 BULK
-L
+0.1
 ENTRY
 Developed in Absalom and rarely used except by police forces in major cities due to their significant cost, handcuffs possess a ratcheting lock system in each cuff that allows them to be quickly cinched down on a captive's limbs, even if they're actively resisting.
 TRAITS
@@ -148,7 +148,7 @@ GOLD
 LEVEL
 7
 BULK
-L
+0.1
 ENTRY
 This soporific chemical comes in liquid form and is virtually undetectable by taste or scent. It's most commonly slipped into a victim's drink to quickly induce a deep unconsciousness.
 TRAITS
@@ -169,7 +169,7 @@ GOLD
 LEVEL
 2
 BULK
-L
+0.1
 ENTRY
 Traps may keep many a thief at bay, but the poison known as looter's lethargy ensures that no thieves are strong enough to walk off with pilfered treasures.
 TRAITS
@@ -190,7 +190,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 This rune turns weapons into instruments of peacemaking.
 TRAITS
@@ -252,7 +252,7 @@ GOLD
 LEVEL
 1
 BULK
-–
+0.0
 ENTRY
 This ring magically conceals any armor and sheathed weapons you're wearing by either turning them {@condition invisible} or creating the illusion of ordinary clothes. The ring doesn't change your appearance beyond concealing weapons and armor. As soon as you wield a weapon, the weapon becomes obvious to onlookers and is no longer affected by the ring until you sheathe the weapon for at least 1 minute. A creature can {@quickref disbelieve this illusion|CRB|2|disbelieving illusions|0} by Seeking or any time it hits you with an attack.
 TRAITS

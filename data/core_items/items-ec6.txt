@@ -9,7 +9,7 @@ GOLD
 LEVEL
 19
 BULK
-L
+0.1
 ENTRY
 This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
@@ -26,11 +26,11 @@ EC6
 PAGE
 66
 GOLD
-None
+0
 LEVEL
 25
 BULK
-L
+0.1
 ENTRY
 This coin-sized gemstone can be used on its own but must be included in the construction of a hearth in order to fully activate its magic.
 TRAITS
@@ -50,7 +50,7 @@ GOLD
 LEVEL
 20
 BULK
-None
+0
 ENTRY
 This strand of hair shimmers like the strands of fate. When you activate the string, it resonates with a single, perfect note. The triggering saving throw becomes a failure or the triggering attack roll becomes a regular hit, not critical one. If the source of the attack or effect is an evil creature, that creature must succeed at a DC 41 Will saving throw or be {@condition enfeebled|CRB|enfeebled 2} and {@condition stupefied|CRB|stupefied 2} until the end of its next turn.
 TRAITS
@@ -67,7 +67,7 @@ EC6
 PAGE
 67
 GOLD
-None
+0
 LEVEL
 23
 BULK
@@ -108,7 +108,7 @@ EC6
 PAGE
 68
 GOLD
-None
+0
 LEVEL
 22
 BULK
@@ -132,7 +132,7 @@ GOLD
 LEVEL
 19
 BULK
-None
+0
 ENTRY
 As long as this locket of horn and silver is closed, you don't need to sleep. However, you can still overexert your body with too much activity, so you still need to rest to avoid becoming {@condition fatigued} or to remove the {@condition fatigued} condition.
 TRAITS
@@ -153,7 +153,7 @@ GOLD
 LEVEL
 19
 BULK
-L
+0.1
 ENTRY
 This fruit is slowly, constantly changing shape, transforming from one fruit into another, but always appearing at the peak of ripeness. When you consume the fruit, it attempts to counteract all curses, diseases, and poisons affecting you, and you immediately regain {@dice 8d8+30} Hit Points. The fruit has a counteract level of 9 and a +30 modifier for the rolls against each condition. The fruit's seed remains after consumption and can be planted later, becoming a seed-shaped tree feather token that sprouts a tree bearing many kinds of mundane fruit.
 TRAITS
@@ -170,7 +170,7 @@ EC6
 PAGE
 74
 GOLD
-None
+0
 LEVEL
 20
 BULK
@@ -195,7 +195,7 @@ GOLD
 LEVEL
 20
 BULK
-L
+0.1
 ENTRY
 By twisting and twirling this ordinary-looking leather ribbon, you can temporarily bend a rift in space.
 TRAITS
@@ -215,7 +215,7 @@ GOLD
 LEVEL
 20
 BULK
-L
+0.1
 ENTRY
 This high-grade orichalcum shield (Hardness 16, HP 64, and BT 32) bears a +3 major striking shield boss that cannot be removed. It gleams brightly in any light, drawing attention at all times. When you Raise this Shield, ephemeral reflections of it appear in front of each of your allies within 30 feet, granting them its +2 circumstance bonus to AC for as long as they are within 30 feet of you and your shield is raised.
 TRAITS
@@ -252,11 +252,11 @@ EC6
 PAGE
 69
 GOLD
-None
+0
 LEVEL
 25
 BULK
-L
+0.1
 ENTRY
 This gold necklace sports six bails, each with a different aeon stone. The backside of each bail is engraved with a single ancient Azlanti rune: Patience, Remembrance, Resilience, Tenacity, Wisdom, Invention.
 TRAITS

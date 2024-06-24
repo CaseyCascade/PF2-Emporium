@@ -26,7 +26,7 @@ GOLD
 LEVEL
 6
 BULK
-None
+0
 ENTRY
 A bi-resonant wayfinder is inlaid with intricate platinum wires in a complex array of conduits for magical energy. These conduits control the resonant interference of aeon stones. A bi-resonant wayfinder works just like a regular {@item wayfinder} except it has two aeon stone slots, and the aeon stones in both slots grant their resonant powers without interfering with each other. The bi-resonant wayfinder and the two aeon stones count as two items toward your investiture limit.
 TRAITS
@@ -88,7 +88,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 This small pebble is strangely dense and surprisingly durable, affixed to an object by a sturdy steel chain. When you activate the pebble, the affixed object takes 10 less damage.
 TRAITS
@@ -150,7 +150,7 @@ GOLD
 LEVEL
 1
 BULK
-L
+0.1
 ENTRY
 Crimson Reclaimers make this rich, hearty soup using herbs that baffle the senses of the undead. A bowl of Lastwall soup is as nourishing as a full meal. In addition, for 1 hour after consuming a bowl of Lastwall soup, you gain a +2 item bonus to {@skill Stealth} checks and DCs against undead.
 TRAITS
@@ -170,7 +170,7 @@ GOLD
 LEVEL
 3
 BULK
-L
+0.1
 ENTRY
 Numerous volumes and editions of the Pathfinder Chronicles exist, each cataloging different adventures. Pathfinder Chronicles are a type of {@item scholarly journal (generic)||scholarly journal} that specifically devotes topics to Pathfinder discoveries, rather than more theoretical academic topics. Because Pathfinders have better access to these chronicles than other scholarly journals, they are particularly common among Pathfinder agents building a library of reference texts.
 TRAITS
@@ -188,7 +188,7 @@ GOLD
 LEVEL
 2
 BULK
-None
+0
 ENTRY
 This coin usually resembles ancient currency. An intricate matrix of gold and platinum wires inside the coin causes it to float an inch in the air and spin if placed on a wayfinder.
 TRAITS
@@ -208,7 +208,7 @@ GOLD
 LEVEL
 6
 BULK
-L
+0.1
 ENTRY
 This unobtrusive belt pouch is popular among Pathfinders who operate in places where the {@skill Society} is not welcome. It is constantly under the effects of a 3rd-level {@spell magic aura} spell to appear non-magical. The pouch's normal space holds as much as an ordinary belt pouch, but it also has a small extradimensional space that holds up to 1 Bulk of items.
 TRAITS
@@ -249,11 +249,11 @@ LOCG
 PAGE
 111
 GOLD
-None
+0
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 The four different types of scroll cases of simplicity often bear adornments appropriate to their magical tradition, such as angelic wings or otherworldly lettering. On the inside, intricate runic diagrams spiral out to surround the scroll stored within. A scroll placed within the case can be converted into energy to cast consistently useful spells depending on its type. You must be able to cast spells of a given tradition to use a scroll case of simplicity of a corresponding type.
 TRAITS
@@ -295,7 +295,7 @@ GOLD
 LEVEL
 10
 BULK
-None
+0
 ENTRY
 A serrating weapon's bladed edge separates into jagged, swirling shards that spin along the blade. When dealing slashing damage, the weapon deals an additional {@dice 1d4} damage.
 TRAITS
@@ -315,7 +315,7 @@ GOLD
 LEVEL
 4
 BULK
-None
+0
 ENTRY
 A shining wayfinder is a polished silver compass blessed by the power of benevolent deities. It has the usual functions of a wayfinder, except instead of an activation to cast {@spell light}, the shining wayfinder has the following two activations.
 TRAITS
@@ -338,7 +338,7 @@ GOLD
 LEVEL
 8
 BULK
-None
+0
 ENTRY
 Sinister knight armor shrouds the wearer's identity in secrecy, allowing Crimson Reclaimers to pass among foes without being immediately unmasked. The wearer gains a +1 item bonus to {@skill Deception} checks.
 TRAITS
@@ -359,7 +359,7 @@ GOLD
 LEVEL
 3
 BULK
-None
+0
 ENTRY
 This small, crystalline carving takes the shape of a tree leaf and attaches to armor or clothing with a simple strap. When you activate the snapleaf, you gain the benefits of feather fall and a 2nd-level {@spell invisibility} spell for 1 minute or until you stop falling, whichever comes first.
 TRAITS
@@ -399,7 +399,7 @@ GOLD
 LEVEL
 5
 BULK
-None
+0
 ENTRY
 A vanishing wayfinder is crafted of ivory chased with gold and silver. It has the usual functions of a wayfinder and the following additional activation.
 TRAITS
