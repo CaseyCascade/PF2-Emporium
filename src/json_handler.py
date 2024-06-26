@@ -175,7 +175,7 @@ class Item:
         return 
     
 def process_data(item: Item, key, value): 
-    if key == 'name':
+    if key == 'name' or key:
         item.set_name(value)
     elif key == 'page':
         item.set_page(value)
