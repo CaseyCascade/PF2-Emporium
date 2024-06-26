@@ -31,7 +31,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-This 6-foot-long scarf shimmers with the silvery light of the River of Souls while worn, providing illumination equivalent to that of a candle. You can deactivate or activate this radiance as an {@action Interact} action. The dangling lengths of a ghost scarf softly billow in the presence of {@trait haunt||haunts}, granting the wearer a +1 item bonus to all {@skill Perception} checks and {@skill Perception} DCs to resolve discovering a haunt or rolling initiative when a haunt triggers.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 rare
 abjuration
@@ -52,7 +52,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-The flower that adorns this hairpin is a blooming lotus flower that varies in color; it regrows in a day after the item is activated. Whether or not the hairpin's flower is in bloom, as long as you wear it and it's invested, it grants a +1 item bonus to {@skill Diplomacy} checks.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 rare
 evocation
@@ -73,7 +73,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-This small length of red thread is knotted six times, with a loop at each end so it can either be worn as a bracelet or anklet, or hung from a strap.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 rare
 invested
@@ -93,7 +93,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-The followers of the Tan Sugi monastery understood the value of protecting the mind from the intrusion of violence and anger and infused this strip of striped green and brown cloth with their beliefs. Wrapped around the head, the stripes almost evoke the patterns of sugi branches coiled around the wearer's skull. The resolute mind wrap grants you resistance 5 against mental damage.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 rare
 abjuration
@@ -114,7 +114,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-The soles of these plain leather boots look like coils of flattened roots. The boots allow for full-foot flexibility despite their sturdy make and smell faintly of evergreen trees. While worn and invested, your footsteps sound like rustling leaves, granting you a +1 item bonus to {@skill Stealth} checks in a forest or wooded area.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 rare
 invested
@@ -135,7 +135,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This elegant black, gold-tipped {@runeItem fighting fan|TV|+1 weapon potency||striking|} is adorned with images of three golden leaves and a red rope tassel. If a creature is reduced to 0 Hit Points by a spirit fan, the golden leaves on the fan light up, providing illumination equal to that of a {@item torch} for 1 minute.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 rare
 magical
@@ -155,7 +155,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This slender bar of pine-scented soap can only be activated when you're immersed in water. Upon activation, the soap covers you in a sudsy foam that quickly fades, filling you with energy and soothing away aches and pains. It immediately restores 10 Hit Points and removes the {@condition fatigued} condition. If you begin an 8-hour period of {@quickref rest|CRB|3|rest and daily preparations|0} immediately after using invigorating soap, you regain an additional 10 Hit Points from resting.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 uncommon
 alchemical
@@ -176,7 +176,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This green tea is often steeped in a pot with a dried persimmon. Traditionally, all participants in a complex discussion start their conversation with a tea ceremony involving covenant tea, with each member of the group enjoying the covenant of the shared beverage. Some have been known to use trickery and sleight of hand to ensure only those whose goals align with the tea preparer are served covenant tea, while others in the group are served non-magical (but still delicious) green tea, thus subtly tipping the balance in discussion toward those the tea server favors. This practice has resulted in some regions referring to covenant tea as "trickery tea." Regardless of what you prefer to call the tea, when you drink it, you gain a +1 item bonus to {@skill Diplomacy} checks and to your Perception DC for 10 minutes.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 uncommon
 consumable
@@ -199,7 +199,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This sweet and refreshing tea is made by adding a mixture of honey, lemon slices, and sliced ginger. This is considered to be the bare minimum when serving energizing tea, and many go above and beyond by adding additional citrus fruits or berries to the mix or refusing to serve the tea at all without accompanying it with a full platter of spiced pastries and sweets. This golden tea has energizing properties and, when consumed, grants you a +1 item bonus to {@skill Athletics} and {@skill Acrobatics} checks for 10 minutes.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 uncommon
 consumable
@@ -222,7 +222,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This tea is brewed with a mixture of matcha, turmeric, and 10 drops of morning dew, creating a fragrant but mildly bitter tea. The bitter aftertaste is said to be the most important element of longnight tea, for it's believed that this flavor lingers on the tongue and aids in keeping you awake and alert. The tea is favored by scholars and soldiers alike, although the value to which each attributes the ability to endure long nights without sleeping varies—and is often the subject of unusually impassioned debate. When you drink longnight tea, it grants you a +1 item bonus to saving throws against {@trait sleep} effects for 1 hour.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 uncommon
 consumable
@@ -245,7 +245,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This bright and citrusy tea is traditionally made with green tea combined with orange rind shavings and flower petals plucked during a full moon. Some claim to be able to tell the difference if these petals were plucked at other times, but this does not alter the tea's effects. The tea leaves have a chance to anticipate unexpected encounters. After consuming the tea, you gain a +2 item bonus to all initiative rolls for 1 hour and gain the following reaction.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 uncommon
 consumable
@@ -268,7 +268,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This creamy tea is made from warm soy milk steeped with whole, dried chrysanthemum flowers and honey and brewed from when the sun first touches the horizon to when it has fully set. Consuming this tea causes mild drowsiness, aids in sleep, and protects from harmful {@trait mental} effects. You gain a +1 item bonus to all saving throws against mental effects for 1 hour.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 uncommon
 abjuration
@@ -291,7 +291,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Resurrection tea was named for its repugnant taste, said to be "strong enough to kill the living," and its incredible medicinal properties "powerful enough to raise the dead." The primary ingredients in this medicinal tea are ginseng and jujubes, enhanced with additional herbs, shaved deer antlers, sugi tree bark, and a variety of mushrooms stewed for several hours in a large pot to form a brown, pulpy, and viscous liquid. The bitterness and earthy taste make the tea rather unappetizing. The tea restores {@dice 2d8+5} Hit Points, and you reduce the DC of recovery checks by 1 for 8 hours.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 uncommon
 consumable
@@ -314,7 +314,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Spiritsight tea exudes a soft blue glow, creating illumination equal to that of a candle. When consumed, your eyes take on a soft glow as well, and you can see {@condition invisible} creatures and objects for 10 minutes; such creatures appear to you as translucent shapes, and they're {@condition concealed} to you. You gain a +1 item bonus to {@skill Perception} checks to {@action Seek} {@trait incorporeal} creatures.
+This large tree branch is alive, despite having been harvested from the sugi tree it once belonged to. This long, flexible, and limber branch is a {@runeItem whip||+1 weapon potency||striking|}. When used to {@action Strike}, the branch snaps with the sound of a cracking whip but fills the air surrounding the point of impact with the pleasant scent of freshly cut cedar and a sprinkling of fallen leaves on the ground.
 TRAITS
 uncommon
 consumable

@@ -34,7 +34,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-The blade of this {@runeItem dagger||+1 weapon potency||+1 low-grade silver dagger} has a sickly red tinge. Though once used to send souls to empower Kugaptee, the fury of those slain by the blade now allow its wielder to periodically strike back against fiends.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 unique
 magical
@@ -51,13 +51,13 @@ SoG1
 PAGE
 82
 GOLD
-60
+100
 LEVEL
 3
 BULK
 0.1
 ENTRY
-Given as thanks for honoring the memories of three unfortunate travelers who met a tragic end in the Willowshore Hinterlands, this red-hooded cloak is decorated with an image of an elaborately dressed performer whose two companions hold a lantern and umbrella for her.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 unique
 invested
@@ -80,7 +80,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-{@creature shou matsuki|SoG1|Old Matsuki}'s private brew has quite the kick. In addition to making you tipsy, this medicinal wine works wonders in helping to recover from disease—including (ironically) drug addiction. Matsuki's medicinal wine functions as {@item alcohol|GMG}, except that its saving throw is a DC 18 Fortitude save. In addition, upon drinking a dose of Matsuki's medicinal wine, you gain a +2 item bonus to Fortitude saving throws against diseases and poisons for 24 hours. This applies to your daily save against a disease's progression; however, the bonus doesn't apply to any checks you attempt against Matsuki's medicinal wine itself.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 rare
 alchemical
@@ -96,13 +96,13 @@ SoG1
 PAGE
 82
 GOLD
-85
+60
 LEVEL
 4
 BULK
 0.1
 ENTRY
-This unpleasant-looking hood appears to be a completely smooth, round sack of skin that feels uncannily warm to the touch. When you wear this hood and invest it, it merges with your head and face, becoming imperceptible as a worn item except on close examination, which reveals a slight oily sheen to your facial features. You can cause minor shifts and changes to your features while wearing a noppera-bo hood; this counts as having a {@item disguise kit} to {@action Impersonate} any creature that is the same ancestry as you.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 rare
 illusion
@@ -118,13 +118,13 @@ SoG1
 PAGE
 82
 GOLD
-60
+85
 LEVEL
 3
 BULK
 0.0
 ENTRY
-The spider lily tattoo marks you as a trusted member of {@creature hu ban-niang|SoG1|Granny Hu}'s network. This crimson tattoo fades and becomes invisible within a day of being applied, reappearing only when you {@action activate an item||Activate} it, when you gain the {@condition doomed} condition, or when you die. The higher the doomed value, the more vivid the color.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 rare
 invested
@@ -140,13 +140,13 @@ SoG1
 PAGE
 83
 GOLD
-5
+60
 LEVEL
 2
 BULK
 0
 ENTRY
-A spirit trap consists of a net dipped in water that has been steeped with sacred herbs to better combat phantoms. This snare's components function as a {@item net|APG} when not set up. You set this snare up in a 10-foot-by-10-foot area. The first creature with the {@trait spirit} trait that steps into the area must attempt a DC 16 Fortitude save.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 uncommon
 consumable
@@ -161,13 +161,13 @@ SoG1
 PAGE
 83
 GOLD
-60
+5
 LEVEL
 3
 BULK
 1
 ENTRY
-This spiky, stony fragment shed from Ugly Cute's carapace fits quite comfortably over the hand. Though a little bulkier than the typical gauntlet, it still functions as a {@runeItem spiked gauntlet||+1 weapon potency||+1 spiked gauntlet}.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 unique
 magical
@@ -187,7 +187,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-Frightened animals depicted on this fulu flee in all directions from a central figure (traditionally represented by a human hunter, but sometimes depicted as a skeletal undead creature or even a fiend with long, broken arms). You activate this fulu, gaining a +2 item bonus to AC against the triggering {@action Strike}. If this causes the Strike to miss, you become {@condition concealed} from the triggering creature until the start of your next turn.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 rare
 abjuration
@@ -209,7 +209,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-The fulu explodes and showers the area with bright sparks. The creature struck takes an additional {@damage 1d4} sonic damage and must succeed at a DC 15 Fortitude save or be {@condition dazzled} for 1 round (or dazzled for 1 minute on a critical failure).
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 rare
 consumable
@@ -225,13 +225,13 @@ SoG1
 PAGE
 83
 GOLD
-120
+4
 LEVEL
-9
+1+
 BULK
 0.0
 ENTRY
-This fulu seeks to keep thieves, spies, and unwanted attention away from a room. A depiction of a lock appears in the center of this fulu, which is in turn surrounded by circles of broken keys. When applied to a wall inside a room, all creatures within the room gain an item bonus to Stealth checks against creatures outside the room.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 rare
 abjuration
@@ -253,7 +253,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-This fulu shows a series of constellations and arrows depicting astronomical movements through the night sky. When you activate a traveler's fulu, the magic infuses your mind with sensations of deja vu, as if you'd been in this region before. You gain a success on the triggering check.
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
 TRAITS
 rare
 consumable

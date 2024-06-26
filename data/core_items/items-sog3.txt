@@ -31,7 +31,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-These elevated wooden sandals once belonged to a haughty kitsune named Kinburi. It was well known that her swiftness and grace were unmatched, and observers described her as seeming to glide above the earth with each step. She often challenged others to wager on her speed, but as people began to grow wise, she was forced to conceal her identity or promise to forfeit her sandals if she lost.
+This net was woven by the jorogumo Injigo, who presented it as a gift to her gnome sweetheart, Mara, to keep her safe in their mountain cottage when Injigo left on hunting expeditions.
 TRAITS
 unique
 invested
@@ -52,7 +52,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This well-worn manuscript is side stitched with fading lilac-colored thread. It is filled with poems written long ago by a philosopher named Seiji Juubun, which contain a lifetime of wisdom, presenting information and advice on a tremendous breadth of topics.
+This net was woven by the jorogumo Injigo, who presented it as a gift to her gnome sweetheart, Mara, to keep her safe in their mountain cottage when Injigo left on hunting expeditions.
 TRAITS
 unique
 enchantment
@@ -72,7 +72,7 @@ LEVEL
 BULK
 1
 ENTRY
-This {@runeItem katana||+1 weapon potency||striking||ghost touch|} is made from a whisker stolen from the king of cats over three hundred years ago by a catfolk rogue named Vashu Vigaru. He sought the magic of the whisker to preternaturally extend his life, and some believe he still lives, having successfully divested himself of the sword to escape the king's wrath in the end.
+This net was woven by the jorogumo Injigo, who presented it as a gift to her gnome sweetheart, Mara, to keep her safe in their mountain cottage when Injigo left on hunting expeditions.
 TRAITS
 unique
 magical

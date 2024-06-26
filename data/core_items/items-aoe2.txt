@@ -25,13 +25,13 @@ AoE2
 PAGE
 75
 GOLD
-500
+650
 LEVEL
 8
 BULK
 1
 ENTRY
-Symbols of musical notes decorate this gold-framed wooden cube measuring just under 1 foot by 1 foot. A funnel-shaped trumpet protrudes from the box's top at an angle, though it feels surprisingly light. The box has a large button on its side, and it must be set down on a flat surface in order to activate it; while it's activated, the rumbling and churning gears inside the box make it impossible to carry without dropping it.
+This 3-foot length of chain is made of a mystical blue-white steel. You can wrap the chain around an item or creature; if a ghost of 9th level or lower is bound to the item or creature via its rejuvenation ability, it cannot rejuvenate if it is destroyed. This chain can't impede a ghost's rejuvenation that is tied to an area, only to an item or creature. At the GM's discretion, the chain of the stilled spirit might work on abilities similar to Rejuvenation that prevent a spirit from going being fully destroyed.
 TRAITS
 uncommon
 auditory
@@ -46,13 +46,13 @@ AoE2
 PAGE
 75
 GOLD
-325
+500
 LEVEL
 7
 BULK
 0.0
 ENTRY
-This glass ring contains a swirling cloud of grayish smoke.
+This 3-foot length of chain is made of a mystical blue-white steel. You can wrap the chain around an item or creature; if a ghost of 9th level or lower is bound to the item or creature via its rejuvenation ability, it cannot rejuvenate if it is destroyed. This chain can't impede a ghost's rejuvenation that is tied to an area, only to an item or creature. At the GM's discretion, the chain of the stilled spirit might work on abilities similar to Rejuvenation that prevent a spirit from going being fully destroyed.
 TRAITS
 uncommon
 divination
@@ -68,13 +68,13 @@ AoE2
 PAGE
 75
 GOLD
-120
+325
 LEVEL
 5
 BULK
 1
 ENTRY
-This surprisingly sturdy 3-foot-by-3-foot clay tile resembles a thick pressure plate. It can support up to 500 pounds of weight atop it before it is destroyed. The floorbell's nature is obvious at a glance, but mundane or magical means can obscure or camouflage the tile (such as by covering it in scattered leaves or by casting an {@spell illusory object} spell) to make it harder to detect.
+This 3-foot length of chain is made of a mystical blue-white steel. You can wrap the chain around an item or creature; if a ghost of 9th level or lower is bound to the item or creature via its rejuvenation ability, it cannot rejuvenate if it is destroyed. This chain can't impede a ghost's rejuvenation that is tied to an area, only to an item or creature. At the GM's discretion, the chain of the stilled spirit might work on abilities similar to Rejuvenation that prevent a spirit from going being fully destroyed.
 TRAITS
 uncommon
 abjuration
@@ -88,13 +88,13 @@ AoE2
 PAGE
 76
 GOLD
-30
+120
 LEVEL
 3
 BULK
 0.1
 ENTRY
-A patchwork of humanoid flesh makes up this grotesque mask stitched together with black silk or wire. It is distinctive for its bulbous orange eye—crafted from a magical glass bauble—and wide row of teeth. When worn, the mask amplifies your ability to sense fear in other creatures. You automatically know the value of the {@condition frightened} condition of any {@condition observed} creature, and you gain a +1 item bonus to {@skill Perception} checks to {@action Seek} {@condition frightened} creatures. Whenever you deal precision damage to a {@condition frightened} creature, you deal 1 additional precision damage. If you are not evil, you are {@condition drained|CRB|drained 2} while wearing the Skinsaw mask.
+This 3-foot length of chain is made of a mystical blue-white steel. You can wrap the chain around an item or creature; if a ghost of 9th level or lower is bound to the item or creature via its rejuvenation ability, it cannot rejuvenate if it is destroyed. This chain can't impede a ghost's rejuvenation that is tied to an area, only to an item or creature. At the GM's discretion, the chain of the stilled spirit might work on abilities similar to Rejuvenation that prevent a spirit from going being fully destroyed.
 TRAITS
 uncommon
 divination
@@ -111,13 +111,13 @@ AoE2
 PAGE
 76
 GOLD
-460
+30
 LEVEL
 8
 BULK
 0.0
 ENTRY
-These small brooches usually feature carved reliefs of verminous, swarming creatures. When you wear the clasp, you gain resistance 10 to physical damage from swarm creatures.
+This 3-foot length of chain is made of a mystical blue-white steel. You can wrap the chain around an item or creature; if a ghost of 9th level or lower is bound to the item or creature via its rejuvenation ability, it cannot rejuvenate if it is destroyed. This chain can't impede a ghost's rejuvenation that is tied to an area, only to an item or creature. At the GM's discretion, the chain of the stilled spirit might work on abilities similar to Rejuvenation that prevent a spirit from going being fully destroyed.
 TRAITS
 uncommon
 abjuration
@@ -133,13 +133,13 @@ AoE2
 PAGE
 76
 GOLD
-230
+460
 LEVEL
 6
 BULK
 1
 ENTRY
-This bulky leather harness has four pockets across the chest.
+This 3-foot length of chain is made of a mystical blue-white steel. You can wrap the chain around an item or creature; if a ghost of 9th level or lower is bound to the item or creature via its rejuvenation ability, it cannot rejuvenate if it is destroyed. This chain can't impede a ghost's rejuvenation that is tied to an area, only to an item or creature. At the GM's discretion, the chain of the stilled spirit might work on abilities similar to Rejuvenation that prevent a spirit from going being fully destroyed.
 TRAITS
 uncommon
 invested

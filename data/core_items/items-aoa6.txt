@@ -31,7 +31,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-A shard of the {@i Orb of Gold Dragonkind} resembles a pointed length of crystal about the size and shape of a shortsword without a hilt. It functions as a {@runeItem shortsword||+3 weapon potency||striking|} that deals {@damage 2d6} extra damage to dragons.
+Each of the legendary {@i Orbs of Dragonkind} contains the essence and personality of a powerful dragon. The {@i Orb of Gold Dragonkind} was the most powerful of them all, until it was shattered by Mengkare's draconic breath. Reconstructed at great expense by enslaved spellcasters toiling under the Scarlet Triad's watch, the {@i Flawed Orb of Gold Dragonkind} is a shadow of its prior self, yet it remains a potent weapon against dragons of all types.
 TRAITS
 rare
 artifact

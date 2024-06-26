@@ -16,18 +16,22 @@ class Item:
     
     entry = None
     traits = []
-    lock_entry = False
 
     def __init__(self):
         return 
     
     def set_name(self, name):
-        self.name = name
+        if self.name == None:
+            self.name = name
 
     def set_page(self, page):
-        self.page = page
+        if self.page == None:
+            self.page = page
         
     def set_gold (self, coin, amount): # TODO change to allow the key value to be passed through instead
+        if self.gold != None:
+            return
+        
         if coin == 'pp':
             self.gold = amount * 10
         elif coin == 'gp':
@@ -56,9 +60,10 @@ class Item:
             self.set_gold(self.coin, self.price)
 
     def set_level (self, level):
-        self.level = level 
+        if self.level == None:
+            self.level = level 
 
-    def set_bulk (self, data): #TODO needs specific entry case similar to set_gold
+    def set_bulk (self, data): 
         if isinstance(data, str):
             elements = data.split()
             bulk = elements[0]
@@ -67,17 +72,18 @@ class Item:
 
         if bulk == 'L':
             self.bulk = 0.1
-        elif bulk == '\u2014' or bulk == '-' or bulk == '\u2013':
+        elif bulk == '\u2014' or bulk == '-' or bulk == '\u2013' or bulk == 'varies':
             self.bulk = 0.0
         else:
             self.bulk = bulk 
 
     def set_source(self, source):
-        self.source = source
+        if self.source == None:
+            self.source = source
 
     def set_entry(self, entry):
-        self.entry = entry 
-        self.lock_entry = True
+        if self.entry == None:
+            self.entry = entry 
 
     def add_trait(self, input):
         trait = input.lower() 
@@ -116,7 +122,6 @@ class Item:
         self.entries = []
         self.traits = []
         self.remaster = False
-        self.lock_entry = False
 
     def print(self):
         print("Name: ", self.name)
@@ -138,6 +143,9 @@ class Item:
             self.set_gold('gp', 0)
         if self.level == None:
             self.set_level(0)
+
+        if 'rune' in self.traits:
+            self.name += ' Rune'
 
     def write_to_file(self, filepath):
         self.finalilze()
@@ -182,7 +190,7 @@ def process_data(item: Item, key, value): #TODO Needs a way to handle alternate 
         item.set_bulk(value)
     elif key == 'source':
         item.set_source(value)
-    elif key == 'entries' and not item.lock_entry:
+    elif key == 'entries':
         item.set_entry(value)
     elif key in trait_keys: 
         item.add_trait(value)

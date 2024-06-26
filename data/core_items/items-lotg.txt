@@ -5,7 +5,7 @@ LOTG
 PAGE
 103
 GOLD
-10
+1
 LEVEL
 0
 BULK
@@ -23,7 +23,7 @@ LOTG
 PAGE
 103
 GOLD
-0.1
+1.0
 LEVEL
 0
 BULK
@@ -41,7 +41,7 @@ LOTG
 PAGE
 103
 GOLD
-0.8
+0.1
 LEVEL
 0
 BULK
@@ -59,7 +59,7 @@ LOTG
 PAGE
 103
 GOLD
-0.5
+0.8
 LEVEL
 0
 BULK
@@ -131,7 +131,7 @@ LOTG
 PAGE
 103
 GOLD
-0.5
+0.1
 LEVEL
 0
 BULK
@@ -149,7 +149,7 @@ LOTG
 PAGE
 103
 GOLD
-0.1
+0.5
 LEVEL
 0
 BULK
@@ -167,7 +167,7 @@ LOTG
 PAGE
 103
 GOLD
-0.3
+0.1
 LEVEL
 0
 BULK
@@ -184,7 +184,7 @@ LOTG
 PAGE
 103
 GOLD
-0.7
+0.3
 LEVEL
 0
 BULK
@@ -201,7 +201,7 @@ LOTG
 PAGE
 103
 GOLD
-0.2
+0.7
 LEVEL
 0
 BULK
@@ -218,7 +218,7 @@ LOTG
 PAGE
 103
 GOLD
-1
+2
 LEVEL
 0
 BULK
@@ -252,7 +252,7 @@ LOTG
 PAGE
 103
 GOLD
-5
+1
 LEVEL
 0
 BULK
@@ -269,7 +269,7 @@ LOTG
 PAGE
 103
 GOLD
-1
+5
 LEVEL
 0
 BULK
@@ -303,7 +303,7 @@ LOTG
 PAGE
 103
 GOLD
-0.5
+0.1
 LEVEL
 0
 BULK
@@ -320,13 +320,13 @@ LOTG
 PAGE
 103
 GOLD
-2
+5
 LEVEL
 0
 BULK
 0
 ENTRY
-This tamed version of the wild Arcadian opossum is favored by those who like to match outfits with their pets, as the domestic opossum tolerates clothing and accessories. They're very tolerant of travel and can eat table scraps, making them popular with caravan drivers or ship captains.
+NA
 TRAITS
 pet
 
@@ -337,35 +337,18 @@ LOTG
 PAGE
 103
 GOLD
-0.01
+0.02
 LEVEL
 0
 BULK
 0
 ENTRY
-This tamed version of the wild Arcadian opossum is favored by those who like to match outfits with their pets, as the domestic opossum tolerates clothing and accessories. They're very tolerant of travel and can eat table scraps, making them popular with caravan drivers or ship captains.
+NA
 TRAITS
 pet
 
 NAME
 Monkey
-SOURCE
-LOTG
-PAGE
-103
-GOLD
-3
-LEVEL
-0
-BULK
-0
-ENTRY
-This tamed version of the wild Arcadian opossum is favored by those who like to match outfits with their pets, as the domestic opossum tolerates clothing and accessories. They're very tolerant of travel and can eat table scraps, making them popular with caravan drivers or ship captains.
-TRAITS
-pet
-
-NAME
-X's Lizard
 SOURCE
 LOTG
 PAGE
@@ -377,7 +360,24 @@ LEVEL
 BULK
 0
 ENTRY
-Named after the druid that popularized them, these black-and-white lizards have substantial stomachs and a rather slow digestive system. X trained these lizards to keep valuables in their stomachs. They swallow specially treated purses with attached chains that clip to a collar, which can hold objects up to 1 Bulk. The contents of the purse stay safe for one month before slowly dissolving.
+NA
+TRAITS
+pet
+
+NAME
+X's Lizard
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+3
+LEVEL
+0
+BULK
+0
+ENTRY
+NA
 TRAITS
 pet
 
@@ -394,12 +394,29 @@ LEVEL
 BULK
 0
 ENTRY
-Named after the druid that popularized them, these black-and-white lizards have substantial stomachs and a rather slow digestive system. X trained these lizards to keep valuables in their stomachs. They swallow specially treated purses with attached chains that clip to a collar, which can hold objects up to 1 Bulk. The contents of the purse stay safe for one month before slowly dissolving.
+NA
 TRAITS
 pet
 
 NAME
 Kayalini
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+1
+LEVEL
+0
+BULK
+0
+ENTRY
+NA
+TRAITS
+pet
+
+NAME
+Horse
 SOURCE
 LOTG
 PAGE
@@ -411,24 +428,7 @@ LEVEL
 BULK
 0
 ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
-TRAITS
-pet
-
-NAME
-Horse
-SOURCE
-LOTG
-PAGE
-103
-GOLD
-2
-LEVEL
-0
-BULK
-0
-ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
+NA
 TRAITS
 pet
 
@@ -439,13 +439,13 @@ LOTG
 PAGE
 103
 GOLD
-0.1
+0.2
 LEVEL
 0
 BULK
 0
 ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
+NA
 TRAITS
 pet
 
@@ -462,12 +462,29 @@ LEVEL
 BULK
 0
 ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
+NA
 TRAITS
 pet
 
 NAME
 Frog
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+0.1
+LEVEL
+0
+BULK
+0
+ENTRY
+NA
+TRAITS
+pet
+
+NAME
+Fox
 SOURCE
 LOTG
 PAGE
@@ -479,24 +496,7 @@ LEVEL
 BULK
 0
 ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
-TRAITS
-pet
-
-NAME
-Fox
-SOURCE
-LOTG
-PAGE
-103
-GOLD
-0.8
-LEVEL
-0
-BULK
-0
-ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
+NA
 TRAITS
 pet
 
@@ -507,13 +507,13 @@ LOTG
 PAGE
 103
 GOLD
-0.01
+0.08
 LEVEL
 0
 BULK
 0
 ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
+NA
 TRAITS
 pet
 
@@ -530,12 +530,29 @@ LEVEL
 BULK
 0
 ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
+NA
 TRAITS
 pet
 
 NAME
 Duck
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+0.1
+LEVEL
+0
+BULK
+0
+ENTRY
+NA
+TRAITS
+pet
+
+NAME
+Dog
 SOURCE
 LOTG
 PAGE
@@ -547,29 +564,29 @@ LEVEL
 BULK
 0
 ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
-TRAITS
-pet
-
-NAME
-Dog
-SOURCE
-LOTG
-PAGE
-103
-GOLD
-0.2
-LEVEL
-0
-BULK
-0
-ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
+NA
 TRAITS
 pet
 
 NAME
 Dinosaur
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+2
+LEVEL
+0
+BULK
+0
+ENTRY
+NA
+TRAITS
+pet
+
+NAME
+Cradle Minder
 SOURCE
 LOTG
 PAGE
@@ -581,12 +598,12 @@ LEVEL
 BULK
 0
 ENTRY
-Originally brought to Absalom by kayals fleeing the Shadow Plane, kayalinis are shy creatures made from shadow. They resemble small monkeys with reptilian features like claws, short horns, and long, shadowy tongues. When in a new home, they tend to hide under beds or in closets. Around people they trust, they'll sit quietly on a lap for hours. 
+NA
 TRAITS
 pet
 
 NAME
-Cradle Minder
+Cow
 SOURCE
 LOTG
 PAGE
@@ -598,24 +615,7 @@ LEVEL
 BULK
 0
 ENTRY
-Sought after in Cheliax, the cradle minder resembles an imp. Despite rumors they were given as part of household pacts with devils, these creatures were bred from fiendish frogs. Amphibious, they have leathery wings, frog-like eyes, and a forgiving temperament. They're ideal companions for children, as they tend to bond closely with one person and let out loud croaks when they become aware of danger. They require fiendish earthworms (unique feed) regularly, so ensuring you have a stable food supply is a necessity for ownership.
-TRAITS
-pet
-
-NAME
-Cow
-SOURCE
-LOTG
-PAGE
-103
-GOLD
-8
-LEVEL
-0
-BULK
-0
-ENTRY
-Sought after in Cheliax, the cradle minder resembles an imp. Despite rumors they were given as part of household pacts with devils, these creatures were bred from fiendish frogs. Amphibious, they have leathery wings, frog-like eyes, and a forgiving temperament. They're ideal companions for children, as they tend to bond closely with one person and let out loud croaks when they become aware of danger. They require fiendish earthworms (unique feed) regularly, so ensuring you have a stable food supply is a necessity for ownership.
+NA
 TRAITS
 pet
 
@@ -626,13 +626,13 @@ LOTG
 PAGE
 103
 GOLD
-0.03
+0.08
 LEVEL
 0
 BULK
 0
 ENTRY
-The Galtan orange cat was bred to have short legs and a thick orange coat so it could easily hunt vermin in tight spaces. They were often kept as staff in noble houses. During the Galtan revolution, as noble households fell, these cats were left to fend for their themselves. While there's a substantial feral population, only one breeder of pedigreed Galtan orange cats remains, making them highly sought after.
+NA
 TRAITS
 pet
 
@@ -649,7 +649,7 @@ LEVEL
 BULK
 0
 ENTRY
-The Galtan orange cat was bred to have short legs and a thick orange coat so it could easily hunt vermin in tight spaces. They were often kept as staff in noble houses. During the Galtan revolution, as noble households fell, these cats were left to fend for their themselves. While there's a substantial feral population, only one breeder of pedigreed Galtan orange cats remains, making them highly sought after.
+NA
 TRAITS
 pet
 
@@ -660,13 +660,13 @@ LOTG
 PAGE
 103
 GOLD
-0.1
+0.3
 LEVEL
 0
 BULK
 0
 ENTRY
-The Galtan orange cat was bred to have short legs and a thick orange coat so it could easily hunt vermin in tight spaces. They were often kept as staff in noble houses. During the Galtan revolution, as noble households fell, these cats were left to fend for their themselves. While there's a substantial feral population, only one breeder of pedigreed Galtan orange cats remains, making them highly sought after.
+NA
 TRAITS
 pet
 
@@ -683,7 +683,7 @@ LEVEL
 BULK
 0
 ENTRY
-The Galtan orange cat was bred to have short legs and a thick orange coat so it could easily hunt vermin in tight spaces. They were often kept as staff in noble houses. During the Galtan revolution, as noble households fell, these cats were left to fend for their themselves. While there's a substantial feral population, only one breeder of pedigreed Galtan orange cats remains, making them highly sought after.
+NA
 TRAITS
 pet
 
@@ -694,13 +694,13 @@ LOTG
 PAGE
 103
 GOLD
-10
+1
 LEVEL
 0
 BULK
 0
 ENTRY
-These smaller falcons feature the brown-and-white markings of eagles and are popular among Eagle Knights. They serve both as a symbol of national pride and help keep watch in the field. They can be kept in a home but require a dedicated perch. They're known for pouncing on and tearing up floor rugs.
+NA
 TRAITS
 pet
 
@@ -711,13 +711,13 @@ LOTG
 PAGE
 103
 GOLD
-0.1
+1.0
 LEVEL
 0
 BULK
 0
 ENTRY
-These smaller falcons feature the brown-and-white markings of eagles and are popular among Eagle Knights. They serve both as a symbol of national pride and help keep watch in the field. They can be kept in a home but require a dedicated perch. They're known for pouncing on and tearing up floor rugs.
+NA
 TRAITS
 pet
 
@@ -734,7 +734,7 @@ LEVEL
 BULK
 0
 ENTRY
-These smaller falcons feature the brown-and-white markings of eagles and are popular among Eagle Knights. They serve both as a symbol of national pride and help keep watch in the field. They can be kept in a home but require a dedicated perch. They're known for pouncing on and tearing up floor rugs.
+NA
 TRAITS
 pet
 
@@ -745,13 +745,13 @@ LOTG
 PAGE
 103
 GOLD
-3
+1
 LEVEL
 0
 BULK
 0
 ENTRY
-These smaller falcons feature the brown-and-white markings of eagles and are popular among Eagle Knights. They serve both as a symbol of national pride and help keep watch in the field. They can be kept in a home but require a dedicated perch. They're known for pouncing on and tearing up floor rugs.
+NA
 TRAITS
 pet
 
@@ -762,18 +762,35 @@ LOTG
 PAGE
 103
 GOLD
-1.5
+0.3
 LEVEL
 0
 BULK
 0
 ENTRY
-These smaller falcons feature the brown-and-white markings of eagles and are popular among Eagle Knights. They serve both as a symbol of national pride and help keep watch in the field. They can be kept in a home but require a dedicated perch. They're known for pouncing on and tearing up floor rugs.
+NA
 TRAITS
 pet
 
 NAME
 Axolotl
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+15
+LEVEL
+0
+BULK
+0
+ENTRY
+NA
+TRAITS
+pet
+
+NAME
+Alpaca
 SOURCE
 LOTG
 PAGE
@@ -785,24 +802,7 @@ LEVEL
 BULK
 0
 ENTRY
-These smaller falcons feature the brown-and-white markings of eagles and are popular among Eagle Knights. They serve both as a symbol of national pride and help keep watch in the field. They can be kept in a home but require a dedicated perch. They're known for pouncing on and tearing up floor rugs.
-TRAITS
-pet
-
-NAME
-Alpaca
-SOURCE
-LOTG
-PAGE
-103
-GOLD
-75
-LEVEL
-0
-BULK
-0
-ENTRY
-These smaller falcons feature the brown-and-white markings of eagles and are popular among Eagle Knights. They serve both as a symbol of national pride and help keep watch in the field. They can be kept in a home but require a dedicated perch. They're known for pouncing on and tearing up floor rugs.
+NA
 TRAITS
 pet
 
@@ -813,13 +813,13 @@ LOTG
 PAGE
 101
 GOLD
-11
+75
 LEVEL
 3
 BULK
 0.1
 ENTRY
-This dried herb is known for its ability to draw toxins from the body, albeit violently. You can administer the suspension orally, {@action Activate an Item||Activating} the item as part of the same activity you use to {@action Treat Poison}. If you succeed at your {@skill Medicine} check to {@action Treat Poison} against an ingested poison, you can reduce the stage of the toxin by one stage, though this can't reduce the stage below stage 1 or cure the poison entirely. If you do, the creature becomes {@condition sickened 2} as its body purges the toxin. An artevil suspension doesn't work unless the poison was administered through ingestion; for instance, if a poison can be administered through either ingestion or injury and was administered through injury, the suspension won't work.
+NA
 TRAITS
 alchemical
 consumable
@@ -832,13 +832,13 @@ LOTG
 PAGE
 101
 GOLD
-60
+11
 LEVEL
 7
 BULK
 0.1
 ENTRY
-Curled cure secretes a gel that gently warms the skin and stimulates healing. You can {@action Activate an Item||Activate the item} as part of the same activity you use to {@action Treat Wounds}. If you successfully {@action Treat Wounds}, you can also reduce the value of one of the targets' {@condition clumsy}, {@condition enfeebled}, or {@condition stupefied} conditions by 1. The target of your {@action Treat Wounds} is then temporarily immune to curled cure gel for 24 hours, whether or not your attempt to {@action Treat Wounds} was successful
+NA
 TRAITS
 alchemical
 consumable
@@ -851,13 +851,13 @@ LOTG
 PAGE
 101
 GOLD
-9
+60
 LEVEL
 3
 BULK
 0.1
 ENTRY
-These drops are made from luminescent mushrooms and refined into eye drops, which simulates a creature's natural night vision. When you attempt a {@skill Perception} check to {@action Seek}, you can draw and apply a dose of drowsy sun to your eyes as part of the same action, which grants you {@ability darkvision} to a range of 30 feet for 1 round. If you do, your {@action Seek} action gains the {@trait manipulate} trait, due to drawing and applying the eye drops.
+NA
 TRAITS
 alchemical
 consumable
@@ -870,13 +870,13 @@ LOTG
 PAGE
 101
 GOLD
-3
+9
 LEVEL
 1
 BULK
 0.1
 ENTRY
-Lady's blessing oil is favored by Pharasmin healers who ease the transitions of life. You can {@action Activate an Item||Activate the item} as part of the same activity you use to {@action Administer First Aid} to stabilize a creature. If you use lady's blessing oil, the DC of the check to {@action Administer First Aid} is reduced to the creature's recovery roll DC, rather than 5 + the recovery roll DC. However, if you roll a failure on the check, you get a critical failure instead.
+NA
 TRAITS
 alchemical
 consumable
@@ -889,13 +889,13 @@ LOTG
 PAGE
 101
 GOLD
-9
+3
 LEVEL
 3
 BULK
 0.1
 ENTRY
-Originally used in dental procedures, toothwort numbs the gums by deadening nerves. When the oils are extracted and distilled, toothwort has a secondary reputation among alchemists for enhancing the duration of poisons. When adding toothwort extract to an {@filter alchemical poison|items||item=alchemical;poison}, you can extend the maximum duration of the poison by 1 round.
+NA
 TRAITS
 additive 
 alchemical
@@ -909,13 +909,13 @@ LOTG
 PAGE
 101
 GOLD
-12
+9
 LEVEL
 4
 BULK
 0.1
 ENTRY
-This root is often infused into bandages for life-threatening bleeding. {@action Activate an Item||Activating the item} is part of the same activity you use to {@action Administer First Aid} to stop bleeding on a creature who's also {@condition dying}. When you do, you can {@action Administer First Aid} to stop bleeding and {@condition dying} as part of the same activity with only one {@skill Medicine} check. However, the DC for the {@skill Medicine} check is equal to the 5 + the higher of the two DCs to {@action Administer First Aid}.
+NA
 TRAITS
 alchemical
 consumable

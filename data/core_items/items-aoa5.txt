@@ -32,7 +32,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Typically used to fake one's death, this poison swiftly causes the imbiber to lose consciousness and suppresses vital signs. A creature examining the {@condition unconscious} target must succeed at a {@skill Medicine} check against the imbiber's {@skill Deception} DC + 4 to determine that the target is alive, and a critical success allows the examiner to determine that a toxin is causing the effect. The false death toxin has an extremely bitter taste ({@skill Perception} DC 10 to detect), making it difficult to trick a creature into consuming the poison against its wishes.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 alchemical
@@ -47,13 +47,13 @@ AoA5
 PAGE
 78
 GOLD
-1500
+25
 LEVEL
 16
 BULK
 0.1
 ENTRY
-This oil, which is pressed from vrock spores and mixed with a combination of acacia ash and thistle seeds, seeps into the skin of living creatures, initially inspiring irritability that unpredictably manifests as berserk rage.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 alchemical
@@ -68,13 +68,13 @@ AoA5
 PAGE
 79
 GOLD
-55
+1500
 LEVEL
 7
 BULK
 0.1
 ENTRY
-Derived from steeping toxic highland plum pits in refined grain alcohols, this clear tonic slowly shuts down the imbiber's senses.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 alchemical
@@ -89,13 +89,13 @@ AoA5
 PAGE
 79
 GOLD
-325
+55
 LEVEL
 12
 BULK
 0.1
 ENTRY
-Upon being mixed and injected into the bloodstream, this powder of the crimson orchid quickly assaults the brain and nerves, disrupting the victim's ability to piece together coherent thoughts and spells.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 alchemical
@@ -110,13 +110,13 @@ AoA5
 PAGE
 77
 GOLD
-8000
+325
 LEVEL
 16
 BULK
 1
 ENTRY
-This round shield is often fashioned to resemble the religious symbol of its dual-natured namesake. A {@i Nethysian bulwark} is a high-grade cold iron shield (Hardness 10, HP 40, BT 20) that defends the wielder and can explode with retributive force when struck.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 abjuration
@@ -131,13 +131,13 @@ AoA5
 PAGE
 79
 GOLD
-6500
+8000
 LEVEL
 19
 BULK
 0.1
 ENTRY
-Created from a daemon's powdered soul gems or refined from the waters of Abaddon's rivers, oblivion essence causes victims to rapidly age and decay.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 alchemical
@@ -152,13 +152,13 @@ AoA5
 PAGE
 77
 GOLD
-4000
+6500
 LEVEL
 14
 BULK
 0.0
 ENTRY
-Granted by Katapesh's Pactmasters to influential merchants, exceptional Zephyr Guards, and favorite retainers, these blue crystal–studded platinum rings sharpen their wearers' urban instincts. You gain a +3 item bonus to {@skill Lore||Mercantile Lore} checks while wearing the ring, and you can attempt checks that require a proficiency rank of master in {@skill Society}. While invested, the ring grants a +2 item bonus to saving throws while you are in an urban setting, and this increases to a +3 item bonus if you have legendary proficiency in {@skill Lore||Guild Lore}, {@skill Lore||Katapesh Lore}, {@skill Lore||Mercantile Lore}, or {@skill Society}.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 divination
@@ -173,13 +173,13 @@ AoA5
 PAGE
 77
 GOLD
-2500
+4000
 LEVEL
-17
+1+
 BULK
 0.1
 ENTRY
-Peshspine grenades are explosive bombs packed with alchemically treated needles from the pesh cactus. A peshspine grenade deals the listed piercing damage and {@trait splash} damage. On a hit, the target gains the {@condition stupefied} condition until the end of its next turn.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 alchemical
@@ -194,13 +194,13 @@ AoA5
 PAGE
 79
 GOLD
-1400
+2500
 LEVEL
 16
 BULK
 0.1
 ENTRY
-Alchemists have refined the devastatingly allergenic pollen of the widow orchid to create this venom, which swiftly causes the victim's eyes to leak mucus and swell shut.
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
 TRAITS
 uncommon
 alchemical

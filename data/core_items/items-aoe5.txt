@@ -26,13 +26,13 @@ AoE5
 PAGE
 79
 GOLD
-20000
+13000
 LEVEL
 18
 BULK
 0.1
 ENTRY
-Paper-thin interlocking gears and winding cogs make up this bronze cloak.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 uncommon
 clockwork
@@ -47,13 +47,13 @@ AoE5
 PAGE
 79
 GOLD
-13000
+20000
 LEVEL
 17
 BULK
 0.1
 ENTRY
-Rotating gears cover the outside of this imposing helmet. In order to function, the device must be wound for 10 minutes once every 24 hours. The clockwork helm has a calming and focusing effect on the mind. If you're affected by a detrimental condition caused by a {@trait mental} or {@trait emotion} effect, each round at the beginning of your turn, the gears of the helmet unwind and reduce the value of the condition by 1.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 rare
 clockwork
@@ -68,13 +68,13 @@ AoE5
 PAGE
 79
 GOLD
-4500
+13000
 LEVEL
 18
 BULK
 0.1
 ENTRY
-This device has four finger-like latches centered around a whirring mass of gears.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 rare
 clockwork
@@ -89,13 +89,13 @@ AoE5
 PAGE
 78
 GOLD
-2500
+4500
 LEVEL
 13
 BULK
 4
 ENTRY
-This +2 resilient full plate, crafted from grim plates of iron, covers the entire body except for small holes for the eyes and mouth. While wearing the armor, you gain the benefits of a {@spell nondetection} spell. Additionally, creatures attempting to {@action Recall Knowledge} about a subject involving you must succeed at a DC 30 Will save. On a success, they can attempt the check normally. On a failure, they can still attempt the check, but even if they successfully {@action Recall Knowledge}, they don't remember you (although they might remember other details about the event). Creatures that fail their save can make another attempt to {@action Recall Knowledge} about you, but they must wait 24 hours to do so.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 rare
 divination
@@ -110,13 +110,13 @@ AoE5
 PAGE
 77
 GOLD
-7200
+2500
 LEVEL
 15
 BULK
 1
 ENTRY
-This {@runeItem studded leather||+2 armor potency||greater resilient|} is made of hardened fungus. Every day the armor grows dozens of unusual mushrooms that can be used for cooking, infused reagents, or common spell material components.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 rare
 invested
@@ -131,13 +131,13 @@ AoE5
 PAGE
 77
 GOLD
-1200
+7200
 LEVEL
 15
 BULK
 0
 ENTRY
-The shaft of this silver bolt is engraved with wiry designs.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 uncommon
 consumable
@@ -151,13 +151,13 @@ AoE5
 PAGE
 79
 GOLD
-13000
+1200
 LEVEL
 17
 BULK
 2
 ENTRY
-Shaped like a blade made from spinning gears, this {@item +2 weapon potency||+2} {@item greater striking} weapon can catch enemy weapons and grind up foes. In order to function, the gearblade must be wound for 10 minutes once every 24 hours. During this process, you can reconfigure the weapon to transform into a {@item bastard sword}, {@item greatsword}, {@item longsword}, or {@item shortsword}. It then gains all the features of the chosen weapon except that its Bulk is always 2 and it gains the {@trait disarm} weapon trait and the {@trait versatile B} weapon trait (which replaces any other {@trait versatile} trait the weapon might have). If you don't wind the gearblade, it becomes inert and has the statistics of a {@item greatclub}.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 rare
 clockwork
@@ -172,13 +172,13 @@ AoE5
 PAGE
 77
 GOLD
-9500
+13000
 LEVEL
 16
 BULK
 0.1
 ENTRY
-The crime lord Miogimo almost always appears with this special mask, crafted with a piece of his soul. It has two forms.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 unique
 invested
@@ -193,13 +193,13 @@ AoE5
 PAGE
 78
 GOLD
-1000
+9500
 LEVEL
 11
 BULK
 1
 ENTRY
-Crafted from polished wood, this seemingly mundane {@runeItem club||+1 weapon potency||striking|} comes with a red leather strap near the handle. The mere sight of the cudgel in a guard's hand fills prisoners with dread.
+Engraved with carvings of tortured souls, this green cauldron has two abilities that allow it to capture nightmares and then unleash them on the world. The cauldron has an affinity for preying on the minds of captives and prisoners, who take a –2 circumstance penalty to saving throws against it.
 TRAITS
 uncommon
 invested

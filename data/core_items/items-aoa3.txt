@@ -26,13 +26,13 @@ AoA3
 PAGE
 71
 GOLD
-680
+58
 LEVEL
 9
 BULK
 2
 ENTRY
-This mid-sized, silver cauldron is a boon within areas where access to fresh food is limited, for it can be commanded to fill itself with hearty (and delicious) vegetable stew. It can also be put to a much greater use in the pursuit of crafting certain items.
+Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.
 TRAITS
 uncommon
 conjuration
@@ -52,7 +52,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A {@i dreamstone} can become cursed if left exposed to creatures that corrupt sleep, generate nightmares, or otherwise prey on sleeping or dreaming victims via supernatural methods. A cursed {@i dreamstone} seems to function as a normal {@i dreamstone} until the bearer falls asleep or is forced to attempt a saving throw against a {@trait sleep} effect. At this point, the person carrying the {@i cursed dreamstone} must attempt a DC 26 Will save to resist the curse's effects.
+Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.
 TRAITS
 rare
 cursed
@@ -67,13 +67,13 @@ AoA3
 PAGE
 71
 GOLD
-700
+680
 LEVEL
 9
 BULK
 0.1
 ENTRY
-A {@i dreamstone} is a disc-shaped object carved with imagery or words sacred to {@deity Desna}—be it her religious symbol, a short prayer, or merely the shape of a single star. When you carry a {@i dreamstone}, you find it easier to fall asleep, and you gain improved effects from the resulting rest. You always fall asleep within 5 minutes of lying down with the intention of sleeping, and you require only 2 hours of sleep per day to gain the benefits of 8 hours of sleep, provided you have carried the {@i dreamstone} for at least 24 hours prior to resting. As long as you carry a {@i dreamstone}, you gain a +2 item bonus to saving throws against {@trait sleep} effects.
+Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.
 TRAITS
 uncommon
 enchantment
@@ -94,7 +94,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This fist-sized, 12-rayed black star sapphire is sacred to {@deity Yueral|LOGM}, the elven goddess of magic and jewels, and most accounts of its creation attribute its crafting to a circle of her worshippers. In addition to the abilities listed below, the gem functions as a portal key for Jewelgate at {@deity Alseta|LOGM}'s Ring.
+Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.
 TRAITS
 unique
 artifact
@@ -108,13 +108,13 @@ AoA3
 PAGE
 72
 GOLD
-650
+700
 LEVEL
 9
 BULK
 0.1
 ENTRY
-This dried gourd seems entirely nondescript, as it is hollow and has a sturdy cord wrapped around its neck for easy carrying. Closer inspection reveals the gourd has grown in the rough shape of a hut or similar small dwelling.
+Certain Scarlet Triad poisoners use toxins like addlebrain to keep captured prisoners docile and compliant for short periods of time until they can be properly shackled and imprisoned. Addlebrain is distilled from a hallucinogenic lichen that can often be found growing in the sewers below particularly large cities like Katapesh.
 TRAITS
 rare
 conjuration

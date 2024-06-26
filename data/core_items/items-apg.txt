@@ -24,13 +24,13 @@ APG
 PAGE
 256
 GOLD
-400
+7
 LEVEL
 12
 BULK
 0
 ENTRY
-This long, fire-red feather seems to catch flame every time the weapon it adorns strikes a purveyor of evil. When you activate the feather, the creature you damaged burns with holy light. The creature must succeed at a DC 29 Will save or take a –2 status penalty to AC and saving throws and reduce its resistances by 5. These effects last until the end of your next turn.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 divine
@@ -45,13 +45,13 @@ APG
 PAGE
 256
 GOLD
-150
+400
 LEVEL
 9
 BULK
 0
 ENTRY
-This slimy green stone glows with a strong light whenever the shield it adorns blocks a melee attack. When the eye is activated, the attacker must succeed at a DC 25 Fortitude save or become {@condition slowed|CRB|slowed 1} for 1 minute as its body slowly stiffens in partial petrification.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 magical
@@ -66,13 +66,13 @@ APG
 PAGE
 252
 GOLD
-2500
+150
 LEVEL
-17
+1+
 BULK
 0.1
 ENTRY
-Blight bombs contain volatile toxic chemicals that rot flesh. A blight bomb deals the listed poison damage, {@condition persistent damage||persistent poison damage}, and {@trait splash} damage. Many types grant an item bonus to attack rolls.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 bomb
@@ -87,13 +87,13 @@ APG
 PAGE
 254
 GOLD
-250
+2500
 LEVEL
-11
+2+
 BULK
 0.1
 ENTRY
-This wide, single-use mask is designed to be slipped over your mouth and nose and its alchemical filter activated all with one hand. Once activated, the mask sharpens odors, giving you imprecise scent with the listed range. You can't wear other masks while you're wearing a bloodhound mask.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -105,13 +105,13 @@ APG
 PAGE
 248
 GOLD
-1
+250
 LEVEL
 0
 BULK
 0
 ENTRY
-A brass ear is a short, flared tube with one end narrow enough to comfortably fit against the ear canal. When using a brass ear to listen through a door, window, thin wall, or similar barrier, if the barrier would normally increase the DC of your {@skill Perception} check to hear sounds on the other side, the DC increases by only half as much as normal.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 adventuring gear
 
@@ -122,13 +122,13 @@ APG
 PAGE
 256
 GOLD
-2000
+1
 LEVEL
 16
 BULK
 0
 ENTRY
-This golden candle bears the symbol of a specific deity emblazoned on its surface, surrounded by the iconography of that deity's faith. Once lit, this candle burns for 1 hour, and it can't be extinguished.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 conjuration
@@ -142,13 +142,13 @@ APG
 PAGE
 257
 GOLD
-60
+2000
 LEVEL
 7
 BULK
 0
 ENTRY
-When lit, this black candle's eerie blue flame reveals the presence of {@condition invisible} creatures. Within a 10-foot radius of the lit candle, creatures don't benefit from the {@condition invisible} condition. Their bodies are outlined, not fully visible, so they are {@condition concealed}. Once lit, the candle burns for 1 minute, after which the effect ends. If extinguished, it can't be relit.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 divination
@@ -161,13 +161,13 @@ APG
 PAGE
 254
 GOLD
-1450
+60
 LEVEL
 16
 BULK
 0.1
 ENTRY
-Made from a carefully distilled blend of serpentine hemotoxins, the fast-acting cerulean scourge is infamous for transforming the blood vessels near the original wound, which glow with a bright blue light before painfully bursting.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -181,13 +181,13 @@ APG
 PAGE
 248
 GOLD
-25
+1450
 LEVEL
 3
 BULK
 0
 ENTRY
-This leather sheath is large enough to hold an item of up to light Bulk and is typically used for {@item dagger||daggers}, wands, {@item thieves' tools}, and similar objects. You can affix it to the inside of a boot, under a bracer or sleeve, or in other inconspicuous locations to gain a +1 item bonus to {@skill Stealth} checks and DCs to hide or conceal the item within.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 adventuring gear
 
@@ -198,13 +198,13 @@ APG
 PAGE
 257
 GOLD
-70
+25
 LEVEL
 7
 BULK
 0
 ENTRY
-This peculiar ammunition is coated in yellow dust that leaves a stain on anything it touches. When activated corrosive ammunition hits a target, it dissolves across the target's armor. The armor takes {@damage 1d8} {@condition persistent damage||persistent acid damage} that ignores the armor's Hardness; if the target isn't wearing armor, it takes the acid damage instead. This damage occurs at the end of the target's turns.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 evocation
@@ -217,13 +217,13 @@ APG
 PAGE
 252
 GOLD
-4000
+70
 LEVEL
-18
+4+
 BULK
 0.1
 ENTRY
-This flask holds a pressurized red-brown gas flecked with bits of sublimated crystal. You gain the listed item bonus to attack rolls. When the bomb explodes, it deals the listed piercing damage and piercing {@trait splash} damage as the mixture suddenly turns into solid crystals flying at high speeds.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 bomb
@@ -238,30 +238,30 @@ APG
 PAGE
 248
 GOLD
-25
+4000
 LEVEL
 3
 BULK
 1
 ENTRY
-This leather satchel contains empty vials, a pair of tweezers, a supply of small linen cloths, a set of brass calipers and a knotted string for measuring distances, several pieces of chalk, a pen, and a blank notebook for keeping notes. Every component of a detective's kit is of exceeding quality, and thus a detective's kit adds a +1 item bonus to checks to investigate a crime scene, a clue, or similar details.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 adventuring gear
 
 NAME
-Final Surge
+Drakeheart Mutagen
 SOURCE
 APG
 PAGE
 253
 GOLD
-3000
+25
 LEVEL
-17
+1+
 BULK
 0.1
 ENTRY
-Your skin grows tough scales like a drake, your eyesight become sharp and your pupils slitted, and your limbs grow wiry and quick, but your mind and reflexes become slow.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -278,11 +278,11 @@ PAGE
 GOLD
 3000
 LEVEL
-17
+1+
 BULK
 0.1
 ENTRY
-This flask is filled with a murky purple gas that briefly interferes with normal brain activity. A dread ampoule deals the listed mental damage and mental {@trait splash} damage.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 bomb
@@ -300,13 +300,13 @@ APG
 PAGE
 248
 GOLD
-0.5
+300.0
 LEVEL
 0
 BULK
 0.1
 ENTRY
-You can pull a dueling cape you're wearing from your shoulder and wrap it around your arm with an {@action Interact} action. While wielding the dueling cape this way, the cape uses that arm and hand, and you can't hold anything else in that hand. While you do so, you can spend an action to hold it in a protective position, giving you a +1 circumstance bonus to AC and to {@skill Deception} checks to {@action Feint} until the start of your next turn.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 adventuring gear
 
@@ -317,13 +317,13 @@ APG
 PAGE
 257
 GOLD
-1500
+5
 LEVEL
-16
+8+
 BULK
 0
 ENTRY
-This black pouch contains what appears to be fine bone dust.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 consumable
@@ -337,13 +337,13 @@ APG
 PAGE
 260
 GOLD
-6500
+1500
 LEVEL
 15
 BULK
 0
 ENTRY
-This brown-and-gold robe covers you from head to toe. Its weighty fabric doesn't move with the wind, instead hanging still as if carved of stone.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 earth
 invested
@@ -358,13 +358,13 @@ APG
 PAGE
 260
 GOLD
-575
+6500
 LEVEL
 9
 BULK
 0.1
 ENTRY
-This fine wooden box is inlaid with Dwarven runes, with hinges and a clasp of forged iron.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 divination
@@ -379,13 +379,13 @@ APG
 PAGE
 256
 GOLD
-900
+575
 LEVEL
 14
 BULK
 0
 ENTRY
-You arrange a spiky cage of bones, particularly tough vegetation, or other material to spring up when disturbed.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 mechanical
@@ -399,13 +399,13 @@ APG
 PAGE
 260
 GOLD
-1200
+900
 LEVEL
 11
 BULK
 0
 ENTRY
-These strange masks consist of a thin stone hood and a shimmering purple veil reminiscent of the pleroma aeon who first gifted them to mortals in the hope that sharing the means of aeon communication would reduce the misunderstandings and conflicts among mortal civilizations. An envisioning mask covers your entire face, though it doesn't hinder your vision or other senses.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 divination
 invested
@@ -420,32 +420,32 @@ APG
 PAGE
 260
 GOLD
-25
+1200
 LEVEL
 5
 BULK
 1
 ENTRY
-The magic within this wooden shield (Hardness 3, HP 12, BT 6) lashes out at your foes as the shield is destroyed.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 evocation
 magical
 held
 
 NAME
-Fearsome
+Fearsome Rune
 SOURCE
 APG
 PAGE
 260
 GOLD
-2000
+25
 LEVEL
-12
+5+
 BULK
 0
 ENTRY
-When you critically hit with this weapon, the target becomes {@condition frightened 1}.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 emotion
 enchantment
@@ -461,13 +461,13 @@ APG
 PAGE
 260
 GOLD
-940
+2000
 LEVEL
 10
 BULK
 0
 ENTRY
-This dark-red ring is engraved with ashen symbols and smells faintly of smoke.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 conjuration
@@ -484,13 +484,13 @@ APG
 PAGE
 256
 GOLD
-5
+940
 LEVEL
 2
 BULK
 0
 ENTRY
-Using bioluminescent matter or alchemical reagents, you rig a short-lived flare to a trip wire or pressure plate. When a Small or larger creature enters the square, this flare shoots into the sky. To creatures with a clear view of the sky, this flare is visible from up to 2 miles away on a clear day or up to 5 miles away on a clear night.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 mechanical
@@ -505,13 +505,13 @@ APG
 PAGE
 253
 GOLD
-3250
+5
 LEVEL
-18
+2+
 BULK
 0.1
 ENTRY
-Focus briefly calms your neurons, helping ease {@trait mental} effects.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -525,13 +525,13 @@ APG
 PAGE
 254
 GOLD
-3
+3250
 LEVEL
 1
 BULK
 0.1
 ENTRY
-Activating this vial of colorless liquid requires inserting a small amount of another chemical or material, such as blood or mud. The vial reacts rapidly, transforming into a murky, reddish-brown substance.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -543,13 +543,13 @@ APG
 PAGE
 261
 GOLD
-1700
+3
 LEVEL
 12
 BULK
 0.1
 ENTRY
-This +2 striking dogslicer is obviously the work of a brilliant but scrappy artisan who valued versatility over safety. Four toothy gems line the blade's cutting edge, three of which glow—one with fiery red light, one with a chill blue, and one that gives off sparks—while the last is a glistening black. Each of these gems embodies a weapon property rune, but only one rune can be active at a time.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 cold
@@ -566,13 +566,13 @@ APG
 PAGE
 257
 GOLD
-25
+1700
 LEVEL
 5
 BULK
 0
 ENTRY
-This chilly ammunition is dark blue and cold to the touch.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 cold
 consumable
@@ -586,13 +586,13 @@ APG
 PAGE
 257
 GOLD
-3
+25
 LEVEL
 1
 BULK
 0.1
 ENTRY
-A gecko potion is a sticky, tawny brown liquid with flecks of sand suspended in it. For 5 minutes after drinking this potion, your fingertips sprout thousands of microscopic, bristled hairs that cling to objects, granting you a +1 item bonus to {@action Climb} and {@action Palm an Object}, and to your Reflex DC against {@action Disarm} attempts.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 magical
@@ -606,13 +606,13 @@ APG
 PAGE
 253
 GOLD
-2500
+3
 LEVEL
-17
+1+
 BULK
 0.1
 ENTRY
-These spring-loaded metal canisters contain a mixture of chemicals and salts that drain and disintegrate nearby undead creatures. A ghost charge deals the listed positive damage and {@trait splash} damage, though as usual for positive damage, this damage harms only undead and creatures with negative healing. Ghost charges are designed to explode even on contact with a spiritual substance, making them ideal for damaging incorporeal undead. A primary target that takes damage from a ghost charge becomes {@condition enfeebled} until the start of your next turn. Many types grant an item bonus to attack rolls.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 bomb
@@ -627,13 +627,13 @@ APG
 PAGE
 255
 GOLD
-3
+2500
 LEVEL
 1
 BULK
 0.1
 ENTRY
-This pale-blue ink dries rapidly, becoming fully transparent 1 minute after application. The ink glows red when exposed to heat, such as that from a torch or other open flame. This glow lasts only as long as the ink is exposed to heat, after which the ink becomes {@condition invisible} again. The crafter of the ghost ink can alter the formula slightly to instead make the ink sensitive to sunlight, starlight, magical light, or heatless light created by an {@trait alchemical} effect such as a sunrod.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -645,13 +645,13 @@ APG
 PAGE
 261
 GOLD
-35
+3
 LEVEL
 2
 BULK
 0.1
 ENTRY
-A glamorous buckler (Hardness 3, HP 6, BT 3) is lavishly decorated with gilding and inset gemstones that glitter in the light. While you have it raised, the glamorous buckler grants you a +1 item bonus to {@skill Deception} checks to {@action Feint}.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 illusion
 magical
@@ -664,13 +664,13 @@ APG
 PAGE
 261
 GOLD
-3000
+35
 LEVEL
 13
 BULK
 1
 ENTRY
-These heavy boots are made of blackened metal and always feel warm to the touch, with streams of glowing embers cascading off their heels. While wearing hellfire boots, you gain resistance 10 to fire damage.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 evocation
 fire
@@ -685,13 +685,13 @@ APG
 PAGE
 257
 GOLD
-350
+3000
 LEVEL
 12
 BULK
 0
 ENTRY
-This black incense smells of fresh earth and ash. You activate the incense by lighting it, whereupon it fills a 10-foot emanation with oily smoke and potent negative energy. Undead creatures, including incorporeal undead, gain fast healing 4 while in the area; though this healing comes from negative energy, it doesn't negatively impact living creatures. Once lit, the incense burns for 1 minute, and it can't be extinguished.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 magical
@@ -705,13 +705,13 @@ APG
 PAGE
 261
 GOLD
-150
+350
 LEVEL
 5
 BULK
 1
 ENTRY
-This elegant +1 striking sword cane serves equally well as a fashionable accessory and {@condition hidden} weapon suitable for highsociety events where weapons aren't typically permitted.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 illusion
 magical
@@ -724,13 +724,13 @@ APG
 PAGE
 254
 GOLD
-15
+150
 LEVEL
 4
 BULK
 0.1
 ENTRY
-Once injected, this synthetic toxin sinks into the extremities, numbing them nearly to paralysis.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -744,13 +744,13 @@ APG
 PAGE
 261
 GOLD
-500
+15
 LEVEL
 8
 BULK
 0
 ENTRY
-These white silk gloves are adorned in red hearts that glow faintly whenever you are adjacent to someone you feel particularly strongly toward.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 emotion
 enchantment
@@ -766,13 +766,13 @@ APG
 PAGE
 261
 GOLD
-700
+500
 LEVEL
-19
+9+
 BULK
 0
 ENTRY
-This ice-blue half-mask is adorned with a wicked silver grin that covers the wearer's mouth, leaving the rest of the face uncovered. You gain a +2 item bonus to {@skill Intimidation} checks.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 auditory
 invested
@@ -788,13 +788,13 @@ APG
 PAGE
 261
 GOLD
-9000
+700
 LEVEL
-16
+13+
 BULK
 1
 ENTRY
-The ghastly visage of a slain medusa's head stares out from this steel shield (Hardness 13, HP 52, BT 26). The shield comes with a thick leather cover to conceal the head.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 magical
 transmutation
@@ -808,13 +808,13 @@ APG
 PAGE
 256
 GOLD
-40
+9000
 LEVEL
 6
 BULK
 0
 ENTRY
-You position particularly foul substances to splash over a creature. The first creature to enter the square must attempt a DC 20 Fortitude saving throw.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 mechanical
@@ -829,13 +829,13 @@ APG
 PAGE
 248
 GOLD
-1
+40
 LEVEL
 0
 BULK
 1
 ENTRY
-You can use a net either on its own or attached to a rope. When attached to a rope, you can use the net to {@action Grapple} a Medium or smaller creature up to 10 feet away (instead of only adjacent creatures). You can continue to {@action Grapple} to keep your hold on the target so long as the target remains within 10 feet and you continue to hold the net. The grabbed creature gains a +2 circumstance bonus to {@action Escape} unless you are adjacent to them, and it can attempt a DC 16 {@skill Athletics} check to {@action Force Open} the net entirely. Once the target is no longer {@condition grabbed}, the net is unwieldy until refolded as a {@trait Concentrate} action that requires two hands; if used without being refolded, {@action Grapple} checks made with the net take a –2 penalty.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 adventuring gear
 
@@ -846,13 +846,13 @@ APG
 PAGE
 258
 GOLD
-1400
+1
 LEVEL
-16
+8+
 BULK
 0
 ENTRY
-This fine golden oil comes in a small blue canister. Carefully spreading the oil over an object turns it into an animated object (Bestiary 20) of the same type. For example, sprinkling it on a statue makes an animated statue. If the animated object's level would be greater than 3, the oil struggles to animate it and ultimately fails.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 consumable
@@ -867,13 +867,13 @@ APG
 PAGE
 258
 GOLD
-25
+1400
 LEVEL
 5
 BULK
 0.1
 ENTRY
-This bright oil, first created by humans as a tool to help them fight in darkness, holds flecks of tiny gemstones in suspension and smells like a struck tindertwig.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 evocation
@@ -887,13 +887,13 @@ APG
 PAGE
 258
 GOLD
-5000
+25
 LEVEL
-18
+1+
 BULK
 0.1
 ENTRY
-This thin, black liquid imparts a bone-deep chill while rapidly repairing an undead creature's physical or spiritual form. When you dash oil of unlife onto an undead creature, or a living creature with negative healing, the oil absorbs quickly into its body, and the creature regains the listed number of Hit Points.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 magical
@@ -908,13 +908,13 @@ APG
 PAGE
 254
 GOLD
-225
+5000
 LEVEL
-10
+3+
 BULK
 0.1
 ENTRY
-This frothing fluid causes the drinker's body to exude trace odorabsorbing oils. For the listed duration after drinking this elixir, your scent is nearly unnoticeable. Creatures with imprecise scent don't detect you with that sense unless they {@action Seek} for you, and you are {@condition concealed} from creatures that perceive you with precise scent. You gain a +4 item bonus against attempts to {@action Seek} you by creatures using only scent-based senses; if they use any other senses as well, the bonus doesn't apply.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -927,13 +927,13 @@ APG
 PAGE
 255
 GOLD
-6
+225
 LEVEL
 2
 BULK
 0.1
 ENTRY
-This shimmering, violet unguent forms mild chemical bonds between objects with a matching composition. You apply the adhesive to two objects, or to an object and a creature. You can check if the two share an origin (such as if they were {@condition broken} from the same whole, or if a poison sample or body part came from the same creature) by holding them together with the unguent between; if they match, the unguent becomes sticky.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -945,13 +945,13 @@ APG
 PAGE
 248
 GOLD
-0.5
+0.6
 LEVEL
 0
 BULK
 0.1
 ENTRY
-You can draw this reinforced sheath during the same Interact action you use to draw the weapon it holds, wielding the weapon in one hand and the scabbard in your other. A parrying scabbard can be used for your defense much like a weapon with the {@trait parry} trait: you can spend an action to position it defensively, gaining a +1 circumstance bonus to AC until the start of your next turn. Parrying scabbards are available for any sword that can be wielded in one hand.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 adventuring gear
 
@@ -962,13 +962,13 @@ APG
 PAGE
 248
 GOLD
-25
+5
 LEVEL
 2
 BULK
 0.1
 ENTRY
-This is a 2-foot-long tube with two angled mirrors, one at each end. When the mirrors are aligned correctly, you can look around obstacles while remaining behind cover. This doesn't provide a sufficient line of effect to target creatures around corners.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 adventuring gear
 
@@ -979,13 +979,13 @@ APG
 PAGE
 258
 GOLD
-300
+25
 LEVEL
-11
+5+
 BULK
 0.1
 ENTRY
-Upon imbibing this potion, you take on the appearance of a specific type of creature for {@dice 2d12} hours. The type of creature is determined when the potion is created. For example, you might have a potion of elf disguise or potion of frog disguise. Drinking the potion doesn't impart the knowledge of how long the effect lasts; the GM rolls the duration in secret.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 consumable
@@ -1001,13 +1001,13 @@ APG
 PAGE
 258
 GOLD
-3
+300
 LEVEL
 1
 BULK
 0.1
 ENTRY
-The stopper for a potion of expeditious retreat is crafted to easily snap open in dire circumstances. When you drink this potion, you become {@condition fleeing} for 1 minute, and you gain a +40-foot status bonus to all your Speeds for the duration as long as you are {@condition fleeing}. You immediately {@action Stride}.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 magical
@@ -1021,13 +1021,13 @@ APG
 PAGE
 259
 GOLD
-5000
+3
 LEVEL
-18
+1+
 BULK
 0.1
 ENTRY
-A potion of retaliation is available in four varieties—acid, cold, electricity, and fire—each with a faint shimmer reminiscent of the energy it contains. For 1 minute after drinking a potion of retaliation, you glow with a faint aura of that energy, and a creature that touches you (such as by making an unarmed attack or using a spell with a range of touch against you) takes damage of that type. The moderate, greater, and major versions also damage an adjacent creature that hits you with a melee weapon {@action Strike}.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 evocation
@@ -1041,13 +1041,13 @@ APG
 PAGE
 259
 GOLD
-4
+5000
 LEVEL
 1
 BULK
 0.1
 ENTRY
-A potion of shared memories can transfer recollections from one creature to another. To place a memory in the potion, you must hold the vial and focus on a particular memory for 1 minute. This memory must be of a single event, location, person, or otherwise encompass a span of about 1 minute.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 divination
@@ -1062,13 +1062,13 @@ APG
 PAGE
 262
 GOLD
-3
+4
 LEVEL
 1
 BULK
 0
 ENTRY
-This seemingly unremarkable, weathered silver coin bears the bust of an unnamed monarch on the face and a majestic bird on the tail. You can toss the coin without activating it, in which case it follows the normal laws of probability.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 divination
 magical
@@ -1081,13 +1081,13 @@ APG
 PAGE
 259
 GOLD
-55
+3
 LEVEL
-7
+1+
 BULK
 0.1
 ENTRY
-This slender vial appears to hold clean, clear water with a faintly fruity scent. Drinking a ration tonic magically nourishes you with the equivalent of a day's worth of food and water.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 conjuration
 consumable
@@ -1095,19 +1095,19 @@ magical
 potion
 
 NAME
-Ready
+Ready Rune
 SOURCE
 APG
 PAGE
 262
 GOLD
-1200
+55
 LEVEL
-11
+6+
 BULK
 0
 ENTRY
-A ready rune draws component pieces of a suit of armor toward one another, making it easier and faster to get into. You can don light armor with this rune as a 3-action activity or medium or heavy armor with this rune in 1 minute.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 evocation
 magical
@@ -1120,13 +1120,13 @@ APG
 PAGE
 262
 GOLD
-75000
+1200
 LEVEL
 20
 BULK
 1
 ENTRY
-This powerful magic rod is inimical to all magic.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 rare
 abjuration
@@ -1140,13 +1140,13 @@ APG
 PAGE
 262
 GOLD
-300
+75000
 LEVEL
-7
+3+
 BULK
 0.1
 ENTRY
-This silk rope measures 50 feet long and is capable of holding up to 3,000 pounds. If the rope is ever cut, only the longest remaining portion retains its magic.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 magical
 transmutation
@@ -1159,13 +1159,13 @@ APG
 PAGE
 259
 GOLD
-4
+300
 LEVEL
 1
 BULK
 0.1
 ENTRY
-This shimmering paste has many properties of a {@spell shield} spell.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 abjuration
 consumable
@@ -1179,13 +1179,13 @@ APG
 PAGE
 254
 GOLD
-3250
+4
 LEVEL
-18
+2+
 BULK
 0.1
 ENTRY
-This serum jolts the body to help shake off physical debilitations.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -1199,13 +1199,13 @@ APG
 PAGE
 255
 GOLD
-55
+3250
 LEVEL
 7
 BULK
 0.1
 ENTRY
-This sticky salve stubbornly holds wounds closed and encourages swift natural healing. You can activate the salve in either of the following ways.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -1218,13 +1218,13 @@ APG
 PAGE
 262
 GOLD
-2450
+55
 LEVEL
 13
 BULK
 0.1
 ENTRY
-This matched pair of slates, roughly one handspan wide and tall, have identical ornate frames.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 divination
 magical
@@ -1237,13 +1237,13 @@ APG
 PAGE
 263
 GOLD
-600
+2450
 LEVEL
-9
+4+
 BULK
 0.1
 ENTRY
-This loose robe has wide, voluminous sleeves that each contain an extradimensional space. These spaces each function as a bag of holding that can hold up to 5 Bulk of items (for a total of 10 Bulk), though no individual item can be of more than 1 Bulk; the sleeves grow slightly heavy as you reach maximum capacity. You can add or remove an item from a sleeve with a single hand free as an {@action Interact} action.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 conjuration
 extradimensional
@@ -1258,13 +1258,13 @@ APG
 PAGE
 256
 GOLD
-180
+600
 LEVEL
 10
 BULK
 0
 ENTRY
-This snare snags a creature with its wicked metal hooks. The first creature to enter the square takes {@damage 5d8} piercing damage and {@damage 5d8} slashing damage, with a DC 27 basic Reflex save. On a critical failure, the hooks piercing its flesh make the creature {@condition immobilized} until it successfully Escapes (DC 27)
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 mechanical
@@ -1278,13 +1278,13 @@ APG
 PAGE
 255
 GOLD
-55
+180
 LEVEL
 7
 BULK
 0.1
 ENTRY
-This peculiar amber glue bonds two surfaces together almost inseparably. A single flask covers an area up to 1 square foot and must be used all at once to form a single bond between two surfaces. If the activation is interrupted, the bond fails and the glue is wasted.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -1296,13 +1296,13 @@ APG
 PAGE
 263
 GOLD
-320
+55
 LEVEL
 7
 BULK
 0.1
 ENTRY
-The guard of this +1 striking main-gauche is inscribed with eldritch glyphs that guard against magic. When you are benefiting from the +1 circumstance bonus to AC from this weapon's {@trait parry} trait, you also apply that circumstance bonus to your saving throws against spells that target you.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 abjuration
 magical
@@ -1315,13 +1315,13 @@ APG
 PAGE
 263
 GOLD
-450
+320
 LEVEL
 8
 BULK
 2
 ENTRY
-This +1 striking {@item ghost touch} crossbow has an array of crystalline lenses and silver fittings along the stock and feels strangely light.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 conjuration
@@ -1336,13 +1336,13 @@ APG
 PAGE
 263
 GOLD
-70000
+450
 LEVEL
-20
+6+
 BULK
 1
 ENTRY
-This bizarre staff is made from oak, capped with a cluster of eye-shaped gemstones that seem to move and undulate at the corner of your vision. While wielding the staff, you can peer through the eyes, using your normal visual senses (including any benefits of spells affecting your vision, like see invisibility). You can maneuver the staff to see things around corners, at higher elevations, or in places where the staff can fit but your head can't. This doesn't provide sufficient line of effect to target creatures around corners.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 illusion
@@ -1356,13 +1356,13 @@ APG
 PAGE
 263
 GOLD
-24000
+70000
 LEVEL
-18
+10+
 BULK
 1
 ENTRY
-This stout staff is made from gnarled hawthorn. When used as a weapon, a staff of nature's vengeance permanently has the effects of {@spell shillelagh}.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 evocation
 magical
@@ -1375,13 +1375,13 @@ APG
 PAGE
 264
 GOLD
-64000
+24000
 LEVEL
-20
+6+
 BULK
 1
 ENTRY
-A large, stylized symbol of an eye adorns the top of this wooden staff, representing the watchful eye of the divine powers. The bearer of the staff can guide and protect, seeing bounties and tragedies that could befall them in the future. When wielding this staff, you gain a +1 item bonus on {@skill Survival} checks to {@action Sense Direction} or {@action Subsist}, and to {@skill Religion} checks to {@action Recall Knowledge}.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 divination
 magical
@@ -1394,13 +1394,13 @@ APG
 PAGE
 259
 GOLD
-50
+64000
 LEVEL
 6
 BULK
 0
 ENTRY
-This black-and-gray ammunition is etched with occult symbols and tiny, grinning skulls. When activated terrifying ammunition damages a creature, it fills the creature's mind with visions of their own failures, tragedies, and eventually, their own death. The creature must attempt a DC 20 Will save.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 emotion
@@ -1416,13 +1416,13 @@ APG
 PAGE
 259
 GOLD
-600
+50
 LEVEL
 13
 BULK
 0.1
 ENTRY
-This purple potion has a bitter taste and seems to blur with motion. When you drink a time shield potion, you are frozen in time for {@dice 2d4} rounds. You can't act or be targeted, you become immune to all effects, and you vanish from your space; as far as the universe is concerned, you simply don't exist as long as the potion lasts. The durations of any effects targeting you when you drink the potion are suspended until it wears off.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 consumable
 magical
@@ -1436,13 +1436,13 @@ APG
 PAGE
 255
 GOLD
-14
+600
 LEVEL
 4
 BULK
 0.1
 ENTRY
-You sprinkle these salts onto a single object up to 10 cubic feet in volume and no more than 40 Bulk to preserve it for 1 week.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -1454,13 +1454,13 @@ APG
 PAGE
 255
 GOLD
-3250
+14
 LEVEL
-18
+5+
 BULK
 0.1
 ENTRY
-Originally formulated as a means of dissolving sovereign glue, this powerful solvent can break almost any adhesive's grip.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 alchemical
 consumable
@@ -1472,13 +1472,13 @@ APG
 PAGE
 264
 GOLD
-700
+3250
 LEVEL
 9
 BULK
 0
 ENTRY
-This sealed pewter urn contains the ashes of a benevolent ancestor, with a sliver of lingering spirit that strives to protect you.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 magical
 necromancy
@@ -1493,13 +1493,13 @@ APG
 PAGE
 264
 GOLD
-5500
+700
 LEVEL
-15
+9+
 BULK
 4
 ENTRY
-The metal plates of this +1 resilient full plate are covered by a bright tabard featuring a distinctive coat of arms divided into four fields. This insignia magically records your recent victories, displaying one triumph in each field of the coat of arms, allowing you to call upon those victories for aid in future battles.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 uncommon
 abjuration
@@ -1514,13 +1514,13 @@ APG
 PAGE
 264
 GOLD
-12
+5500
 LEVEL
 1
 BULK
 4
 ENTRY
-This iron cauldron stands upon sturdy iron crow's feet. A walking cauldron has a land Speed of 25 feet and can be used as a suitable tool to {@action Craft} potions, oils, or other liquids.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 invested
 magical
@@ -1534,13 +1534,13 @@ APG
 PAGE
 265
 GOLD
-24000
+12
 LEVEL
-18
+8+
 BULK
 0.1
 ENTRY
-This wand is made of two copper plates separated by a ceramic center.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 electricity
 evocation
@@ -1554,13 +1554,13 @@ APG
 PAGE
 265
 GOLD
-1000
+24000
 LEVEL
-10
+6+
 BULK
 0.1
 ENTRY
-This wand is a length of wrought black iron.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 darkness
 evocation
@@ -1574,13 +1574,13 @@ APG
 PAGE
 265
 GOLD
-40000
+1000
 LEVEL
-19
+9+
 BULK
 0.1
 ENTRY
-This alabaster wand has a clear crystal at the tip.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 healing
 magical
@@ -1595,13 +1595,13 @@ APG
 PAGE
 265
 GOLD
-24000
+40000
 LEVEL
-18
+14+
 BULK
 0.1
 ENTRY
-This wand is a slender length of ice-blue glass.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 cold
 evocation
@@ -1615,13 +1615,13 @@ APG
 PAGE
 265
 GOLD
-1400
+24000
 LEVEL
-11
+7+
 BULK
 0.1
 ENTRY
-The handle of this wand is a 5-inch-long piece of rosewood, but most of its length is a pair of twisted spider legs covered in gossamer webbing.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 conjuration
 magical
@@ -1629,19 +1629,19 @@ poison
 wand
 
 NAME
-Winged
+Winged Rune
 SOURCE
 APG
 PAGE
 265
 GOLD
-35000
+1400
 LEVEL
-19
+13+
 BULK
 0
 ENTRY
-This rune is a swirling glyph on the front of the armor. A large pair of transparent, ephemeral wings floats out from the back of the armor.
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
 TRAITS
 magical
 transmutation

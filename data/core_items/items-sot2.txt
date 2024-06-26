@@ -26,13 +26,13 @@ SoT2
 PAGE
 75
 GOLD
-250
+500
 LEVEL
 6
 BULK
 0.1
 ENTRY
-Stories tell of a forgotten king who once loved his subjects so much he was willing to give his own life energy for them. Whether true or not, this majestic wooden crown bears elaborate carvings depicting that tale. It's ringed with images of the same kingly figure giving more and more of himself to a throng of needy subjects. While wearing it, you gain a +1 item bonus to {@skill Diplomacy} checks.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 uncommon
 healing
@@ -49,13 +49,13 @@ SoT2
 PAGE
 76
 GOLD
-360
+250
 LEVEL
 7
 BULK
 1
 ENTRY
-This +1 striking returning spear is warm to the touch. The head of the spear is crafted from gold with ivory inlay and has a ruby set into the shaft. You can make the spear glow like a torch or suppress its light by using an action, which has the {@trait concentrate} trait.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 uncommon
 evocation
@@ -70,13 +70,13 @@ SoT2
 PAGE
 76
 GOLD
-415
+360
 LEVEL
 8
 BULK
 1
 ENTRY
-Long associated with a notorious crime boss in Nantambu, this stout +1 striking {@item fearsome|APG} club is studded with vicious-looking knobs of obsidian and wrapped in cloth for a better grip.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 unique
 magical
@@ -90,13 +90,13 @@ SoT2
 PAGE
 76
 GOLD
-700
+415
 LEVEL
 9
 BULK
 2
 ENTRY
-Made of cobalt-colored steel rings that flow down the entire length of the garment, this +1 resilient chain mail includes an armored face covering. The armor is said to be based on the same armor once worn by Azure Leopard, one of Old-Mage Jatembe's magic warriors.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 uncommon
 magical
@@ -110,13 +110,13 @@ SoT2
 PAGE
 76
 GOLD
-28
+700
 LEVEL
 5
 BULK
 0
 ENTRY
-This thick brooch is carved from a single piece of rhino hide. It's lacquered and covered in a thin layer of silver dust. When activated, the talisman grants you resistance 5 to physical damage until the end of the current creature's turn. This resistance applies to the triggering attack.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 uncommon
 abjuration
@@ -131,13 +131,13 @@ SoT2
 PAGE
 76
 GOLD
-250
+28
 LEVEL
 6
 BULK
 0
 ENTRY
-This small figurine is carved from a single piece of silvery, spiky stone and resembles a beautiful dryad pouring water into a small pool. When you activate the muse, you are momentarily enlightened with inspiration that bolsters your performance. If you roll a success on your triggering check, you get a critical success instead.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 uncommon
 abjuration
@@ -152,13 +152,13 @@ SoT2
 PAGE
 76
 GOLD
-600
+250
 LEVEL
 9
 BULK
 0.1
 ENTRY
-This knife is a +1 striking returning dagger with a wide blade and thick wooden handle. A prayer for protection from evil magic is carved into the handle in tiny script, running around the handle in a spiral. The grooves of the carved prayer provide a good grip on the knife and make it easy to catch when it returns to your hand.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 uncommon
 abjuration
@@ -172,13 +172,13 @@ SoT2
 PAGE
 77
 GOLD
-2000
+600
 LEVEL
-12
+4+
 BULK
 0.1
 ENTRY
-The Nantambu Chime-Ringers created these magical chimes to aid in their defense of their city. Each chime is made from elaborately carved wood depicting the nature of a given chime's power.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 uncommon
 evocation
@@ -192,13 +192,13 @@ SoT2
 PAGE
 77
 GOLD
-700
+2000
 LEVEL
-9
+8+
 BULK
 0.1
 ENTRY
-The magical statuettes known as wondrous figurines are described on page 576 of the Pathfinder Core Rulebook.
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
 TRAITS
 uncommon
 conjuration

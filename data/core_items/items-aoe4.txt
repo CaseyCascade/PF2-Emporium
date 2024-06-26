@@ -25,13 +25,13 @@ AoE4
 PAGE
 77
 GOLD
-500
+6250
 LEVEL
 13
 BULK
 0.1
 ENTRY
-This heavier-than-air mist emits a soft glow. While this poison lasts, it causes its victims to shine from within with agonizing, brilliant radiance. This effect has the {@trait light} trait (although the poison itself doesn't, so only the {@trait light} effect can be counteracted by {@trait darkness} effects). The {@condition sickened} condition from daylight vapor can't be removed while the poison lasts, and when the victim enters an area of magical darkness, the poison attempts to counteract the darkness with a counteract modifier of +21. If the poison fails, it can't attempt to counteract the same darkness again.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -46,13 +46,13 @@ AoE4
 PAGE
 77
 GOLD
-625
+500
 LEVEL
 14
 BULK
 0.1
 ENTRY
-This poison is made from toxic spores of death knell mushrooms, which are reduced to a gray powder and suffused with necromantic energy. If you're reduced to 0 Hit Points while under the effect of death knell powder, you must succeed at a DC 34 Will save or die (this is a {@trait death} effect). If you die, a random creature adjacent to you is bolstered by your departing life force and gains 20 temporary HP and a +1 status bonus to attack and damage rolls for 10 minutes.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -67,13 +67,13 @@ AoE4
 PAGE
 77
 GOLD
-160
+625
 LEVEL
 10
 BULK
 0.1
 ENTRY
-Cultivated by mashing and fermenting toxic weeds found in lonely graveyards, fearweed is a greenish paste magically infused with psychic horror. The {@condition frightened} condition from fearweed can't be removed while the poison lasts.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -88,13 +88,13 @@ AoE4
 PAGE
 79
 GOLD
-4350
+160
 LEVEL
 14
 BULK
 0.1
 ENTRY
-The harrow is a traditional fortunetelling deck used by Varisian soothsayers. The hardened harrow deck is a magical version of the deck with cards made of thin metallic plates adorned with all the imagery common in standard harrow decks, but with more angular designs. You can hurl cards from the hardened harrow deck as +2 greater striking darts with the {@trait deadly <d10>} trait. A card used as a weapon isn't destroyed and can be recovered with 1 minute of searching if it can't be recalled back to the deck (see the deck's Activate entry on page 80)
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 rare
 magical
@@ -108,13 +108,13 @@ AoE4
 PAGE
 78
 GOLD
-235
+4350
 LEVEL
 11
 BULK
 0.1
 ENTRY
-Rendered from the fat of corporeal undead creatures and infused with ghoulish magic, this yellowish oil causes its victims to experience stabbing hunger pangs that only living flesh can abate. If you eat at least a mouthful of humanoid flesh, you ignore the {@condition enfeebled} condition from hunger oil for 1 minute. While under the effect of hunger oil, you regain only half as many Hit Points from {@trait healing} effects unless you've eaten at least a mouthful of humanoid flesh in the last minute.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -129,13 +129,13 @@ AoE4
 PAGE
 78
 GOLD
-650
+235
 LEVEL
 14
 BULK
 0.1
 ENTRY
-This thick orange cream quickly seeps into skin. In addition to causing painful swelling in the brain, liar's demise compels the victim to speak only the truth. While under the effect of liar's demise, you take the listed poison damage and mental damage for any time you voluntarily and knowingly tell a lie, due to the poison's increased blood pressure to your brain.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -150,13 +150,13 @@ AoE4
 PAGE
 78
 GOLD
-1100
+650
 LEVEL
 15
 BULK
 0.1
 ENTRY
-This black slime is carefully culled from coffins and sarcophagi used by the undead, and is then distilled and combined with necromantic energy, creating a dangerous sludge that leeches life force as aggressively as it rots flesh.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -172,13 +172,13 @@ AoE4
 PAGE
 80
 GOLD
-4000
+1100
 LEVEL
-14
+4+
 BULK
 1
 ENTRY
-This gnarled staff is covered with thorns and coated with a glistening lacquer that acts as a minor irritant.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 conjuration
@@ -193,13 +193,13 @@ AoE4
 PAGE
 78
 GOLD
-1650
+4000
 LEVEL
 16
 BULK
 0.1
 ENTRY
-This clear, tasteless tar causes the victim to emit waves of harmful mental energy that repel other creatures.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -214,13 +214,13 @@ AoE4
 PAGE
 78
 GOLD
-115
+1650
 LEVEL
 9
 BULK
 0.1
 ENTRY
-This blackish grit seems to absorb light and resembles particularly dark flakes of black pepper. Infused with the {@spell blindness} spell, sight-theft grit causes the victim's sight to dim and then depart altogether. The {@condition blinded} condition from this poison lasts for an additional 24 hours once the poison has run its course.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -235,13 +235,13 @@ AoE4
 PAGE
 79
 GOLD
-450
+115
 LEVEL
 13
 BULK
 0.1
 ENTRY
-Belladonna cultivated in planes hazardous to living visitors, such as the Shadow Plane or the Boneyard, grow with a strange, skeletal look to their branches. The leaves and berries of these extraplanar plants are partly incorporeal and significantly more toxic than belladonna grown on the Material Plane. When imbued with spirit-twisting magic, spectral nightshade quickly drains away the victim's vitality and makes colors painfully bright and bewildering. Spectral nightshade doesn't affect creatures that have no spirit; if a possessing spirit inhabits a body that takes poison damage from spectral nightshade, the possessor takes an equal amount of force damage, even if the possessor can't be affected directly by poisons.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -256,13 +256,13 @@ AoE4
 PAGE
 79
 GOLD
-325
+450
 LEVEL
 12
 BULK
 0.1
 ENTRY
-This gummy resin contains sparkling motes of magical energy that dramatically impair your cognitive functions and dispel spells as you cast them. Spell energy manifests but then sputters out, as though {@condition drained} away by the sparkling motes. While you're {@condition stupefied} by this poison, the DC of flat checks to avoid disruption from the {@condition stupefied} condition when you {@action Cast a Spell} is 5 + twice the {@condition stupefied} value, rather than 5 + the {@condition stupefied} value.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable
@@ -277,13 +277,13 @@ AoE4
 PAGE
 80
 GOLD
-55
+325
 LEVEL
 7
 BULK
 0
 ENTRY
-This teardrop-shaped gemstone has triangular facets and looks suitable for fancy attire, although close inspection shows that it's hollow. When it's activated, you can instantly impart up to 1 minute of speech (roughly 150 words) telepathically to any creatures you choose within 100 feet. You can impart this instantaneous telepathic message to creatures that you perceive and creatures {@condition hidden} to you, but you can't do so to {@condition undetected} creatures.
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
 TRAITS
 uncommon
 consumable

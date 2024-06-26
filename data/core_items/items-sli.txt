@@ -25,13 +25,13 @@ Sli
 PAGE
 60
 GOLD
-250
+480
 LEVEL
 6
 BULK
 1
 ENTRY
-The head of this +1 striking returning spear is wrapped in greasy hide, and its head resembles a thick, clawed finger.
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
 TRAITS
 uncommon
 magical
@@ -45,13 +45,13 @@ Sli
 PAGE
 60
 GOLD
-30
+250
 LEVEL
 5
 BULK
 0
 ENTRY
-A thin sheen of slick oil covers this gaudy button. When you activate the oily button, your attempts to {@action Disarm} your opponent of an item before the start of the opponent's next turn gain a +4 circumstance bonus instead of +2, and the –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item lasts until the end of its next turn or until it uses an {@action Interact} action to adjust its grip.
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
 TRAITS
 uncommon
 conjuration
@@ -66,13 +66,13 @@ Sli
 PAGE
 61
 GOLD
-65
+30
 LEVEL
 7
 BULK
 0
 ENTRY
-This repulsive, hairy glob dangles from the end of your weapon. When you activate the putrescent glob, the creature you damaged must succeed at a DC 23 Fortitude save or its {@condition sickened} condition increases to {@condition sickened|CRB|sickened 2}, and it can't reduce its {@condition sickened} condition until the end of its next turn. On a critical failure, it's also {@condition slowed|CRB|slowed 1} until the end of its next turn.
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
 TRAITS
 uncommon
 conjuration
@@ -87,13 +87,13 @@ Sli
 PAGE
 61
 GOLD
-2500
+65
 LEVEL
-17
+5+
 BULK
 0.1
 ENTRY
-This gritty, spicy fluid causes you to grow a sixth finger on each hand and gives you a spiderlike grip.
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
 TRAITS
 uncommon
 alchemical
@@ -108,13 +108,13 @@ Sli
 PAGE
 61
 GOLD
-360
+2500
 LEVEL
 7
 BULK
 1
 ENTRY
-This thick, greasy +1 striking shifting whip is made from a slimy pseudopod. You don't take the usual –2 circumstance penalty to your attack rolls when using the slime whip to make a lethal attack. The whip's form can be changed just like any weapon with the shifting rune, but it reverts to its original form as soon as it isn't wielded. When in its whip form, you can use the following action.
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
 TRAITS
 uncommon
 magical
@@ -128,13 +128,13 @@ Sli
 PAGE
 61
 GOLD
-12
+360
 LEVEL
 1
 BULK
 0
 ENTRY
-This ribbon is constantly greasy to the touch and stains the armor it's affixed to. When you activate the slippery ribbon, your Speed increases by an amount necessary for you to move all the way through the enemy's space.
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
 TRAITS
 uncommon
 consumable
@@ -149,13 +149,13 @@ Sli
 PAGE
 61
 GOLD
-24000
+12
 LEVEL
-18
+6+
 BULK
 0.1
 ENTRY
-This greasy stick emits a stomach-churning scent when held in a hand.
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
 TRAITS
 uncommon
 acid
@@ -170,13 +170,13 @@ Sli
 PAGE
 61
 GOLD
-70000
+24000
 LEVEL
-20
+6+
 BULK
 0.1
 ENTRY
-This pale wooden wand is carved to resemble a thigh bone with metal caps at each end. Ghostly tendrils seem to swirl around it every so often.
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
 TRAITS
 uncommon
 magical

@@ -26,13 +26,13 @@ EC3
 PAGE
 69
 GOLD
-1800
+850
 LEVEL
 12
 BULK
 0.1
 ENTRY
-This simple iron ring is faceted with a bulbous geode lined with bright purple crystals. A ring of stoneshifting grants you the ability to ignore {@quickref difficult terrain||3|terrain} caused by rubble or uneven ground made of stone and earth.
+This small, diamond-tipped stylus allows you to inscribe a magical symbol on a golem's body and possibly gain control over it.
 TRAITS
 uncommon
 conjuration
@@ -49,13 +49,13 @@ EC3
 PAGE
 69
 GOLD
-600
+1800
 LEVEL
 9
 BULK
 2
 ENTRY
-This ornate, compact shovel has a golden handle wrapped with beautiful crimson bulette leather. Its silver head never gets dirty or worn no matter how much you use it. Its true magic, however, is in its ability to dig on its own.
+This small, diamond-tipped stylus allows you to inscribe a magical symbol on a golem's body and possibly gain control over it.
 TRAITS
 rare
 earth
@@ -69,13 +69,13 @@ EC3
 PAGE
 89
 GOLD
-2500
+600
 LEVEL
 13
 BULK
 0
 ENTRY
-This pale gemstone grants its wearer a +2 item bonus to saving throws and the ability to discern a target's alignment (as detect alignment, but can detect chaotic, evil, good, and lawful auras simultaneously) at will by peering through the gemstone.
+This small, diamond-tipped stylus allows you to inscribe a magical symbol on a golem's body and possibly gain control over it.
 TRAITS
 uncommon
 abjuration

@@ -25,13 +25,13 @@ EC5
 PAGE
 73
 GOLD
-2300
+2800
 LEVEL
 13
 BULK
 0
 ENTRY
-This heavy iron necklace is decorated with tiny gems that resemble the stars in the ceiling high above the Vault of the Black Desert. While you have invested this item, you cannot contract blightburn sickness. It doesn't cure blightburn sickness if you already have it, but the disease's stage can't progress while you wear it.
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
 TRAITS
 uncommon
 abjuration
@@ -46,13 +46,13 @@ EC5
 PAGE
 76
 GOLD
-2800
+2300
 LEVEL
 13
 BULK
 2
 ENTRY
-Developed by urdefhans for their skaveling mounts but quickly copied by other races' cavalry, this leather saddle is made from cave worm hide and is designed to fit a variety of flying steeds. In addition to a seat for the rider, the bomber's saddle has a bomb compartment situated underneath the mount. The compartment can hold up to six alchemical bombs of light or negligible Bulk.
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
 TRAITS
 uncommon
 companion
@@ -66,13 +66,13 @@ EC5
 PAGE
 75
 GOLD
-4500
+2800
 LEVEL
-18
+13+
 BULK
 0.1
 ENTRY
-Cave worm repellent is a highly noxious oil that can be applied to a creature or sprinkled in a circle around a 10-footradius area. In either case, after it is applied, it lasts for 24 hours or until it is scrubbed clean with 1 minute of work.
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
 TRAITS
 uncommon
 alchemical
@@ -85,13 +85,13 @@ EC5
 PAGE
 75
 GOLD
-2500
+4500
 LEVEL
 17
 BULK
 0.1
 ENTRY
-This watery, mint-green emetic of xulgath design is often carried in a delicate obsidian vial or other fragile container.
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
 TRAITS
 uncommon
 alchemical
@@ -105,13 +105,13 @@ EC5
 PAGE
 76
 GOLD
-5200
+2500
 LEVEL
 15
 BULK
 0.1
 ENTRY
-These wicked-looking spiked metal wheels fit around the ankles and jingle when the wearer walks, imposing a –1 item penalty on {@skill Stealth} checks. If used as a weapon, they are treated as a spiked gauntlet.
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
 TRAITS
 rare
 abjuration
@@ -125,13 +125,13 @@ EC5
 PAGE
 76
 GOLD
-23500
+5200
 LEVEL
 18
 BULK
 2
 ENTRY
-The twin serrated blades of this legendary rhoka sword (page 83) are dull black and constantly drip with blood.
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
 TRAITS
 unique
 evil
@@ -146,13 +146,13 @@ EC5
 PAGE
 76
 GOLD
-9500
+23500
 LEVEL
-16
+12+
 BULK
 1
 ENTRY
-This rough metal staff is pitted and sandblasted, with thousands of nigh-imperceptible sand crystals embedded in its surface. While carrying the staff, you gain a +2 circumstance bonus to {@skill Occultism} checks to identify aberrations and oozes native to the Darklands.
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
 TRAITS
 uncommon
 divination

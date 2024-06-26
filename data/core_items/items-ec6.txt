@@ -32,7 +32,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This coin-sized gemstone can be used on its own but must be included in the construction of a hearth in order to fully activate its magic.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 unique
 arcane
@@ -46,13 +46,13 @@ EC6
 PAGE
 74
 GOLD
-12500
+6200
 LEVEL
 20
 BULK
 0
 ENTRY
-This strand of hair shimmers like the strands of fate. When you activate the string, it resonates with a single, perfect note. The triggering saving throw becomes a failure or the triggering attack roll becomes a regular hit, not critical one. If the source of the attack or effect is an evil creature, that creature must succeed at a DC 41 Will saving throw or be {@condition enfeebled|CRB|enfeebled 2} and {@condition stupefied|CRB|stupefied 2} until the end of its next turn.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 rare
 abjuration
@@ -73,7 +73,7 @@ LEVEL
 BULK
 1
 ENTRY
-Hunter's Dawn is a {@runeItem club||+3 weapon potency||greater striking||speed||ghost touch|}. However, the notched head of the weapon marks it as an atlatl, an ancient tool used for throwing {@item dart||darts} and {@item javelin||javelins}. You can use Hunter's Dawn with a mundane dart or javelin like you would use a bow with an arrow; when you do so, the range of the dart or javelin is doubled, and the dart or javelin uses Hunter's Dawn to determine its attack modifier and damage dice.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 unique
 arcane
@@ -87,13 +87,13 @@ EC6
 PAGE
 74
 GOLD
-14000
+12500
 LEVEL
 17
 BULK
 1
 ENTRY
-This +2 greater resilient studded leather is traditionally inscribed with a symbol of either {@deity Norgorber} or {@deity Cayden Cailean}. Its leather is light as silk, and its buttons and studs are gleaming crystal. While you wear it, you get a +15-foot item bonus to your Speed, and effects that attempt to impose penalties on your Speed must first counteract the jerkin of liberation or they have no effect on you.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 uncommon
 abjuration
@@ -114,7 +114,7 @@ LEVEL
 BULK
 1
 ENTRY
-The hilt of this +3 major striking axiomatic spell-storing longsword is simple and elegant. The blade itself is made of throneglass—a clear, jewellike crafting material with a razor-sharp edge, capable of absorbing psychic magic and redirecting it at the wielder's enemies.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 unique
 artifact
@@ -128,13 +128,13 @@ EC6
 PAGE
 74
 GOLD
-36000
+14000
 LEVEL
 19
 BULK
 0
 ENTRY
-As long as this locket of horn and silver is closed, you don't need to sleep. However, you can still overexert your body with too much activity, so you still need to rest to avoid becoming {@condition fatigued} or to remove the {@condition fatigued} condition.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 rare
 illusion
@@ -149,13 +149,13 @@ EC6
 PAGE
 74
 GOLD
-8000
+36000
 LEVEL
 19
 BULK
 0.1
 ENTRY
-This fruit is slowly, constantly changing shape, transforming from one fruit into another, but always appearing at the peak of ripeness. When you consume the fruit, it attempts to counteract all curses, diseases, and poisons affecting you, and you immediately regain {@dice 8d8+30} Hit Points. The fruit has a counteract level of 9 and a +30 modifier for the rolls against each condition. The fruit's seed remains after consumption and can be planted later, becoming a seed-shaped tree feather token that sprouts a tree bearing many kinds of mundane fruit.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 rare
 consumable
@@ -164,7 +164,7 @@ necromancy
 primal
 
 NAME
-telepathy
+Piereta
 SOURCE
 EC6
 PAGE
@@ -176,7 +176,7 @@ LEVEL
 BULK
 1
 ENTRY
-Piereta was a Knight of Ozem during the Shining Crusade, sworn to the service of Aroden's herald, {@deity Arazni|LOGM}. After {@deity Arazni|LOGM} perished at the hands of the Whispering Tyrant, Piereta became the first paladin to swear her service to the newly ascended goddess, {@deity Iomedae}. When she fell in battle, a fragment of her spirit clung to the sword through which she had wielded her faith in countless battles, granting the weapon a sentience of its own. The sword named herself after her fallen bearer and has been a faithful companion to many Iomedaean warriors since.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 unique
 divine
@@ -191,13 +191,13 @@ EC6
 PAGE
 75
 GOLD
-60000
+8000
 LEVEL
 20
 BULK
 0.1
 ENTRY
-By twisting and twirling this ordinary-looking leather ribbon, you can temporarily bend a rift in space.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 unique
 conjuration
@@ -211,13 +211,13 @@ EC6
 PAGE
 75
 GOLD
-70000
+60000
 LEVEL
 20
 BULK
 0.1
 ENTRY
-This high-grade orichalcum shield (Hardness 16, HP 64, and BT 32) bears a +3 major striking shield boss that cannot be removed. It gleams brightly in any light, drawing attention at all times. When you Raise this Shield, ephemeral reflections of it appear in front of each of your allies within 30 feet, granting them its +2 circumstance bonus to AC for as long as they are within 30 feet of you and your shield is raised.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 uncommon
 evocation
@@ -232,13 +232,13 @@ EC6
 PAGE
 75
 GOLD
-65000
+70000
 LEVEL
 20
 BULK
 1
 ENTRY
-This adamantine staff is fitted with mithral plates resembling battlements on a castle. Lesser cover, cover, and greater cover don't grant any bonus against your spell attacks or to saving throws against your spells that you cast from the staff.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 uncommon
 evocation
@@ -258,7 +258,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This gold necklace sports six bails, each with a different aeon stone. The backside of each bail is engraved with a single ancient Azlanti rune: Patience, Remembrance, Resilience, Tenacity, Wisdom, Invention.
+This elixir is usually stored in a small metal flask or miniature stein. The dark liquid sparkles as if it were full of stars and is considered sacred to {@deity Cayden Cailean} and to the cults of the Failed in Absalom. The next time you would die from damage within 8 hours after you drink the ambrosia, it prevents you from {@condition dying}, you regain 20 Hit Points, the elixir's benefits end, and you become temporarily immune to the ambrosia of undying hope for 24 hours.
 TRAITS
 unique
 arcane

@@ -27,13 +27,13 @@ LOIL
 PAGE
 221
 GOLD
-0.02
+2
 LEVEL
 0
 BULK
 0
 ENTRY
-A chakri is a small, circular throwing weapon with a sharp outer edge.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 deadly 
@@ -52,13 +52,13 @@ LOIL
 PAGE
 221
 GOLD
-4
+0.04
 LEVEL
 0
 BULK
 1
 ENTRY
-This curved blade has a bifurcated tip, creating what looks like a second blade. It's a customary practice among zulfikar users to have religious or personal inscriptions upon the blade.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 disarm
@@ -84,7 +84,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Two small, curved blades extend from a single hilt. There's a hollow area inside that vishkanyas can use to store an unused dose of their blood, or other poison, for the future.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -111,7 +111,7 @@ LEVEL
 BULK
 1
 ENTRY
-A larger version of the asymmetrical, wavy-bladed kris, this double-edged sword is effective at creating grievous injuries.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 uncommon
@@ -135,7 +135,7 @@ LEVEL
 BULK
 2
 ENTRY
-A large spherical head with a spike on top sits mounted to a long shaft.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 backswing
 two-hand 
@@ -159,7 +159,7 @@ LEVEL
 BULK
 2
 ENTRY
-This long metal pole has a large {@item chakram|lotgb} attached at the end. A mechanism within the handle allows the wielder to launch and retract the {@item chakram|lotgb}, which is connected with wire to the inside of the weapon. The donchak is seldom seen used outside training scenarios.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 hampering
 reach
@@ -185,7 +185,7 @@ LEVEL
 BULK
 2
 ENTRY
-The spearhead of this weapon is in the shape of a long leaf.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 reach
 sweep
@@ -203,13 +203,13 @@ LOIL
 PAGE
 221
 GOLD
-0.6
+6
 LEVEL
 0
 BULK
 1
 ENTRY
-Carefully woven from plant fibers, the thorn whip sports small spikes that protrude from various locations.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 disarm
 finesse
@@ -230,13 +230,13 @@ LOIL
 PAGE
 221
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 1
 ENTRY
-Longer, and with less curve than a scimitar, this blade is ubiquitous in guard and mercenary groups throughout Casmaron.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 forceful
 two-hand 
@@ -254,13 +254,13 @@ LOIL
 PAGE
 221
 GOLD
-0.7
+7
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This blade features multiple curves in a serpentine pattern set on a wide, asymmetrical base, its hilt and sheath often intricately decorated.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 deadly 
@@ -284,7 +284,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This long, narrow blade is attached to a gauntlet that also acts as a handguard.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 twin
@@ -302,13 +302,13 @@ LOKL
 PAGE
 86
 GOLD
-4
+0.4
 LEVEL
 0
 BULK
 2
 ENTRY
-This lance appears shorter and stockier in comparison to other weapons of its type. The war lance most notably features shielding integrated into its vamplate, exchanging its reach for a sturdier base when defending against attacks or attempting to overpower an opponent.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 deadly 
@@ -334,7 +334,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A dagger attached to a retractable mechanism is integrated in this gauntlet's dorsum, so a combatant can quickly arm themself with a blade to exploit the weak points in an enemy's armor. Switching configurations on the gauntlet reveals or retracts the contained dagger as appropriate. The dagger isn't removable, and thus can't be wielded or etched with runes separately from the gauntlet.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -360,7 +360,7 @@ LEVEL
 BULK
 2
 ENTRY
-Ogres are known for using immense, curved picks called ogre hooks. These uncommon weapons cost 1 gp, deal {@damage 1d10} piercing damage, have 2 Bulk, and require two hands to use. Ogre hooks are in the {@group pick} weapon group. Ogre hooks have the {@trait deadly <1d10>} and {@trait trip} weapon traits.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 trip
@@ -384,7 +384,7 @@ LEVEL
 BULK
 2
 ENTRY
-A common cutting tool, an adze resembles an axeóbut the cutting edge is horizontal, rather than vertical. The adze's shape makes it popular among wood workers, and grippli builders often use them to construct their treetop homes. The tool also serves as an effective weapon, due in part to the immense strength required to swing it.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 forceful
 grippli
@@ -408,7 +408,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A thin-barreled firearm that uses a container of pressurized air instead of black powder to propel small metal bullets from an attached cartridge, the air repeater has fallen out of common use in Arcadia due to its poor stopping power, though it's still used occasionally for casual hunting and sport shooting. The air repeater and its {@item long air repeater|G&G|longer-ranged, two-handed variant} are still valued by some for their ability to allow a shooter to fire multiple rounds without needing to stop to reload or crank to a new chamber. A typical air repeater magazine holds 6 {@item pellets|G&G}.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -432,7 +432,7 @@ LEVEL
 BULK
 1
 ENTRY
-The aklys is a throwing club with a hook on one end and a lengthy cord attached to the other. It is an uncommon advanced melee weapon in the {@group club} group. It deals 1d6 bludgeoning damage and has 1 Bulk. It requires one hand to use and has the ranged trip, tethered, thrown <20 feet>, and trip weapon traits; the new traits are described below. Though aklyses aren't available in most shops, one might be purchased for 5 gp from a vendor that specializes in strange weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 ranged trip
@@ -458,7 +458,7 @@ LEVEL
 BULK
 1
 ENTRY
-This crossbow can deliver alchemically infused bolts. The strange weapon has a metal bracket mounted on the side of the stock near the lath. As an action, you can load a single {@filter lesser alchemical bomb|items||Category=Bomb|Item=Alchemical|Type=Specific Variant|Level=[1;2]} into the bracket; this bomb must be one that deals energy damage (such as an {@item lesser acid flask||acid flask}, {@item lesser alchemist's fire||alchemist's fire}, {@item lesser bottled lightning||bottled lightning}, {@item lesser frost vial||frost vial}, or {@item lesser thunderstone||thunderstone}). The next three attacks made with the crossbow deal {@damage 1d6} damage of the bomb's damage type in addition to the crossbow's normal damage. If the second and third attacks are not all made within 1 minute of the first attack, the bomb's energy is wasted. These attacks never deal {@trait splash} damage or other special effects of the bomb and are not modified by any abilities that add to or modify a bomb's effect. The addition of the bracket serves to unbalance the weapon, reducing its range to 30 feet.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 alchemical
@@ -475,13 +475,13 @@ LOWG
 PAGE
 28
 GOLD
-20
+25
 LEVEL
 1
 BULK
 1
 ENTRY
-An Aldori dueling sword is a slim, single-bladed dueling sword with a slight curve and a sharp, reinforced point. It deals {@damage 1d8} slashing damage. An aldori dueling sword is an advanced one-handed melee weapon in the sword weapon group.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 finesse
@@ -505,7 +505,7 @@ LEVEL
 BULK
 2
 ENTRY
-This is a long rifle that offers more range than the average firearm, though the long barrel and ferocious kickback make the weapon particularly unsteady unless a tripod or other stand is used to stabilize it. The arquebus is one of the most commonly used long guns among the soldiers of Dongun Hold and Alkenstar.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -530,7 +530,7 @@ LEVEL
 BULK
 1
 ENTRY
-The asp coil, named both for its slithering striking style and its usage among Aspis Consortium agents, has two forms. In sword form, it resembles an elegant, oddly balanced sword. However, with a twist of the pommel, the blade splits into a series of segments connected by elaborate metal cables. Agents of the Aspis Consortium have access to this weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 reach
@@ -554,7 +554,7 @@ LEVEL
 BULK
 1
 ENTRY
-The bow staff is a whipstaff with a retracting spool of wire inside a metal cap on one end and a hooked protrusion on the other. A wielder trained in the weapon's use can quickly spool and attach or detach the wire to transition the weapon between bow and staff functionality.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 combination
 weapon
@@ -583,7 +583,7 @@ LEVEL
 BULK
 2
 ENTRY
-The mikazuki combines a sansetsukon with a thin length of metal string and several locking mechanisms built into the joints, allowing it to be quickly locked into configuration as a bow.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 combination
 weapon
@@ -612,7 +612,7 @@ LEVEL
 BULK
 2
 ENTRY
-This lance has a heavy grip with two parallel crossbow fixtures built into it, making it a useful weapon for combats who prefer to keep their distance at all times.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 combination
 weapon
@@ -639,7 +639,7 @@ LEVEL
 BULK
 2
 ENTRY
-The wrecker combines a dwarven dorndergar with a heavy, gear-reinforced arm cover that allows it to be fired like an oversized sling, then retrieved and reloaded by manually activating a clockwork spool. A wrecker must be loaded to be switched from its ranged configuration to its melee configuration.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 combination
 weapon
@@ -667,7 +667,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A crescent cross combines a small scizore with an arm-mounted crossbow apparatus that can hold up to three bolts at a time.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 combination
 weapon
@@ -695,7 +695,7 @@ LEVEL
 BULK
 1
 ENTRY
-This unusual combination weapon integrates features of a {@item flintlock pistol|G&G} and a {@item shortsword}. Like other combination weapons, a wielder can transform it between ranged and melee modes as an {@action Interact} action.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -725,7 +725,7 @@ LEVEL
 BULK
 2
 ENTRY
-This item, favored by firearms-using dwarves and barbarians, takes the form of a sturdy musket with an axeblade attached near the muzzle.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -755,7 +755,7 @@ LEVEL
 BULK
 2
 ENTRY
-This complex wooden device, worn on the back, contains a miniature ballista on a retractable arm. As an {@action Interact} action, you can pull a lever to deploy or retract the ballista. As long as it remains deployed, you must hold the ballista using that hand or some of the components spill out onto the ground, just like dropping any other weapon. While deployed, the device opens and raises the ballista up over your shoulder. While retracted, the ballista and its mount slide down and are {@condition concealed} within the device. Although a backpack ballista packs a punch, the device is a challenge to operate. Reloading it takes 1 minute and can't be done while worn. As normal, you can't wear a backpack ballista with another backpack.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 weapon
@@ -777,7 +777,7 @@ LEVEL
 BULK
 3
 ENTRY
-This wooden device is worn on the back and contains a miniature catapult mounted on a retractable frame. As an {@action Interact} action, you can pull a lever to deploy or retract the catapult. As long as it remains deployed, you must hold the catapult using that hand or some of the components spill out onto the ground, just like dropping any other weapon. While deployed, the device opens and raises the catapult up over your shoulder. While retracted, the catapult and its mount slide down and are {@condition concealed} within the device. A backpack catapult fires specialized stone spheres that are loaded into the bucket while unworn and retracted, through a sliding hatch; the reloading process takes 1 minute. To prevent misfires and accidental injury, the bucket fully encloses the stone while deployed, only opening when fired. As normal, you can't wear a backpack catapult with another backpack.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 volley 
@@ -800,7 +800,7 @@ LEVEL
 BULK
 1
 ENTRY
-This broad-bladed sword, sometimes called the hand-and-a-half sword, has a longer grip so it can be held in one hand or used with two hands to provide extra piercing or slashing power.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 two-hand 
 weapon
@@ -822,7 +822,7 @@ LEVEL
 BULK
 1
 ENTRY
-These axes are designed explicitly as weapons, rather than tools. They typically weigh less, with a shaft reinforced with metal bands or bolts, and have a sharper blade, making them ideal for chopping limbs rather than wood.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 sweep
 weapon
@@ -844,7 +844,7 @@ LEVEL
 BULK
 1
 ENTRY
-This reinforced lute is suitable both for use as a {@item handheld musical instrument} and for bashing heads should a crowd turn sour. Its strings are finely braided wires that run along its sturdy metal neck.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 shove
@@ -862,13 +862,13 @@ G&G
 PAGE
 150
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This blade or spike can be attached to a crossbow or firearm but, unlike other attached weapons, can be wielded in one hand as its own weapon. When used as a separate weapon, it can't benefit from any runes or abilities that function only for attached weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 attached 
@@ -886,13 +886,13 @@ G&G
 PAGE
 157
 GOLD
-10
+2
 LEVEL
 1
 BULK
 2
 ENTRY
-Developed by a goblin weaponsmith who missed the 'hand' part of 'hand cannon', this comically-oversized gun has a heavily reinforced barrel and is loaded with a worrisome quantity of gunpowder.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 cobbled
@@ -918,7 +918,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This pair of knuckle dusters is fitted with an explosive charge of black powder within the hollowed spikes of the weapon and a firing mechanism you hold in your hand while in use.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -941,13 +941,13 @@ EC1
 PAGE
 77
 GOLD
-2.0
+20
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This weapon consists of two bladed discs joined by a central axel, and is spun on a rope whose ends are attached to wand-like sticks. The wielder can hurl the diabolo from the rope like a stone from a sling, or swing it on the rope in melee.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 backswing
@@ -974,7 +974,7 @@ LEVEL
 BULK
 1
 ENTRY
-This circular hoop has blades along its outer edge. You can wield it in two hands (using the two-hand damage) or by spinning it around an arm. While you spin the hoop, it gains the free-hand trait. Setting the hoop spinning takes 1 Interact action. In addition to the normal restrictions of the free-hand trait, extended use of the arm for locomotion (such as to Climb) interferes with the hoop's spinning and forces you to Release the hoop. You can't spin a hoop underwater. Keeping the hoop spinning requires a free action each round, which has the concentrate and manipulate traits. You can keep a hoop spinning as an exploration activity, but doing so for more than 10 minutes makes you fatigued, similarly to Hustling.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 finesse
@@ -999,7 +999,7 @@ LEVEL
 BULK
 1
 ENTRY
-This sword has a broad blade, along which are threaded nine heavy metal rings, leading some to call it the nine-ring sword. The rings add weight to the weapon for broad swings and clash together to make noise.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 sweep
@@ -1016,13 +1016,13 @@ TV
 PAGE
 25
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 1
 ENTRY
-A combat lure is a weighted leather sack at the end of a length of toughened cord and can be used both to bludgeon opponents and signal directions to a trained avian or other animal.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 finesse
@@ -1048,7 +1048,7 @@ LEVEL
 BULK
 1
 ENTRY
-Forged with a heavy metal wedge as a spearhead, breaching pikes are often used by hobgoblin infantry alongside a tower shield. Breaching pikes are particularly effective at damaging enemy shields, leaving large, triangular puncture holes behind.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 hobgoblin
@@ -1073,7 +1073,7 @@ LEVEL
 BULK
 1
 ENTRY
-The thin metal plates interwoven throughout this long scarf turn a fashion accessory into a deadly weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -1094,13 +1094,13 @@ CRB
 PAGE
 281
 GOLD
-0.1
+1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This long, narrow tube is used for shooting blowgun darts, using only the power of a forcefully exhaled breath.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 nonlethal
@@ -1117,13 +1117,13 @@ G&G
 PAGE
 151
 GOLD
-8
+0.8
 LEVEL
 0
 BULK
 2
 ENTRY
-This weapon fires pellets from a trumpet-shaped barrel, making it an excellent choice for hunting brush fowl or dealing damage within a short, broad area. Adventuring gunslingers often carry a blunderbuss to deal with swarms of vermin and similar threats.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -1141,13 +1141,13 @@ CRB
 PAGE
 280
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 2
 ENTRY
-This strong but slender staff is tapered at the ends and well balanced. It's designed to be an offensive and defensive weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 monk
 parry
@@ -1166,13 +1166,13 @@ AAWS
 PAGE
 1
 GOLD
-1
+0.1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This small axe sports a spike opposite the blade that aids in climbing and is useful in clearing obstacles, such as fallen rigging. This weapon is common in the High Seas region, on the Isle of Kortos and within azarketi settlements.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 azarketi
@@ -1192,13 +1192,13 @@ LOPSG
 PAGE
 81
 GOLD
-0.8
+8
 LEVEL
 1
 BULK
 2
 ENTRY
-Taking the form of a longspear fitted with crossbars or hooks, a boarding pike provides its wielder a sharp implement that's as adept at shoving enemies off a ship's railings as facilitating the boarding of other vessels. This is a martial melee weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 reach
@@ -1222,7 +1222,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This throwing weapon consists of weights tied to the end of long cords, which can be used to entangle foes.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 nonlethal
 ranged trip
@@ -1240,13 +1240,13 @@ LOKL
 PAGE
 86
 GOLD
-20
+2.0
 LEVEL
 0
 BULK
 2
 ENTRY
-A custom, lightweight mail is fitted within the lining of a coat or similar apparel, physically hiding the armor while maintaining the wearer's fashion. While not nearly as protective as heavier armors, the armored coat allows the wearer to blend in more aesthetically during civilian functions. Like other suits of armor, the armored coat is custom-fitted to an individual's body type, ensuring comfort without sacrificing its defensive capabilities.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 comfort
 flexible
@@ -1267,7 +1267,7 @@ LEVEL
 BULK
 2
 ENTRY
-Though referred to as a breastplate, this type of armor consists of several pieces of {@item full plate||plate} or {@item half plate} armor that protect the torso, chest, neck, and sometimes the hips and lower legs. It strategically grants some of the protection of {@item full plate||plate} while allowing greater flexibility and speed.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 medium
@@ -1286,7 +1286,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This very small shield is a favorite of duelists and quick, lightly armored warriors. It's typically made of steel and strapped to your forearm. You can {@action Raise a Shield} with your buckler as long as you have that hand free or are holding a light object that's not a weapon in that hand.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 
@@ -1303,7 +1303,7 @@ LEVEL
 BULK
 1
 ENTRY
-The gauntlet bow is a heavy metal glove with a built-in crossbow and rotating chamber mechanism for easy reloading. A gauntlet bow can be used to make melee attacks like a standard gauntlet. You can't reload a gauntlet bow with the hand wielding it.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 capacity 
 free-hand
@@ -1327,7 +1327,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A gakgung is a type of composite reflex bow that combines speed and power in equal amounts for effective precision shooting.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 monk
@@ -1351,7 +1351,7 @@ LEVEL
 BULK
 1
 ENTRY
-This one-handed crossbow has four arms instead of two, and four rotating chambers that can be pre-loaded with bolts for more efficient firing. The chamber can be swapped and the arms redrawn with a simple crank device built into the crossbow.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 capacity 
 weapon
@@ -1373,7 +1373,7 @@ LEVEL
 BULK
 1
 ENTRY
-As the name implies, a shield bow is a bow with an integrated shielding surface. While versatile and effective, a shield bow's architecture limits its flexibility somewhat, decreasing its total draw strength and penetrating power.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 parry
@@ -1396,7 +1396,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A spraysling is similar to a standard sling but with a wider cup fitted with a thin blade affixed to the cup's edges. When used to make an attack with a specially prepared packet of spray pellets, the razor slices open the packet and the weapon launches a cluster of stinging pellets.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 halfling
@@ -1415,13 +1415,13 @@ TV
 PAGE
 30
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-The boomerang is a carved piece of wood designed to curve as it flies through the air, returning to the wielder after a successful throw.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 recovery
@@ -1439,13 +1439,13 @@ TV
 PAGE
 30
 GOLD
-5
+0.5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-NA
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -1464,13 +1464,13 @@ TV
 PAGE
 30
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Similar to a chakram, chakri are too light to be wielded in melee but allow the user significantly more control over their throws. A chakri is small and light enough that up to two can be worn on each wrist; a chakri worn on the wrist is reload 0 instead of reload ó.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 recovery
@@ -1488,13 +1488,13 @@ TV
 PAGE
 30
 GOLD
-10
+1.0
 LEVEL
 1
 BULK
 2
 ENTRY
-This massive bow is made from bone or wood reinforced with flexible metal strips and strung with reinforced cord. Designed by hobgoblin engineers to take down shielded opponents, the phalanx piercer fires heavy, iron-shod bolts.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 concussive
 hobgoblin
@@ -1520,7 +1520,7 @@ LEVEL
 BULK
 1
 ENTRY
-The sukgung is an extremely efficient crossbow most common in the nation of Hwanggot. Capable of lethal shots at remarkable distances, the sukgung is well-balanced enough to be fired with one hand.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 fatal aim 
 weapon
@@ -1542,7 +1542,7 @@ LEVEL
 BULK
 1
 ENTRY
-Often used for hunting exceptionally large aquatic creatures, the harpoon is similar to a javelin but features a barbed head and rope tether so it (or the corpse it's attached to) can be easily retrieved.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 tethered
 thrown
@@ -1565,7 +1565,7 @@ LEVEL
 BULK
 2
 ENTRY
-Invented by Belkzen's zealous Steel-Eaters, the butchering axe has an oversized head and a long, thick haft counterbalanced with steel or stone. The weapon's sweeping strokes inflict immense damage, particularly against groups of foes, and can push dangerous opponents away to a safe distance. All of these qualities are particularly useful against the lumbering zombie hordes of the Whispering Tyrant. Correspondingly, butchering axes are often wielded by orc and half-orc Crimson Reclaimers of Lastwall.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 orc
@@ -1590,7 +1590,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This short, single-edged sword typically features a cross guard that helps catch oncoming attacks. It's the preferred weapon of Butterfly Bladesóhighly skilled Gokan assassins. These swords are typically crafted and sold in pairs.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -1618,7 +1618,7 @@ LEVEL
 BULK
 1
 ENTRY
-A blade of conrasu design, a buugeng has a unique, curved shape that allows it to rotate smoothly in the hand of a trained warrior. This spinning motion makes it easier to attack multiple foes at once with the weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -1644,7 +1644,7 @@ LEVEL
 BULK
 1
 ENTRY
-This fashionable cane's handle hides a dueling pistol fired through the thin, painted cap at the bottom of the cane.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -1674,7 +1674,7 @@ LEVEL
 BULK
 2
 ENTRY
-A suit of chain mail consists of several pieces of armor composed of small metal rings linked together in a protective mesh. It typically includes a chain shirt, leggings, a pair of arms, and a coif, collectively protecting most of the body.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 flexible
 noisy
@@ -1695,7 +1695,7 @@ LEVEL
 BULK
 1
 ENTRY
-Sometimes called a hauberk, this is a long shirt constructed of the same metal rings as {@item chainmail}. However, it is much lighter than {@item chainmail} and protects only the torso, upper arms, and upper legs of its wearer.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 flexible
 noisy
@@ -1710,13 +1710,13 @@ LOTGB
 PAGE
 107
 GOLD
-0.5
+5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Simple, elegant, and portable, the chakram is an open-centered metal discus with a sharpened edge, as well as a grip running along the center so the wielder can hold it safely.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 thrown
 weapon
@@ -1732,13 +1732,13 @@ CRB
 PAGE
 280
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This broad dagger is carried by dwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 dwarf
@@ -1764,7 +1764,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-The tradition of dwarves displaying their clan affiliations with special clan daggers goes back millennia, but many of the dwarf clans of Dongun Hold have their own take on the tradition, with promising young gunsmiths claiming their adulthood by crafting a specialized personal firearm using the clan's unique smithing traditions. Losing or being forced to surrender their clan pistol is a terrible embarrassment for the dwarves that carry them.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -1789,7 +1789,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-The three parallel blades of this handheld weapon extend between the fingers to resemble the natural claws of the amurruns who created them, providing a way for those catfolk without suitable natural claws to share the fighting customs of their kin.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -1811,13 +1811,13 @@ G&G
 PAGE
 85
 GOLD
-200
+2
 LEVEL
 6
 BULK
 2
 ENTRY
-Sometimes, just disguising one's face just isn't convincing enough. Clockwork disguises were invented to supplement regular disguise kits, which are used all across Golarion. For example, if a spy wants to infiltrate a military camp, they must be wearing the same type of armor as the soldiers stationed thereóor else have a very good explanation for their commander as to why they're out of proper uniform! The clockwork disguise is intended to help avoid such awkward, potentially fatal confrontations.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 clockwork
@@ -1838,7 +1838,7 @@ LEVEL
 BULK
 1
 ENTRY
-This finely-made wooden club has a beautiful, lacquered finish that gleams in the sunlight. A heavy ring of gears lined with sharpened pieces of obsidian automatically and constantly spin around the bulk of the wooden club lengthwise. Striking a foe digs the obsidian gears into the enemy's flesh and tears it with its blades. The ever-turning gears also help to dislodge an enemy's defensive position against the weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 backswing
 clockwork
@@ -1864,7 +1864,7 @@ LEVEL
 BULK
 1
 ENTRY
-This is a piece of stout wood shaped or repurposed to bludgeon an enemy. Clubs can be intricately carved pieces of martial art or as simple as a tree branch or piece of wood.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 thrown 
 weapon
@@ -1886,7 +1886,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This small pistol is easily concealed inside a jacket or some other article of clothing. Rarely kept as a primary weapon, coat pistols are equally favored by clever assassins and traveling Alkenstar aristocrats.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concealable
@@ -1905,13 +1905,13 @@ LOPSG
 PAGE
 81
 GOLD
-0.9
+9
 LEVEL
 1
 BULK
 1
 ENTRY
-Although grappling hooks typically serve as a climbing tool, this specially reinforced grapnel attached to a rope up to 10 feet long can be swung as a weapon. This is a martial melee weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 finesse
@@ -1931,13 +1931,13 @@ CRB
 PAGE
 282
 GOLD
-20
+2.0
 LEVEL
 0
 BULK
 2
 ENTRY
-This projectile weapon is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Like all longbows, its great size also increases the bow's range and power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil's favored weapon, it also applies to composite longbows unless otherwise stated.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 propulsive
@@ -1961,7 +1961,7 @@ LEVEL
 BULK
 1
 ENTRY
-This shortbow is made from horn, wood, and sinew laminated together to increase the power of its pull and the force of its projectile. Its compact size and power make it a favorite of mounted archers. Any time an ability is specifically restricted to a shortbow, it also applies to composite shortbows unless otherwise stated.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 propulsive
@@ -1984,7 +1984,7 @@ LEVEL
 BULK
 1
 ENTRY
-This ranged weapon has a bow-like assembly mounted on a handled frame called a tiller. The tiller has a mechanism to lock the bowstring in place, attached to a trigger mechanism that releases the tension and launches a bolt.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 weapon
 simple
@@ -1999,13 +1999,13 @@ CRB
 PAGE
 280
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -2024,13 +2024,13 @@ G&G
 PAGE
 158
 GOLD
-8
+0.8
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This weapon, favored by rangers and other wilderness wanderers, takes the form of a stoutly built pistol with a dagger blade attached beneath the barrel and extending out past the muzzle.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -2055,13 +2055,13 @@ CRB
 PAGE
 281
 GOLD
-0.01
+1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This thrown weapon is larger than an arrow but shorter than a javelin. It typically has a short shaft of wood ending in a metal tip and is sometimes stabilized by feathers or fur.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 thrown
@@ -2078,13 +2078,13 @@ G&G
 PAGE
 63
 GOLD
-1
+0.01
 LEVEL
 0
 BULK
 1
 ENTRY
-This umbrella fires tiny blowgun darts from its ferrule with a twist of the handle. The darts are loaded into the shaft, and though the damage they deal is minimal, the dart umbrella is an inconspicuous weapon easy to slip past inspections.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 concealable
@@ -2103,13 +2103,13 @@ CRB
 PAGE
 281
 GOLD
-0.1
+1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This short, curved, and crude makeshift blade often has holes drilled into it to reduce its weight. It's a favored weapon of goblins.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 backstabber
@@ -2129,13 +2129,13 @@ G&G
 PAGE
 151
 GOLD
-11
+1.1
 LEVEL
 1
 BULK
 1
 ENTRY
-This flintlock breech-loader has two side-by-side barrels. Though less accurate than a standard musket, a double-barreled musket offers versatility in firing options. Many of Alkenstar's famous shield marshals save their earnings to buy a double-barreled musket as their first personal firearm.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -2160,7 +2160,7 @@ LEVEL
 BULK
 1
 ENTRY
-This flintlock pistol has two side-by-side barrels. Though less accurate than a standard pistol, a double-barreled pistol is a useful and versatile weapon. It's generally banned in areas where duels with pistols are relatively common, in much the same way that arriving at an aristocratic duel with a scattergun would be considered crass, at best.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -2185,7 +2185,7 @@ LEVEL
 BULK
 1
 ENTRY
-Similar to the blunderbuss, a dragon-mouth pistol fires pellets from a flared barrel. Though less powerful than a blunderbuss, the dragon-mouth pistol is appreciated for its portability and one-handed design. Though the name was coined because of the destructive belch of this handheld scatter weapon, many gunsmiths craft dragon-mouth pistols with elaborate embellishments that resemble a stylized dragon's maw framing the barrel.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -2209,7 +2209,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Made for settling disputes when diplomacy fails, dueling pistols are finely crafted and made to fit easily into a holster or pocket. Noble and wealthy merchants in both Alkenstar and Dongun Hold often own matching pairs of dueling pistols in case they're called upon to address a challengeóthough this practice has become increasingly rare in the modern age.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concealable
@@ -2234,7 +2234,7 @@ LEVEL
 BULK
 2
 ENTRY
-This spear has a spade-like blade at one end and a forked blade at the other, making it resemble a large arrow. It's well balanced for spinning and twisting maneuvers. The spade-like end can be used for slashing and stabbing, while the forked end is effective at wrenching a weapon from an enemy's grasp.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -2259,7 +2259,7 @@ LEVEL
 BULK
 2
 ENTRY
-A favored weapon of dwarf scouts from Dongun Hold, the dwarven scattergun is a powerful weapon designed to take advantage of a dwarf's sturdy frame. A dwarven scattergun fires a large paper cartridge stuffed with black powder and knuckle-sized lumps of metal, creating a devastating burst so destructive that a foolish dwarf might find themself catching painful ricochets when firing at a too-close target. Some scatterguns are crafted with a clockwork firing tray that can quickly sort and load black powder and shot without needing a prepackaged cartridge, though this is largely an aesthetic feature with no real mechanical benefit.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -2279,13 +2279,13 @@ TV
 PAGE
 30
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 1
 ENTRY
-Atlatls are long, narrow pieces of shaped wood or antler used as levers to hurl darts faster and farther than would otherwise be possible. An atlatl uses darts as ammunition.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 propulsive
 weapon
@@ -2301,13 +2301,13 @@ CRB
 PAGE
 281
 GOLD
-3
+0.3
 LEVEL
 0
 BULK
 2
 ENTRY
-This favored weapon of the dwarves has a large, ornate head mounted on a thick handle. This powerful axe can be wielded with one hand or two.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 dwarf
 sweep
@@ -2332,7 +2332,7 @@ LEVEL
 BULK
 1
 ENTRY
-Several short branches project from this delicate spear's shaft, each angled forward and tipped with a leaflike blade.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 elf
@@ -2358,7 +2358,7 @@ LEVEL
 BULK
 2
 ENTRY
-Essentially a longer version of the scimitar, this traditional elven weapon has a thinner blade than its cousin.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 elf
 finesse
@@ -2383,7 +2383,7 @@ LEVEL
 BULK
 1
 ENTRY
-Quilted armor is built in a long coat intended for defensive use without other armor. Quilted armor protects the upper body and legs, differentiating it further from the typical padded undercoat. This armor is frequently made in stylish colors or patterns to facilitate use as protective outerwear or a military uniform.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 comfort
 armor
@@ -2403,7 +2403,7 @@ LEVEL
 BULK
 2
 ENTRY
-Traditional armor from Senghor, ceramic plate alleviates the need for metallurgy and smithing, instead relying on ceramic firing, glazing, and strong cord work with a backing of leather and thick canvas. Ceramic plate that follows Senghor's style is colorful and artistic, and is built with the {@item armor latches|tv} armor adjustment.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 adjusted 
 noisy
@@ -2424,7 +2424,7 @@ LEVEL
 BULK
 3
 ENTRY
-Hellknights wear a variety of armors decorated with designs specific to the order. {@item Hellknight half plate|TV} is the armor of choice for Hellknight signifiers, and {@item Hellknight breastplate|TV} serves those in the order who lack the training to wear heavy armor.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 a character who is a member of the {@organization hellknights} has access to this option.
@@ -2435,17 +2435,17 @@ plate
 NAME
 Hellknight Plate
 SOURCE
-LOCG
+TV
 PAGE
-80
+9
 GOLD
-35
+20
 LEVEL
 2
 BULK
 4
 ENTRY
-Hellknights wear a variety of armors decorated with designs specific to the order. {@item Hellknight half plate|TV} is the armor of choice for Hellknight signifiers, and {@item Hellknight breastplate|TV} serves those in the order who lack the training to wear heavy armor.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 a character who is a member of the {@organization hellknights} has access to this option.
 uncommon
@@ -2467,7 +2467,7 @@ LEVEL
 BULK
 1
 ENTRY
-Hellknights wear a variety of armors decorated with designs specific to the order. {@item Hellknight half plate|TV} is the armor of choice for Hellknight signifiers, and {@item Hellknight breastplate|TV} serves those in the order who lack the training to wear heavy armor.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 a character who is a member of the {@organization hellknights} has access to this option.
 uncommon
@@ -2488,7 +2488,7 @@ LEVEL
 BULK
 5
 ENTRY
-Larger plates coupled with lamellar pieces to make up a suit of heavy lamellar. The custom-fitted and often highly decorative suit covers most of the body. Rounding out the suit are a tiered helmet and fearsome mask, often depicting a fiendish or monstrous creature.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 bulwark
 laminar
@@ -2509,7 +2509,7 @@ LEVEL
 BULK
 5
 ENTRY
-Dwarves of Dongun Hold developed fortress plate, which is still popular in Alkenstar and Dongun Hold. A trained wearer can adjust the articulated armor's overlapping layers of plates and panels to provide protection from missiles.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 bulwark
 entrench 
@@ -2531,7 +2531,7 @@ LEVEL
 BULK
 5
 ENTRY
-This cumbersome and sturdy plate armor has fluting and additional protection built into the cuirass, helm, pauldrons, and vambraces. Bastion plate was invented for protection in combat tournaments meant to be sporting rather than lethal.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 bulwark
 entrench 
@@ -2553,7 +2553,7 @@ LEVEL
 BULK
 2
 ENTRY
-A suit of carved and tempered wood, a wooden breastplate resembles a metal breastplate in shape and function. Such suits can be carved from large pieces of wood, but they most often come from wood coaxed magically from special trees, whether by druids, elves, fey, or plant creatures such as arboreals or leshys.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 medium
@@ -2572,7 +2572,7 @@ LEVEL
 BULK
 2
 ENTRY
-Erutaki communities deep in the Crown of the World, where wood is hard to come by, fashion armor from slats and strips of bone or horn, along with whole bones or horns. Wealthier wearers sometimes pay for decorative embellishments made of more precious materials. Niyah√°at is usually woven together with strong cord, forming a suit like a breastplate. This suit is worn over heavy clothing or a surcoat like padded armor. Some suits incorporate parts of powerful creatures, creating a storied history for the suit and its wearers.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 laminar
 armor
@@ -2592,7 +2592,7 @@ LEVEL
 BULK
 2
 ENTRY
-Fine metal cables woven into latticework patterns form this armor. This armor disperses blows much like rings of chain mail, but is much tighter in construction, making it quieter.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 medium
@@ -2611,7 +2611,7 @@ LEVEL
 BULK
 2
 ENTRY
-Slats of lacquered steel or other metal held together with cord, whether leather or silk, make up most lamellar breastplates. The lacquering prevents the metal from corroding.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 hindering
 laminar
@@ -2632,7 +2632,7 @@ LEVEL
 BULK
 2
 ENTRY
-A good option for undersea explorers and aquatic peoples alike, coral armor consists of panels of carved coral. If worn underwater, some of this coral can even be alive.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 aquadynamic
 armor
@@ -2652,7 +2652,7 @@ LEVEL
 BULK
 1
 ENTRY
-Sankeit is common armor among Varki in the northern Land of the Linnorm Kings, made of small wooden plates or longer slats, typically vertical, joined with sinew or cord and painted with decorations. Varki warriors traditionally wear sankeit with a fearsome wooden helm carved in the shape of a mighty creature.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 laminar
 armor
@@ -2672,7 +2672,7 @@ LEVEL
 BULK
 1
 ENTRY
-Leather lamellar is a composite armor made of small rectangular pieces of lacquered leather laced together with high‚Äëquality cord. It's typically worn with an undershirt.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 laminar
 armor
@@ -2692,7 +2692,7 @@ LEVEL
 BULK
 1
 ENTRY
-Specialized crafters, often elves, create leaf weave out of sturdy leaves from ancient or magically enriched trees. Such leaves, when treated properly, have the strength of leather, and other tough plant materials hold the leaves together to form the armor. Such suits are popular among those who wish to avoid materials taken from slain beasts. As a material, leaf weave has the same statistics as thin wood.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 laminar
 armor
@@ -2712,7 +2712,7 @@ LEVEL
 BULK
 1
 ENTRY
-Absalom style once led famous adventurers to wear clothing with an unusual number of buckles, pouches, and straps. This fashion birthed a trend that led to "buckle armor," a colloquial name for chic armor with spacious tool storage. Buckle armor comes with the {@item storage|tv} armor adjustment.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 adjusted 
 noisy
@@ -2733,7 +2733,7 @@ LEVEL
 BULK
 1
 ENTRY
-Construction of mantis shell armor originates with the Red Mantis assassins. Authentic mantis shell can be found in some dark markets, but wearing such armor can attract deadly attention from the armor's originators. Mantis shell comes with the {@item weapon harness adjustment|tv}, though these special vambraces are meant to hold sawtooth sabers, and attaching anything else is an insult to the Red Mantis. A character who is a member of the Red Mantis assassins has access to this uncommon armor.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 adjusted 
@@ -2748,13 +2748,13 @@ TV
 PAGE
 9
 GOLD
-1.5
+15
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Scroll robes are composed of paper alchemically treated for strength and flexibility. A layered structure prevents cutting and tearing, and for the purpose of calculating damage, the robes are considered to be cloth. The paper accepts all sorts of decoration, including magical writing, as detailed in the inscribed trait.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 inscribed
 armor
@@ -2774,7 +2774,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Also called martial arts suits or practice clothes, gi are outfits of tough cloth built for comfort and unrestricted movementóideal for practicing martial arts. They have reinforced stitching resistant to strenuous use.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 comfort
 armor
@@ -2794,7 +2794,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Adventurers who don't wear armor travel in durable clothing. Though it's not armor and uses your unarmored defense proficiency, it still has a Dex Cap and can grant an item bonus to AC if etched with {@item armor potency (generic)||potency runes}.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 comfort
 armor
@@ -2808,13 +2808,13 @@ G&G
 PAGE
 158
 GOLD
-10
+1.0
 LEVEL
 1
 BULK
 2
 ENTRY
-An explosive dogslicer is a sneaky, explosive weapon that often brings perverse joy to the goblins who use them. At first glance, it appears to be a triple-bladed {@item dogslicer} with an oversized guard.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -2843,7 +2843,7 @@ LEVEL
 BULK
 2
 ENTRY
-This weapon is a heavier, two-handed version of the curved-bladed scimitar. It is weighted toward the blade's end, making it a powerful slashing weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 forceful
 sweep
@@ -2866,7 +2866,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This kobold wire is thin and hard to see, making it perfect for an ambush. The wielder wraps the wire around a vulnerable spot, such as the neck, and twists it to inflict potentially fatal lacerations. The name derives from the use of a similar wire in traps, or slow fangs, with the word "slow" removed, as a fangwire gets quick results.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -2888,13 +2888,13 @@ LOCG
 PAGE
 92
 GOLD
-1.4
+0.4
 LEVEL
 0
 BULK
 2
 ENTRY
-A fauchard is similar to a {@item glaive}, save that its cutting edge is along the concave side. Fauchards are favored by Crimson Reclaimers for hacking through waves of zombies. The fauchard is a martial melee weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 reach
@@ -2919,7 +2919,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A scizore is a gauntlet or protective leather tube worn over the forearm and featuring a half-moon blade mounted to the end of the cap on a short pole.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 disarm
 parry
@@ -2942,7 +2942,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A war razor is an exaggerated version of the barbers' tool. It's a brittle but extremely sharp weapon that is very easy to slip into a pocket or sleeve.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 backstabber
@@ -2961,13 +2961,13 @@ TV
 PAGE
 25
 GOLD
-6
+0.6
 LEVEL
 0
 BULK
 2
 ENTRY
-Also known as a zhanmadao, the exceptionally long blade of the nodachi is designed to neutralize enemy mounts and counter the advantages of cavalry units. Its shape and size make it somewhat impractical for close combat but highly effective against charging opponents.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 brace
 deadly 
@@ -2991,7 +2991,7 @@ LEVEL
 BULK
 1
 ENTRY
-The falcata is a heavy, one-handed sword with a single cutting edge, usually flaring to be wider towards the point of the weapon and narrower towards the hilt.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 fatal 
 weapon
@@ -3013,7 +3013,7 @@ LEVEL
 BULK
 1
 ENTRY
-This weapon has practical uses in both farming and butchering, thanks to the efficiency and brutality of its forward-curving blade. It can be wielded in one or two hands.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 forceful
 sweep
@@ -3037,7 +3037,7 @@ LEVEL
 BULK
 2
 ENTRY
-This weapon consists of a long chain connected to a heavy weight at each end. When a wielder swings the weights by the chain, they build momentum and can serve as deadly bludgeons with incredible reach.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 backswing
 disarm
@@ -3056,13 +3056,13 @@ TV
 PAGE
 25
 GOLD
-0.7
+7
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This medium-length sword has a wide, gently curved blade and long grip. Though it's typically used to hack through heavy foliage, the machete can also b used as a deadly weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 sweep
@@ -3079,13 +3079,13 @@ TV
 PAGE
 25
 GOLD
-5
+0.5
 LEVEL
 0
 BULK
 2
 ENTRY
-The long hammer features a pronged hammer head designed for damaging knees and ankles, counterbalanced by a stout spike and affixed to a reinforced shaft between 5 and 7 feet long.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 brace
 dwarf
@@ -3111,7 +3111,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This single-edged blade has a guardless hilt. Often decorated with elaborate etchings, a flyssa is longer than most daggers but shorter than average for most swords, making it useful in close and pitched combat.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -3135,7 +3135,7 @@ LEVEL
 BULK
 2
 ENTRY
-This massive hammer's metal head is shaped or molded with heavy metal wedges along its primary striking surface, enabling it to tear through shields and armor with ease.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 razing
 shove
@@ -3160,7 +3160,7 @@ LEVEL
 BULK
 1
 ENTRY
-Traditionally a favored weapon in Molthune for settling disputes between military leaders, the dancer's spear has seen a recent resurgence in popularity in the neighboring kingdom of Nirmathas, largely due to its effectiveness at striking down attacking skeletons and other undead from a relatively safe distance. A dancer's spear has a 7-foot-long wooden haft capped with a triangular metal blade at one end, counterbalanced on the other end with a reinforced metal sleeve that, in a pinch, can be used as an effective striking surface.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 backswing
 finesse
@@ -3186,7 +3186,7 @@ LEVEL
 BULK
 2
 ENTRY
-A bec de corbin is a spiked polearm that uses a hammer head to help balance the spike. The hammer portion can be used as a secondary striking surface, while the spike or fluke is specially designed to punch through armor and shields.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 razing
 reach
@@ -3211,7 +3211,7 @@ LEVEL
 BULK
 2
 ENTRY
-The battle saddle is a special saddle for a mount that has two large, winglike blades. These blades normally lie flat alongside the saddle, providing additional protection for the rider, but they can be deployed with a tug on the reins to slash at enemies adjacent to the mount. When using a battle saddle to parry, you can decide whether the circumstance bonus to AC applies to you or to your mount.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 parry
 sweep
@@ -3229,13 +3229,13 @@ TV
 PAGE
 25
 GOLD
-0.1
+1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-The cast-iron frying pan is an essential tool for adventuring halflings, gold panners, and remote tavern owners. Characters with the {@feat Halfling Weapon Familiarity} ancestry feat are trained in the frying pan.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 fatal 
 halfling
@@ -3258,7 +3258,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A favored self-defense weapon among bar and tavern workers, the corset knife has a weighted hilt and a cylindrical, needlelike blade designed to be easily hidden in clothing, but quickly retrieved in a pinch.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 concealable
@@ -3283,7 +3283,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This fan is useful for elegant dances as well as for slicing unsuspecting foes with the blades along its outer edge. If used in performances, it might be disguised as a frilly accessory, or it might be an obvious, though elegant, weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -3304,13 +3304,13 @@ CRB
 PAGE
 281
 GOLD
-1
+0.1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This halfling weapon looks like a long, two-pronged fork and is used as both a weapon and a cooking implement.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 backstabber
@@ -3338,7 +3338,7 @@ LEVEL
 BULK
 2
 ENTRY
-This amazingly simple projectile weapon is nothing more than a metal tube packed with black powder and a stopper, attached to the sharpened head of a javelin. A loaded fire lance can be wielded as a normal {@item spear}, though it requires an {@action Interact} action to regrip the weapon and hold it properly when switching from one use to another. Fire lances are most commonly found in Tian Xia, though occasionally one makes its way all the way to Avistan, typically in the hands of a Tien mercenary or caravan guard.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 fatal 
@@ -3355,13 +3355,13 @@ EC1
 PAGE
 77
 GOLD
-5.0
+50
 LEVEL
 0
 BULK
 0.1
 ENTRY
-These special poi are made from a rare, light metal or from fire-retardant fibers and can be ignited before being wielded. Igniting a pair of fire poi is an Interact action and requires 1 pint of oil for every 10 minutes the poi remain ignited. While lit, fire poi cast dim light in a 10-foot radius; in combat, they deal 1d4 bludgeoning plus {@damage 1d4} fire damage. On a critical hit with a lit fire poi, the target takes 1 {@condition persistent damage||persistent fire damage}. The fire can be extinguished using the {@action Interact} action. When unlit, the poi deal only the listed bludgeoning damage. Regardless of whether it is lit, the poi's {@damage 1d4} bludgeoning damage is the weapon damage dice, so striking runes and other effects don't affect the fire damage.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -3387,7 +3387,7 @@ LEVEL
 BULK
 1
 ENTRY
-This weapon consists of a wooden handle attached to a spiked ball or cylinder by a chain, rope, or strap of leather.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 disarm
 sweep
@@ -3405,13 +3405,13 @@ G&G
 PAGE
 151
 GOLD
-6
+0.6
 LEVEL
 0
 BULK
 1
 ENTRY
-A flingflenser is a goblin-designed weapon ending in an ovoid tube with a hatch and handle on the narrow end. A cluster of circular blades held together and attached to a black powder packet with a thin leather strap serves as ammunition and is loaded through the hatch before being fired with a flintlock or other external ignition mechanism. The flingflenser's sturdy design also places it among the more reliable goblin weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 backstabber
@@ -3437,7 +3437,7 @@ LEVEL
 BULK
 1
 ENTRY
-The most commonly available of firearms in Alkenstar, the flintlock musket includes an external firing mechanism and an efficient and relatively compact frame. Though lacking the range and firing power of the {@item arquebus|G&G} preferred by Alkenstar and Dongun Hold's military members, the flintlock musket is popular among civilians for its ease of use.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -3461,7 +3461,7 @@ LEVEL
 BULK
 1
 ENTRY
-Though less accurate and powerful than a flintlock musket, the flintlock pistol is a preferred weapon of privateers thanks to its more compact size and affordability. Pirate captains often wear a brace of such pistols in a bandolier so they can draw and fire without stopping to reload.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -3479,13 +3479,13 @@ G&G
 PAGE
 150
 GOLD
-0.3
+3
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Developed by Alkenstar scouts who often don't have time to break down a tripod when beset by the chaotic mutant monsters of the Mana Wastes, this two-pronged stabbing weapon can be used as a bipod to stabilize a gun with potent kickback. A forked bipod can be deployed or retrieved for use as a melee weapon as an {@action Interact} action.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 deadly 
@@ -3503,13 +3503,13 @@ CRB
 PAGE
 275
 GOLD
-30
+3.0
 LEVEL
 2
 BULK
 4
 ENTRY
-Plate mail consists of interlocking plates that encase nearly the entire body in a carapace of steel. It is costly and heavy, and the wearer often requires help to don it correctly, but it provides some of the best defense armor can supply. A suit of this armor comes with an undercoat of {@item padded armor|CRB} and a pair of {@item gauntlet|CRB|gauntlets}.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 bulwark
 armor
@@ -3529,7 +3529,7 @@ LEVEL
 BULK
 1
 ENTRY
-These hooked staffs are popular among Senghor fishers and warriors alike. A gaff sized for a Medium creature is a common martial weapon in the {@group club} group. It deals {@damage 1d6} bludgeoning damage and has 1 Bulk. It requires one hand to use and has the {@trait trip} and {@trait versatile <P>} weapon traits. Gaffs are readily available in Senghor and nearby settlements for 1 gp.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 trip
 versatile
@@ -3546,13 +3546,13 @@ CRB
 PAGE
 280
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-A pair of these metal gloves comes with {@item full plate}, {@item half plate}, and {@item splint armor}; they can also be purchased separately and worn with other types of armor. They not only protect your hands but also transform your hands into lethal weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 free-hand
@@ -3569,13 +3569,13 @@ AAWS
 PAGE
 1
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 2
 ENTRY
-This spear has a specialized hook just before the tip that can catch on the gills of large fish. Azarketis primarily use this to hunt sharks, but it can also be used to hook flesh or armor. This weapon is common on the Isle of Kortos and within azarketi settlements.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 azarketi
 grapple
@@ -3600,7 +3600,7 @@ LEVEL
 BULK
 2
 ENTRY
-This polearm consists of a long, single-edged blade on the end of a 7-foot pole. It is extremely effective at delivering lethal cuts at a distance.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 forceful
@@ -3624,7 +3624,7 @@ LEVEL
 BULK
 2
 ENTRY
-Rumored to be the result of a gnomish dare to make a variant of a hooked hammer that's even more intricate and complex, this weapon adds a musket to the mix of an already overcomplicated device.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -3656,7 +3656,7 @@ LEVEL
 BULK
 1
 ENTRY
-More a flail than a mace, this weapon has a short handle attached to a length of chain with a ball at the end. The ball is propelled to its reach with the flick of the wrist, the momentum of which brings the ball back to the wielder after the strike.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 gnome
 reach
@@ -3681,7 +3681,7 @@ LEVEL
 BULK
 1
 ENTRY
-This gnome tool and weapon features a hammer at one end and a curved pick on the other. It's such a strange and awkward weapon that others think the gnomes are slightly erratic for using it.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 gnome
 trip
@@ -3707,7 +3707,7 @@ LEVEL
 BULK
 2
 ENTRY
-This large battle axe is too heavy to wield with only one hand. Many greataxes incorporate two blades, and they are often "bearded," having a hook at the bottom to increase the strength of their chopping power.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 sweep
 weapon
@@ -3729,7 +3729,7 @@ LEVEL
 BULK
 2
 ENTRY
-While many greatclubs are intricately carved, others are little more than a sturdy tree branch. These massive clubs are too heavy to wield with only one hand.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 backswing
 shove
@@ -3752,7 +3752,7 @@ LEVEL
 BULK
 2
 ENTRY
-This pick has a longer handle and broader head than a regular pick. It is too heavy to wield in one hand.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 fatal 
 weapon
@@ -3774,7 +3774,7 @@ LEVEL
 BULK
 2
 ENTRY
-This immense two-handed sword is nearly as tall as its wielder. Its lower blade is often somewhat dulled to allow it to be gripped for extra leverage in close-quarter fights.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 versatile 
 weapon
@@ -3796,7 +3796,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A griffon cane is named for the shape of its base, which features four small pronged supports splayed out in a manner similar to a griffon's talons. A griffon cane's splayed foot enables it to stand upright by itself. A griffon cane deals {@damage 1d6} bludgeoning damage, has the {@trait backswing} and {@trait two-hand <d10>} traits, and is a martial melee weapon in the {@group club} weapon group.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 backswing
 two-hand 
@@ -3819,7 +3819,7 @@ LEVEL
 BULK
 2
 ENTRY
-This polearm bears a long, often one-sided, curved blade with a hook protruding from the blunt side of the blade, which can allow its wielder to trip opponents at a distance. Its shaft is usually 8 feet long.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 reach
 trip
@@ -3842,7 +3842,7 @@ LEVEL
 BULK
 2
 ENTRY
-This weapon consists of a large sword with a powerful gun based on a harmona gun down the center. Vanguards and other characters who rely on Strength and Dexterity enjoy the power and flexibility of a gun sword.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -3871,7 +3871,7 @@ LEVEL
 BULK
 2
 ENTRY
-This polearm has a relatively short, 5-foot shaft. The business end is a long spike with an axe blade attached.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 reach
 versatile 
@@ -3894,7 +3894,7 @@ LEVEL
 BULK
 3
 ENTRY
-Half plate consists of most of the upper body plates used in full plate, with lighter or sparser steel plate protection for the arms and legs. This provides some of the protection of {@item full plate} with greater flexibility and speed. A suit of this armor comes with an undercoat of {@item padded armor|CRB} and a pair of {@item gauntlet|CRB|gauntlets}.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 heavy
@@ -3913,7 +3913,7 @@ LEVEL
 BULK
 1
 ENTRY
-This staff ends in a Y-shaped split that cradles a sling. The length of the staff provides excellent leverage when used two-handed to fling rocks or bullets from the sling.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 halfling
 propulsive
@@ -3937,7 +3937,7 @@ LEVEL
 BULK
 2
 ENTRY
-This weapon, favored by dwarves and those who like smashing and shooting, takes the form of a stoutly built gun designed similarly to an arquebus with a hammer head built into the muzzle, decreasing kickback but limiting range.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -3961,13 +3961,13 @@ LOAG
 PAGE
 139
 GOLD
-0.5
+5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This is a smaller version of an {@item adze|LOAG}, useful for more delicate woodworking or projects in cramped spaces. Gripplis use the hand adze for crafting and as close quarters weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 forceful
@@ -3987,13 +3987,13 @@ G&G
 PAGE
 151
 GOLD
-5
+0.5
 LEVEL
 0
 BULK
 1
 ENTRY
-Popular among privateers and mercenaries in Goka, hand cannons are little more than a hardened tube with a handle and external ignition attached. A hand cannon can be used to fire almost anything that can be packed into its barrel. The wielder of a hand cannon can change the damage type granted by its {@trait modular} trait as part of the same {@action Interact} action used to reload.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 modular 
@@ -4016,7 +4016,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Sometimes referred to as an alley bow by rogues or ruffians, this small crossbow fires small bolts that are sometimes used to deliver poison to the target. It's small enough to be shot one-handed, but it still requires two hands to load.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 weapon
 simple
@@ -4037,7 +4037,7 @@ LEVEL
 BULK
 2
 ENTRY
-A favored weapon of monster hunters in Arcadia, the harmona gun is a large-bore long gun that fires a heavy, slow-moving round. The gun got its name due to the eerie similarity between the buzzing sound its oversized projectiles make flying through the air and the flight of a fey bird called a harmona.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 kickback
@@ -4054,13 +4054,13 @@ CRB
 PAGE
 280
 GOLD
-0.4
+4
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This small axe can be used in close combat or thrown.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 sweep
@@ -4078,13 +4078,13 @@ CRB
 PAGE
 281
 GOLD
-4
+0.4
 LEVEL
 0
 BULK
 2
 ENTRY
-This large crossbow is harder to load and more substantial than a regular crossbow, but it packs a greater punch.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 weapon
 simple
@@ -4105,7 +4105,7 @@ LEVEL
 BULK
 3
 ENTRY
-If your Strength score is at least 16, you remove the Speed penalty entirely instead of reducing it to ñ5 feet.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 bulwark
@@ -4126,7 +4126,7 @@ LEVEL
 BULK
 2
 ENTRY
-A mix of furs, sturdy hide, and sometimes molded boiled leather, this armor provides protection due to its layers of leather, though its bulkiness slows the wearer down and decreases mobility.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 medium
@@ -4145,7 +4145,7 @@ LEVEL
 BULK
 2
 ENTRY
-These immense bows are traditionally made from the horns of great beasts, though modern residents of Hongal, the northernmost nation in Tian Xia, often use composite materials or even small trees as the weapon's base. While Hongali hornbows have a shorter range than other bows, they make up for it by focusing the power of the longbow at a short distance and can be used from horsebackóperfect for the skirmishing fighting style of mounted Hongali troops. While it's difficult for those in Avistan to get their hands on these Hongali weapons, a small warband of beast-riding orcs from the Hold of Belkzen managed to arm themselves with Hongali hornbows and cut a bloody swathe through adventurers and neighboring militaries alike for several years before they were finally defeated via a desperate ambush. The stories of that warband spread, causing Avistani adventurers with little knowledge of Tian Xia to associate the bows with orcs. Hongali characters have access to the Hongali hornbow.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 deadly 
@@ -4169,7 +4169,7 @@ LEVEL
 BULK
 1
 ENTRY
-This long sword has a hook near the tip which makes it easy to snag an opponent or their weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -4190,13 +4190,13 @@ CRB
 PAGE
 281
 GOLD
-0.9
+9
 LEVEL
 0
 BULK
 2
 ENTRY
-Created by goblins to battle horses, this weapon is essentially a long shaft ending in a blade with a large hook.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 goblin
 reach
@@ -4216,13 +4216,13 @@ G&G
 PAGE
 63
 GOLD
-3
+0.3
 LEVEL
 0
 BULK
 1
 ENTRY
-A hollow receptacle inside this spear's head can store a single dose of poison. A sliding trigger along the spear's shaft can inject the loaded poison into a damaged target.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 injection
@@ -4240,13 +4240,13 @@ CRB
 PAGE
 281
 GOLD
-0.1
+1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This thin spear is well balanced for throwing but is not designed for melee use.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 thrown
 weapon
@@ -4262,13 +4262,13 @@ G&G
 PAGE
 151
 GOLD
-11
+1.1
 LEVEL
 1
 BULK
 1
 ENTRY
-Jezails are simple, efficient long guns developed in Casmaron that typically feature a custom stock and a flintlock firing mechanism. Though lacking the range and stopping power of an arquebus or the raw force of a harmona gun, the jezail is an elegant, well-balanced weapon suitable for a variety of combat situations. It's even possible to tuck it under one arm to fire a less accurate attack that uses only one hand.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -4286,13 +4286,13 @@ EC1
 PAGE
 77
 GOLD
-0.1
+1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-A juggling club is lighter than a typical club and balanced to be easily caught and thrown again by a juggler. While a juggling club deals less damage, the extra throwing distance its light weight allows is important for Juggling.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -4311,13 +4311,13 @@ CRB
 PAGE
 281
 GOLD
-1
+0.1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Similar to a sickle and used in some regions to reap grain, a kama has a short, slightly curved blade and a wooden handle.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 monk
@@ -4342,7 +4342,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This small curved blade resembles a tiger's claw and is capable of delivering deep wounds.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -4368,7 +4368,7 @@ LEVEL
 BULK
 1
 ENTRY
-A katana is a curved, single-edged sword known for its wickedly sharped blade.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 two-hand 
@@ -4387,13 +4387,13 @@ CRB
 PAGE
 280
 GOLD
-0.3
+3
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Also known as punching daggers, katars are characterized by their H-shaped hand grip that allows the blade to jut out from the knuckles.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 deadly 
@@ -4412,13 +4412,13 @@ APG
 PAGE
 248
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 1
 ENTRY
-This staff is topped by a pointed metal circle from which hang several smaller rings that jingle and clang noisily as the staff is moved, allowing you to announce your presence and scare off wild animals as you walk.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 shove
@@ -4443,7 +4443,7 @@ LEVEL
 BULK
 1
 ENTRY
-This curved sickle sword has a pointed tip, allowing it to be swung like a handaxe or thrust like a short sword. The tip of a khopesh is usually hooked so that it can be used to disarm an opponent's shield or weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 trip
@@ -4460,13 +4460,13 @@ G&G
 PAGE
 150
 GOLD
-0.3
+3
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This bit of hardened metal, favored by street toughs, is typically made of brass and features four finger holes so that it can sit atop the knuckles, adding extra power to a punch.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 free-hand
@@ -4490,7 +4490,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-The blade of this foot-long knife curves inward and lacks a cross guard at the hilt.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -4509,13 +4509,13 @@ TV
 PAGE
 25
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 1
 ENTRY
-This impressive weapon consists of a weight attached to a kama via a length of chain, which aids with disarming an opponent or attacking from a distance.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -4542,7 +4542,7 @@ LEVEL
 BULK
 2
 ENTRY
-This spear-like weapon is used by a mounted creature to deal a great deal of damage.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 jousting 
@@ -4566,7 +4566,7 @@ LEVEL
 BULK
 1
 ENTRY
-A mix of flexible and molded boiled leather, a suit of this type of armor provides some protection with maximum flexibility.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 light
@@ -4585,7 +4585,7 @@ LEVEL
 BULK
 1
 ENTRY
-This thick club is inset with sharp teeth, typically from a shark, that easily tear flesh. It is the preferred weapon of many Minatan warriors.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 deadly 
@@ -4603,13 +4603,13 @@ CRB
 PAGE
 280
 GOLD
-0.3
+3
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This smaller version of the warhammer has a wooden or metal shaft ending in a metal head. Unlike its heavier cousin, it is light enough to throw.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 thrown 
@@ -4632,7 +4632,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A light mace has a short wooden or metal shaft ending with a dense metal head. Used much like a club, it delivers heavy bludgeoning blows, but with extra power derived from the head's metal ridges or spikes.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -4656,7 +4656,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A light pick is a modified mining implement with a wooden shaft ending in a pick head crafted more to pierce armor and flesh than chip rocks.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 fatal 
@@ -4673,13 +4673,13 @@ SoT4
 PAGE
 78
 GOLD
-1
+0.1
 LEVEL
 0
 BULK
 0.1
 ENTRY
-A lion scythe resembles a common sickle but is specially weighted to allow for greater power when attacking. This is a martial melee weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -4704,7 +4704,7 @@ LEVEL
 BULK
 1
 ENTRY
-Like the {@item air repeater|G&G|one-handed air repeater}, this thin-barreled firearm uses a container of pressurized air instead of black powder to propel small metal pellets from an attached cartridge. The long air repeater has better range and ammo capacity than the {@item air repeater|G&G|one-handed variant}, though it still lacks significant stopping power. A typical long air repeater magazine holds 8 {@item pellets|G&G}.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 repeating
@@ -4727,7 +4727,7 @@ LEVEL
 BULK
 2
 ENTRY
-This asymmetrical bow, made of laminated bamboo, wood, and leather, stands 6 feet or more in height. Using a daikyu while mounted limits its firing range to your left side.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 propulsive
 uncommon
@@ -4750,7 +4750,7 @@ LEVEL
 BULK
 2
 ENTRY
-This 5-foot-tall bow, usually made of a single piece of elm, hickory, or yew, has a powerful draw and is excellent at propelling arrows with great force and at an extreme distance. You must use two hands to fire a longbow, and it can't be used while mounted.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 volley 
@@ -4767,13 +4767,13 @@ CRB
 PAGE
 280
 GOLD
-0.5
+5
 LEVEL
 0
 BULK
 2
 ENTRY
-This very long spear, sometimes called a pike, is purely for thrusting rather than throwing. Used by many soldiers and city watch for crowd control and defense against charging enemies, it must be wielded with two hands.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 reach
 weapon
@@ -4789,13 +4789,13 @@ CRB
 PAGE
 281
 GOLD
-1
+0.1
 LEVEL
 0
 BULK
 1
 ENTRY
-Longswords can be one-edged or two-edged swords. Their blades are heavy and they're between 3 and 4 feet in length.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 versatile 
 weapon
@@ -4817,7 +4817,7 @@ LEVEL
 BULK
 1
 ENTRY
-The shobhad longrifle is a firearm with a long, rifled barrel. Often mounted with a multi-lensed scope for targeting at an array of ranges and a chambering mechanism that can adjust the speed and penetrating power of each shot, it's the preferred weapon of many shobhad warriors. Shobhad longrifles are equipped with a built-in {@item silencer|g&g} so they make no more noise than a crossbow when fired.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 rare
 backstabber
@@ -4844,7 +4844,7 @@ LEVEL
 BULK
 1
 ENTRY
-With a stout haft and a heavy metal head, a mace is sturdy and allows its wielder to deliver powerful blows and dent armor.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shove
 weapon
@@ -4866,7 +4866,7 @@ LEVEL
 BULK
 1
 ENTRY
-At first glance this weapon looks like nothing more than an iron-bound club. But the top of the weapon features a latch that opens to reveal three rotating pistol muzzles concealed in the mace's head that can be fired and rotated using triggers built into the weapon's haft.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -4891,13 +4891,13 @@ CRB
 PAGE
 281
 GOLD
-0.5
+5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This parrying dagger features a robust guard to protect the wielder's hand.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 disarm
@@ -4923,7 +4923,7 @@ LEVEL
 BULK
 1
 ENTRY
-Also known as a hunga munga or danisco, this hybrid knife-axe consists of a hilt and a blade that curves backward toward the wielder. The curve of the blade is such that after a victim has been struck by a mambele, more damage is dealt as the weapon is extracted from the victim's body.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -4942,13 +4942,13 @@ CRB
 PAGE
 281
 GOLD
-3
+0.3
 LEVEL
 0
 BULK
 2
 ENTRY
-Mauls are massive warhammers that must be swung with two hands.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shove
 weapon
@@ -4970,7 +4970,7 @@ LEVEL
 BULK
 1
 ENTRY
-Neither mithral nor a tree, this long gun takes its name from the legends of the elves of Jinin and is most commonly found within the nation. An elegant weapon, a mithral tree does somewhat resemble a tree; its fanned stock and long, sweeping barrel reinforced with metal rings enable a wielder to parry melee attacks while moving back into safe firing range.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concussive
@@ -4990,13 +4990,13 @@ AoE1
 PAGE
 78
 GOLD
-0.1
+0.9
 LEVEL
 0
 BULK
 0
 ENTRY
-Also called a "slungshot," the monkey's fist is a short length of rope ending in a thick knot wrapped around a metal weight. You can tie the loose end of a monkey's fist to your wrist; if you are {@action disarm||disarmed}, the weapon remains secured to your wrist rather than falling to the ground, though you must use an {@action Interact} action to grip it before using it again. A monkey's fist is a martial melee weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 finesse
 monk
@@ -5014,13 +5014,13 @@ CRB
 PAGE
 280
 GOLD
-1
+0.1
 LEVEL
 0
 BULK
 1
 ENTRY
-This weapon has a short shaft ending in a metal ball studded with spikes.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 versatile 
 weapon
@@ -5042,7 +5042,7 @@ LEVEL
 BULK
 2
 ENTRY
-This 6-foot staff has a 2-foot-long, slightly curved, swordlike blade attached at one end. The long pole helps keep the wielder out of reach of swords and shorter weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 deadly 
@@ -5061,13 +5061,13 @@ AoE1
 PAGE
 78
 GOLD
-1
+3
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This collapsible baton consists of several nested, telescoping metal shafts that can be extended as a free action by flicking the wrist. Once extended to its full length (usually around 2 feet), the baton locks into shape until the wielder uses an {@action Interact} action to collapse itóa collapsed nightstick is 8 inches long, making it easily {@action conceal an object||concealed}.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -5087,13 +5087,13 @@ LOGM
 PAGE
 120
 GOLD
-0.9
+9
 LEVEL
 0
 BULK
 1
 ENTRY
-This sword has a broad blade, along which are threaded nine heavy metal rings. The rings add weight to the weapon for downward swings, as well as clashing together to make noise.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -5116,7 +5116,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-The nunchaku is constructed of two wooden or metal bars connected by a short length of rope or chain.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 backswing
 disarm
@@ -5136,13 +5136,13 @@ TV
 PAGE
 25
 GOLD
-1
+0.1
 LEVEL
 0
 BULK
 1
 ENTRY
-A deceptively simple weapon made from a length of cord attached to a weighted, conical metal spike. A rope dart can be whirled and manipulated at great speeds to attack in unexpected ways and from unexpected angles.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -5164,13 +5164,13 @@ CRB
 PAGE
 281
 GOLD
-0.7
+7
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This stout, metal blade of orc design has a horizontal basket hilt with blades jutting from each end, or sometimes one blade like that of a katar.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 disarm
@@ -5189,13 +5189,13 @@ CRB
 PAGE
 281
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 1
 ENTRY
-This single-bladed bearded axe has a jagged blade that's perfect for separating bone from tendon and cartilage.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 forceful
 orc
@@ -5214,13 +5214,13 @@ CRB
 PAGE
 275
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This armor is simply a layer of heavy, quilted cloth, but it is sometimes used because it's so inexpensive. Padded armor is easier to damage and destroy than other types of armor. Heavy armor comes with a padded armor undercoat included in its Price, though it loses the comfort trait when worn under heavy armor. You can wear just that padded armor undercoat to sleep in, if your heavy armor is destroyed, or when otherwise not wearing the full heavy armor. This allows you to keep the armor invested and benefit from the power of any runes on the associated heavy armor, but no one else can wear your heavy armor without the padded undercoat.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 comfort
 armor
@@ -5234,13 +5234,13 @@ G&G
 PAGE
 63
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-A pantograph gauntlet is a heavy, fist-like weight, mounted on an extendable frame and attached to your outer arm with a series of leather straps. The frame's set of mechanical linkages connected at various hinges allow movements to propagate across the frame based on reshaping parallelograms, further {@condition controlled} by a crossbar grasped in your hand. A pantograph gauntlet is driven by your own motion and mirrors your arm's movementsóa punch thrown with your fist moves the pantograph, extending the weight out at a rapid speed to land blows up to 10 feet away. In some regions, such as Alkenstar and Ustalav, pantograph gauntlets are occasionally constructed entirely of metal and fashioned in the likeness of oversized arms, incorporating a complex system of gears or a miniature steam engine in place of the simpler pantograph mechanism.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 deadly 
@@ -5266,7 +5266,7 @@ LEVEL
 BULK
 1
 ENTRY
-This weapon is a specialty of the smiths of Alkenstar. The pepperbox has three barrels that each hold a single shot, and the shooter can manually rotate the whole barrel assembly to align a loaded barrel with the firing mechanism.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 capacity 
@@ -5285,13 +5285,13 @@ CRB
 PAGE
 281
 GOLD
-0.7
+7
 LEVEL
 0
 BULK
 1
 ENTRY
-A pick designed solely for combat has a sturdy wooden shaft and a heavy, pointed head to deliver devastating blows.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 fatal 
 weapon
@@ -5307,13 +5307,13 @@ G&G
 PAGE
 158
 GOLD
-15
+1.5
 LEVEL
 0
 BULK
 1
 ENTRY
-Favored by caravan guards who traverse the Mana Wastes, a piercing wind is similar to a jezail, in that you can carry it in one hand as long as the other hand's free, by holding it under one arm. Additionally, it's fitted with an underslung curved blade.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -5339,13 +5339,13 @@ LOTGB
 PAGE
 107
 GOLD
-0.4
+4
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Made of a jagged blade with teeth pointing toward a leather-wrapped hilt, these weapons are particularly effective at disarming opponents. Piranha kisses were occasionally used during the Vidric Revolution, and some Firebrands carry them today. Members of the Firebrands have access to this weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -5370,7 +5370,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Poi are light weights tethered to ropes or chains. Performers swing the weights, usually one in each hand, in rhythmic patterns.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -5390,13 +5390,13 @@ TV
 PAGE
 25
 GOLD
-10
+1.0
 LEVEL
 1
 BULK
 1
 ENTRY
-The polytool is a small metal rod with a number of simple tools folded inside. The user can extend a long ceramic blade, as well as an awl, a chisel, a file, flint and steel, a hook, an inkpen, a magnifying glass, pliers, scissors, and a small saw. The flint and steel can be used up to 10 times before needing to be replaced. Though inspired by advanced Numerian technology, the polytool is a simple enough feat of metalworking that any blacksmith could produce itóperfect for the goddess Casandalee to spread innovation farther than actual Numerian tech could reach.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -5420,7 +5420,7 @@ LEVEL
 BULK
 2
 ENTRY
-The sansetsukon, also known as a sanjiegun or three-section staff, is made up of three wooden staff segments, each about 14 inches in length. The staff sections are connected by short lengths of cord or chain, similar to nunchaku.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 backswing
@@ -5446,7 +5446,7 @@ LEVEL
 BULK
 2
 ENTRY
-{@note This armor is exclusive to the {@class Inventor|G&G} class with the {@class Inventor|G&G|Armor|Armor|G&G} innovation. While you may be able to wear this armor as a different class, everyone but the creator of the armor is untrained in it, even if they would normally be trained (or better) in medium armor.}
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 medium
@@ -5459,13 +5459,13 @@ LOTGB
 PAGE
 67
 GOLD
-0.5
+5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Your cane indicates that you have low vision or are blind. By holding this cane in front of you, you indicate to those around that you're partially sighted, which is particularly useful in urban or busy places to let others know to give you enough space.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 finesse
 sweep
@@ -5482,13 +5482,13 @@ CRB
 PAGE
 281
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 2
 ENTRY
-This polearm is a long trident with a central prong that's longer than the other two.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 disarm
 reach
@@ -5511,7 +5511,7 @@ LEVEL
 BULK
 1
 ENTRY
-The rapier is a long and thin piercing blade with a basket hilt. It is prized among many as a dueling weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 disarm
@@ -5535,7 +5535,7 @@ LEVEL
 BULK
 1
 ENTRY
-This elegant weapon is shaped similarly to a rapier with a pistol down the length of the blade.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -5559,13 +5559,13 @@ G&G
 PAGE
 150
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-A reinforced stock is a weighted crossbow, firearm haft, or grip customized for striking in melee.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 attached 
 finesse
@@ -5583,13 +5583,13 @@ G&G
 PAGE
 63
 GOLD
-15
+1.5
 LEVEL
 1
 BULK
 1
 ENTRY
-This crossbow has an internal chamber that can be loaded with up to five bolts. An automated catch mechanism at the top of the flight groove, just in front of the latch, locks the bowstring and launches bolts with the pull of a trigger.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 repeating
@@ -5612,7 +5612,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This handheld crossbow features an ingeniously designed catch mechanism at the top of the flight groove, just in front of the latch, which automatically loads a bolt from a magazine and resets the string each time the weapon is fired. A typical repeating hand crossbow magazine holds five bolts.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 repeating
@@ -5635,7 +5635,7 @@ LEVEL
 BULK
 2
 ENTRY
-This large crossbow has an internal chamber that can be loaded with up to five bolts. While it uses the same automated catch mechanism as other repeating crossbows, a repeating heavy crossbow's design has significant trade-offs. It has increased range and damage and is easier to learn how to use, but requires a small amount of effort to reload.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 repeating
@@ -5658,7 +5658,7 @@ LEVEL
 BULK
 2
 ENTRY
-These dual-bladed swords are commonly used by urdefhan warriors.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 two-hand 
@@ -5675,13 +5675,13 @@ LOAG
 PAGE
 139
 GOLD
-0.4
+4
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This specialized club is designed for throwing and is useful for both combat and hunting. Rungus were invented by Zenj humans of the Mwangi Expanse and are most common among their tribes, though gripplis have also adopted rungus for hunting creatures that hide high in treetops.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 grippli
 shove
@@ -5705,7 +5705,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This piercing dagger is a metal spike flanked by a pair of prongs that can be used to trap an enemy's weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 disarm
@@ -5732,7 +5732,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-A sap has a soft wrapping around a dense core, typically a leather sheath around a lead rod. Its head is wider than its grip to disperse the force of a blow, as the weapon's purpose is to knock out its victim rather than to draw blood.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 nonlethal
@@ -5749,13 +5749,13 @@ CRB
 PAGE
 281
 GOLD
-5
+0.5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-The signature weapon of the Red Mantis assassins, this curved blade is serrated like a saw, hence the name.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -5780,7 +5780,7 @@ LEVEL
 BULK
 2
 ENTRY
-Scale mail consists of many metal scales sewn onto a reinforced leather backing, often in the form of a long shirt that protects the torso, arms, and legs.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 medium
@@ -5799,7 +5799,7 @@ LEVEL
 BULK
 1
 ENTRY
-This one-handed curved blade is sharp on one side.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 forceful
 sweep
@@ -5816,13 +5816,13 @@ EC1
 PAGE
 77
 GOLD
-0.5
+5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-A scorpion whip has a series of razor-sharp blades set along its tip. Unlike ordinary whips, a scorpion whip doesn't have the nonlethal trait, making it deadlier in combat but less effective when the wielder seeks to bring in foes alive.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -5842,13 +5842,13 @@ TV
 PAGE
 25
 GOLD
-8
+0.8
 LEVEL
 0
 BULK
 2
 ENTRY
-A heavy, weighted cube of metal at the end of a long chain, the dorn-dergar is used by dwarven berserkers and sappers who specialize in breaking through lines of shielded opponents or disabling enemy siege weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 dwarf
@@ -5873,7 +5873,7 @@ LEVEL
 BULK
 1
 ENTRY
-This weapon has a hilt like a longsword attached to several bladed segments connected by chain links. A highly technical weapon, the chain sword is valued by duelists and experienced soldiers alike in the nations of Nirmathas and Molthune.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 finesse
@@ -5898,7 +5898,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-The whipstaff is a 5-foot-long staff carved from alchemically treated wood. Exceptionally light and well-balanced, whipstaffs are favored by travelers and martial artists who prioritize speed over power.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -5919,13 +5919,13 @@ LOCG
 PAGE
 80
 GOLD
-0.1
+0.3
 LEVEL
 0
 BULK
 1
 ENTRY
-A scourgeóalso known as a cat-o'-nine-tailsóis a set of several knotted cords made from cotton or leather and attached to a handle. While most scourges are more suitable for torture than combat, the weapons used by the Order of the Scourge have metal barbs woven in to pierce clothing and armor. The scourge is a martial melee weapon.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 disarm
@@ -5945,13 +5945,13 @@ CRB
 PAGE
 281
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 2
 ENTRY
-Derived from a farming tool used to mow down long grains and cereals, this weapon has a long wooden shaft with protruding handles, capped with a curved blade set at a right angle.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 trip
@@ -5974,7 +5974,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-These strange curved blades are jagged and deadly weapons made from the alchemically strengthened teeth of dead urdefhans. Each weapon is typically named for the urdefhan whose teeth were forged into the weapon, which are often carried (and revered) by that urdefhan's descendants. Magical shauth blades allow an urdefhan wielder to channel their Wicked Bite ability through shauth blade {@action Strike||Strikes}. 
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 deadly 
@@ -5999,7 +5999,7 @@ LEVEL
 BULK
 1
 ENTRY
-This metal chain bears hook-like barbs made of alchemically strengthened urdefhan teeth. Magical shauth lashes have the same ability to channel an urdefhan wielder's Wicked Bite as magical shauth blades, and urdefhans hold these weapons with the same reverence as they do shauth blades.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 finesse
@@ -6017,13 +6017,13 @@ B2
 PAGE
 184
 GOLD
-0.5
+5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This metal chain bears hook-like barbs made of alchemically strengthened urdefhan teeth. Magical shauth lashes have the same ability to channel an urdefhan wielder's Wicked Bite as magical shauth blades, and urdefhans hold these weapons with the same reverence as they do shauth blades.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 versatile 
@@ -6048,7 +6048,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-Typically a round, convex, or conical piece of thick metal attached to the center of a shield, a shield boss increases the bludgeoning damage of a shield bash.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 attached 
 weapon
@@ -6070,7 +6070,7 @@ LEVEL
 BULK
 0.0
 ENTRY
-These metal spikes are strategically placed on the defensive side of the shield to deal piercing damage with a shield bash.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 attached 
 weapon
@@ -6086,13 +6086,13 @@ TV
 PAGE
 25
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Also known as wind and fire wheels, these large, flat steel rings feature several protruding blades typically stylized to resemble flames.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -6121,7 +6121,7 @@ LEVEL
 BULK
 1
 ENTRY
-This smaller bow is made of a single piece of wood and favored by skirmishers and cavalry.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 deadly 
 weapon
@@ -6137,13 +6137,13 @@ CRB
 PAGE
 281
 GOLD
-0.9
+9
 LEVEL
 0
 BULK
 0.1
 ENTRY
-These blades come in a variety of shapes and styles, but they are typically 2 feet long.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -6161,13 +6161,13 @@ CRB
 PAGE
 281
 GOLD
-0.01
+0.1
 LEVEL
 0
 BULK
 0.0
 ENTRY
-This "throwing star" is a small piece of flat metal with sharp edges, designed to be flung with a flick of the wrist.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 monk
@@ -6186,13 +6186,13 @@ CRB
 PAGE
 280
 GOLD
-0.2
+0.02
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -6210,13 +6210,13 @@ LOTGB
 PAGE
 107
 GOLD
-5
+0.5
 LEVEL
 0
 BULK
 1
 ENTRY
-A classical weapon of Irrisenis who lacked magical talent, the sickle-saber has seen a resurgence since the coronation of Queen Anastasia. The queen was fascinated with the sickle-sabers in the palace treasury, and now the unusual blades are carried by her honor guard and Irriseni diplomats alike. The sickle-saber's blade curves multiple times along its 4-foot length, and its hilt is similarly curved. A small, secondary grip on the blade lets the wielder rapidly and unpredictably twist the cutting edges. Characters from Irrisen have access to the sickle-saber.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 backswing
@@ -6240,7 +6240,7 @@ LEVEL
 BULK
 2
 ENTRY
-Also known as a harmonica gun, this weapon is essentially a stock, trigger, and firing mechanism attached to a sliding brace of barrels that can each hold a round of ammunition.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 capacity 
@@ -6265,7 +6265,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Little more than a leather cup attached to a pair of straps, a sling can be used to fling smooth stones or sling bullets at a range.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 propulsive
 weapon
@@ -6281,13 +6281,13 @@ CRB
 PAGE
 280
 GOLD
-0.1
+1
 LEVEL
 0
 BULK
 1
 ENTRY
-A long metal shaft ending with a metal spike, a spear can be used one-handed as a melee weapon and can be thrown.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 thrown 
 weapon
@@ -6303,13 +6303,13 @@ CRB
 PAGE
 281
 GOLD
-3
+0.3
 LEVEL
 0
 BULK
 1
 ENTRY
-This 4-foot-long length of chain is covered with barbs and has spikes on one or both ends. Some feature metal hoops used as handgrips.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 disarm
 finesse
@@ -6328,13 +6328,13 @@ CRB
 PAGE
 280
 GOLD
-0.3
+3
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Providing the same defensive function as a standard gauntlet, this version has a group of spikes protruding from the knuckles to deliver piercing damage with a punch.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 free-hand
@@ -6351,13 +6351,13 @@ LOTGB
 PAGE
 107
 GOLD
-5
+0.5
 LEVEL
 0
 BULK
 1
 ENTRY
-An old Taldan dueling weapon from the empire's height, this rapier has a thicker blade than normal, which is shaped into a corkscrew-like spiral well suited to catching enemy weapons. Characters from Taldor have access to the spiral rapier.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -6382,7 +6382,7 @@ LEVEL
 BULK
 3
 ENTRY
-This type of armor is {@item chain mail} reinforced with flexible, interlocking metal plates, typically located on the wearer's torso, upper arms, and legs. A suit of this armor comes with an undercoat of {@item padded armor|CRB} and a pair of {@item gauntlet|CRB|gauntlets}.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 heavy
@@ -6395,13 +6395,13 @@ G&G
 PAGE
 157
 GOLD
-10
+13
 LEVEL
 1
 BULK
 1
 ENTRY
-No one's entirely certain who developed the spoon gun, but all authorities agree that it was probably a goblin. Essentially a terrible idea in firearm form, the spoon gun is a spring-powered hand cannon with a modified grip that uses miscellaneous knives, forks, chopsticks, and spoons as ammunition. Users typically upend the entire contents of their cutlery drawer into the gun, aim it in the general direction of the foe, and hope it hits something.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 cobbled
@@ -6427,7 +6427,7 @@ LEVEL
 BULK
 1
 ENTRY
-This long piece of wood can aid in walking and deliver a mighty blow.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 two-hand 
 weapon
@@ -6449,7 +6449,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-From a central metal ring, four tapering metal blades extend like points on a compass rose. When gripping a starknife from the center, the wielder can use it as a melee weapon. It can also be thrown short distances.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 deadly 
@@ -6475,7 +6475,7 @@ LEVEL
 BULK
 1
 ENTRY
-Like wooden shields, steel shields come in a variety of shapes and sizes. Though more expensive than wooden shields, they are much more durable.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 
@@ -6492,7 +6492,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This weapon is a fully functional, lavish ink pen with a clip that can be attached to a pocket or bandoleer and easily retrieved as a free action. Using an action to Interact with the pen allows its wielder to disengage a stiletto blade that slides free of the upper body or reattach the previously removed blade.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -6518,7 +6518,7 @@ LEVEL
 BULK
 1
 ENTRY
-This {@item leather||leather armor} is reinforced with metal studs and sometimes small metal plates, providing most of the flexibility of leather armor with more robust protection.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 armor
 light
@@ -6537,7 +6537,7 @@ LEVEL
 BULK
 1
 ENTRY
-{@note This armor is exclusive to the {@class Inventor|G&G} class with the {@class Inventor|G&G|Armor|Armor|G&G} innovation. While you may be able to wear this armor as a different class, everyone but the creator of the armor is untrained in it, even if they would normally be trained (or better) in medium armor.}
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 armor
@@ -6557,7 +6557,7 @@ LEVEL
 BULK
 2
 ENTRY
-Another complex gnome invention, the switchscythe is designed for versatility. The curved blade is partly hollow, containing a long rod of wood or metal; the rod can be pulled perpendicular to the blade, turning the switchscythe from a {@trait sweep||sweeping}, axe-like blade into a hooked pick capable of {@trait grapple||grappling} a foe.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 gnome
@@ -6582,7 +6582,7 @@ LEVEL
 BULK
 1
 ENTRY
-This slender, rapier-like sword is concealed within a wooden or metal cane that serves as a sheath, making it an inconspicuous weapon easy to slip past inspections or into high-society events. A sword cane is typically 4 feet long when sheathed, and its hilt is usually capped with a wooden or metal decoration.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 agile
 finesse
@@ -6606,7 +6606,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-These circular weapons are among the many strange weapons used by urdefhans. The sharp metal circle contains numerous protruding blades, while an angled central handle provides a decent grip that spins the weapon as it's thrown.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -6632,7 +6632,7 @@ LEVEL
 BULK
 3
 ENTRY
-Developed by a half-orc inventor from Alkenstar who brought the technology north to battle the Whispering Tyrant alongside the orc hordes of Belkzen, the barricade buster features eight barrels fixed around a central pivot attached to a handle and firing mechanism. A barricade buster fires spheres of metal with extreme velocity and very little accuracy.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 kickback
@@ -6659,7 +6659,7 @@ LEVEL
 BULK
 1
 ENTRY
-This complex device is a crossbow and fires small wooden bullets known as taws. A system of blades within the launcher can rapidly reshape a taw as it's loaded, allowing the launcher to fire taws of different shapes, such as fl√©chettes.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 conrasu
@@ -6678,13 +6678,13 @@ TV
 PAGE
 25
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Four curved blades attached to a sturdy handlebar give the wielder of this close-combat weapon the illusion of having claws that extend from their fist. Adherents of Bastet favor the tekko-kagi for catching their foes off guard.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -6705,13 +6705,13 @@ CRB
 PAGE
 281
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 1
 ENTRY
-This heavy blade is favored by guardians of religious sites. It has a distinctive, crescent-shaped blade that seems to be a mix of a sickle and sword. It often has holes drilled into the blade or the pommel so that bells or other holy trinkets can be affixed to the weapon as an aid for prayer or mediation.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 monk
 trip
@@ -6735,7 +6735,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This fan-shaped sword, designed by members of the tengu ancestry, has five broad blades that join at its hilt. Tengu sailors also use gale blades as makeshift weather vanes, as the sword spins to show the wind's direction when loosely held aloft.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -6761,7 +6761,7 @@ LEVEL
 BULK
 2
 ENTRY
-A fusion of a naginata and sansetsukon, this three-section weapon has a sweeping, curved blade along each of the outer sections. Though difficult for anyone but an expert weapon master to use effectively, the three-section naginata can be wielded at devastating speed to slice or smash apart a foe.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 deadly 
@@ -6787,7 +6787,7 @@ LEVEL
 BULK
 2
 ENTRY
-A recently developed weapon created for an elven champion from Jinin, the three-peaked tree can be used as both a trident and a mithral tree. A three-peaked tree has a length of silken rope attached to the butt of its haft, allowing it to be quickly retrieved after thrown.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 combination
@@ -6813,13 +6813,13 @@ EC1
 PAGE
 77
 GOLD
-0.3
+3
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This light knife is optimally balanced to be thrown accurately at a greater distance than a common dagger. While this comes at the cost of a significant cutting edge, the difference is worth it for characters focused on thrown weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -6838,13 +6838,13 @@ LOAG
 PAGE
 139
 GOLD
-5
+0.5
 LEVEL
 0
 BULK
 0.1
 ENTRY
-Tengu use these specialized slings to fire darts further and with greater force than when thrown by hand, which is particularly effective when attacking from great heights. A thunder sling uses {@item dart|crb|darts} as ammunition. It can also hurl {@item blowgun dart||blowgun darts} as ammunition but deals {@damage 1d4} piercing damage instead of {@damage 1d6} when used this way.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -6863,13 +6863,13 @@ LOTGB
 PAGE
 107
 GOLD
-0.2
+2
 LEVEL
 0
 BULK
 2
 ENTRY
-This deceptively dangerous weapon is essentially a mace with a longer haft and larger, often flanged head.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 backswing
@@ -6892,7 +6892,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-These L-shaped fighting batons are good for striking and blocking. The wielder holds the handle and either spins the stick or strikes with the stick covering the forearm.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -6913,13 +6913,13 @@ TV
 PAGE
 21
 GOLD
-2
+0.2
 LEVEL
 0
 BULK
 1
 ENTRY
-This small shield is made from wood. It features a special panel of parchment along the inside surface that allows for writing.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 inscribed
@@ -6937,7 +6937,7 @@ LEVEL
 BULK
 1
 ENTRY
-This wooden shield features a spring-loaded device on its surface that can fire darts with powerful force. A small mechanism within the shield allows you to fire a dart even while actively holding the shield or blocking with it.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 launching 
@@ -6955,7 +6955,7 @@ LEVEL
 BULK
 5
 ENTRY
-Also known as portable walls, these thick and heavy shields are slightly larger than tower shields. Like tower shields, they're typically made from wood reinforced with metal, but many are made from larger amounts of metal or even stone.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 hefty 
@@ -6973,7 +6973,7 @@ LEVEL
 BULK
 1
 ENTRY
-This buckler-sized shield is segmented, allowing it to collapse into a housing bound to a gauntlet for easy storage. A small catch enables you to expand the shield quickly in battle when you're in need of defense.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 foldaway
@@ -6991,7 +6991,7 @@ LEVEL
 BULK
 2
 ENTRY
-This large steel shield features a specialized opening to hold lances and similar weapons. Harnessed shields are a common backup for those who fight with jousting weapons in case they're forced into combat without their mounts. Balancing the weapon within the shield's hold is somewhat awkward, and longer weapons, like lances, need to be held closer to the body than usual for proper support.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 harnessed
@@ -7009,7 +7009,7 @@ LEVEL
 BULK
 1
 ENTRY
-Similar in size to a buckler, this steel shield is intended to absorb as many blows as possible instead of deflecting attacks. It features multiple layers of metal and is reinforced with additional wood.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 
@@ -7026,7 +7026,7 @@ LEVEL
 BULK
 1
 ENTRY
-Hide shields come in a variety of shapes and sizes. Specialized tanning techniques combined with tough hides from creatures such as owlbears result in these particularly tough shields. The hardened hide of the shield still has enough flexibility to diminish the impact of battering and pummeling attacks.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 deflecting 
@@ -7044,7 +7044,7 @@ LEVEL
 BULK
 1
 ENTRY
-This traditional Shoanti armament combines a short metal blade with the skull of a large horned lizard, fashioned as a shield. The lightweight shield allows for quick attacks with its integrated blade.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 integrated 
@@ -7062,7 +7062,7 @@ LEVEL
 BULK
 1
 ENTRY
-Meteor shields are specifically designed with throwing in mind. A meteor shield is made from thin steel and has quick-release straps, allowing for easy, long-distance throws.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 shield throw 
@@ -7080,7 +7080,7 @@ LEVEL
 BULK
 1
 ENTRY
-Several small blades line the outside edge of this steel shield. This specialized throwing shield is common among warriors in the Mwangi Expanse, where its blades can cut down foliage as it flies.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 integrated 
@@ -7099,7 +7099,7 @@ LEVEL
 BULK
 1
 ENTRY
-This specialized steel shield features an outer layer of angled wooden or steel plates, which help deflect or redirect incoming ranged projectiles but don't offer any additional protection against melee weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 deflecting 
@@ -7117,7 +7117,7 @@ LEVEL
 BULK
 1
 ENTRY
-This specialized steel shield features several wide metal hooks along its surface. These hooks help catch swords and other blades, reducing the impact of their incoming attacks.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 deflecting 
@@ -7135,7 +7135,7 @@ LEVEL
 BULK
 4
 ENTRY
-These massive shields can be used to provide cover to nearly the entire body. Due to their size, they are typically made of wood reinforced with metal.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 
@@ -7146,13 +7146,13 @@ LOTGB
 PAGE
 107
 GOLD
-0.8
+8
 LEVEL
 0
 BULK
 0.1
 ENTRY
-This punching dagger resembles the standard katar, save that a pair of blades can be folded out from the center blade, transforming the weapon into a starburst shape well suited to catching foes' weapons.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -7171,13 +7171,13 @@ LOAG
 PAGE
 139
 GOLD
-10
+1.0
 LEVEL
 0
 BULK
 1
 ENTRY
-This ingenious kobold pick conceals several hidden traps, which the wielder can activate to trick and befuddle foes with a variety of damaging blades and bludgeoning surfaces.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 backstabber
@@ -7203,7 +7203,7 @@ LEVEL
 BULK
 1
 ENTRY
-This three-pronged, spear-like weapon typically has a 4-foot shaft. Like a spear, it can be wielded with one hand or thrown.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 thrown 
 weapon
@@ -7225,7 +7225,7 @@ LEVEL
 BULK
 1
 ENTRY
-This umbrella's ferrule is a hollow-tipped blade three to four inches in length and often overlooked as decorative.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 concealable
@@ -7251,7 +7251,7 @@ LEVEL
 BULK
 2
 ENTRY
-A bouquet of whiplike blades extends from the hilt of this sword, enabling deadly, sweeping attacks.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 deadly 
@@ -7275,7 +7275,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This short-bladed, single-edged sword is typically carried as part of a pair alongside a katana.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -7301,7 +7301,7 @@ LEVEL
 BULK
 2
 ENTRY
-This large flail has a long shaft connected to a shorter piece of stout wood or metal that's sometimes inlaid with spikes.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 disarm
 sweep
@@ -7325,7 +7325,7 @@ LEVEL
 BULK
 1
 ENTRY
-This weapon has a wooden shaft ending in a large, heavy metal head. The head of the hammer might be single-sided or double-sided, but it's always capable of delivering powerful bludgeoning blows.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shove
 weapon
@@ -7341,13 +7341,13 @@ CRB
 PAGE
 281
 GOLD
-0.1
+1
 LEVEL
 0
 BULK
 1
 ENTRY
-This long strand of thick leather, often braided, delivers a painful but nonlethal slash at a distance, usually accompanied by a distinctive cracking sound.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 disarm
 finesse
@@ -7367,13 +7367,13 @@ LOAG
 PAGE
 139
 GOLD
-5
+0.5
 LEVEL
 0
 BULK
 1
 ENTRY
-The whip claw is a long tether affixed to clawlike daggers, allowing the wielder to fling and retract them with deadly precision. Catfolk developed this weapon to provide extended reach when hunting dangerous animals and wield them with unmatched expertise.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 catfolk
@@ -7399,7 +7399,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-This large, flat steel ring features several protruding blades typically stylized to resemble flames.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -7428,7 +7428,7 @@ LEVEL
 BULK
 1
 ENTRY
-Specialized grooves lined with unique, alchemically treated metals capable of retaining energy score the length of this sword. The first wish blades originated from genie smiths, and the knowledge of these weapons has been passed on to generations of geniekin, earning them the name wish blades.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 disarm
@@ -7454,7 +7454,7 @@ LEVEL
 BULK
 0.1
 ENTRY
-Much like a {@item wish blade|LOAG}, the length of this knife is scored with intricate grooves capable of retaining energy. Wish knives are lighter than their counterparts, making them the weapon of choice for agile combatants.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 uncommon
 agile
@@ -7482,7 +7482,7 @@ LEVEL
 BULK
 1
 ENTRY
-Though they come in a variety of shapes and sizes, the protection offered by wooden shields comes from the stoutness of their materials. While wooden shields are less expensive than steel shields, they break more easily.
+This large and well-made crossbow requires some training to use effectively, but it's assembled with a cutting-edge firing mechanism that maximizes its speed, power, and accuracy.
 TRAITS
 shield
 
