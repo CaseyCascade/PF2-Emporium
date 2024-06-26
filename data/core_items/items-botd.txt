@@ -47,7 +47,7 @@ BotD
 PAGE
 20
 GOLD
-2000
+0
 LEVEL
 12+
 BULK
@@ -65,7 +65,7 @@ BotD
 PAGE
 18
 GOLD
-7
+0
 LEVEL
 2+
 BULK
@@ -110,7 +110,7 @@ BotD
 PAGE
 18
 GOLD
-60
+0
 LEVEL
 3+
 BULK
@@ -148,11 +148,11 @@ BotD
 PAGE
 19
 GOLD
-120
+0
 LEVEL
 9+
 BULK
-8
+0
 ENTRY
 This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
 TRAITS
@@ -248,11 +248,11 @@ BotD
 PAGE
 20
 GOLD
-600
+0
 LEVEL
 8+
 BULK
-0.1
+0
 ENTRY
 This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
 TRAITS

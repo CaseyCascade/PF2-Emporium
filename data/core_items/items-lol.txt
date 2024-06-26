@@ -5,7 +5,7 @@ LOL
 PAGE
 72
 GOLD
-2
+0
 LEVEL
 1+
 BULK
@@ -24,7 +24,7 @@ LOL
 PAGE
 80
 GOLD
-500
+175
 LEVEL
 10
 BULK
@@ -43,7 +43,7 @@ LOL
 PAGE
 86
 GOLD
-175
+0
 LEVEL
 4+
 BULK
@@ -65,7 +65,7 @@ LOL
 PAGE
 76
 GOLD
-5000
+175
 LEVEL
 15
 BULK
@@ -86,7 +86,7 @@ LOL
 PAGE
 48
 GOLD
-6500
+0
 LEVEL
 17+
 BULK
@@ -109,7 +109,7 @@ LOL
 PAGE
 24
 GOLD
-73000
+6500
 LEVEL
 6
 BULK
@@ -353,11 +353,11 @@ LOL
 PAGE
 77
 GOLD
-900
+0
 LEVEL
 9+
 BULK
-1
+0
 ENTRY
 When you use a dose of addiction suppressant, it suppresses the effects of that addiction for 1 day, as if you had taken an actual dose of the drug, but without any of the drug's effects, and it doesn't increase the addiction DC. You also gain an item bonus against the ongoing save against the drug's addiction depending on the type of addiction suppressant.
 TRAITS
@@ -372,7 +372,7 @@ LOL
 PAGE
 77
 GOLD
-8000
+0
 LEVEL
 13+
 BULK
@@ -390,7 +390,7 @@ LOL
 PAGE
 77
 GOLD
-50000
+0
 LEVEL
 12+
 BULK
@@ -408,7 +408,7 @@ LOL
 PAGE
 48
 GOLD
-32000
+0
 LEVEL
 7+
 BULK
@@ -428,7 +428,7 @@ LOL
 PAGE
 20
 GOLD
-800
+900
 LEVEL
 18
 BULK
@@ -487,7 +487,7 @@ LOL
 PAGE
 71
 GOLD
-12
+0
 LEVEL
 1+
 BULK
@@ -506,7 +506,7 @@ LOL
 PAGE
 25
 GOLD
-50
+12
 LEVEL
 3
 BULK

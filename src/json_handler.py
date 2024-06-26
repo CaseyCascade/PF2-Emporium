@@ -3,7 +3,6 @@ import os
 
 debug = True
 
-# TODO Need to handle variant items & Vet for other weird inputs 
 class Item: 
     name = None
     page = None
@@ -28,7 +27,7 @@ class Item:
         if self.page == None:
             self.page = page
         
-    def set_gold (self, coin, amount): # TODO change to allow the key value to be passed through instead
+    def set_gold (self, coin, amount): 
         if self.gold != None:
             return
         
@@ -175,7 +174,7 @@ class Item:
             file.write('\n')
         return 
     
-def process_data(item: Item, key, value): #TODO Needs a way to handle alternate items of different levels
+def process_data(item: Item, key, value): 
     if key == 'name':
         item.set_name(value)
     elif key == 'page':
@@ -194,11 +193,19 @@ def process_data(item: Item, key, value): #TODO Needs a way to handle alternate 
         item.set_entry(value)
     elif key in trait_keys: 
         item.add_trait(value)
+
+def handle_variants(new_item, data): #TODO Loop through our variants and create new items for each one 
+    if isinstance(data, list):
+        return
+    return 
     
 def walk_item(data, new_item, previous_key):
     if isinstance(data, dict):
         for key, value in data.items():
-            walk_item(value, new_item, key)
+            if key == 'variants':
+                handle_variants(new_item, value)
+            else:
+                walk_item(value, new_item, key)
     elif isinstance(data, list):
         for index, item in enumerate(data):
             walk_item(item, new_item, previous_key)

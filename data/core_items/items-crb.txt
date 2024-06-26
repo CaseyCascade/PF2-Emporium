@@ -5,7 +5,7 @@ CRB
 PAGE
 544
 GOLD
-3
+0
 LEVEL
 1+
 BULK
@@ -26,11 +26,11 @@ CRB
 PAGE
 578
 GOLD
-2500
+0
 LEVEL
 8+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -45,7 +45,7 @@ CRB
 PAGE
 555
 GOLD
-6000
+0
 LEVEL
 12+
 BULK
@@ -63,11 +63,11 @@ CRB
 PAGE
 586
 GOLD
-32000
+0
 LEVEL
 8+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -81,7 +81,7 @@ CRB
 PAGE
 599
 GOLD
-8800
+0
 LEVEL
 11+
 BULK
@@ -99,7 +99,7 @@ CRB
 PAGE
 288
 GOLD
-1350.0
+1.5
 LEVEL
 0
 BULK
@@ -116,7 +116,7 @@ CRB
 PAGE
 604
 GOLD
-15
+0
 LEVEL
 1+
 BULK
@@ -137,7 +137,7 @@ CRB
 PAGE
 589
 GOLD
-2000
+15
 LEVEL
 1
 BULK
@@ -158,7 +158,7 @@ CRB
 PAGE
 605
 GOLD
-3
+0
 LEVEL
 4+
 BULK
@@ -178,7 +178,7 @@ CRB
 PAGE
 545
 GOLD
-15000
+0
 LEVEL
 1+
 BULK
@@ -199,9 +199,9 @@ CRB
 PAGE
 288
 GOLD
-2500
-LEVEL
 3
+LEVEL
+0
 BULK
 6
 ENTRY
@@ -216,7 +216,7 @@ CRB
 PAGE
 288
 GOLD
-55
+5
 LEVEL
 0
 BULK
@@ -273,7 +273,7 @@ CRB
 PAGE
 592
 GOLD
-1400
+0
 LEVEL
 4+
 BULK
@@ -292,7 +292,7 @@ CRB
 PAGE
 603
 GOLD
-1900
+1400
 LEVEL
 17
 BULK
@@ -312,7 +312,7 @@ CRB
 PAGE
 546
 GOLD
-15000
+0
 LEVEL
 1+
 BULK
@@ -332,7 +332,7 @@ CRB
 PAGE
 582
 GOLD
-675
+15000
 LEVEL
 15
 BULK
@@ -373,7 +373,7 @@ CRB
 PAGE
 546
 GOLD
-13000
+0
 LEVEL
 1+
 BULK
@@ -393,7 +393,7 @@ CRB
 PAGE
 605
 GOLD
-675
+0
 LEVEL
 9+
 BULK
@@ -413,7 +413,7 @@ CRB
 PAGE
 581
 GOLD
-13000
+0
 LEVEL
 5+
 BULK
@@ -432,7 +432,7 @@ CRB
 PAGE
 282
 GOLD
-2056.0
+0
 LEVEL
 0
 BULK
@@ -449,7 +449,7 @@ CRB
 PAGE
 587
 GOLD
-1
+13000
 LEVEL
 11
 BULK
@@ -490,7 +490,7 @@ PAGE
 GOLD
 3
 LEVEL
-3
+0
 BULK
 2
 ENTRY
@@ -505,7 +505,7 @@ CRB
 PAGE
 583
 GOLD
-50
+4
 LEVEL
 11
 BULK
@@ -542,7 +542,7 @@ CRB
 PAGE
 572
 GOLD
-1
+0
 LEVEL
 4+
 BULK
@@ -562,7 +562,7 @@ CRB
 PAGE
 604
 GOLD
-2400
+1
 LEVEL
 10
 BULK
@@ -737,7 +737,7 @@ CRB
 PAGE
 606
 GOLD
-650
+0
 LEVEL
 12+
 BULK
@@ -757,7 +757,7 @@ CRB
 PAGE
 546
 GOLD
-40000
+0
 LEVEL
 1+
 BULK
@@ -778,7 +778,7 @@ CRB
 PAGE
 589
 GOLD
-3000
+650
 LEVEL
 4
 BULK
@@ -936,7 +936,7 @@ CRB
 PAGE
 281
 GOLD
-0.5
+0
 LEVEL
 0
 BULK
@@ -953,7 +953,7 @@ CRB
 PAGE
 589
 GOLD
-1
+5
 LEVEL
 8
 BULK
@@ -973,7 +973,7 @@ CRB
 PAGE
 547
 GOLD
-75
+0
 LEVEL
 4+
 BULK
@@ -992,7 +992,7 @@ CRB
 PAGE
 606
 GOLD
-700
+0
 LEVEL
 7+
 BULK
@@ -1012,7 +1012,7 @@ CRB
 PAGE
 606
 GOLD
-4250
+0
 LEVEL
 5+
 BULK
@@ -1032,7 +1032,7 @@ CRB
 PAGE
 606
 GOLD
-1250
+75
 LEVEL
 13
 BULK
@@ -1072,7 +1072,7 @@ CRB
 PAGE
 545
 GOLD
-320
+0
 LEVEL
 1+
 BULK
@@ -1093,7 +1093,7 @@ CRB
 PAGE
 607
 GOLD
-2500
+320
 LEVEL
 3
 BULK
@@ -1113,7 +1113,7 @@ CRB
 PAGE
 607
 GOLD
-58
+0
 LEVEL
 8+
 BULK
@@ -1133,7 +1133,7 @@ CRB
 PAGE
 607
 GOLD
-60000
+0
 LEVEL
 3
 BULK
@@ -1153,7 +1153,7 @@ CRB
 PAGE
 547
 GOLD
-650
+0
 LEVEL
 2+
 BULK
@@ -1173,7 +1173,7 @@ CRB
 PAGE
 557
 GOLD
-700
+0
 LEVEL
 10+
 BULK
@@ -1193,7 +1193,7 @@ CRB
 PAGE
 551
 GOLD
-22000
+58
 LEVEL
 16
 BULK
@@ -1506,7 +1506,7 @@ CRB
 PAGE
 547
 GOLD
-56
+0
 LEVEL
 1+
 BULK
@@ -1525,7 +1525,7 @@ CRB
 PAGE
 288
 GOLD
-11.0
+5.6
 LEVEL
 0
 BULK
@@ -1562,7 +1562,7 @@ CRB
 PAGE
 608
 GOLD
-235
+0
 LEVEL
 6+
 BULK
@@ -1582,7 +1582,7 @@ CRB
 PAGE
 603
 GOLD
-850
+235
 LEVEL
 17
 BULK
@@ -1602,7 +1602,7 @@ CRB
 PAGE
 608
 GOLD
-15000
+0
 LEVEL
 6+
 BULK
@@ -1623,7 +1623,7 @@ CRB
 PAGE
 559
 GOLD
-900
+15000
 LEVEL
 4
 BULK
@@ -1645,7 +1645,7 @@ PAGE
 GOLD
 1.5
 LEVEL
-3
+0
 BULK
 1
 ENTRY
@@ -1660,7 +1660,7 @@ CRB
 PAGE
 608
 GOLD
-40
+0
 LEVEL
 7+
 BULK
@@ -1680,7 +1680,7 @@ CRB
 PAGE
 608
 GOLD
-1750
+0
 LEVEL
 10+
 BULK
@@ -1700,11 +1700,11 @@ CRB
 PAGE
 288
 GOLD
-1300.0
+0
 LEVEL
-3
+0
 BULK
-0.1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -1717,7 +1717,7 @@ CRB
 PAGE
 547
 GOLD
-4
+0
 LEVEL
 1+
 BULK
@@ -1738,11 +1738,11 @@ CRB
 PAGE
 578
 GOLD
-3000
+0
 LEVEL
 2+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -1756,7 +1756,7 @@ CRB
 PAGE
 555
 GOLD
-4500
+0
 LEVEL
 5+
 BULK
@@ -1773,11 +1773,11 @@ CRB
 PAGE
 586
 GOLD
-20000
+0
 LEVEL
 2+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -1790,7 +1790,7 @@ CRB
 PAGE
 599
 GOLD
-5500
+0
 LEVEL
 2+
 BULK
@@ -1807,7 +1807,7 @@ CRB
 PAGE
 604
 GOLD
-9000
+5
 LEVEL
 9
 BULK
@@ -1849,7 +1849,7 @@ PAGE
 GOLD
 475
 LEVEL
-3
+0
 BULK
 0.0
 ENTRY
@@ -1864,7 +1864,7 @@ CRB
 PAGE
 547
 GOLD
-20
+0
 LEVEL
 2+
 BULK
@@ -1884,7 +1884,7 @@ CRB
 PAGE
 288
 GOLD
-54
+1
 LEVEL
 0
 BULK
@@ -1901,7 +1901,7 @@ CRB
 PAGE
 583
 GOLD
-1
+0
 LEVEL
 8+
 BULK
@@ -1921,7 +1921,7 @@ CRB
 PAGE
 609
 GOLD
-6500
+0
 LEVEL
 3+
 BULK
@@ -1941,7 +1941,7 @@ CRB
 PAGE
 609
 GOLD
-650
+0
 LEVEL
 3+
 BULK
@@ -1961,9 +1961,9 @@ CRB
 PAGE
 288
 GOLD
-120.0
+0.1
 LEVEL
-3
+0
 BULK
 0.1
 ENTRY
@@ -1978,7 +1978,7 @@ CRB
 PAGE
 566
 GOLD
-20
+5
 LEVEL
 2
 BULK
@@ -1998,7 +1998,7 @@ CRB
 PAGE
 572
 GOLD
-7
+0
 LEVEL
 14+
 BULK
@@ -2019,7 +2019,7 @@ CRB
 PAGE
 551
 GOLD
-32000
+7
 LEVEL
 3
 BULK
@@ -2079,7 +2079,7 @@ CRB
 PAGE
 609
 GOLD
-2700
+0
 LEVEL
 3+
 BULK
@@ -2100,7 +2100,7 @@ CRB
 PAGE
 609
 GOLD
-650
+0
 LEVEL
 10+
 BULK
@@ -2120,7 +2120,7 @@ CRB
 PAGE
 547
 GOLD
-14000
+0
 LEVEL
 2+
 BULK
@@ -2139,11 +2139,11 @@ CRB
 PAGE
 578
 GOLD
-90
+0
 LEVEL
 8+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -2158,7 +2158,7 @@ CRB
 PAGE
 555
 GOLD
-6000
+0
 LEVEL
 12+
 BULK
@@ -2176,11 +2176,11 @@ CRB
 PAGE
 586
 GOLD
-32000
+0
 LEVEL
 8+
 BULK
-3
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -2194,7 +2194,7 @@ CRB
 PAGE
 599
 GOLD
-11200
+0
 LEVEL
 11+
 BULK
@@ -2212,7 +2212,7 @@ CRB
 PAGE
 566
 GOLD
-13500
+2700
 LEVEL
 14
 BULK
@@ -2293,7 +2293,7 @@ CRB
 PAGE
 609
 GOLD
-2500
+0
 LEVEL
 4+
 BULK
@@ -2313,7 +2313,7 @@ CRB
 PAGE
 603
 GOLD
-900
+2500
 LEVEL
 17
 BULK
@@ -2355,7 +2355,7 @@ PAGE
 GOLD
 125
 LEVEL
-3
+0
 BULK
 0.1
 ENTRY
@@ -2370,7 +2370,7 @@ CRB
 PAGE
 559
 GOLD
-40
+2
 LEVEL
 15
 BULK
@@ -2411,7 +2411,7 @@ CRB
 PAGE
 584
 GOLD
-2400
+0
 LEVEL
 5+
 BULK
@@ -2422,7 +2422,6 @@ TRAITS
 magical
 necromancy
 rune
-uncommon
 
 NAME
 Doubling Rings
@@ -2431,7 +2430,7 @@ CRB
 PAGE
 609
 GOLD
-4300
+0
 LEVEL
 3+
 BULK
@@ -2451,7 +2450,7 @@ CRB
 PAGE
 551
 GOLD
-1300
+2400
 LEVEL
 15
 BULK
@@ -2491,7 +2490,7 @@ CRB
 PAGE
 562
 GOLD
-13
+0
 LEVEL
 7+
 BULK
@@ -2511,7 +2510,7 @@ CRB
 PAGE
 579
 GOLD
-3000
+0
 LEVEL
 8+
 BULK
@@ -2530,7 +2529,7 @@ CRB
 PAGE
 555
 GOLD
-6000
+0
 LEVEL
 12+
 BULK
@@ -2548,11 +2547,11 @@ CRB
 PAGE
 586
 GOLD
-32000
+0
 LEVEL
 8+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -2566,7 +2565,7 @@ CRB
 PAGE
 557
 GOLD
-8800
+13
 LEVEL
 16
 BULK
@@ -2709,7 +2708,7 @@ CRB
 PAGE
 548
 GOLD
-2750
+0
 LEVEL
 1+
 BULK
@@ -2728,7 +2727,7 @@ CRB
 PAGE
 566
 GOLD
-2000
+2750
 LEVEL
 2
 BULK
@@ -2787,7 +2786,7 @@ CRB
 PAGE
 548
 GOLD
-200
+0
 LEVEL
 1+
 BULK
@@ -2828,7 +2827,7 @@ CRB
 PAGE
 555
 GOLD
-3000
+0
 LEVEL
 13+
 BULK
@@ -2846,7 +2845,7 @@ CRB
 PAGE
 566
 GOLD
-52000
+200
 LEVEL
 5
 BULK
@@ -2866,7 +2865,7 @@ CRB
 PAGE
 582
 GOLD
-30
+0
 LEVEL
 8+
 BULK
@@ -2885,7 +2884,7 @@ CRB
 PAGE
 582
 GOLD
-1650
+30
 LEVEL
 17
 BULK
@@ -2944,7 +2943,7 @@ CRB
 PAGE
 559
 GOLD
-880
+0
 LEVEL
 9+
 BULK
@@ -2965,7 +2964,7 @@ CRB
 PAGE
 288
 GOLD
-52.0
+88.0
 LEVEL
 0
 BULK
@@ -3105,7 +3104,7 @@ CRB
 PAGE
 570
 GOLD
-8
+0
 LEVEL
 1+
 BULK
@@ -3145,7 +3144,7 @@ PAGE
 GOLD
 5.0
 LEVEL
-3
+0
 BULK
 1
 ENTRY
@@ -3160,7 +3159,7 @@ CRB
 PAGE
 567
 GOLD
-20
+8
 LEVEL
 16
 BULK
@@ -3180,7 +3179,7 @@ CRB
 PAGE
 600
 GOLD
-1800
+0
 LEVEL
 13+
 BULK
@@ -3200,7 +3199,7 @@ CRB
 PAGE
 584
 GOLD
-13800
+0
 LEVEL
 8+
 BULK
@@ -3220,7 +3219,7 @@ CRB
 PAGE
 288
 GOLD
-65.0
+18.0
 LEVEL
 0
 BULK
@@ -3237,7 +3236,7 @@ CRB
 PAGE
 587
 GOLD
-5
+0
 LEVEL
 11+
 BULK
@@ -3256,7 +3255,7 @@ CRB
 PAGE
 590
 GOLD
-9000
+5
 LEVEL
 20
 BULK
@@ -3335,7 +3334,7 @@ CRB
 PAGE
 582
 GOLD
-1
+0
 LEVEL
 12+
 BULK
@@ -3354,7 +3353,7 @@ CRB
 PAGE
 584
 GOLD
-24000
+0
 LEVEL
 8+
 BULK
@@ -3374,7 +3373,7 @@ CRB
 PAGE
 601
 GOLD
-6500
+1
 LEVEL
 16
 BULK
@@ -3394,7 +3393,7 @@ CRB
 PAGE
 545
 GOLD
-10000
+0
 LEVEL
 1+
 BULK
@@ -3415,7 +3414,7 @@ CRB
 PAGE
 567
 GOLD
-2500
+10000
 LEVEL
 8
 BULK
@@ -3634,7 +3633,7 @@ CRB
 PAGE
 610
 GOLD
-340
+0
 LEVEL
 5+
 BULK
@@ -3654,7 +3653,7 @@ CRB
 PAGE
 611
 GOLD
-20000
+340
 LEVEL
 11
 BULK
@@ -3848,7 +3847,7 @@ CRB
 PAGE
 611
 GOLD
-30
+0
 LEVEL
 2+
 BULK
@@ -3868,7 +3867,7 @@ CRB
 PAGE
 611
 GOLD
-40000
+0
 LEVEL
 2+
 BULK
@@ -3888,7 +3887,7 @@ CRB
 PAGE
 611
 GOLD
-340
+0
 LEVEL
 3+
 BULK
@@ -3908,7 +3907,7 @@ CRB
 PAGE
 604
 GOLD
-650
+30
 LEVEL
 17
 BULK
@@ -3929,7 +3928,7 @@ CRB
 PAGE
 612
 GOLD
-15000
+0
 LEVEL
 4+
 BULK
@@ -3949,9 +3948,9 @@ CRB
 PAGE
 288
 GOLD
-700
+15000
 LEVEL
-3
+0
 BULK
 1
 ENTRY
@@ -3966,7 +3965,7 @@ CRB
 PAGE
 563
 GOLD
-50
+0
 LEVEL
 1+
 BULK
@@ -3987,7 +3986,7 @@ CRB
 PAGE
 552
 GOLD
-5000
+5
 LEVEL
 17
 BULK
@@ -4087,7 +4086,7 @@ CRB
 PAGE
 573
 GOLD
-4500
+0
 LEVEL
 5+
 BULK
@@ -4109,7 +4108,7 @@ CRB
 PAGE
 571
 GOLD
-1400
+4500
 LEVEL
 1
 BULK
@@ -4169,7 +4168,7 @@ CRB
 PAGE
 604
 GOLD
-230
+0
 LEVEL
 7+
 BULK
@@ -4189,7 +4188,7 @@ CRB
 PAGE
 288
 GOLD
-4250
+230
 LEVEL
 0
 BULK
@@ -4386,7 +4385,7 @@ CRB
 PAGE
 583
 GOLD
-9300
+0
 LEVEL
 8+
 BULK
@@ -4405,7 +4404,7 @@ CRB
 PAGE
 563
 GOLD
-1000
+9300
 LEVEL
 4
 BULK
@@ -4567,7 +4566,7 @@ CRB
 PAGE
 548
 GOLD
-110
+0
 LEVEL
 1+
 BULK
@@ -4588,7 +4587,7 @@ CRB
 PAGE
 584
 GOLD
-3000
+110
 LEVEL
 13
 BULK
@@ -4629,7 +4628,7 @@ CRB
 PAGE
 612
 GOLD
-4000
+0
 LEVEL
 9+
 BULK
@@ -4652,7 +4651,7 @@ CRB
 PAGE
 288
 GOLD
-28.5
+40.0
 LEVEL
 0
 BULK
@@ -4669,11 +4668,11 @@ CRB
 PAGE
 288
 GOLD
-3
+0
 LEVEL
 0
 BULK
-0.1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -4686,7 +4685,7 @@ CRB
 PAGE
 549
 GOLD
-7
+0
 LEVEL
 1+
 BULK
@@ -4705,7 +4704,7 @@ CRB
 PAGE
 552
 GOLD
-55
+3
 LEVEL
 2
 BULK
@@ -4787,7 +4786,7 @@ CRB
 PAGE
 288
 GOLD
-24.5
+0
 LEVEL
 0
 BULK
@@ -4804,7 +4803,7 @@ CRB
 PAGE
 601
 GOLD
-4500
+0
 LEVEL
 17+
 BULK
@@ -4825,7 +4824,7 @@ CRB
 PAGE
 574
 GOLD
-30000
+0
 LEVEL
 3+
 BULK
@@ -4844,7 +4843,7 @@ CRB
 PAGE
 597
 GOLD
-19000
+0
 LEVEL
 3+
 BULK
@@ -4862,7 +4861,7 @@ CRB
 PAGE
 288
 GOLD
-40000
+245
 LEVEL
 3
 BULK
@@ -4919,7 +4918,7 @@ CRB
 PAGE
 288
 GOLD
-5.5
+0
 LEVEL
 0
 BULK
@@ -4936,7 +4935,7 @@ CRB
 PAGE
 590
 GOLD
-5000
+55
 LEVEL
 1
 BULK
@@ -4956,7 +4955,7 @@ CRB
 PAGE
 574
 GOLD
-3
+0
 LEVEL
 12+
 BULK
@@ -4975,7 +4974,7 @@ CRB
 PAGE
 288
 GOLD
-1900.0
+0.3
 LEVEL
 0
 BULK
@@ -5033,7 +5032,7 @@ CRB
 PAGE
 592
 GOLD
-525
+0
 LEVEL
 4+
 BULK
@@ -5089,7 +5088,7 @@ CRB
 PAGE
 613
 GOLD
-7
+0
 LEVEL
 9+
 BULK
@@ -5109,7 +5108,7 @@ CRB
 PAGE
 553
 GOLD
-13500
+7
 LEVEL
 15
 BULK
@@ -5146,7 +5145,7 @@ CRB
 PAGE
 549
 GOLD
-1
+0
 LEVEL
 4+
 BULK
@@ -5167,11 +5166,11 @@ CRB
 PAGE
 579
 GOLD
-180
+0
 LEVEL
 8+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -5186,7 +5185,7 @@ CRB
 PAGE
 556
 GOLD
-6000
+0
 LEVEL
 12+
 BULK
@@ -5204,11 +5203,11 @@ CRB
 PAGE
 586
 GOLD
-32000
+0
 LEVEL
 8+
 BULK
-0.1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -5222,7 +5221,7 @@ CRB
 PAGE
 599
 GOLD
-8800
+0
 LEVEL
 11+
 BULK
@@ -5240,7 +5239,7 @@ CRB
 PAGE
 568
 GOLD
-13500
+1
 LEVEL
 2
 BULK
@@ -5337,11 +5336,11 @@ CRB
 PAGE
 288
 GOLD
-6.6
+0
 LEVEL
-3
+0
 BULK
-16
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -5354,7 +5353,7 @@ CRB
 PAGE
 613
 GOLD
-100
+0
 LEVEL
 5+
 BULK
@@ -5374,7 +5373,7 @@ CRB
 PAGE
 561
 GOLD
-9600
+66
 LEVEL
 1
 BULK
@@ -5592,7 +5591,7 @@ CRB
 PAGE
 562
 GOLD
-175
+0
 LEVEL
 2+
 BULK
@@ -5612,7 +5611,7 @@ CRB
 PAGE
 591
 GOLD
-36
+175
 LEVEL
 16
 BULK
@@ -5652,11 +5651,11 @@ CRB
 PAGE
 579
 GOLD
-7
+0
 LEVEL
 17+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -5671,7 +5670,7 @@ CRB
 PAGE
 556
 GOLD
-10000
+0
 LEVEL
 20
 BULK
@@ -5689,11 +5688,11 @@ CRB
 PAGE
 587
 GOLD
-55000
+0
 LEVEL
 17+
 BULK
-0.1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -5707,7 +5706,7 @@ CRB
 PAGE
 599
 GOLD
-12000
+0
 LEVEL
 18
 BULK
@@ -5725,7 +5724,7 @@ CRB
 PAGE
 569
 GOLD
-22500
+7
 LEVEL
 1
 BULK
@@ -5767,7 +5766,7 @@ CRB
 PAGE
 613
 GOLD
-450
+0
 LEVEL
 3+
 BULK
@@ -5787,7 +5786,7 @@ CRB
 PAGE
 560
 GOLD
-650
+450
 LEVEL
 12
 BULK
@@ -5807,7 +5806,7 @@ CRB
 PAGE
 613
 GOLD
-400
+0
 LEVEL
 3+
 BULK
@@ -5848,7 +5847,7 @@ CRB
 PAGE
 614
 GOLD
-650
+0
 LEVEL
 9+
 BULK
@@ -5868,7 +5867,7 @@ CRB
 PAGE
 288
 GOLD
-1
+0.01
 LEVEL
 0
 BULK
@@ -5964,7 +5963,7 @@ CRB
 PAGE
 563
 GOLD
-4
+0
 LEVEL
 8+
 BULK
@@ -5984,7 +5983,7 @@ CRB
 PAGE
 563
 GOLD
-1000
+4
 LEVEL
 5
 BULK
@@ -6024,7 +6023,7 @@ CRB
 PAGE
 563
 GOLD
-90
+0
 LEVEL
 6+
 BULK
@@ -6044,7 +6043,7 @@ CRB
 PAGE
 563
 GOLD
-850
+0
 LEVEL
 6+
 BULK
@@ -6064,7 +6063,7 @@ CRB
 PAGE
 563
 GOLD
-250
+90
 LEVEL
 12
 BULK
@@ -6125,7 +6124,7 @@ CRB
 PAGE
 574
 GOLD
-11
+0
 LEVEL
 6+
 BULK
@@ -6144,7 +6143,7 @@ CRB
 PAGE
 553
 GOLD
-3900
+11
 LEVEL
 13
 BULK
@@ -6164,7 +6163,7 @@ CRB
 PAGE
 549
 GOLD
-500
+0
 LEVEL
 1+
 BULK
@@ -6222,7 +6221,7 @@ CRB
 PAGE
 288
 GOLD
-1800.0
+0
 LEVEL
 0
 BULK
@@ -6239,7 +6238,7 @@ CRB
 PAGE
 288
 GOLD
-2
+18000
 LEVEL
 0
 BULK
@@ -6256,9 +6255,9 @@ CRB
 PAGE
 288
 GOLD
-1
+0
 LEVEL
-3
+0
 BULK
 1
 ENTRY
@@ -6273,9 +6272,9 @@ CRB
 PAGE
 288
 GOLD
-2.5
+0.1
 LEVEL
-3
+0
 BULK
 0.0
 ENTRY
@@ -6290,16 +6289,15 @@ CRB
 PAGE
 288
 GOLD
-0.5
+0
 LEVEL
-3
+0
 BULK
 0.0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
 adventuring gear
-uncommon
 
 NAME
 Resilient Rune
@@ -6308,7 +6306,7 @@ CRB
 PAGE
 581
 GOLD
-10
+0
 LEVEL
 8+
 BULK
@@ -6327,7 +6325,7 @@ CRB
 PAGE
 602
 GOLD
-49440
+1
 LEVEL
 3
 BULK
@@ -6426,7 +6424,7 @@ CRB
 PAGE
 614
 GOLD
-925
+0
 LEVEL
 6+
 BULK
@@ -6446,7 +6444,7 @@ CRB
 PAGE
 614
 GOLD
-4400
+925
 LEVEL
 10
 BULK
@@ -6467,7 +6465,7 @@ CRB
 PAGE
 614
 GOLD
-850
+0
 LEVEL
 11+
 BULK
@@ -6487,7 +6485,7 @@ CRB
 PAGE
 615
 GOLD
-21000
+850
 LEVEL
 20
 BULK
@@ -6549,7 +6547,7 @@ CRB
 PAGE
 615
 GOLD
-1750
+0
 LEVEL
 6+
 BULK
@@ -6570,7 +6568,7 @@ CRB
 PAGE
 615
 GOLD
-2700
+0
 LEVEL
 7+
 BULK
@@ -6591,7 +6589,7 @@ CRB
 PAGE
 615
 GOLD
-4500
+1750
 LEVEL
 17
 BULK
@@ -6612,7 +6610,7 @@ CRB
 PAGE
 616
 GOLD
-13000
+0
 LEVEL
 15+
 BULK
@@ -6633,7 +6631,7 @@ CRB
 PAGE
 574
 GOLD
-32000
+13000
 LEVEL
 14
 BULK
@@ -6742,7 +6740,7 @@ CRB
 PAGE
 549
 GOLD
-2
+0
 LEVEL
 4+
 BULK
@@ -6761,7 +6759,7 @@ CRB
 PAGE
 562
 GOLD
-1400
+0
 LEVEL
 6+
 BULK
@@ -6782,7 +6780,7 @@ CRB
 PAGE
 562
 GOLD
-325
+2
 LEVEL
 5
 BULK
@@ -6823,7 +6821,7 @@ CRB
 PAGE
 288
 GOLD
-7
+0
 LEVEL
 3
 BULK
@@ -6841,7 +6839,7 @@ CRB
 PAGE
 564
 GOLD
-30
+0
 LEVEL
 1+
 BULK
@@ -6860,7 +6858,7 @@ CRB
 PAGE
 591
 GOLD
-8000
+7
 LEVEL
 12
 BULK
@@ -6880,7 +6878,7 @@ CRB
 PAGE
 549
 GOLD
-320
+0
 LEVEL
 5+
 BULK
@@ -6900,7 +6898,7 @@ CRB
 PAGE
 549
 GOLD
-920
+0
 LEVEL
 1+
 BULK
@@ -6921,7 +6919,7 @@ CRB
 PAGE
 564
 GOLD
-3000
+320
 LEVEL
 7
 BULK
@@ -6941,7 +6939,7 @@ CRB
 PAGE
 583
 GOLD
-60
+0
 LEVEL
 5+
 BULK
@@ -6960,7 +6958,7 @@ CRB
 PAGE
 553
 GOLD
-14000
+60
 LEVEL
 10
 BULK
@@ -7041,7 +7039,7 @@ CRB
 PAGE
 585
 GOLD
-3
+0
 LEVEL
 8+
 BULK
@@ -7061,7 +7059,7 @@ CRB
 PAGE
 564
 GOLD
-6500
+0
 LEVEL
 4+
 BULK
@@ -7118,11 +7116,11 @@ CRB
 PAGE
 579
 GOLD
-3
+0
 LEVEL
 2+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -7136,7 +7134,7 @@ CRB
 PAGE
 556
 GOLD
-4500
+0
 LEVEL
 5+
 BULK
@@ -7153,11 +7151,11 @@ CRB
 PAGE
 587
 GOLD
-20000
+0
 LEVEL
 2+
 BULK
-1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -7170,7 +7168,7 @@ CRB
 PAGE
 599
 GOLD
-5500
+0
 LEVEL
 2+
 BULK
@@ -7187,7 +7185,7 @@ CRB
 PAGE
 554
 GOLD
-9000
+3
 LEVEL
 2
 BULK
@@ -7206,7 +7204,7 @@ CRB
 PAGE
 550
 GOLD
-6
+0
 LEVEL
 1+
 BULK
@@ -7227,7 +7225,7 @@ CRB
 PAGE
 575
 GOLD
-3000
+0
 LEVEL
 5+
 BULK
@@ -7246,7 +7244,7 @@ CRB
 PAGE
 602
 GOLD
-1250
+6
 LEVEL
 20
 BULK
@@ -7288,7 +7286,7 @@ CRB
 PAGE
 583
 GOLD
-11
+0
 LEVEL
 5+
 BULK
@@ -7307,7 +7305,7 @@ CRB
 PAGE
 282
 GOLD
-90.0
+0.11
 LEVEL
 0
 BULK
@@ -7365,7 +7363,7 @@ CRB
 PAGE
 554
 GOLD
-325
+0
 LEVEL
 1+
 BULK
@@ -7384,7 +7382,7 @@ CRB
 PAGE
 554
 GOLD
-53
+325
 LEVEL
 1
 BULK
@@ -7405,7 +7403,7 @@ PAGE
 GOLD
 5
 LEVEL
-3
+0
 BULK
 2
 ENTRY
@@ -7420,7 +7418,7 @@ CRB
 PAGE
 569
 GOLD
-55
+5
 LEVEL
 5
 BULK
@@ -7533,7 +7531,7 @@ CRB
 PAGE
 560
 GOLD
-250
+0
 LEVEL
 3+
 BULK
@@ -7553,7 +7551,7 @@ CRB
 PAGE
 553
 GOLD
-8000
+250
 LEVEL
 9
 BULK
@@ -7614,7 +7612,7 @@ PAGE
 GOLD
 20
 LEVEL
-4
+0
 BULK
 0.1
 ENTRY
@@ -7629,7 +7627,7 @@ CRB
 PAGE
 593
 GOLD
-80
+0
 LEVEL
 6+
 BULK
@@ -7648,7 +7646,7 @@ CRB
 PAGE
 593
 GOLD
-4000
+0
 LEVEL
 6+
 BULK
@@ -7667,7 +7665,7 @@ CRB
 PAGE
 593
 GOLD
-4000
+0
 LEVEL
 6+
 BULK
@@ -7686,7 +7684,7 @@ CRB
 PAGE
 593
 GOLD
-4000
+0
 LEVEL
 6+
 BULK
@@ -7697,7 +7695,6 @@ TRAITS
 enchantment
 magical
 staff
-uncommon
 
 NAME
 Staff of Evocation
@@ -7706,7 +7703,7 @@ CRB
 PAGE
 593
 GOLD
-4000
+0
 LEVEL
 6+
 BULK
@@ -7725,7 +7722,7 @@ CRB
 PAGE
 594
 GOLD
-4000
+0
 LEVEL
 3+
 BULK
@@ -7744,7 +7741,7 @@ CRB
 PAGE
 594
 GOLD
-1800
+0
 LEVEL
 4+
 BULK
@@ -7763,7 +7760,7 @@ CRB
 PAGE
 594
 GOLD
-9200
+20
 LEVEL
 8
 BULK
@@ -7782,7 +7779,7 @@ CRB
 PAGE
 594
 GOLD
-425
+0
 LEVEL
 6+
 BULK
@@ -7801,7 +7798,7 @@ CRB
 PAGE
 594
 GOLD
-4000
+0
 LEVEL
 6+
 BULK
@@ -7820,7 +7817,7 @@ CRB
 PAGE
 595
 GOLD
-4000
+425
 LEVEL
 16
 BULK
@@ -7860,7 +7857,7 @@ CRB
 PAGE
 595
 GOLD
-90000
+0
 LEVEL
 6+
 BULK
@@ -7879,7 +7876,7 @@ CRB
 PAGE
 591
 GOLD
-4000
+90000
 LEVEL
 4
 BULK
@@ -7962,7 +7959,7 @@ CRB
 PAGE
 602
 GOLD
-130
+0
 LEVEL
 14+
 BULK
@@ -7982,7 +7979,7 @@ CRB
 PAGE
 581
 GOLD
-21000
+0
 LEVEL
 4+
 BULK
@@ -8001,7 +7998,7 @@ CRB
 PAGE
 591
 GOLD
-31065
+130
 LEVEL
 8
 BULK
@@ -8041,7 +8038,7 @@ CRB
 PAGE
 588
 GOLD
-320
+0
 LEVEL
 4+
 BULK
@@ -8060,7 +8057,7 @@ CRB
 PAGE
 554
 GOLD
-40000
+320
 LEVEL
 1
 BULK
@@ -8080,7 +8077,7 @@ CRB
 PAGE
 288
 GOLD
-3
+0
 LEVEL
 3
 BULK
@@ -8098,7 +8095,7 @@ CRB
 PAGE
 569
 GOLD
-50
+3
 LEVEL
 7
 BULK
@@ -8136,7 +8133,7 @@ CRB
 PAGE
 545
 GOLD
-4
+0
 LEVEL
 1+
 BULK
@@ -8155,7 +8152,7 @@ CRB
 PAGE
 553
 GOLD
-2500
+4
 LEVEL
 20
 BULK
@@ -8193,11 +8190,11 @@ CRB
 PAGE
 288
 GOLD
-0.1
+0
 LEVEL
-2
+0
 BULK
-12
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -8210,16 +8207,15 @@ CRB
 PAGE
 288
 GOLD
-40
+1
 LEVEL
-3
+0
 BULK
 0.1
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
 adventuring gear
-uncommon
 
 NAME
 Third Eye
@@ -8228,7 +8224,7 @@ CRB
 PAGE
 616
 GOLD
-80
+3
 LEVEL
 19
 BULK
@@ -8248,7 +8244,7 @@ CRB
 PAGE
 585
 GOLD
-40000
+0
 LEVEL
 8+
 BULK
@@ -8268,7 +8264,7 @@ CRB
 PAGE
 546
 GOLD
-6500
+0
 LEVEL
 1+
 BULK
@@ -8289,7 +8285,7 @@ CRB
 PAGE
 575
 GOLD
-2500
+0
 LEVEL
 3+
 BULK
@@ -8308,7 +8304,7 @@ CRB
 PAGE
 569
 GOLD
-19000
+40000
 LEVEL
 5
 BULK
@@ -8348,11 +8344,11 @@ CRB
 PAGE
 288
 GOLD
-2
+0
 LEVEL
 0
 BULK
-0.1
+0
 ENTRY
 This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
 TRAITS
@@ -8365,7 +8361,7 @@ CRB
 PAGE
 288
 GOLD
-0.04
+0.02
 LEVEL
 0
 BULK
@@ -8382,7 +8378,7 @@ CRB
 PAGE
 616
 GOLD
-1
+0
 LEVEL
 3+
 BULK
@@ -8402,7 +8398,7 @@ CRB
 PAGE
 576
 GOLD
-660
+1
 LEVEL
 6
 BULK
@@ -8583,7 +8579,7 @@ CRB
 PAGE
 617
 GOLD
-160
+0
 LEVEL
 3+
 BULK
@@ -8603,7 +8599,7 @@ CRB
 PAGE
 595
 GOLD
-670
+0
 LEVEL
 6+
 BULK
@@ -8622,7 +8618,7 @@ CRB
 PAGE
 560
 GOLD
-1750
+160
 LEVEL
 3
 BULK
@@ -8725,7 +8721,7 @@ CRB
 PAGE
 598
 GOLD
-14800
+0
 LEVEL
 5+
 BULK
@@ -8743,7 +8739,7 @@ CRB
 PAGE
 598
 GOLD
-40000
+0
 LEVEL
 5+
 BULK
@@ -8763,7 +8759,7 @@ CRB
 PAGE
 598
 GOLD
-15000
+0
 LEVEL
 16+
 BULK
@@ -8782,7 +8778,7 @@ CRB
 PAGE
 598
 GOLD
-70000
+0
 LEVEL
 8+
 BULK
@@ -8802,7 +8798,7 @@ CRB
 PAGE
 598
 GOLD
-70000
+0
 LEVEL
 4+
 BULK
@@ -8820,7 +8816,7 @@ CRB
 PAGE
 591
 GOLD
-70000
+14800
 LEVEL
 4
 BULK
@@ -8879,7 +8875,7 @@ CRB
 PAGE
 581
 GOLD
-28
+0
 LEVEL
 2+
 BULK
@@ -8898,7 +8894,7 @@ CRB
 PAGE
 617
 GOLD
-8935
+28
 LEVEL
 20
 BULK
@@ -8939,7 +8935,7 @@ CRB
 PAGE
 550
 GOLD
-850
+0
 LEVEL
 4+
 BULK
@@ -8958,7 +8954,7 @@ CRB
 PAGE
 570
 GOLD
-1400
+850
 LEVEL
 1
 BULK
@@ -8998,7 +8994,7 @@ CRB
 PAGE
 576
 GOLD
-155
+0
 LEVEL
 2+
 BULK
@@ -9009,7 +9005,6 @@ TRAITS
 conjuration
 magical
 held
-uncommon
 
 NAME
 Wounding Rune
@@ -9018,7 +9013,7 @@ CRB
 PAGE
 585
 GOLD
-34
+155
 LEVEL
 7
 BULK

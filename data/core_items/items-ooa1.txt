@@ -27,7 +27,7 @@ OoA1
 PAGE
 77
 GOLD
-3
+0
 LEVEL
 1+
 BULK
@@ -47,7 +47,7 @@ OoA1
 PAGE
 77
 GOLD
-4
+0
 LEVEL
 1+
 BULK

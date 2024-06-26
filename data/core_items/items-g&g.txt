@@ -5,7 +5,7 @@ G&G
 PAGE
 66
 GOLD
-4
+0
 LEVEL
 1+
 BULK
@@ -24,7 +24,7 @@ G&G
 PAGE
 67
 GOLD
-8000
+0
 LEVEL
 1+
 BULK
@@ -43,7 +43,7 @@ G&G
 PAGE
 78
 GOLD
-8000
+15
 LEVEL
 4
 BULK
@@ -248,7 +248,7 @@ G&G
 PAGE
 168
 GOLD
-5
+0
 LEVEL
 17+
 BULK
@@ -268,7 +268,7 @@ G&G
 PAGE
 63
 GOLD
-230.0
+0.5
 LEVEL
 0
 BULK
@@ -345,7 +345,7 @@ G&G
 PAGE
 74
 GOLD
-16.0
+0
 LEVEL
 5+
 BULK
@@ -365,7 +365,7 @@ G&G
 PAGE
 78
 GOLD
-250
+5
 LEVEL
 10
 BULK
@@ -386,7 +386,7 @@ G&G
 PAGE
 169
 GOLD
-1
+0
 LEVEL
 0+
 BULK
@@ -405,7 +405,7 @@ G&G
 PAGE
 64
 GOLD
-50
+160
 LEVEL
 1
 BULK
@@ -423,7 +423,7 @@ G&G
 PAGE
 67
 GOLD
-18
+0
 LEVEL
 1
 BULK
@@ -442,7 +442,7 @@ G&G
 PAGE
 173
 GOLD
-2750
+18
 LEVEL
 7
 BULK
@@ -464,7 +464,7 @@ G&G
 PAGE
 183
 GOLD
-360
+0
 LEVEL
 3+
 BULK
@@ -506,7 +506,7 @@ G&G
 PAGE
 64
 GOLD
-1350
+360
 LEVEL
 1
 BULK
@@ -545,7 +545,7 @@ G&G
 PAGE
 154
 GOLD
-300
+0
 LEVEL
 8+
 BULK
@@ -566,7 +566,7 @@ G&G
 PAGE
 183
 GOLD
-24000
+300
 LEVEL
 3
 BULK
@@ -602,7 +602,7 @@ G&G
 PAGE
 174
 GOLD
-140
+10
 LEVEL
 8
 BULK
@@ -665,7 +665,7 @@ G&G
 PAGE
 67
 GOLD
-10
+0
 LEVEL
 4+
 BULK
@@ -685,7 +685,7 @@ G&G
 PAGE
 85
 GOLD
-320
+10
 LEVEL
 1
 BULK
@@ -767,7 +767,7 @@ G&G
 PAGE
 68
 GOLD
-200
+0
 LEVEL
 1+
 BULK
@@ -787,7 +787,7 @@ G&G
 PAGE
 87
 GOLD
-80
+200
 LEVEL
 1
 BULK
@@ -846,7 +846,7 @@ G&G
 PAGE
 68
 GOLD
-25
+0
 LEVEL
 1+
 BULK
@@ -866,7 +866,7 @@ G&G
 PAGE
 180
 GOLD
-2500
+0
 LEVEL
 5+
 BULK
@@ -886,7 +886,7 @@ G&G
 PAGE
 87
 GOLD
-5500
+25
 LEVEL
 2
 BULK
@@ -926,7 +926,7 @@ G&G
 PAGE
 64
 GOLD
-9000
+0
 LEVEL
 1+
 BULK
@@ -944,7 +944,7 @@ G&G
 PAGE
 79
 GOLD
-35
+9000
 LEVEL
 3
 BULK
@@ -1150,7 +1150,7 @@ G&G
 PAGE
 68
 GOLD
-22
+0
 LEVEL
 3+
 BULK
@@ -1169,7 +1169,7 @@ G&G
 PAGE
 69
 GOLD
-1300
+0
 LEVEL
 1+
 BULK
@@ -1188,7 +1188,7 @@ G&G
 PAGE
 170
 GOLD
-4000
+0
 LEVEL
 4+
 BULK
@@ -1206,7 +1206,7 @@ G&G
 PAGE
 87
 GOLD
-360
+22
 LEVEL
 0
 BULK
@@ -1350,7 +1350,7 @@ G&G
 PAGE
 69
 GOLD
-25
+0
 LEVEL
 1+
 BULK
@@ -1369,7 +1369,7 @@ G&G
 PAGE
 91
 GOLD
-1500
+25
 LEVEL
 8
 BULK
@@ -1473,7 +1473,7 @@ G&G
 PAGE
 70
 GOLD
-20
+0
 LEVEL
 5+
 BULK
@@ -1493,7 +1493,7 @@ G&G
 PAGE
 184
 GOLD
-125
+20
 LEVEL
 11
 BULK
@@ -1552,7 +1552,7 @@ G&G
 PAGE
 64
 GOLD
-24
+0
 LEVEL
 0+
 BULK
@@ -1570,7 +1570,7 @@ G&G
 PAGE
 155
 GOLD
-15
+24
 LEVEL
 9
 BULK
@@ -1841,7 +1841,7 @@ G&G
 PAGE
 70
 GOLD
-700
+0
 LEVEL
 1+
 BULK
@@ -1860,7 +1860,7 @@ G&G
 PAGE
 185
 GOLD
-650
+0
 LEVEL
 3+
 BULK
@@ -1881,7 +1881,7 @@ G&G
 PAGE
 70
 GOLD
-1200
+700
 LEVEL
 2
 BULK
@@ -1982,7 +1982,7 @@ G&G
 PAGE
 180
 GOLD
-200
+0
 LEVEL
 9+
 BULK
@@ -2004,7 +2004,7 @@ G&G
 PAGE
 71
 GOLD
-2000
+0
 LEVEL
 4+
 BULK
@@ -2022,7 +2022,7 @@ G&G
 PAGE
 181
 GOLD
-2000
+0
 LEVEL
 9+
 BULK
@@ -2042,7 +2042,7 @@ G&G
 PAGE
 181
 GOLD
-16000
+0
 LEVEL
 3+
 BULK
@@ -2062,7 +2062,7 @@ G&G
 PAGE
 71
 GOLD
-16000
+0
 LEVEL
 3+
 BULK
@@ -2081,7 +2081,7 @@ G&G
 PAGE
 88
 GOLD
-6500
+200
 LEVEL
 1
 BULK
@@ -2099,7 +2099,7 @@ G&G
 PAGE
 171
 GOLD
-10
+0
 LEVEL
 7+
 BULK
@@ -2121,7 +2121,7 @@ G&G
 PAGE
 176
 GOLD
-3000
+10
 LEVEL
 7
 BULK
@@ -2347,7 +2347,7 @@ G&G
 PAGE
 182
 GOLD
-300.0
+0
 LEVEL
 1+
 BULK
@@ -2366,7 +2366,7 @@ G&G
 PAGE
 178
 GOLD
-5.0
+300.0
 LEVEL
 0
 BULK
@@ -2464,7 +2464,7 @@ G&G
 PAGE
 150
 GOLD
-0.9
+0
 LEVEL
 0
 BULK
@@ -2503,7 +2503,7 @@ G&G
 PAGE
 177
 GOLD
-1
+9
 LEVEL
 3
 BULK
@@ -2563,7 +2563,7 @@ G&G
 PAGE
 155
 GOLD
-3000
+0
 LEVEL
 9+
 BULK
@@ -2588,7 +2588,7 @@ G&G
 PAGE
 83
 GOLD
-15000
+3000
 LEVEL
 10
 BULK
@@ -2708,7 +2708,7 @@ G&G
 PAGE
 71
 GOLD
-3
+0
 LEVEL
 2+
 BULK
@@ -2727,7 +2727,7 @@ G&G
 PAGE
 185
 GOLD
-75
+0
 LEVEL
 4+
 BULK
@@ -2747,7 +2747,7 @@ G&G
 PAGE
 91
 GOLD
-1600
+3
 LEVEL
 12
 BULK
@@ -2768,7 +2768,7 @@ G&G
 PAGE
 155
 GOLD
-1800
+0
 LEVEL
 6+
 BULK
@@ -2790,7 +2790,7 @@ G&G
 PAGE
 156
 GOLD
-6500
+1800
 LEVEL
 6
 BULK
@@ -2833,11 +2833,11 @@ G&G
 PAGE
 83
 GOLD
-90
+0
 LEVEL
 5+
 BULK
-1
+0
 ENTRY
 Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
 TRAITS
@@ -2851,7 +2851,7 @@ G&G
 PAGE
 76
 GOLD
-1650
+90
 LEVEL
 7
 BULK
@@ -2934,7 +2934,7 @@ G&G
 PAGE
 171
 GOLD
-6000
+0
 LEVEL
 7+
 BULK
@@ -2954,7 +2954,7 @@ G&G
 PAGE
 91
 GOLD
-185
+6000
 LEVEL
 14
 BULK
@@ -2998,7 +2998,7 @@ G&G
 PAGE
 156
 GOLD
-4400
+0
 LEVEL
 7+
 BULK
@@ -3020,7 +3020,7 @@ G&G
 PAGE
 166
 GOLD
-15000
+4400
 LEVEL
 11
 BULK
@@ -3040,11 +3040,11 @@ G&G
 PAGE
 89
 GOLD
-1400
+0
 LEVEL
 1+
 BULK
-16
+0
 ENTRY
 Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
 TRAITS
@@ -3059,7 +3059,7 @@ G&G
 PAGE
 81
 GOLD
-50
+1400
 LEVEL
 5
 BULK
@@ -3234,7 +3234,7 @@ G&G
 PAGE
 65
 GOLD
-6
+0
 LEVEL
 3+
 BULK

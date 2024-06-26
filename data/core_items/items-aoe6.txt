@@ -67,11 +67,11 @@ AoE6
 PAGE
 74
 GOLD
-10000
+0
 LEVEL
 17+
 BULK
-1
+0
 ENTRY
 A large crystal of {@item warpglass|aoe6} floats above the head of this silvery purple +3 anarchic greater striking club. If you successfully {@action Strike} a creature, the cane also affects the target with a {@ability warpwave|AOE6}. While you carry the cane, you hear a constant, distracting chorus of laughing, incoherent Protean whispers and sing-song voices in your mind. Blatant acts of self-indulgence or narcissism quell these whispers, from a few minutes up to a full day depending on the scope of the act, but they immediately return when you use the artifact's powers.
 TRAITS
@@ -86,7 +86,7 @@ AoE6
 PAGE
 75
 GOLD
-8000
+0
 LEVEL
 17
 BULK

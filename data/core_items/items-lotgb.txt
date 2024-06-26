@@ -5,11 +5,11 @@ LOTGB
 PAGE
 96
 GOLD
-450
+0
 LEVEL
 0+
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -24,7 +24,7 @@ LOTGB
 PAGE
 96
 GOLD
-7500
+0
 LEVEL
 12+
 BULK
@@ -42,7 +42,7 @@ LOTGB
 PAGE
 96
 GOLD
-40000
+150
 LEVEL
 9
 BULK
@@ -63,11 +63,11 @@ LOTGB
 PAGE
 96
 GOLD
-150
+0
 LEVEL
 8+
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -81,7 +81,7 @@ LOTGB
 PAGE
 97
 GOLD
-8800
+0
 LEVEL
 12+
 BULK
@@ -99,7 +99,7 @@ LOTGB
 PAGE
 92
 GOLD
-2400.0
+15.0
 LEVEL
 0
 BULK
@@ -116,7 +116,7 @@ LOTGB
 PAGE
 84
 GOLD
-1
+0
 LEVEL
 8+
 BULK
@@ -139,7 +139,7 @@ LOTGB
 PAGE
 30
 GOLD
-8000
+1
 LEVEL
 10
 BULK
@@ -179,7 +179,7 @@ LOTGB
 PAGE
 80
 GOLD
-575
+0
 LEVEL
 10+
 BULK
@@ -199,7 +199,7 @@ LOTGB
 PAGE
 38
 GOLD
-22000
+0
 LEVEL
 10+
 BULK
@@ -221,7 +221,7 @@ LOTGB
 PAGE
 42
 GOLD
-6000
+575
 LEVEL
 18
 BULK
@@ -366,7 +366,7 @@ LOTGB
 PAGE
 14
 GOLD
-5
+0
 LEVEL
 7+
 BULK
@@ -387,7 +387,7 @@ LOTGB
 PAGE
 18
 GOLD
-1150
+5
 LEVEL
 9
 BULK
@@ -408,7 +408,7 @@ LOTGB
 PAGE
 73
 GOLD
-135
+0
 LEVEL
 6+
 BULK
@@ -429,7 +429,7 @@ LOTGB
 PAGE
 14
 GOLD
-1000
+135
 LEVEL
 3
 BULK
@@ -485,7 +485,7 @@ LOTGB
 PAGE
 46
 GOLD
-8500
+0
 LEVEL
 9+
 BULK
@@ -504,7 +504,7 @@ LOTGB
 PAGE
 10
 GOLD
-625
+8500
 LEVEL
 14
 BULK
@@ -525,7 +525,7 @@ LOTGB
 PAGE
 110
 GOLD
-4500
+0
 LEVEL
 8+
 BULK
@@ -547,7 +547,7 @@ LOTGB
 PAGE
 26
 GOLD
-12500
+4500
 LEVEL
 10
 BULK
@@ -723,7 +723,7 @@ LOTGB
 PAGE
 18
 GOLD
-45
+0
 LEVEL
 7+
 BULK
@@ -743,7 +743,7 @@ LOTGB
 PAGE
 38
 GOLD
-1300
+45
 LEVEL
 7
 BULK
@@ -764,7 +764,7 @@ LOTGB
 PAGE
 110
 GOLD
-360
+0
 LEVEL
 8+
 BULK
@@ -785,7 +785,7 @@ LOTGB
 PAGE
 42
 GOLD
-10000
+0
 LEVEL
 3+
 BULK
@@ -805,7 +805,7 @@ LOTGB
 PAGE
 18
 GOLD
-650
+360
 LEVEL
 17
 BULK
@@ -868,7 +868,7 @@ LOTGB
 PAGE
 42
 GOLD
-330
+0
 LEVEL
 10+
 BULK
@@ -890,7 +890,7 @@ LOTGB
 PAGE
 19
 GOLD
-9500
+330
 LEVEL
 3
 BULK
@@ -907,11 +907,11 @@ LOTGB
 PAGE
 97
 GOLD
-100
+0
 LEVEL
 0+
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -926,7 +926,7 @@ LOTGB
 PAGE
 98
 GOLD
-7000
+0
 LEVEL
 12+
 BULK
@@ -944,7 +944,7 @@ LOTGB
 PAGE
 98
 GOLD
-35000
+100
 LEVEL
 13
 BULK
@@ -963,11 +963,11 @@ LOTGB
 PAGE
 98
 GOLD
-600
+0
 LEVEL
 9+
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -981,7 +981,7 @@ LOTGB
 PAGE
 98
 GOLD
-8800
+0
 LEVEL
 12+
 BULK
@@ -999,7 +999,7 @@ LOTGB
 PAGE
 58
 GOLD
-2200.0
+0
 LEVEL
 0+
 BULK
@@ -1016,7 +1016,7 @@ LOTGB
 PAGE
 46
 GOLD
-10
+0
 LEVEL
 2+
 BULK
@@ -1035,7 +1035,7 @@ LOTGB
 PAGE
 88
 GOLD
-5500
+0
 LEVEL
 4+
 BULK
@@ -1056,7 +1056,7 @@ LOTGB
 PAGE
 104
 GOLD
-70000
+600
 LEVEL
 1
 BULK
@@ -1097,7 +1097,7 @@ LOTGB
 PAGE
 14
 GOLD
-310
+0
 LEVEL
 6+
 BULK
@@ -1121,7 +1121,7 @@ LOTGB
 PAGE
 30
 GOLD
-21000
+310
 LEVEL
 20
 BULK
@@ -1225,7 +1225,7 @@ LOTGB
 PAGE
 50
 GOLD
-250
+0
 LEVEL
 7+
 BULK
@@ -1246,7 +1246,7 @@ LOTGB
 PAGE
 14
 GOLD
-900
+250
 LEVEL
 9
 BULK
@@ -1286,7 +1286,7 @@ LOTGB
 PAGE
 38
 GOLD
-50
+0
 LEVEL
 3+
 BULK
@@ -1308,7 +1308,7 @@ LOTGB
 PAGE
 15
 GOLD
-650
+50
 LEVEL
 7
 BULK
@@ -1348,7 +1348,7 @@ LOTGB
 PAGE
 73
 GOLD
-25
+0
 LEVEL
 8+
 BULK
@@ -1369,7 +1369,7 @@ LOTGB
 PAGE
 92
 GOLD
-4000
+25
 LEVEL
 0
 BULK
@@ -1386,7 +1386,7 @@ LOTGB
 PAGE
 106
 GOLD
-1
+0
 LEVEL
 2+
 BULK
@@ -1407,7 +1407,7 @@ LOTGB
 PAGE
 46
 GOLD
-6000
+0
 LEVEL
 7+
 BULK
@@ -1426,7 +1426,7 @@ LOTGB
 PAGE
 110
 GOLD
-2500
+0
 LEVEL
 5+
 BULK
@@ -1447,7 +1447,7 @@ LOTGB
 PAGE
 76
 GOLD
-450
+0
 LEVEL
 8+
 BULK
@@ -1467,7 +1467,7 @@ LOTGB
 PAGE
 92
 GOLD
-6000
+1
 LEVEL
 0
 BULK
@@ -1504,7 +1504,7 @@ LOTGB
 PAGE
 58
 GOLD
-3
+0
 LEVEL
 0+
 BULK
@@ -1521,7 +1521,7 @@ LOTGB
 PAGE
 26
 GOLD
-5
+3
 LEVEL
 4
 BULK
@@ -1566,7 +1566,7 @@ LOTGB
 PAGE
 80
 GOLD
-2500
+0
 LEVEL
 6+
 BULK
@@ -1586,7 +1586,7 @@ LOTGB
 PAGE
 84
 GOLD
-1300
+2500
 LEVEL
 11
 BULK
@@ -1687,7 +1687,7 @@ LOTGB
 PAGE
 46
 GOLD
-1200
+0
 LEVEL
 3
 BULK
@@ -1706,7 +1706,7 @@ LOTGB
 PAGE
 71
 GOLD
-2500
+1200
 LEVEL
 1
 BULK
@@ -1726,11 +1726,11 @@ LOTGB
 PAGE
 98
 GOLD
-5
+0
 LEVEL
 0+
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -1745,7 +1745,7 @@ LOTGB
 PAGE
 98
 GOLD
-6500
+0
 LEVEL
 11+
 BULK
@@ -1763,11 +1763,11 @@ LOTGB
 PAGE
 99
 GOLD
-18000
+0
 LEVEL
 8+
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -1781,7 +1781,7 @@ LOTGB
 PAGE
 99
 GOLD
-5500
+0
 LEVEL
 11+
 BULK
@@ -1799,7 +1799,7 @@ LOTGB
 PAGE
 19
 GOLD
-13500
+5
 LEVEL
 11
 BULK
@@ -1954,7 +1954,7 @@ LOTGB
 PAGE
 19
 GOLD
-125
+0
 LEVEL
 8+
 BULK
@@ -1974,7 +1974,7 @@ LOTGB
 PAGE
 58
 GOLD
-75.0
+12.5
 LEVEL
 0
 BULK
@@ -1991,7 +1991,7 @@ LOTGB
 PAGE
 92
 GOLD
-2
+0
 LEVEL
 0+
 BULK
@@ -2008,7 +2008,7 @@ LOTGB
 PAGE
 80
 GOLD
-5
+2
 LEVEL
 14
 BULK
@@ -2156,11 +2156,11 @@ LOTGB
 PAGE
 99
 GOLD
-170
+0
 LEVEL
 0+
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -2175,7 +2175,7 @@ LOTGB
 PAGE
 100
 GOLD
-7000
+0
 LEVEL
 12+
 BULK
@@ -2193,11 +2193,11 @@ LOTGB
 PAGE
 100
 GOLD
-32000
+0
 LEVEL
 17
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -2211,7 +2211,7 @@ LOTGB
 PAGE
 100
 GOLD
-15400
+0
 LEVEL
 12+
 BULK
@@ -2229,7 +2229,7 @@ LOTGB
 PAGE
 59
 GOLD
-24000
+170
 LEVEL
 0
 BULK
@@ -2246,7 +2246,7 @@ LOTGB
 PAGE
 88
 GOLD
-1
+0
 LEVEL
 5+
 BULK
@@ -2267,7 +2267,7 @@ LOTGB
 PAGE
 22
 GOLD
-2750
+1
 LEVEL
 3
 BULK
@@ -2403,7 +2403,7 @@ LOTGB
 PAGE
 92
 GOLD
-500
+0
 LEVEL
 3+
 BULK
@@ -2420,7 +2420,7 @@ LOTGB
 PAGE
 92
 GOLD
-60.0
+50.0
 LEVEL
 0
 BULK
@@ -2437,7 +2437,7 @@ LOTGB
 PAGE
 89
 GOLD
-1
+0
 LEVEL
 3+
 BULK
@@ -2457,7 +2457,7 @@ LOTGB
 PAGE
 85
 GOLD
-900
+1
 LEVEL
 17
 BULK
@@ -2540,7 +2540,7 @@ LOTGB
 PAGE
 59
 GOLD
-2.5
+0
 LEVEL
 0+
 BULK
@@ -2557,7 +2557,7 @@ LOTGB
 PAGE
 39
 GOLD
-10
+0
 LEVEL
 7+
 BULK
@@ -2578,7 +2578,7 @@ LOTGB
 PAGE
 43
 GOLD
-13500
+0
 LEVEL
 5+
 BULK
@@ -2599,7 +2599,7 @@ LOTGB
 PAGE
 50
 GOLD
-1750
+25
 LEVEL
 2
 BULK
@@ -2661,7 +2661,7 @@ LOTGB
 PAGE
 69
 GOLD
-1900
+0
 LEVEL
 1+
 BULK
@@ -2681,7 +2681,7 @@ LOTGB
 PAGE
 19
 GOLD
-1800
+1900
 LEVEL
 3
 BULK
@@ -2946,11 +2946,11 @@ LOTGB
 PAGE
 100
 GOLD
-210
+0
 LEVEL
 0+
 BULK
-1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -2965,7 +2965,7 @@ LOTGB
 PAGE
 100
 GOLD
-6000
+0
 LEVEL
 12+
 BULK
@@ -2983,11 +2983,11 @@ LOTGB
 PAGE
 101
 GOLD
-32000
+0
 LEVEL
 8+
 BULK
-2
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -3001,7 +3001,7 @@ LOTGB
 PAGE
 101
 GOLD
-8800
+0
 LEVEL
 11+
 BULK
@@ -3019,7 +3019,7 @@ LOTGB
 PAGE
 10
 GOLD
-15000
+210
 LEVEL
 9
 BULK
@@ -3122,7 +3122,7 @@ LOTGB
 PAGE
 106
 GOLD
-25
+0
 LEVEL
 14+
 BULK
@@ -3143,7 +3143,7 @@ LOTGB
 PAGE
 92
 GOLD
-32000
+25
 LEVEL
 3
 BULK
@@ -3278,7 +3278,7 @@ LOTGB
 PAGE
 30
 GOLD
-240
+0
 LEVEL
 6+
 BULK
@@ -3298,7 +3298,7 @@ LOTGB
 PAGE
 111
 GOLD
-9000
+0
 LEVEL
 6+
 BULK
@@ -3318,7 +3318,7 @@ LOTGB
 PAGE
 39
 GOLD
-24000
+0
 LEVEL
 5+
 BULK
@@ -3338,7 +3338,7 @@ LOTGB
 PAGE
 43
 GOLD
-12500
+6
 LEVEL
 2
 BULK
@@ -3360,7 +3360,7 @@ LOTGB
 PAGE
 39
 GOLD
-6
+0
 LEVEL
 10+
 BULK
@@ -3380,7 +3380,7 @@ LOTGB
 PAGE
 11
 GOLD
-32000
+6
 LEVEL
 12
 BULK
@@ -3400,7 +3400,7 @@ LOTGB
 PAGE
 15
 GOLD
-325
+0
 LEVEL
 1+
 BULK
@@ -3423,7 +3423,7 @@ LOTGB
 PAGE
 69
 GOLD
-275.0
+32.5
 LEVEL
 0
 BULK
@@ -3462,7 +3462,7 @@ LOTGB
 PAGE
 93
 GOLD
-350
+0
 LEVEL
 1+
 BULK
@@ -3480,7 +3480,7 @@ LOTGB
 PAGE
 27
 GOLD
-420
+350
 LEVEL
 4
 BULK
@@ -3539,7 +3539,7 @@ LOTGB
 PAGE
 27
 GOLD
-350
+0
 LEVEL
 3+
 BULK
@@ -3559,11 +3559,11 @@ LOTGB
 PAGE
 59
 GOLD
-22.5
+0
 LEVEL
 0+
 BULK
-0.1
+0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -3576,7 +3576,7 @@ LOTGB
 PAGE
 31
 GOLD
-5
+0
 LEVEL
 9+
 BULK
@@ -3597,7 +3597,7 @@ LOTGB
 PAGE
 104
 GOLD
-1250
+350
 LEVEL
 1
 BULK
@@ -3638,7 +3638,7 @@ LOTGB
 PAGE
 27
 GOLD
-3000
+0
 LEVEL
 1+
 BULK
@@ -3684,7 +3684,7 @@ LOTGB
 PAGE
 93
 GOLD
-60.0
+0
 LEVEL
 0+
 BULK
@@ -3693,7 +3693,6 @@ ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
 adventuring gear
-uncommon
 
 NAME
 Wand Of Fey Flames
@@ -3702,7 +3701,7 @@ LOTGB
 PAGE
 81
 GOLD
-6005
+600
 LEVEL
 7
 BULK
@@ -3723,7 +3722,7 @@ LOTGB
 PAGE
 11
 GOLD
-360
+0
 LEVEL
 7+
 BULK
@@ -3744,7 +3743,7 @@ LOTGB
 PAGE
 85
 GOLD
-40000
+0
 LEVEL
 9+
 BULK
@@ -3765,7 +3764,7 @@ LOTGB
 PAGE
 51
 GOLD
-40000
+0
 LEVEL
 3+
 BULK
@@ -3786,7 +3785,7 @@ LOTGB
 PAGE
 55
 GOLD
-55000
+360
 LEVEL
 5
 BULK
@@ -3904,7 +3903,7 @@ LOTGB
 PAGE
 89
 GOLD
-45
+0
 LEVEL
 7+
 BULK
@@ -3924,7 +3923,7 @@ LOTGB
 PAGE
 19
 GOLD
-4250
+45
 LEVEL
 13
 BULK
@@ -3944,7 +3943,7 @@ LOTGB
 PAGE
 81
 GOLD
-2500
+0
 LEVEL
 4+
 BULK

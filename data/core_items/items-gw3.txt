@@ -5,7 +5,7 @@ GW3
 PAGE
 75
 GOLD
-19
+0
 LEVEL
 4+
 BULK
