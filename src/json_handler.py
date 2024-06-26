@@ -194,15 +194,28 @@ def process_data(item: Item, key, value):
     elif key in trait_keys: 
         item.add_trait(value)
 
-def handle_variants(new_item, data): #TODO Loop through our variants and create new items for each one 
-    if isinstance(data, list):
+def handle_variants(new_item: Item, data): #TODO Loop through our variants and create new items for each one 
+    if isinstance(data, dict):
+        for key, value in data.items():
+            if key == 'variantType':
+                return
+            if key == 'level':
+                return
+            if key == 'price':
+                return 
+    elif isinstance(data, list):
+        for index, item in enumerate(data):
+            handle_variants(new_item, item)
+            #TODO Might want to finalize and write to file here? 
         return
     return 
     
-def walk_item(data, new_item, previous_key):
+def walk_item(data, new_item: Item, previous_key):
     if isinstance(data, dict):
         for key, value in data.items():
             if key == 'variants':
+                new_item.level = None
+                new_item.gold = None
                 handle_variants(new_item, value)
             else:
                 walk_item(value, new_item, key)
