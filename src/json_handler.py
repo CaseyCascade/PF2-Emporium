@@ -4,6 +4,7 @@ import os
 debug = True
 
 class Item: 
+    base_name = None
     name = None
     page = None
     gold = None
@@ -111,6 +112,21 @@ class Item:
     def set_remaster(self):
         self.remaster = True
 
+    def string_diff(str1, str2):
+        set1 = set(str1)
+        set2 = set(str2)
+        diff = set2 - set1
+        return diff
+
+    def set_variant_name (self, variant_name): 
+        if self.base_name == None:
+            print("ERROR: Base Name is Empty in set_variant_name()")
+            return 
+        if self.name != None:
+            print("ERROR: name variable was not erased before set_variant_name()")
+            return
+        self.name = self.base_name + ' (' + self.string_diff(self.base_name.lower(), variant_name) + ')'
+
     def clear(self):
         self.name = None
         self.page = None
@@ -193,34 +209,21 @@ def process_data(item: Item, key, value):
         item.set_entry(value)
     elif key in trait_keys: 
         item.add_trait(value)
-
-def handle_variants(new_item: Item, data): #TODO Loop through our variants and create new items for each one 
-    if isinstance(data, dict):
-        for key, value in data.items():
-            if key == 'variantType':
-                return
-            if key == 'level':
-                return
-            if key == 'price':
-                return 
-    elif isinstance(data, list):
-        for index, item in enumerate(data):
-            handle_variants(new_item, item)
-            #TODO Might want to finalize and write to file here? 
-        return
-    return 
+    elif key == 'variantType':
+        item.set_variant_name(value)
     
 def walk_item(data, new_item: Item, previous_key):
     if isinstance(data, dict):
         for key, value in data.items():
             if key == 'variants':
-                new_item.level = None
-                new_item.gold = None
-                handle_variants(new_item, value)
-            else:
-                walk_item(value, new_item, key)
+                new_item.base_name = new_item.name 
+            walk_item(value, new_item, key)
     elif isinstance(data, list):
         for index, item in enumerate(data):
+            if previous_key == 'variants': # TODO Need to Write Variant Items to File and Clear() somehow. Hasn't been tested yet 
+                new_item.name = None 
+                new_item.gold = None
+                new_item.level = None
             walk_item(item, new_item, previous_key)
     else:
         process_data(new_item, previous_key, data)
