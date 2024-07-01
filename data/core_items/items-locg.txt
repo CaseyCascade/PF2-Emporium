@@ -38,15 +38,55 @@ magical
 worn
 
 NAME
-Cloak Of Repute
+Cloak Of Repute ()
 SOURCE
 LOCG
 PAGE
 72
 GOLD
-0
+200
 LEVEL
-4+
+4
+BULK
+1
+ENTRY
+These armor-plated skirts, which are also known as armored kilts, are favored by Knights of Lastwall for their versatility and aesthetic appeal. An armored skirt can be donned with 2 {@action Interact} actions when it's worn with light or medium armor, or as part of donning heavy armor.
+TRAITS
+enchantment
+invested
+magical
+worn
+
+NAME
+Cloak Of Repute (greater)
+SOURCE
+LOCG
+PAGE
+72
+GOLD
+90
+LEVEL
+9
+BULK
+1
+ENTRY
+These armor-plated skirts, which are also known as armored kilts, are favored by Knights of Lastwall for their versatility and aesthetic appeal. An armored skirt can be donned with 2 {@action Interact} actions when it's worn with light or medium armor, or as part of donning heavy armor.
+TRAITS
+enchantment
+invested
+magical
+worn
+
+NAME
+Cloak Of Repute (major)
+SOURCE
+LOCG
+PAGE
+72
+GOLD
+1300
+LEVEL
+17
 BULK
 1
 ENTRY
@@ -64,7 +104,7 @@ LOCG
 PAGE
 92
 GOLD
-200
+21750
 LEVEL
 9
 BULK
@@ -121,15 +161,53 @@ magical
 worn
 
 NAME
-Insistent Door Knocker
+Insistent Door Knocker ()
 SOURCE
 LOCG
 PAGE
 72
 GOLD
-0
+4500
 LEVEL
-6+
+6
+BULK
+1
+ENTRY
+These armor-plated skirts, which are also known as armored kilts, are favored by Knights of Lastwall for their versatility and aesthetic appeal. An armored skirt can be donned with 2 {@action Interact} actions when it's worn with light or medium armor, or as part of donning heavy armor.
+TRAITS
+conjuration
+magical
+held
+
+NAME
+Insistent Door Knocker (greater)
+SOURCE
+LOCG
+PAGE
+72
+GOLD
+225
+LEVEL
+11
+BULK
+1
+ENTRY
+These armor-plated skirts, which are also known as armored kilts, are favored by Knights of Lastwall for their versatility and aesthetic appeal. An armored skirt can be donned with 2 {@action Interact} actions when it's worn with light or medium armor, or as part of donning heavy armor.
+TRAITS
+conjuration
+magical
+held
+
+NAME
+Insistent Door Knocker (major)
+SOURCE
+LOCG
+PAGE
+72
+GOLD
+1250
+LEVEL
+17
 BULK
 1
 ENTRY
@@ -146,7 +224,7 @@ LOCG
 PAGE
 92
 GOLD
-4500
+13500
 LEVEL
 1
 BULK
@@ -369,15 +447,55 @@ magical
 talisman
 
 NAME
-Unmemorable Mantle
+Unmemorable Mantle ()
 SOURCE
 LOCG
 PAGE
 73
 GOLD
-0
+9
 LEVEL
-7+
+7
+BULK
+1
+ENTRY
+These armor-plated skirts, which are also known as armored kilts, are favored by Knights of Lastwall for their versatility and aesthetic appeal. An armored skirt can be donned with 2 {@action Interact} actions when it's worn with light or medium armor, or as part of donning heavy armor.
+TRAITS
+illusion
+invested
+magical
+worn
+
+NAME
+Unmemorable Mantle (greater)
+SOURCE
+LOCG
+PAGE
+73
+GOLD
+300
+LEVEL
+9
+BULK
+1
+ENTRY
+These armor-plated skirts, which are also known as armored kilts, are favored by Knights of Lastwall for their versatility and aesthetic appeal. An armored skirt can be donned with 2 {@action Interact} actions when it's worn with light or medium armor, or as part of donning heavy armor.
+TRAITS
+illusion
+invested
+magical
+worn
+
+NAME
+Unmemorable Mantle (major)
+SOURCE
+LOCG
+PAGE
+73
+GOLD
+1300
+LEVEL
+17
 BULK
 1
 ENTRY
@@ -395,7 +513,7 @@ LOCG
 PAGE
 112
 GOLD
-9
+21750
 LEVEL
 5
 BULK

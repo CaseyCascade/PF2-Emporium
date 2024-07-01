@@ -1,13 +1,55 @@
 NAME
-Aether Marbles
+Aether Marbles (lesser)
 SOURCE
 GW3
 PAGE
 75
 GOLD
-0
+19
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+Aether marbles create violent, lingering eddies of force that extend partially into unseen planes. When the bomb explodes, it deals the listed force damage and force {@trait splash} damage. Many aether marbles grant an item bonus to attack rolls.
+TRAITS
+uncommon
+bomb
+consumable
+force
+splash
+
+NAME
+Aether Marbles (moderate)
+SOURCE
+GW3
+PAGE
+75
+GOLD
+360
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Aether marbles create violent, lingering eddies of force that extend partially into unseen planes. When the bomb explodes, it deals the listed force damage and force {@trait splash} damage. Many aether marbles grant an item bonus to attack rolls.
+TRAITS
+uncommon
+bomb
+consumable
+force
+splash
+
+NAME
+Aether Marbles (greater)
+SOURCE
+GW3
+PAGE
+75
+GOLD
+3400
+LEVEL
+18
 BULK
 0.1
 ENTRY

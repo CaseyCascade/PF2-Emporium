@@ -166,15 +166,57 @@ poison
 virulent
 
 NAME
-Poisoner's Staff
+Poisoner's Staff ()
 SOURCE
 AoE4
 PAGE
 80
 GOLD
-0
+1100
 LEVEL
-4+
+4
+BULK
+1
+ENTRY
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
+TRAITS
+uncommon
+conjuration
+magical
+necromancy
+staff
+
+NAME
+Poisoner's Staff (greater)
+SOURCE
+AoE4
+PAGE
+80
+GOLD
+90
+LEVEL
+8
+BULK
+1
+ENTRY
+This +2 greater striking dancing shortsword has a golden handguard resembling a bird with outstretched wings. The sword's blade is {@condition broken} halfway up its length, but this doesn't impair the sword's function.
+TRAITS
+uncommon
+conjuration
+magical
+necromancy
+staff
+
+NAME
+Poisoner's Staff (major)
+SOURCE
+AoE4
+PAGE
+80
+GOLD
+450
+LEVEL
+14
 BULK
 1
 ENTRY
@@ -193,7 +235,7 @@ AoE4
 PAGE
 78
 GOLD
-1100
+4000
 LEVEL
 16
 BULK

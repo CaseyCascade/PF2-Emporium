@@ -121,15 +121,15 @@ consumable
 magical
 
 NAME
-Defiled Costa
+Defiled Costa (greater)
 SOURCE
 LOIL
 PAGE
 177
 GOLD
-900
+2500
 LEVEL
-14
+17
 BULK
 0.1
 ENTRY
@@ -161,15 +161,75 @@ consumable
 magical
 
 NAME
-Unsullied Blood
+Unsullied Blood (lesser)
 SOURCE
 LOIL
 PAGE
 177
 GOLD
-0
+30
 LEVEL
-5+
+5
+BULK
+0.1
+ENTRY
+This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a {@item clockwork dial|LOPS}, except it has a maximum duration of 24 hours and is available to characters from Alkenstar.
+TRAITS
+uncommon
+catalyst
+consumable
+magical
+
+NAME
+Unsullied Blood (moderate)
+SOURCE
+LOIL
+PAGE
+177
+GOLD
+85
+LEVEL
+8
+BULK
+0.1
+ENTRY
+This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a {@item clockwork dial|LOPS}, except it has a maximum duration of 24 hours and is available to characters from Alkenstar.
+TRAITS
+uncommon
+catalyst
+consumable
+magical
+
+NAME
+Unsullied Blood (greater)
+SOURCE
+LOIL
+PAGE
+177
+GOLD
+200
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a {@item clockwork dial|LOPS}, except it has a maximum duration of 24 hours and is available to characters from Alkenstar.
+TRAITS
+uncommon
+catalyst
+consumable
+magical
+
+NAME
+Unsullied Blood (major)
+SOURCE
+LOIL
+PAGE
+177
+GOLD
+900
+LEVEL
+14
 BULK
 0.1
 ENTRY
@@ -401,15 +461,15 @@ magical
 tattoo
 
 NAME
-Goo Grenade
+Goo Grenade (lesser)
 SOURCE
 LOIL
 PAGE
 306
 GOLD
-0
+3
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -422,7 +482,70 @@ consumable
 splash
 
 NAME
-Oozepick
+Goo Grenade (moderate)
+SOURCE
+LOIL
+PAGE
+306
+GOLD
+10
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a {@item clockwork dial|LOPS}, except it has a maximum duration of 24 hours and is available to characters from Alkenstar.
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Goo Grenade (greater)
+SOURCE
+LOIL
+PAGE
+306
+GOLD
+250
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a {@item clockwork dial|LOPS}, except it has a maximum duration of 24 hours and is available to characters from Alkenstar.
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Goo Grenade (major)
+SOURCE
+LOIL
+PAGE
+306
+GOLD
+2500
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a {@item clockwork dial|LOPS}, except it has a maximum duration of 24 hours and is available to characters from Alkenstar.
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Oozepick ()
 SOURCE
 LOIL
 PAGE
@@ -430,7 +553,26 @@ PAGE
 GOLD
 20
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+This timepiece is a marvel of clockwork and miniaturization; its gears, arbor, and mainspring are immaculately crafted and tuned to maximize precision and reduce time loss. This pocket watch has the properties of a {@item clockwork dial|LOPS}, except it has a maximum duration of 24 hours and is available to characters from Alkenstar.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Oozepick (greater)
+SOURCE
+LOIL
+PAGE
+306
+GOLD
+200
+LEVEL
+10
 BULK
 0.1
 ENTRY

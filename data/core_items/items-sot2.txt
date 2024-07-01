@@ -166,15 +166,15 @@ magical
 held
 
 NAME
-Warcaller's Chime
+Warcaller's Chime (of blasting)
 SOURCE
 SoT2
 PAGE
 77
 GOLD
-0
+600
 LEVEL
-4+
+6
 BULK
 0.1
 ENTRY
@@ -186,15 +186,135 @@ magical
 held
 
 NAME
-Wondrous Figurines
+Warcaller's Chime (of destruction)
 SOURCE
 SoT2
 PAGE
 77
 GOLD
-0
+250
 LEVEL
-8+
+4
+BULK
+0.1
+ENTRY
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
+TRAITS
+uncommon
+evocation
+magical
+held
+
+NAME
+Warcaller's Chime (of dread)
+SOURCE
+SoT2
+PAGE
+77
+GOLD
+100
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
+TRAITS
+uncommon
+evocation
+magical
+held
+
+NAME
+Warcaller's Chime (of refuge)
+SOURCE
+SoT2
+PAGE
+77
+GOLD
+1000
+LEVEL
+8
+BULK
+0.1
+ENTRY
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
+TRAITS
+uncommon
+evocation
+magical
+held
+
+NAME
+Warcaller's Chime (of resistance)
+SOURCE
+SoT2
+PAGE
+77
+GOLD
+500
+LEVEL
+5
+BULK
+0.1
+ENTRY
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
+TRAITS
+uncommon
+evocation
+magical
+held
+
+NAME
+Warcaller's Chime (of restoration)
+SOURCE
+SoT2
+PAGE
+77
+GOLD
+160
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
+TRAITS
+uncommon
+evocation
+magical
+held
+
+NAME
+Wondrous Figurines (bismuth leopards)
+SOURCE
+SoT2
+PAGE
+77
+GOLD
+2000
+LEVEL
+8
+BULK
+0.1
+ENTRY
+This beautiful leather bag is lined in soft fur and purrs quietly when pet.
+TRAITS
+uncommon
+conjuration
+magical
+held
+
+NAME
+Wondrous Figurines (ruby hippopotamus)
+SOURCE
+SoT2
+PAGE
+77
+GOLD
+495
+LEVEL
+9
 BULK
 0.1
 ENTRY

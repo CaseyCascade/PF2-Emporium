@@ -1,13 +1,76 @@
 NAME
-Bonmuan Swapping Stone
+Bonmuan Swapping Stone (lesser)
 SOURCE
 FRP1
 PAGE
 75
 GOLD
-0
+300
 LEVEL
-11+
+11
+BULK
+0
+ENTRY
+This small, opalescent stone glows with a light that constantly shifts between colors. When you activate the stone, you throw it into a space within 100 feet. The stone then casts dimension door on you and transports you to itself. This destroys the stone.
+TRAITS
+uncommon
+conjuration
+consumable
+magical
+teleportation
+
+NAME
+Bonmuan Swapping Stone (moderate)
+SOURCE
+FRP1
+PAGE
+75
+GOLD
+300
+LEVEL
+14
+BULK
+0
+ENTRY
+This small, opalescent stone glows with a light that constantly shifts between colors. When you activate the stone, you throw it into a space within 100 feet. The stone then casts dimension door on you and transports you to itself. This destroys the stone.
+TRAITS
+uncommon
+conjuration
+consumable
+magical
+teleportation
+
+NAME
+Bonmuan Swapping Stone (greater)
+SOURCE
+FRP1
+PAGE
+75
+GOLD
+600
+LEVEL
+17
+BULK
+0
+ENTRY
+This small, opalescent stone glows with a light that constantly shifts between colors. When you activate the stone, you throw it into a space within 100 feet. The stone then casts dimension door on you and transports you to itself. This destroys the stone.
+TRAITS
+uncommon
+conjuration
+consumable
+magical
+teleportation
+
+NAME
+Bonmuan Swapping Stone (major)
+SOURCE
+FRP1
+PAGE
+75
+GOLD
+3000
+LEVEL
+20
 BULK
 0
 ENTRY

@@ -167,15 +167,78 @@ magical
 worn
 
 NAME
-Peshspine Grenade
+Peshspine Grenade (lesser)
 SOURCE
 AoA5
 PAGE
 77
 GOLD
-0
+4000
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Peshspine Grenade (moderate)
+SOURCE
+AoA5
+PAGE
+77
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Peshspine Grenade (greater)
+SOURCE
+AoA5
+PAGE
+77
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This ornate pendant of brass is adorned with a vibrant blue gemstone. An {@i aluum charm} grants control over a particular aluum and lesser influence over other such constructs. As long as you wear an aluum's linked {@i aluum charm}, that aluum follows your verbal commands, including somewhat nuanced orders like "subdue this target" or "strike anyone wearing a blue robe."
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Peshspine Grenade (major)
+SOURCE
+AoA5
+PAGE
+77
+GOLD
+250
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -194,7 +257,7 @@ AoA5
 PAGE
 79
 GOLD
-4000
+2500
 LEVEL
 16
 BULK

@@ -1,13 +1,55 @@
 NAME
-Golden Branding Iron
+Golden Branding Iron ()
 SOURCE
 OoA2
 PAGE
 76
 GOLD
-0
+25
 LEVEL
-5+
+5
+BULK
+0.0
+ENTRY
+This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.
+TRAITS
+uncommon
+consumable
+magical
+talisman
+transmutation
+
+NAME
+Golden Branding Iron (greater)
+SOURCE
+OoA2
+PAGE
+76
+GOLD
+120
+LEVEL
+9
+BULK
+0.0
+ENTRY
+This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.
+TRAITS
+uncommon
+consumable
+magical
+talisman
+transmutation
+
+NAME
+Golden Branding Iron (major)
+SOURCE
+OoA2
+PAGE
+76
+GOLD
+450
+LEVEL
+13
 BULK
 0.0
 ENTRY
@@ -144,15 +186,15 @@ talisman
 transmutation
 
 NAME
-Golden-Cased Bullet
+Golden-Cased Bullet (standard)
 SOURCE
 OoA2
 PAGE
 76
 GOLD
-0
+20
 LEVEL
-4+
+4
 BULK
 0
 ENTRY
@@ -164,15 +206,76 @@ divination
 magical
 
 NAME
-Golden Silencer
+Golden-Cased Bullet (greater)
 SOURCE
 OoA2
 PAGE
 76
 GOLD
-0
+200
 LEVEL
-6+
+10
+BULK
+0
+ENTRY
+This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.
+TRAITS
+uncommon
+consumable
+divination
+magical
+
+NAME
+Golden-Cased Bullet (major)
+SOURCE
+OoA2
+PAGE
+76
+GOLD
+2000
+LEVEL
+16
+BULK
+0
+ENTRY
+This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.
+TRAITS
+uncommon
+consumable
+divination
+magical
+
+NAME
+Golden Silencer (standard)
+SOURCE
+OoA2
+PAGE
+76
+GOLD
+50
+LEVEL
+6
+BULK
+0.1
+ENTRY
+This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.
+TRAITS
+uncommon
+consumable
+illusion
+magical
+talisman
+
+NAME
+Golden Silencer (greater)
+SOURCE
+OoA2
+PAGE
+76
+GOLD
+200
+LEVEL
+10
 BULK
 0.1
 ENTRY
@@ -207,15 +310,36 @@ talisman
 teleportation
 
 NAME
-Liquid Gold
+Liquid Gold ()
 SOURCE
 OoA2
 PAGE
 77
 GOLD
-0
+40
 LEVEL
-6+
+6
+BULK
+0.0
+ENTRY
+This talisman is a gold-plated brand that can be affixed to a ranged weapon's stock. When you activate a golden branding iron, you mark the target with your magical sigil.
+TRAITS
+uncommon
+consumable
+evocation
+magical
+talisman
+
+NAME
+Liquid Gold (greater)
+SOURCE
+OoA2
+PAGE
+77
+GOLD
+80
+LEVEL
+8
 BULK
 0.0
 ENTRY

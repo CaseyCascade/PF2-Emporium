@@ -1,13 +1,13 @@
 NAME
-Nexian Sealing Blade
+Nexian Sealing Blade (Nexian)
 SOURCE
 WtD1
 PAGE
 25
 GOLD
-0
+750
 LEVEL
-9+
+9
 BULK
 1
 ENTRY
@@ -20,15 +20,36 @@ magical
 held
 
 NAME
-Rattling Bolt
+Nexian Sealing Blade (greater Nexian)
+SOURCE
+WtD1
+PAGE
+25
+GOLD
+750
+LEVEL
+14
+BULK
+1
+ENTRY
+More often called by their nickname "screamswords," the Nexian sealing blades were developed by the Arclords of Nex as special tools to ward off Gebbite infiltrators and assassins. Screamswords are {@runeItem longsword||+1 weapon potency||striking||disrupting||+1 striking disrupting silver longswords} with a couple of extra tricks. Each Nexian sealing blade can sense {@trait undead} within 60 feet and responds by screaming loudly until there are no longer {@trait undead} within that range. This same screaming can be unleashed as a sonic blast if needed.
+TRAITS
+rare
+arcane
+evocation
+magical
+held
+
+NAME
+Rattling Bolt ()
 SOURCE
 WtD1
 PAGE
 26
 GOLD
-0
+15
 LEVEL
-4+
+4
 BULK
 0
 ENTRY
@@ -42,15 +63,75 @@ magical
 ammunition
 
 NAME
-Silver Orb
+Rattling Bolt (greater)
 SOURCE
 WtD1
 PAGE
 26
 GOLD
-0
+425
 LEVEL
-5+
+13
+BULK
+0
+ENTRY
+More often called by their nickname "screamswords," the Nexian sealing blades were developed by the Arclords of Nex as special tools to ward off Gebbite infiltrators and assassins. Screamswords are {@runeItem longsword||+1 weapon potency||striking||disrupting||+1 striking disrupting silver longswords} with a couple of extra tricks. Each Nexian sealing blade can sense {@trait undead} within 60 feet and responds by screaming loudly until there are no longer {@trait undead} within that range. This same screaming can be unleashed as a sonic blast if needed.
+TRAITS
+uncommon
+arcane
+consumable
+evocation
+magical
+ammunition
+
+NAME
+Silver Orb (lesser)
+SOURCE
+WtD1
+PAGE
+26
+GOLD
+30
+LEVEL
+5
+BULK
+0.1
+ENTRY
+More often called by their nickname "screamswords," the Nexian sealing blades were developed by the Arclords of Nex as special tools to ward off Gebbite infiltrators and assassins. Screamswords are {@runeItem longsword||+1 weapon potency||striking||disrupting||+1 striking disrupting silver longswords} with a couple of extra tricks. Each Nexian sealing blade can sense {@trait undead} within 60 feet and responds by screaming loudly until there are no longer {@trait undead} within that range. This same screaming can be unleashed as a sonic blast if needed.
+TRAITS
+uncommon
+alchemical
+bomb
+
+NAME
+Silver Orb (powder)
+SOURCE
+WtD1
+PAGE
+26
+GOLD
+400
+LEVEL
+12
+BULK
+0.1
+ENTRY
+More often called by their nickname "screamswords," the Nexian sealing blades were developed by the Arclords of Nex as special tools to ward off Gebbite infiltrators and assassins. Screamswords are {@runeItem longsword||+1 weapon potency||striking||disrupting||+1 striking disrupting silver longswords} with a couple of extra tricks. Each Nexian sealing blade can sense {@trait undead} within 60 feet and responds by screaming loudly until there are no longer {@trait undead} within that range. This same screaming can be unleashed as a sonic blast if needed.
+TRAITS
+uncommon
+alchemical
+bomb
+
+NAME
+Silver Orb (greater)
+SOURCE
+WtD1
+PAGE
+26
+GOLD
+5000
+LEVEL
+18
 BULK
 0.1
 ENTRY

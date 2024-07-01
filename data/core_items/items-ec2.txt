@@ -42,15 +42,35 @@ magical
 talisman
 
 NAME
-Bullhook
+Bullhook (standard)
 SOURCE
 EC2
 PAGE
 73
 GOLD
-0
+26
 LEVEL
-3+
+3
+BULK
+1
+ENTRY
+This +1 striking bo staff is particularly long, making it useful as a balancing pole. While you wield it, the acrobat's staff releases chalk dust to make your grip more secure, granting you a +1 circumstance bonus to your Reflex DC against checks to {@action Disarm} you of it.
+TRAITS
+uncommon
+enchantment
+magical
+held
+
+NAME
+Bullhook (greater)
+SOURCE
+EC2
+PAGE
+73
+GOLD
+55
+LEVEL
+12
 BULK
 1
 ENTRY
@@ -68,7 +88,7 @@ EC2
 PAGE
 73
 GOLD
-26
+1900
 LEVEL
 10
 BULK
@@ -165,15 +185,35 @@ magical
 worn
 
 NAME
-Ringmaster's Staff
+Ringmaster's Staff ()
 SOURCE
 EC2
 PAGE
 74
 GOLD
-0
+500
 LEVEL
-6+
+6
+BULK
+1
+ENTRY
+This +1 striking bo staff is particularly long, making it useful as a balancing pole. While you wield it, the acrobat's staff releases chalk dust to make your grip more secure, granting you a +1 circumstance bonus to your Reflex DC against checks to {@action Disarm} you of it.
+TRAITS
+uncommon
+illusion
+magical
+staff
+
+NAME
+Ringmaster's Staff (greater)
+SOURCE
+EC2
+PAGE
+74
+GOLD
+230
+LEVEL
+12
 BULK
 1
 ENTRY
@@ -191,7 +231,7 @@ EC2
 PAGE
 75
 GOLD
-500
+1800
 LEVEL
 7
 BULK
@@ -270,15 +310,35 @@ magical
 held
 
 NAME
-Wondrous Figurines
+Wondrous Figurines (candy constrictor)
 SOURCE
 EC2
 PAGE
 75
 GOLD
-0
+3000
 LEVEL
-5+
+5
+BULK
+0.1
+ENTRY
+This +1 striking bo staff is particularly long, making it useful as a balancing pole. While you wield it, the acrobat's staff releases chalk dust to make your grip more secure, granting you a +1 circumstance bonus to your Reflex DC against checks to {@action Disarm} you of it.
+TRAITS
+uncommon
+conjuration
+magical
+held
+
+NAME
+Wondrous Figurines (rubber bear)
+SOURCE
+EC2
+PAGE
+75
+GOLD
+140
+LEVEL
+7
 BULK
 0.1
 ENTRY

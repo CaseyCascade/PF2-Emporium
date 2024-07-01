@@ -13,7 +13,7 @@ class Item:
     source = None
     price = None
     coin = None
-    
+    variant = False
     entry = None
     traits = []
 
@@ -21,8 +21,11 @@ class Item:
         return 
     
     def set_name(self, name):
-        if self.name == None:
+        if self.base_name == None:
             self.name = name
+            self.base_name = name
+        elif self.name == None:
+            self.name = name  
 
     def set_page(self, page):
         if self.page == None:
@@ -112,31 +115,41 @@ class Item:
     def set_remaster(self):
         self.remaster = True
 
-    def string_diff(str1, str2):
-        set1 = set(str1)
-        set2 = set(str2)
-        diff = set2 - set1
-        return diff
+    def string_diff(self, str1, str2):
+        set1 = str1.split()
+        set2 = str2.split()
+        final_set = []
+        for word in set2:
+            if word not in set1:
+                final_set.append(word)
+        joined_string = ' '.join(final_set)
+        return joined_string
+
 
     def set_variant_name (self, variant_name): 
         if self.base_name == None:
             print("ERROR: Base Name is Empty in set_variant_name()")
             return 
-        if self.name != None:
-            print("ERROR: name variable was not erased before set_variant_name()")
-            return
-        self.name = self.base_name + ' (' + self.string_diff(self.base_name.lower(), variant_name) + ')'
+        new_name = self.base_name + ' (' + self.string_diff(self.base_name.lower(), variant_name) + ')'
+        if self.name != None and self.name != new_name:
+            #print("ERROR: name variable was not erased before set_variant_name()")
+            print("Old:", self.name, "New:", new_name)
+        elif self.name != None:
+            return 
+        #print("New Name:", new_name)
+        self.name = new_name
 
     def clear(self):
+        self.base_name = None 
         self.name = None
         self.page = None
         self.gold = None
         self.level = None
         self.bulk = None
         self.source = None
+        self.variant = False
         self.entries = []
         self.traits = []
-        self.remaster = False
 
     def print(self):
         print("Name: ", self.name)
@@ -151,7 +164,10 @@ class Item:
             print(trait)
         print()
         
-    def finalilze(self):
+    def finalize(self):
+        if self.name == None:
+            print("No Name in Finalize:", self.base_name)
+            return
         if self.bulk == None:
             self.set_bulk(0)
         if self.gold == None: 
@@ -163,11 +179,13 @@ class Item:
             self.name += ' Rune'
 
     def write_to_file(self, filepath):
-        self.finalilze()
+        self.finalize()
         if not self.name:
             return 
         if not self.entry:
             self.entry = "NA"
+        if not self.source:
+            print(self.name)
         with open(filepath, 'a') as file:
             file.write("NAME\n")
             file.write(self.name)
@@ -191,7 +209,7 @@ class Item:
         return 
     
 def process_data(item: Item, key, value): 
-    if key == 'name' or key:
+    if key == 'name' and not item.variant:
         item.set_name(value)
     elif key == 'page':
         item.set_page(value)
@@ -209,22 +227,34 @@ def process_data(item: Item, key, value):
         item.set_entry(value)
     elif key in trait_keys: 
         item.add_trait(value)
-    elif key == 'variantType':
-        item.set_variant_name(value)
+    elif key == 'variantType' or key == 'name':
+        if item.variant == True and item.name == None:
+            #print(f"Setting name: {value}")
+            item.set_variant_name(value)
     
-def walk_item(data, new_item: Item, previous_key):
+def walk_item(data, new_item: Item, previous_key, filepath):
     if isinstance(data, dict):
         for key, value in data.items():
-            if key == 'variants':
-                new_item.base_name = new_item.name 
-            walk_item(value, new_item, key)
+            if new_item.variant == True:
+                variant_keys = ['name', 'variantType', 'amount', 'coin', 'price', 'level']
+                if key in variant_keys:
+                    walk_item(value, new_item, key, filepath)
+            else:
+                walk_item(value, new_item, key, filepath)
     elif isinstance(data, list):
         for index, item in enumerate(data):
             if previous_key == 'variants': # TODO Need to Write Variant Items to File and Clear() somehow. Hasn't been tested yet 
-                new_item.name = None 
-                new_item.gold = None
-                new_item.level = None
-            walk_item(item, new_item, previous_key)
+                    new_item.variant = True 
+                    new_item.name = None 
+                    new_item.gold = None
+                    new_item.level = None
+                    walk_item(item, new_item, None, filepath)
+
+                    if (index + 1) != len(data):
+                        new_item.write_to_file(filepath)
+                        new_item.variant = False
+            else:
+                walk_item(item, new_item, previous_key, filepath)
     else:
         process_data(new_item, previous_key, data)
 
@@ -233,14 +263,16 @@ def process_file(json_file_path):
     instance.clear()
     with open(json_file_path, 'r') as file:
         data = json.load(file)
+    # This is hard-coded in a way that expects each file to be a list containing all items under a key 
+    # (Which is how the PF2 Easy JSON files are formatted)
     if isinstance(data, dict): 
         for key, value in data.items():
             if isinstance(value, list):
                 for index, item in enumerate(value):
-                    walk_item(item, instance, None)
                     file_name = os.path.splitext(os.path.basename(json_file_path))[0]
                     file_name = file_name + '.txt'
                     data_file_path = os.path.join(full_data_path, file_name)
+                    walk_item(item, instance, None, data_file_path)
                     instance.write_to_file(data_file_path)
                     instance.clear()
     else:

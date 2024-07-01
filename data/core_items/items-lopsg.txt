@@ -1,13 +1,13 @@
 NAME
-Alignment Ampoule
+Alignment Ampoule (lesser)
 SOURCE
 LOPSG
 PAGE
 39
 GOLD
-0
+4
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -19,15 +19,93 @@ bomb
 consumable
 
 NAME
-Astrolabe
+Alignment Ampoule (moderate)
+SOURCE
+LOPSG
+PAGE
+39
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+
+NAME
+Alignment Ampoule (greater)
+SOURCE
+LOPSG
+PAGE
+39
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+
+NAME
+Alignment Ampoule (major)
+SOURCE
+LOPSG
+PAGE
+39
+GOLD
+300
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+alchemical
+bomb
+consumable
+
+NAME
+Astrolabe (standard)
 SOURCE
 LOPSG
 PAGE
 35
 GOLD
-0
+3000
 LEVEL
-2+
+2
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+held
+
+NAME
+Astrolabe (mariner's)
+SOURCE
+LOPSG
+PAGE
+35
+GOLD
+30
+LEVEL
+3
 BULK
 0.1
 ENTRY
@@ -43,7 +121,7 @@ LOPSG
 PAGE
 2277
 GOLD
-101
+50
 LEVEL
 9
 BULK
@@ -206,15 +284,37 @@ uncommon
 worn
 
 NAME
-Cordelia's Construct Key
+Cordelia's Construct Key (Cordelia's)
 SOURCE
 LOPSG
 PAGE
 124
 GOLD
-0
+10
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+conjuration
+invested
+magical
+transmutation
+worn
+
+NAME
+Cordelia's Construct Key (Cordelia's greater)
+SOURCE
+LOPSG
+PAGE
+124
+GOLD
+450
+LEVEL
+12
 BULK
 0
 ENTRY
@@ -234,7 +334,7 @@ LOPSG
 PAGE
 124
 GOLD
-10
+1750
 LEVEL
 5
 BULK
@@ -303,15 +403,78 @@ TRAITS
 adventuring gear
 
 NAME
-Elemental Wayfinder
+Elemental Wayfinder (air)
 SOURCE
 LOPSG
 PAGE
 122
 GOLD
-0
+1
 LEVEL
-9+
+9
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+evocation
+invested
+magical
+worn
+
+NAME
+Elemental Wayfinder (earth)
+SOURCE
+LOPSG
+PAGE
+122
+GOLD
+650
+LEVEL
+9
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+evocation
+invested
+magical
+worn
+
+NAME
+Elemental Wayfinder (fire)
+SOURCE
+LOPSG
+PAGE
+122
+GOLD
+600
+LEVEL
+9
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+evocation
+invested
+magical
+worn
+
+NAME
+Elemental Wayfinder (water)
+SOURCE
+LOPSG
+PAGE
+122
+GOLD
+700
+LEVEL
+10
 BULK
 0
 ENTRY
@@ -330,7 +493,7 @@ LOPSG
 PAGE
 109
 GOLD
-1
+900
 LEVEL
 1
 BULK
@@ -345,15 +508,36 @@ magical
 talisman
 
 NAME
-Everyneed Pack
+Everyneed Pack ()
 SOURCE
 LOPSG
 PAGE
 86
 GOLD
-0
+3
 LEVEL
-3+
+3
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+conjuration
+invested
+magical
+worn
+
+NAME
+Everyneed Pack (greater)
+SOURCE
+LOPSG
+PAGE
+86
+GOLD
+20
+LEVEL
+7
 BULK
 0
 ENTRY
@@ -372,7 +556,7 @@ LOPSG
 PAGE
 114
 GOLD
-3
+100
 LEVEL
 0
 BULK
@@ -559,15 +743,53 @@ TRAITS
 adventuring gear
 
 NAME
-Metalmist Sphere
+Metalmist Sphere (lesser)
 SOURCE
 LOPSG
 PAGE
 39
 GOLD
-0
+1
 LEVEL
-3+
+3
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Metalmist Sphere (moderate)
+SOURCE
+LOPSG
+PAGE
+39
+GOLD
+11
+LEVEL
+8
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Metalmist Sphere (greater)
+SOURCE
+LOPSG
+PAGE
+39
+GOLD
+90
+LEVEL
+13
 BULK
 0.1
 ENTRY
@@ -584,7 +806,7 @@ LOPSG
 PAGE
 114
 GOLD
-0.1
+50.0
 LEVEL
 0
 BULK
@@ -672,15 +894,51 @@ necromancy
 worn
 
 NAME
-Replacement Filter
+Replacement Filter (Replacement Filter (Level 1))
 SOURCE
 LOPSG
 PAGE
 114
 GOLD
-0
+3
 LEVEL
+1
+BULK
 0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+adventuring gear
+
+NAME
+Replacement Filter (Replacement Filter (Level 5))
+SOURCE
+LOPSG
+PAGE
+114
+GOLD
+25
+LEVEL
+5
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+adventuring gear
+
+NAME
+Replacement Filter (Replacement Filter (Level 10))
+SOURCE
+LOPSG
+PAGE
+114
+GOLD
+25
+LEVEL
+10
 BULK
 0
 ENTRY
@@ -696,7 +954,7 @@ LOPSG
 PAGE
 114
 GOLD
-900
+25
 LEVEL
 0
 BULK
@@ -725,15 +983,75 @@ TRAITS
 held
 
 NAME
-Sealing Chest
+Sealing Chest (lesser)
 SOURCE
 LOPSG
 PAGE
 38
 GOLD
-0
+5
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+abjuration
+magical
+held
+
+NAME
+Sealing Chest (moderate)
+SOURCE
+LOPSG
+PAGE
+38
+GOLD
+75
+LEVEL
+7
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+abjuration
+magical
+held
+
+NAME
+Sealing Chest (greater)
+SOURCE
+LOPSG
+PAGE
+38
+GOLD
+300
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+abjuration
+magical
+held
+
+NAME
+Sealing Chest (major)
+SOURCE
+LOPSG
+PAGE
+38
+GOLD
+1250
+LEVEL
+14
 BULK
 0.1
 ENTRY
@@ -751,7 +1069,7 @@ LOPSG
 PAGE
 114
 GOLD
-0.5
+375.0
 LEVEL
 0
 BULK
@@ -800,15 +1118,36 @@ transmutation
 worn
 
 NAME
-Spectacles Of Understanding
+Spectacles Of Understanding ()
 SOURCE
 LOPSG
 PAGE
 118
 GOLD
-0
+550
 LEVEL
-5+
+5
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+divination
+invested
+magical
+worn
+
+NAME
+Spectacles Of Understanding (greater)
+SOURCE
+LOPSG
+PAGE
+118
+GOLD
+130
+LEVEL
+11
 BULK
 0
 ENTRY
@@ -827,7 +1166,7 @@ LOPSG
 PAGE
 35
 GOLD
-550
+1200
 LEVEL
 2
 BULK
@@ -839,15 +1178,15 @@ uncommon
 worn
 
 NAME
-Talisman Cord
+Talisman Cord (lesser)
 SOURCE
 LOPSG
 PAGE
 118
 GOLD
-0
+30
 LEVEL
-4+
+4
 BULK
 0
 ENTRY
@@ -860,15 +1199,114 @@ magical
 worn
 
 NAME
-Vermin Repellent Agent
+Talisman Cord ()
+SOURCE
+LOPSG
+PAGE
+118
+GOLD
+85
+LEVEL
+10
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+abjuration
+invested
+magical
+worn
+
+NAME
+Talisman Cord (greater)
+SOURCE
+LOPSG
+PAGE
+118
+GOLD
+850
+LEVEL
+16
+BULK
+0
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+abjuration
+invested
+magical
+worn
+
+NAME
+Vermin Repellent Agent (lesser)
 SOURCE
 LOPSG
 PAGE
 101
 GOLD
-0
+8500
 LEVEL
-3+
+3
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Vermin Repellent Agent (moderate)
+SOURCE
+LOPSG
+PAGE
+101
+GOLD
+8
+LEVEL
+8
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Vermin Repellent Agent (greater)
+SOURCE
+LOPSG
+PAGE
+101
+GOLD
+75
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This glass sphere is divided into four quarters, each of which contains a different material aligned with good, evil, chaos, or law, such as shavings from a holy relic or dried flowers that grew near a planar rift to the Abyss. When an alignment ampoule strikes a creature with a weakness to good, evil, chaos, or law, it deals the listed damage, which matches the creature's highest weakness. This damage is always based on the weaknesses of the initial target of the attack.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Vermin Repellent Agent (major)
+SOURCE
+LOPSG
+PAGE
+101
+GOLD
+315
+LEVEL
+16
 BULK
 0.1
 ENTRY
@@ -885,7 +1323,7 @@ LOPSG
 PAGE
 114
 GOLD
-30
+1350
 LEVEL
 0
 BULK

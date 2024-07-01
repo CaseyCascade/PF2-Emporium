@@ -1,13 +1,13 @@
 NAME
-Acid Flask
+Acid Flask (lesser)
 SOURCE
 CRB
 PAGE
 544
 GOLD
-0
+3
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -20,15 +20,78 @@ consumable
 splash
 
 NAME
-Adamantine
+Acid Flask (moderate)
+SOURCE
+CRB
+PAGE
+544
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+acid
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Acid Flask (greater)
+SOURCE
+CRB
+PAGE
+544
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+acid
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Acid Flask (major)
+SOURCE
+CRB
+PAGE
+544
+GOLD
+250
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+acid
+alchemical
+bomb
+consumable
+splash
+
+NAME
+Adamantine (chunk)
 SOURCE
 CRB
 PAGE
 578
 GOLD
-0
+2500
 LEVEL
-8+
+0
 BULK
 0
 ENTRY
@@ -39,15 +102,72 @@ precious
 material
 
 NAME
-Adamantine Armor
+Adamantine (ingot)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+500
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Adamantine (standard-grade object)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+5000
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Adamantine (high-grade object)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+350
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Adamantine Armor (standard-grade)
 SOURCE
 CRB
 PAGE
 555
 GOLD
-0
+6000
 LEVEL
-12+
+12
 BULK
 0.0
 ENTRY
@@ -57,15 +177,33 @@ uncommon
 material
 
 NAME
-Adamantine Shield
+Adamantine Armor (high-grade)
+SOURCE
+CRB
+PAGE
+555
+GOLD
+1600
+LEVEL
+19
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Adamantine Shield (standard-grade buckler)
 SOURCE
 CRB
 PAGE
 586
 GOLD
-0
+32000
 LEVEL
-8+
+8
 BULK
 0
 ENTRY
@@ -75,15 +213,87 @@ uncommon
 material
 
 NAME
-Adamantine Weapon
+Adamantine Shield (standard-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+400
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Adamantine Shield (high-grade buckler)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+0
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Adamantine Shield (high-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+440
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Adamantine Weapon (standard-grade)
 SOURCE
 CRB
 PAGE
 599
 GOLD
-0
+8800
 LEVEL
-11+
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Adamantine Weapon (high-grade)
+SOURCE
+CRB
+PAGE
+599
+GOLD
+1400
+LEVEL
+17
 BULK
 0.0
 ENTRY
@@ -99,7 +309,7 @@ CRB
 PAGE
 288
 GOLD
-1.5
+1350.0
 LEVEL
 0
 BULK
@@ -110,15 +320,330 @@ TRAITS
 adventuring gear
 
 NAME
-Aeon Stone
+Aeon Stone (clear spindle)
 SOURCE
 CRB
 PAGE
 604
 GOLD
-0
+15
 LEVEL
-1+
+7
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (dull gray)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+325
+LEVEL
+1
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (gold nodule)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+9
+LEVEL
+6
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (lavender and green ellipsoid)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+230
+LEVEL
+19
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (orange prism)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+30000
+LEVEL
+16
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (pale lavender ellipsoid)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+9750
+LEVEL
+13
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (pink rhomboid)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+2200
+LEVEL
+12
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (tourmaline sphere)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+1900
+LEVEL
+7
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (agate ellipsoid)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+350
+LEVEL
+5
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (azure briolette)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+130
+LEVEL
+4
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (dusty rose prism)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+85
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (pale orange rhomboid)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+50
+LEVEL
+19
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (pearlescent pyramid)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+40000
+LEVEL
+10
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (pearly white spindle)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+900
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (western star)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+60
+LEVEL
+6
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+invested
+magical
+transmutation
+worn
+
+NAME
+Aeon Stone (black pearl)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+225
+LEVEL
+12
 BULK
 0.0
 ENTRY
@@ -137,7 +662,7 @@ CRB
 PAGE
 589
 GOLD
-15
+2000
 LEVEL
 1
 BULK
@@ -152,15 +677,15 @@ snare
 trap
 
 NAME
-Alchemist Goggles
+Alchemist Goggles ()
 SOURCE
 CRB
 PAGE
 605
 GOLD
-0
+3
 LEVEL
-4+
+4
 BULK
 0.0
 ENTRY
@@ -172,15 +697,55 @@ transmutation
 worn
 
 NAME
-Alchemist's Fire
+Alchemist Goggles (greater)
+SOURCE
+CRB
+PAGE
+605
+GOLD
+100
+LEVEL
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Alchemist Goggles (major)
+SOURCE
+CRB
+PAGE
+605
+GOLD
+1400
+LEVEL
+17
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Alchemist's Fire (lesser)
 SOURCE
 CRB
 PAGE
 545
 GOLD
-0
+15000
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -193,15 +758,95 @@ fire
 splash
 
 NAME
-Alchemist's Lab
+Alchemist's Fire (moderate)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+fire
+splash
+
+NAME
+Alchemist's Fire (greater)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+fire
+splash
+
+NAME
+Alchemist's Fire (major)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+250
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+fire
+splash
+
+NAME
+Alchemist's Lab (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-3
+5
 LEVEL
 0
+BULK
+6
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Alchemist's Lab (Expanded)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+5
+LEVEL
+3
 BULK
 6
 ENTRY
@@ -216,7 +861,7 @@ CRB
 PAGE
 288
 GOLD
-5
+55
 LEVEL
 0
 BULK
@@ -267,15 +912,53 @@ magical
 rune
 
 NAME
-Animal Staff
+Animal Staff ()
 SOURCE
 CRB
 PAGE
 592
 GOLD
-0
+1400
 LEVEL
-4+
+4
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+magical
+staff
+
+NAME
+Animal Staff (greater)
+SOURCE
+CRB
+PAGE
+592
+GOLD
+90
+LEVEL
+8
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+magical
+staff
+
+NAME
+Animal Staff (major)
+SOURCE
+CRB
+PAGE
+592
+GOLD
+460
+LEVEL
+12
 BULK
 1
 ENTRY
@@ -292,7 +975,7 @@ CRB
 PAGE
 603
 GOLD
-1400
+1900
 LEVEL
 17
 BULK
@@ -306,15 +989,75 @@ magical
 transmutation
 
 NAME
-Antidote
+Antidote (lesser)
 SOURCE
 CRB
 PAGE
 546
 GOLD
-0
+15000
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Antidote (moderate)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+3
+LEVEL
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Antidote (greater)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+35
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Antidote (major)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+160
+LEVEL
+14
 BULK
 0.1
 ENTRY
@@ -332,7 +1075,7 @@ CRB
 PAGE
 582
 GOLD
-15000
+675
 LEVEL
 15
 BULK
@@ -367,15 +1110,15 @@ magical
 oil
 
 NAME
-Antiplague
+Antiplague (lesser)
 SOURCE
 CRB
 PAGE
 546
 GOLD
-0
+13000
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -387,15 +1130,75 @@ elixir
 healing
 
 NAME
-Armbands of Athleticism
+Antiplague (moderate)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+3
+LEVEL
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Antiplague (greater)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+35
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Antiplague (major)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+160
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Armbands of Athleticism ()
 SOURCE
 CRB
 PAGE
 605
 GOLD
-0
+675
 LEVEL
-9+
+9
 BULK
 0.1
 ENTRY
@@ -407,15 +1210,35 @@ transmutation
 worn
 
 NAME
-Armor Potency Rune
+Armbands of Athleticism (greater)
+SOURCE
+CRB
+PAGE
+605
+GOLD
+645
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Armor Potency (+1) Rune
 SOURCE
 CRB
 PAGE
 581
 GOLD
-0
+13000
 LEVEL
-5+
+5
 BULK
 0
 ENTRY
@@ -426,13 +1249,68 @@ magical
 rune
 
 NAME
-Arrow
+Armor Potency (+2) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+160
+LEVEL
+11
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+rune
+
+NAME
+Armor Potency (+3) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+1060
+LEVEL
+18
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+rune
+
+NAME
+Arrow (5-pack)
 SOURCE
 CRB
 PAGE
 282
 GOLD
+2056.0
+LEVEL
 0
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+ammunition
+
+NAME
+Arrow (10-pack)
+SOURCE
+CRB
+PAGE
+282
+GOLD
+0.1
 LEVEL
 0
 BULK
@@ -449,7 +1327,7 @@ CRB
 PAGE
 587
 GOLD
-13000
+1
 LEVEL
 11
 BULK
@@ -482,15 +1360,32 @@ ingested
 poison
 
 NAME
-Artisan's Tools
+Artisan's Tools (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-3
+0
 LEVEL
 0
+BULK
+2
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Artisan's Tools (Sterling)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+4
+LEVEL
+3
 BULK
 2
 ENTRY
@@ -505,7 +1400,7 @@ CRB
 PAGE
 583
 GOLD
-4
+50
 LEVEL
 11
 BULK
@@ -536,15 +1431,75 @@ TRAITS
 adventuring gear
 
 NAME
-Bag of Holding
+Bag of Holding (Bag Holding (Type I))
 SOURCE
 CRB
 PAGE
 572
 GOLD
-0
+1
 LEVEL
-4+
+4
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+extradimensional
+magical
+held
+
+NAME
+Bag of Holding (Bag Holding (Type II))
+SOURCE
+CRB
+PAGE
+572
+GOLD
+75
+LEVEL
+7
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+extradimensional
+magical
+held
+
+NAME
+Bag of Holding (Bag Holding (Type III))
+SOURCE
+CRB
+PAGE
+572
+GOLD
+300
+LEVEL
+11
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+extradimensional
+magical
+held
+
+NAME
+Bag of Holding (Bag Holding (Type IV))
+SOURCE
+CRB
+PAGE
+572
+GOLD
+1200
+LEVEL
+13
 BULK
 1
 ENTRY
@@ -562,7 +1517,7 @@ CRB
 PAGE
 604
 GOLD
-1
+2400
 LEVEL
 10
 BULK
@@ -731,15 +1686,15 @@ magical
 worn
 
 NAME
-Berserker's Cloak
+Berserker's Cloak ()
 SOURCE
 CRB
 PAGE
 606
 GOLD
-0
+650
 LEVEL
-12+
+12
 BULK
 1
 ENTRY
@@ -751,15 +1706,98 @@ transmutation
 worn
 
 NAME
-Bestial Mutagen
+Berserker's Cloak (greater)
+SOURCE
+CRB
+PAGE
+606
+GOLD
+2000
+LEVEL
+19
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+primal
+transmutation
+worn
+
+NAME
+Bestial Mutagen (lesser)
 SOURCE
 CRB
 PAGE
 546
 GOLD
-0
+40000
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Bestial Mutagen (moderate)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Bestial Mutagen (greater)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Bestial Mutagen (major)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+300
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -778,7 +1816,7 @@ CRB
 PAGE
 589
 GOLD
-650
+3000
 LEVEL
 4
 BULK
@@ -930,13 +1968,30 @@ TRAITS
 ammunition
 
 NAME
-Bolt
+Bolt (5-pack)
 SOURCE
 CRB
 PAGE
 281
 GOLD
+0.5
+LEVEL
 0
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+ammunition
+
+NAME
+Bolt (10-pack)
+SOURCE
+CRB
+PAGE
+281
+GOLD
+0.1
 LEVEL
 0
 BULK
@@ -953,7 +2008,7 @@ CRB
 PAGE
 589
 GOLD
-5
+1
 LEVEL
 8
 BULK
@@ -967,15 +2022,15 @@ snare
 trap
 
 NAME
-Bomber's Eye Elixir
+Bomber's Eye Elixir (lesser)
 SOURCE
 CRB
 PAGE
 547
 GOLD
-0
+75
 LEVEL
-4+
+4
 BULK
 0.1
 ENTRY
@@ -986,15 +2041,34 @@ consumable
 elixir
 
 NAME
-Boots of Bounding
+Bomber's Eye Elixir (greater)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+14
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Boots of Bounding ()
 SOURCE
 CRB
 PAGE
 606
 GOLD
-0
+700
 LEVEL
-7+
+7
 BULK
 0.1
 ENTRY
@@ -1006,15 +2080,55 @@ transmutation
 worn
 
 NAME
-Boots of Elvenkind
+Boots of Bounding (greater)
 SOURCE
 CRB
 PAGE
 606
 GOLD
-0
+340
 LEVEL
-5+
+14
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Boots of Elvenkind ()
+SOURCE
+CRB
+PAGE
+606
+GOLD
+4250
+LEVEL
+5
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Boots of Elvenkind (greater)
+SOURCE
+CRB
+PAGE
+606
+GOLD
+145
+LEVEL
+11
 BULK
 0.1
 ENTRY
@@ -1032,7 +2146,7 @@ CRB
 PAGE
 606
 GOLD
-75
+1250
 LEVEL
 13
 BULK
@@ -1066,15 +2180,78 @@ magical
 held
 
 NAME
-Bottled Lightning
+Bottled Lightning (lesser)
 SOURCE
 CRB
 PAGE
 545
 GOLD
-0
+320
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+electricity
+splash
+
+NAME
+Bottled Lightning (moderate)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+electricity
+splash
+
+NAME
+Bottled Lightning (greater)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+electricity
+splash
+
+NAME
+Bottled Lightning (major)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+250
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -1093,7 +2270,7 @@ CRB
 PAGE
 607
 GOLD
-320
+2500
 LEVEL
 3
 BULK
@@ -1107,15 +2284,15 @@ transmutation
 worn
 
 NAME
-Bracers of Armor
+Bracers of Armor (I)
 SOURCE
 CRB
 PAGE
 607
 GOLD
-0
+58
 LEVEL
-8+
+8
 BULK
 0.1
 ENTRY
@@ -1127,13 +2304,53 @@ magical
 worn
 
 NAME
-Bracers of Missile Deflection
+Bracers of Armor (II)
 SOURCE
 CRB
 PAGE
 607
 GOLD
-0
+450
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+invested
+magical
+worn
+
+NAME
+Bracers of Armor (III)
+SOURCE
+CRB
+PAGE
+607
+GOLD
+4000
+LEVEL
+20
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+invested
+magical
+worn
+
+NAME
+Bracers of Missile Deflection ()
+SOURCE
+CRB
+PAGE
+607
+GOLD
+60000
 LEVEL
 3
 BULK
@@ -1147,15 +2364,35 @@ magical
 worn
 
 NAME
-Bravo's Brew
+Bracers of Missile Deflection (greater)
+SOURCE
+CRB
+PAGE
+607
+GOLD
+52
+LEVEL
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+invested
+magical
+worn
+
+NAME
+Bravo's Brew (lesser)
 SOURCE
 CRB
 PAGE
 547
 GOLD
-0
+650
 LEVEL
-2+
+2
 BULK
 0.1
 ENTRY
@@ -1167,15 +2404,75 @@ elixir
 mental
 
 NAME
-Breastplate of Command
+Bravo's Brew (moderate)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+7
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mental
+
+NAME
+Bravo's Brew (greater)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+150
+LEVEL
+15
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mental
+
+NAME
+Breastplate of Command ()
 SOURCE
 CRB
 PAGE
 557
 GOLD
-0
+700
 LEVEL
-10+
+10
+BULK
+2
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+enchantment
+invested
+magical
+armor
+
+NAME
+Breastplate of Command (greater)
+SOURCE
+CRB
+PAGE
+557
+GOLD
+1000
+LEVEL
+18
 BULK
 2
 ENTRY
@@ -1193,7 +2490,7 @@ CRB
 PAGE
 551
 GOLD
-58
+22000
 LEVEL
 16
 BULK
@@ -1500,15 +2797,53 @@ magical
 worn
 
 NAME
-Cheetah's Elixir
+Cheetah's Elixir (lesser)
 SOURCE
 CRB
 PAGE
 547
 GOLD
-0
+56
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Cheetah's Elixir (moderate)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+3
+LEVEL
+5
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Cheetah's Elixir (greater)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+25
+LEVEL
+9
 BULK
 0.1
 ENTRY
@@ -1525,7 +2860,7 @@ CRB
 PAGE
 288
 GOLD
-5.6
+11.0
 LEVEL
 0
 BULK
@@ -1556,15 +2891,35 @@ magical
 held
 
 NAME
-Choker of Elocution
+Choker of Elocution ()
 SOURCE
 CRB
 PAGE
 608
 GOLD
-0
+235
 LEVEL
-6+
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+enchantment
+invested
+magical
+worn
+
+NAME
+Choker of Elocution (greater)
+SOURCE
+CRB
+PAGE
+608
+GOLD
+200
+LEVEL
+10
 BULK
 0.1
 ENTRY
@@ -1582,7 +2937,7 @@ CRB
 PAGE
 603
 GOLD
-235
+850
 LEVEL
 17
 BULK
@@ -1596,15 +2951,36 @@ invested
 magical
 
 NAME
-Clandestine Cloak
+Clandestine Cloak ()
 SOURCE
 CRB
 PAGE
 608
 GOLD
-0
+15000
 LEVEL
-6+
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+illusion
+invested
+magical
+worn
+
+NAME
+Clandestine Cloak (greater)
+SOURCE
+CRB
+PAGE
+608
+GOLD
+230
+LEVEL
+10
 BULK
 0.1
 ENTRY
@@ -1623,7 +2999,7 @@ CRB
 PAGE
 559
 GOLD
-15000
+900
 LEVEL
 4
 BULK
@@ -1637,13 +3013,13 @@ magical
 ammunition
 
 NAME
-Climbing Kit
+Climbing Kit (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-1.5
+0.5
 LEVEL
 0
 BULK
@@ -1654,15 +3030,32 @@ TRAITS
 adventuring gear
 
 NAME
-Cloak of Elvenkind
+Climbing Kit (Extreme)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+5
+LEVEL
+3
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Cloak of Elvenkind ()
 SOURCE
 CRB
 PAGE
 608
 GOLD
-0
+40
 LEVEL
-7+
+7
 BULK
 0.1
 ENTRY
@@ -1674,15 +3067,35 @@ magical
 worn
 
 NAME
-Cloak of the Bat
+Cloak of Elvenkind (greater)
 SOURCE
 CRB
 PAGE
 608
 GOLD
-0
+360
 LEVEL
-10+
+12
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+invested
+magical
+worn
+
+NAME
+Cloak of the Bat ()
+SOURCE
+CRB
+PAGE
+608
+GOLD
+1750
+LEVEL
+10
 BULK
 0.1
 ENTRY
@@ -1694,13 +3107,33 @@ transmutation
 worn
 
 NAME
-Clothing
+Cloak of the Bat (greater)
+SOURCE
+CRB
+PAGE
+608
+GOLD
+950
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Clothing (ordinary)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0
+1300.0
 LEVEL
 0
 BULK
@@ -1711,15 +3144,83 @@ TRAITS
 adventuring gear
 
 NAME
-Cognitive Mutagen
+Clothing (explorer's)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+0.1
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Clothing (fine)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+1
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Clothing (high-fashion fine)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+2
+LEVEL
+3
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Clothing (winter)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+5.5
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Cognitive Mutagen (lesser)
 SOURCE
 CRB
 PAGE
 547
 GOLD
-0
+4
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -1732,15 +3233,78 @@ mutagen
 polymorph
 
 NAME
-Cold Iron
+Cognitive Mutagen (moderate)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Cognitive Mutagen (greater)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Cognitive Mutagen (major)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+300
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Cold Iron (chunk)
 SOURCE
 CRB
 PAGE
 578
 GOLD
-0
+3000
 LEVEL
-2+
+0
 BULK
 0
 ENTRY
@@ -1750,15 +3314,87 @@ precious
 material
 
 NAME
-Cold Iron Armor
+Cold Iron (ingot)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+10
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+precious
+material
+
+NAME
+Cold Iron (low-grade object)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+100
+LEVEL
+2
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+precious
+material
+
+NAME
+Cold Iron (standard-grade object)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+20
+LEVEL
+7
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+precious
+material
+
+NAME
+Cold Iron (high-grade object)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+250
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+precious
+material
+
+NAME
+Cold Iron Armor (low-grade)
 SOURCE
 CRB
 PAGE
 555
 GOLD
-0
+4500
 LEVEL
-5+
+5
 BULK
 0.0
 ENTRY
@@ -1767,15 +3403,49 @@ TRAITS
 material
 
 NAME
-Cold Iron Shield
+Cold Iron Armor (standard-grade)
+SOURCE
+CRB
+PAGE
+555
+GOLD
+140
+LEVEL
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Armor (high-grade)
+SOURCE
+CRB
+PAGE
+555
+GOLD
+1200
+LEVEL
+18
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Shield (low-grade buckler)
 SOURCE
 CRB
 PAGE
 586
 GOLD
-0
+20000
 LEVEL
-2+
+2
 BULK
 0
 ENTRY
@@ -1784,15 +3454,134 @@ TRAITS
 material
 
 NAME
-Cold Iron Weapon
+Cold Iron Shield (low-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+30
+LEVEL
+2
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Shield (standard-grade buckler)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+34
+LEVEL
+7
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Shield (standard-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+300
+LEVEL
+7
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Shield (high-grade buckler)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+340
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Shield (high-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+5000
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Weapon (low-grade)
 SOURCE
 CRB
 PAGE
 599
 GOLD
-0
+5500
 LEVEL
-2+
+2
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Weapon (standard-grade)
+SOURCE
+CRB
+PAGE
+599
+GOLD
+40
+LEVEL
+10
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Cold Iron Weapon (high-grade)
+SOURCE
+CRB
+PAGE
+599
+GOLD
+880
+LEVEL
+16
 BULK
 0.0
 ENTRY
@@ -1807,7 +3596,7 @@ CRB
 PAGE
 604
 GOLD
-5
+9000
 LEVEL
 9
 BULK
@@ -1841,13 +3630,13 @@ primal
 transmutation
 
 NAME
-Compass
+Compass (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-475
+1
 LEVEL
 0
 BULK
@@ -1858,15 +3647,52 @@ TRAITS
 adventuring gear
 
 NAME
-Comprehension Elixir
+Compass (Lensatic)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+1
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Comprehension Elixir (lesser)
 SOURCE
 CRB
 PAGE
 547
 GOLD
-0
+20
 LEVEL
-2+
+2
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mental
+
+NAME
+Comprehension Elixir (greater)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+7
+LEVEL
+7
 BULK
 0.1
 ENTRY
@@ -1884,7 +3710,7 @@ CRB
 PAGE
 288
 GOLD
-1
+54
 LEVEL
 0
 BULK
@@ -1895,15 +3721,15 @@ TRAITS
 adventuring gear
 
 NAME
-Corrosive Rune
+Corrosive () Rune
 SOURCE
 CRB
 PAGE
 583
 GOLD
-0
+1
 LEVEL
-8+
+8
 BULK
 0
 ENTRY
@@ -1915,15 +3741,35 @@ magical
 rune
 
 NAME
-Coyote Cloak
+Corrosive (greater) Rune
+SOURCE
+CRB
+PAGE
+583
+GOLD
+500
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+acid
+conjuration
+magical
+rune
+
+NAME
+Coyote Cloak ()
 SOURCE
 CRB
 PAGE
 609
 GOLD
-0
+6500
 LEVEL
-3+
+3
 BULK
 0.0
 ENTRY
@@ -1935,15 +3781,35 @@ magical
 worn
 
 NAME
-Crafter's Eyepiece
+Coyote Cloak (greater)
 SOURCE
 CRB
 PAGE
 609
 GOLD
-0
+60
 LEVEL
-3+
+9
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+invested
+magical
+worn
+
+NAME
+Crafter's Eyepiece ()
+SOURCE
+CRB
+PAGE
+609
+GOLD
+650
+LEVEL
+3
 BULK
 0.0
 ENTRY
@@ -1955,15 +3821,52 @@ transmutation
 worn
 
 NAME
-Crowbar
+Crafter's Eyepiece (greater)
+SOURCE
+CRB
+PAGE
+609
+GOLD
+60
+LEVEL
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Crowbar (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0.1
+0
 LEVEL
 0
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Crowbar (Levered)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+5
+LEVEL
+3
 BULK
 0.1
 ENTRY
@@ -1978,7 +3881,7 @@ CRB
 PAGE
 566
 GOLD
-5
+20
 LEVEL
 2
 BULK
@@ -1992,15 +3895,99 @@ necromancy
 talisman
 
 NAME
-Crystal Ball
+Crystal Ball (clear quartz)
 SOURCE
 CRB
 PAGE
 572
 GOLD
-0
+7
 LEVEL
-14+
+14
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+divination
+magical
+scrying
+held
+
+NAME
+Crystal Ball (selenite)
+SOURCE
+CRB
+PAGE
+572
+GOLD
+3800
+LEVEL
+15
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+divination
+magical
+scrying
+held
+
+NAME
+Crystal Ball (moonstone)
+SOURCE
+CRB
+PAGE
+572
+GOLD
+7000
+LEVEL
+16
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+divination
+magical
+scrying
+held
+
+NAME
+Crystal Ball (peridot)
+SOURCE
+CRB
+PAGE
+572
+GOLD
+7500
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+divination
+magical
+scrying
+held
+
+NAME
+Crystal Ball (obsidian)
+SOURCE
+CRB
+PAGE
+572
+GOLD
+12500
+LEVEL
+19
 BULK
 0.1
 ENTRY
@@ -2019,7 +4006,7 @@ CRB
 PAGE
 551
 GOLD
-7
+32000
 LEVEL
 3
 BULK
@@ -2073,15 +4060,15 @@ magical
 rune
 
 NAME
-Dancing Scarf
+Dancing Scarf ()
 SOURCE
 CRB
 PAGE
 609
 GOLD
-0
+2700
 LEVEL
-3+
+3
 BULK
 0.0
 ENTRY
@@ -2094,15 +4081,36 @@ visual
 worn
 
 NAME
-Daredevil Boots
+Dancing Scarf (greater)
 SOURCE
 CRB
 PAGE
 609
 GOLD
-0
+60
 LEVEL
-10+
+9
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+invested
+magical
+visual
+worn
+
+NAME
+Daredevil Boots ()
+SOURCE
+CRB
+PAGE
+609
+GOLD
+650
+LEVEL
+10
 BULK
 0.1
 ENTRY
@@ -2114,15 +4122,35 @@ magical
 worn
 
 NAME
-Darkvision Elixir
+Daredevil Boots (greater)
+SOURCE
+CRB
+PAGE
+609
+GOLD
+900
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+invested
+magical
+worn
+
+NAME
+Darkvision Elixir (lesser)
 SOURCE
 CRB
 PAGE
 547
 GOLD
-0
+14000
 LEVEL
-2+
+2
 BULK
 0.1
 ENTRY
@@ -2133,15 +4161,53 @@ consumable
 elixir
 
 NAME
-Darkwood
+Darkvision Elixir (moderate)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+6
+LEVEL
+4
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Darkvision Elixir (greater)
+SOURCE
+CRB
+PAGE
+547
+GOLD
+11
+LEVEL
+8
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Darkwood (branch)
 SOURCE
 CRB
 PAGE
 578
 GOLD
-0
+90
 LEVEL
-8+
+0
 BULK
 0
 ENTRY
@@ -2152,15 +4218,72 @@ precious
 material
 
 NAME
-Darkwood Armor
+Darkwood (lumber)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+500
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Darkwood (standard-grade object)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+5000
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Darkwood (high-grade object)
+SOURCE
+CRB
+PAGE
+578
+GOLD
+350
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Darkwood Armor (standard-grade)
 SOURCE
 CRB
 PAGE
 555
 GOLD
-0
+6000
 LEVEL
-12+
+12
 BULK
 0.0
 ENTRY
@@ -2170,15 +4293,33 @@ uncommon
 material
 
 NAME
-Darkwood Shield
+Darkwood Armor (high-grade)
+SOURCE
+CRB
+PAGE
+555
+GOLD
+1600
+LEVEL
+19
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Darkwood Shield (standard-grade buckler)
 SOURCE
 CRB
 PAGE
 586
 GOLD
-0
+32000
 LEVEL
-8+
+8
 BULK
 0
 ENTRY
@@ -2188,15 +4329,123 @@ uncommon
 material
 
 NAME
-Darkwood Weapon
+Darkwood Shield (standard-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+400
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Darkwood Shield (standard-grade tower)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+440
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Darkwood Shield (high-grade buckler)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+560
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Darkwood Shield (high-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+8000
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Darkwood Shield (high-grade tower)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+8800
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Darkwood Weapon (standard grade)
 SOURCE
 CRB
 PAGE
 599
 GOLD
-0
+11200
 LEVEL
-11+
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Darkwood Weapon (high-grade)
+SOURCE
+CRB
+PAGE
+599
+GOLD
+1400
+LEVEL
+17
 BULK
 0.0
 ENTRY
@@ -2212,7 +4461,7 @@ CRB
 PAGE
 566
 GOLD
-2700
+13500
 LEVEL
 14
 BULK
@@ -2287,15 +4536,35 @@ necromancy
 armor
 
 NAME
-Demon Mask
+Demon Mask ()
 SOURCE
 CRB
 PAGE
 609
 GOLD
-0
+2500
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+enchantment
+invested
+magical
+worn
+
+NAME
+Demon Mask (greater)
+SOURCE
+CRB
+PAGE
+609
+GOLD
+85
+LEVEL
+10
 BULK
 0.1
 ENTRY
@@ -2313,7 +4582,7 @@ CRB
 PAGE
 603
 GOLD
-2500
+900
 LEVEL
 17
 BULK
@@ -2347,15 +4616,32 @@ magical
 worn
 
 NAME
-Disguise Kit
+Disguise Kit (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-125
+2
 LEVEL
 0
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Disguise Kit (Elite)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+2
+LEVEL
+3
 BULK
 0.1
 ENTRY
@@ -2370,7 +4656,7 @@ CRB
 PAGE
 559
 GOLD
-2
+40
 LEVEL
 15
 BULK
@@ -2405,15 +4691,15 @@ magical
 talisman
 
 NAME
-Disrupting Rune
+Disrupting () Rune
 SOURCE
 CRB
 PAGE
 584
 GOLD
-0
+2400
 LEVEL
-5+
+5
 BULK
 0
 ENTRY
@@ -2424,15 +4710,54 @@ necromancy
 rune
 
 NAME
-Doubling Rings
+Disrupting (greater) Rune
+SOURCE
+CRB
+PAGE
+584
+GOLD
+150
+LEVEL
+14
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+necromancy
+rune
+
+NAME
+Doubling Rings ()
 SOURCE
 CRB
 PAGE
 609
 GOLD
-0
+4300
 LEVEL
-3+
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+invested
+magical
+worn
+
+NAME
+Doubling Rings (greater)
+SOURCE
+CRB
+PAGE
+609
+GOLD
+50
+LEVEL
+11
 BULK
 0.0
 ENTRY
@@ -2450,7 +4775,7 @@ CRB
 PAGE
 551
 GOLD
-2400
+1300
 LEVEL
 15
 BULK
@@ -2484,15 +4809,15 @@ transmutation
 talisman
 
 NAME
-Dragon's Breath Potion
+Dragon's Breath Potion (young)
 SOURCE
 CRB
 PAGE
 562
 GOLD
-0
+13
 LEVEL
-7+
+7
 BULK
 0.1
 ENTRY
@@ -2504,15 +4829,55 @@ magical
 potion
 
 NAME
-Dragonhide
+Dragon's Breath Potion (adult)
+SOURCE
+CRB
+PAGE
+562
+GOLD
+70
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+evocation
+magical
+potion
+
+NAME
+Dragon's Breath Potion (wyrm)
+SOURCE
+CRB
+PAGE
+562
+GOLD
+400
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+evocation
+magical
+potion
+
+NAME
+Dragonhide (standard-grade object)
 SOURCE
 CRB
 PAGE
 579
 GOLD
-0
+3000
 LEVEL
-8+
+8
 BULK
 0
 ENTRY
@@ -2523,15 +4888,34 @@ precious
 material
 
 NAME
-Dragonhide Armor
+Dragonhide (high-grade object)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+350
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Dragonhide Armor (standard-grade)
 SOURCE
 CRB
 PAGE
 555
 GOLD
-0
+6000
 LEVEL
-12+
+12
 BULK
 0.0
 ENTRY
@@ -2541,15 +4925,87 @@ uncommon
 material
 
 NAME
-Dragonhide Shield
+Dragonhide Armor (high-grade)
+SOURCE
+CRB
+PAGE
+555
+GOLD
+1600
+LEVEL
+19
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Dragonhide Shield (standard-grade buckler)
 SOURCE
 CRB
 PAGE
 586
 GOLD
-0
+32000
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+shield
+
+NAME
+Dragonhide Shield (standard-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+400
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+shield
+
+NAME
+Dragonhide Shield (high-grade buckler)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+440
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+shield
+
+NAME
+Dragonhide Shield (high-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+8000
+LEVEL
+16
 BULK
 0
 ENTRY
@@ -2565,7 +5021,7 @@ CRB
 PAGE
 557
 GOLD
-13
+8800
 LEVEL
 16
 BULK
@@ -2702,15 +5158,72 @@ magical
 weapon
 
 NAME
-Eagle-eye Elixir
+Eagle-eye Elixir (lesser)
 SOURCE
 CRB
 PAGE
 548
 GOLD
-0
+2750
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Eagle-eye Elixir (moderate)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+4
+LEVEL
+5
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Eagle-eye Elixir (greater)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+27
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Eagle-eye Elixir (major)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+200
+LEVEL
+16
 BULK
 0.1
 ENTRY
@@ -2727,7 +5240,7 @@ CRB
 PAGE
 566
 GOLD
-2750
+2000
 LEVEL
 2
 BULK
@@ -2780,15 +5293,115 @@ consumable
 magical
 
 NAME
-Elixir of Life
+Elixir of Life (minor)
 SOURCE
 CRB
 PAGE
 548
 GOLD
-0
+200
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Elixir of Life (lesser)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+3
+LEVEL
+5
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Elixir of Life (moderate)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+30
+LEVEL
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Elixir of Life (greater)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+150
+LEVEL
+13
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Elixir of Life (major)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+600
+LEVEL
+15
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Elixir of Life (true)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+1300
+LEVEL
+19
 BULK
 0.1
 ENTRY
@@ -2821,15 +5434,33 @@ elixir
 healing
 
 NAME
-Elven Chain
+Elven Chain (standard-grade)
 SOURCE
 CRB
 PAGE
 555
 GOLD
-0
+3000
 LEVEL
-13+
+13
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+armor
+
+NAME
+Elven Chain (high-grade)
+SOURCE
+CRB
+PAGE
+555
+GOLD
+2500
+LEVEL
+20
 BULK
 0.1
 ENTRY
@@ -2845,7 +5476,7 @@ CRB
 PAGE
 566
 GOLD
-200
+52000
 LEVEL
 5
 BULK
@@ -2859,15 +5490,34 @@ transmutation
 talisman
 
 NAME
-Energy-Resistant Rune
+Energy-Resistant () Rune
 SOURCE
 CRB
 PAGE
 582
 GOLD
-0
+30
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+rune
+
+NAME
+Energy-Resistant (greater) Rune
+SOURCE
+CRB
+PAGE
+582
+GOLD
+420
+LEVEL
+12
 BULK
 0
 ENTRY
@@ -2884,7 +5534,7 @@ CRB
 PAGE
 582
 GOLD
-30
+1650
 LEVEL
 17
 BULK
@@ -2937,15 +5587,36 @@ magical
 structure
 
 NAME
-Explosive Ammunition
+Explosive Ammunition (standard)
 SOURCE
 CRB
 PAGE
 559
 GOLD
-0
+880
 LEVEL
-9+
+9
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+evocation
+fire
+magical
+ammunition
+
+NAME
+Explosive Ammunition (greater)
+SOURCE
+CRB
+PAGE
+559
+GOLD
+130
+LEVEL
+13
 BULK
 0
 ENTRY
@@ -2964,7 +5635,7 @@ CRB
 PAGE
 288
 GOLD
-88.0
+52.0
 LEVEL
 0
 BULK
@@ -3098,15 +5769,205 @@ talisman
 transmutation
 
 NAME
-Feather Token
+Feather Token (anchor)
 SOURCE
 CRB
 PAGE
 570
 GOLD
-0
+8
 LEVEL
-1+
+7
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (bird)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+55
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (chest)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+8
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (fan)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+10
+LEVEL
+4
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (holly bush)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+15
+LEVEL
+2
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (ladder)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+6
+LEVEL
+1
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (swan boat)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+3
+LEVEL
+8
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (tree)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+76
+LEVEL
+6
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (whip)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+38
+LEVEL
+9
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (balloon)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+130
+LEVEL
+6
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+consumable
+magical
+
+NAME
+Feather Token (puddle)
+SOURCE
+CRB
+PAGE
+570
+GOLD
+50
+LEVEL
+3
 BULK
 0.0
 ENTRY
@@ -3136,15 +5997,32 @@ transmutation
 weapon
 
 NAME
-Fishing Tackle
+Fishing Tackle (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-5.0
+0.8
 LEVEL
 0
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Fishing Tackle (Professional)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+1
+LEVEL
+3
 BULK
 1
 ENTRY
@@ -3159,7 +6037,7 @@ CRB
 PAGE
 567
 GOLD
-8
+20
 LEVEL
 16
 BULK
@@ -3173,15 +6051,15 @@ magical
 talisman
 
 NAME
-Flame Tongue
+Flame Tongue ()
 SOURCE
 CRB
 PAGE
 600
 GOLD
-0
+1800
 LEVEL
-13+
+13
 BULK
 1
 ENTRY
@@ -3193,15 +6071,55 @@ magical
 weapon
 
 NAME
-Flaming Rune
+Flame Tongue (greater)
+SOURCE
+CRB
+PAGE
+600
+GOLD
+2800
+LEVEL
+17
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+fire
+magical
+weapon
+
+NAME
+Flaming () Rune
 SOURCE
 CRB
 PAGE
 584
 GOLD
-0
+13800
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+fire
+magical
+rune
+
+NAME
+Flaming (greater) Rune
+SOURCE
+CRB
+PAGE
+584
+GOLD
+500
+LEVEL
+15
 BULK
 0
 ENTRY
@@ -3219,7 +6137,7 @@ CRB
 PAGE
 288
 GOLD
-18.0
+65.0
 LEVEL
 0
 BULK
@@ -3230,15 +6148,34 @@ TRAITS
 adventuring gear
 
 NAME
-Floating Shield
+Floating Shield ()
 SOURCE
 CRB
 PAGE
 587
 GOLD
-0
+5
 LEVEL
-11+
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+magical
+shield
+
+NAME
+Floating Shield (greater)
+SOURCE
+CRB
+PAGE
+587
+GOLD
+1250
+LEVEL
+16
 BULK
 0.1
 ENTRY
@@ -3255,7 +6192,7 @@ CRB
 PAGE
 590
 GOLD
-5
+9000
 LEVEL
 20
 BULK
@@ -3328,15 +6265,15 @@ TRAITS
 adventuring gear
 
 NAME
-Fortification Rune
+Fortification () Rune
 SOURCE
 CRB
 PAGE
 582
 GOLD
-0
+1
 LEVEL
-12+
+12
 BULK
 0
 ENTRY
@@ -3347,15 +6284,54 @@ magical
 rune
 
 NAME
-Frost Rune
+Fortification (greater) Rune
+SOURCE
+CRB
+PAGE
+582
+GOLD
+2000
+LEVEL
+18
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+rune
+
+NAME
+Frost () Rune
 SOURCE
 CRB
 PAGE
 584
 GOLD
-0
+24000
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+cold
+conjuration
+magical
+rune
+
+NAME
+Frost (greater) Rune
+SOURCE
+CRB
+PAGE
+584
+GOLD
+500
+LEVEL
+15
 BULK
 0
 ENTRY
@@ -3373,7 +6349,7 @@ CRB
 PAGE
 601
 GOLD
-1
+6500
 LEVEL
 16
 BULK
@@ -3387,15 +6363,78 @@ magical
 weapon
 
 NAME
-Frost Vial
+Frost Vial (lesser)
 SOURCE
 CRB
 PAGE
 545
 GOLD
-0
+10000
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+cold
+consumable
+splash
+
+NAME
+Frost Vial (moderate)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+cold
+consumable
+splash
+
+NAME
+Frost Vial (greater)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+cold
+consumable
+splash
+
+NAME
+Frost Vial (major)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+250
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -3414,7 +6453,7 @@ CRB
 PAGE
 567
 GOLD
-10000
+2500
 LEVEL
 8
 BULK
@@ -3627,15 +6666,55 @@ transmutation
 worn
 
 NAME
-Goggles of Night
+Goggles of Night ()
 SOURCE
 CRB
 PAGE
 610
 GOLD
-0
+340
 LEVEL
-5+
+5
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Goggles of Night (greater)
+SOURCE
+CRB
+PAGE
+610
+GOLD
+150
+LEVEL
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Goggles of Night (major)
+SOURCE
+CRB
+PAGE
+610
+GOLD
+1250
+LEVEL
+18
 BULK
 0.0
 ENTRY
@@ -3653,7 +6732,7 @@ CRB
 PAGE
 611
 GOLD
-340
+20000
 LEVEL
 11
 BULK
@@ -3841,15 +6920,15 @@ magical
 worn
 
 NAME
-Handwraps of Mighty Blows
+Handwraps of Mighty Blows (+1)
 SOURCE
 CRB
 PAGE
 611
 GOLD
-0
+30
 LEVEL
-2+
+2
 BULK
 0.0
 ENTRY
@@ -3861,15 +6940,115 @@ transmutation
 worn
 
 NAME
-Hat of Disguise
+Handwraps of Mighty Blows (+1 striking)
 SOURCE
 CRB
 PAGE
 611
 GOLD
-0
+35
 LEVEL
-2+
+4
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Handwraps of Mighty Blows (+2 striking)
+SOURCE
+CRB
+PAGE
+611
+GOLD
+100
+LEVEL
+10
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Handwraps of Mighty Blows (+2 greater striking)
+SOURCE
+CRB
+PAGE
+611
+GOLD
+1000
+LEVEL
+12
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Handwraps of Mighty Blows (+3 greater striking)
+SOURCE
+CRB
+PAGE
+611
+GOLD
+2000
+LEVEL
+16
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Handwraps of Mighty Blows (+3 major striking)
+SOURCE
+CRB
+PAGE
+611
+GOLD
+10000
+LEVEL
+19
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+transmutation
+worn
+
+NAME
+Hat of Disguise ()
+SOURCE
+CRB
+PAGE
+611
+GOLD
+40000
+LEVEL
+2
 BULK
 0.0
 ENTRY
@@ -3881,15 +7060,55 @@ magical
 worn
 
 NAME
-Hat of the Magi
+Hat of Disguise (greater)
 SOURCE
 CRB
 PAGE
 611
 GOLD
-0
+30
 LEVEL
-3+
+7
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+invested
+magical
+worn
+
+NAME
+Hat of the Magi ()
+SOURCE
+CRB
+PAGE
+611
+GOLD
+340
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+arcane
+conjuration
+invested
+worn
+
+NAME
+Hat of the Magi (greater)
+SOURCE
+CRB
+PAGE
+611
+GOLD
+50
+LEVEL
+9
 BULK
 0.0
 ENTRY
@@ -3907,7 +7126,7 @@ CRB
 PAGE
 604
 GOLD
-30
+650
 LEVEL
 17
 BULK
@@ -3922,15 +7141,15 @@ magical
 fortune
 
 NAME
-Healer's Gloves
+Healer's Gloves ()
 SOURCE
 CRB
 PAGE
 612
 GOLD
-0
+15000
 LEVEL
-4+
+4
 BULK
 0.1
 ENTRY
@@ -3942,13 +7161,33 @@ necromancy
 worn
 
 NAME
-Healer's Tools
+Healer's Gloves (greater)
+SOURCE
+CRB
+PAGE
+612
+GOLD
+80
+LEVEL
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+invested
+magical
+necromancy
+worn
+
+NAME
+Healer's Tools (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-15000
+0
 LEVEL
 0
 BULK
@@ -3959,15 +7198,116 @@ TRAITS
 adventuring gear
 
 NAME
-Healing Potion
+Healer's Tools (Expanded)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+5
+LEVEL
+3
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Healing Potion (minor)
 SOURCE
 CRB
 PAGE
 563
 GOLD
-0
+50
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+healing
+magical
+necromancy
+potion
+
+NAME
+Healing Potion (lesser)
+SOURCE
+CRB
+PAGE
+563
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+healing
+magical
+necromancy
+potion
+
+NAME
+Healing Potion (moderate)
+SOURCE
+CRB
+PAGE
+563
+GOLD
+12
+LEVEL
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+healing
+magical
+necromancy
+potion
+
+NAME
+Healing Potion (greater)
+SOURCE
+CRB
+PAGE
+563
+GOLD
+50
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+healing
+magical
+necromancy
+potion
+
+NAME
+Healing Potion (major)
+SOURCE
+CRB
+PAGE
+563
+GOLD
+400
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -3986,7 +7326,7 @@ CRB
 PAGE
 552
 GOLD
-5
+5000
 LEVEL
 17
 BULK
@@ -4080,15 +7420,37 @@ good
 weapon
 
 NAME
-Holy Prayer Beads
+Holy Prayer Beads (standard)
 SOURCE
 CRB
 PAGE
 573
 GOLD
-0
+4500
 LEVEL
-5+
+5
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+divine
+healing
+necromancy
+positive
+held
+
+NAME
+Holy Prayer Beads (greater)
+SOURCE
+CRB
+PAGE
+573
+GOLD
+160
+LEVEL
+11
 BULK
 0.0
 ENTRY
@@ -4108,7 +7470,7 @@ CRB
 PAGE
 571
 GOLD
-4500
+1400
 LEVEL
 1
 BULK
@@ -4162,15 +7524,35 @@ water
 held
 
 NAME
-Horseshoes of Speed
+Horseshoes of Speed ()
 SOURCE
 CRB
 PAGE
 604
 GOLD
-0
+230
 LEVEL
-7+
+7
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+companion
+invested
+primal
+transmutation
+
+NAME
+Horseshoes of Speed (greater)
+SOURCE
+CRB
+PAGE
+604
+GOLD
+340
+LEVEL
+14
 BULK
 1
 ENTRY
@@ -4188,7 +7570,7 @@ CRB
 PAGE
 288
 GOLD
-230
+4250
 LEVEL
 0
 BULK
@@ -4379,15 +7761,34 @@ magical
 structure
 
 NAME
-Invisibility Rune
+Invisibility () Rune
 SOURCE
 CRB
 PAGE
 583
 GOLD
-0
+9300
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+magical
+rune
+
+NAME
+Invisibility (greater) Rune
+SOURCE
+CRB
+PAGE
+583
+GOLD
+500
+LEVEL
+10
 BULK
 0
 ENTRY
@@ -4404,7 +7805,7 @@ CRB
 PAGE
 563
 GOLD
-9300
+1000
 LEVEL
 4
 BULK
@@ -4560,15 +7961,78 @@ evocation
 magical
 
 NAME
-Juggernaut Mutagen
+Juggernaut Mutagen (lesser)
 SOURCE
 CRB
 PAGE
 548
 GOLD
-0
+110
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Juggernaut Mutagen (moderate)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Juggernaut Mutagen (greater)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Juggernaut Mutagen (major)
+SOURCE
+CRB
+PAGE
+548
+GOLD
+300
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -4587,7 +8051,7 @@ CRB
 PAGE
 584
 GOLD
-110
+3000
 LEVEL
 13
 BULK
@@ -4622,15 +8086,38 @@ poison
 virulent
 
 NAME
-Knapsack of Halflingkind
+Knapsack of Halflingkind ()
 SOURCE
 CRB
 PAGE
 612
 GOLD
-0
+4000
 LEVEL
-9+
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+conjuration
+extradimensional
+healing
+invested
+magical
+worn
+
+NAME
+Knapsack of Halflingkind (greater)
+SOURCE
+CRB
+PAGE
+612
+GOLD
+675
+LEVEL
+13
 BULK
 0.1
 ENTRY
@@ -4651,7 +8138,7 @@ CRB
 PAGE
 288
 GOLD
-40.0
+28.5
 LEVEL
 0
 BULK
@@ -4662,13 +8149,13 @@ TRAITS
 adventuring gear
 
 NAME
-Lantern
+Lantern (Bull's Eye)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0
+3
 LEVEL
 0
 BULK
@@ -4679,15 +8166,51 @@ TRAITS
 adventuring gear
 
 NAME
-Leaper's Elixir
+Lantern (Hooded)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+0.1
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Leaper's Elixir (lesser)
 SOURCE
 CRB
 PAGE
 549
 GOLD
-0
+7
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Leaper's Elixir (greater)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+3
+LEVEL
+7
 BULK
 0.1
 ENTRY
@@ -4704,7 +8227,7 @@ CRB
 PAGE
 552
 GOLD
-3
+55
 LEVEL
 2
 BULK
@@ -4780,13 +8303,13 @@ magical
 shield
 
 NAME
-Lock
+Lock (Poor)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0
+24.5
 LEVEL
 0
 BULK
@@ -4797,15 +8320,83 @@ TRAITS
 adventuring gear
 
 NAME
-Luck Blade
+Lock (Simple)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+2
+LEVEL
+1
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Lock (Average)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+2
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Lock (Good)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+15
+LEVEL
+9
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Lock (Superior)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+200
+LEVEL
+17
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Luck Blade ()
 SOURCE
 CRB
 PAGE
 601
 GOLD
-0
+4500
 LEVEL
-17+
+17
 BULK
 0.1
 ENTRY
@@ -4818,15 +8409,36 @@ magical
 weapon
 
 NAME
-Maestro's Instrument
+Luck Blade (wishing)
+SOURCE
+CRB
+PAGE
+601
+GOLD
+15000
+LEVEL
+19
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+rare
+divination
+fortune
+magical
+weapon
+
+NAME
+Maestro's Instrument (lesser)
 SOURCE
 CRB
 PAGE
 574
 GOLD
-0
+30000
 LEVEL
-3+
+3
 BULK
 1
 ENTRY
@@ -4837,15 +8449,197 @@ magical
 held
 
 NAME
-Magic Wand
+Maestro's Instrument (moderate)
+SOURCE
+CRB
+PAGE
+574
+GOLD
+60
+LEVEL
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+enchantment
+magical
+held
+
+NAME
+Maestro's Instrument (greater)
+SOURCE
+CRB
+PAGE
+574
+GOLD
+900
+LEVEL
+18
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+enchantment
+magical
+held
+
+NAME
+Magic Wand (1st-level spell)
 SOURCE
 CRB
 PAGE
 597
 GOLD
-0
+19000
 LEVEL
-3+
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Magic Wand (2nd-level spell)
+SOURCE
+CRB
+PAGE
+597
+GOLD
+60
+LEVEL
+5
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Magic Wand (3rd-level spell)
+SOURCE
+CRB
+PAGE
+597
+GOLD
+160
+LEVEL
+7
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Magic Wand (4th-level spell)
+SOURCE
+CRB
+PAGE
+597
+GOLD
+360
+LEVEL
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Magic Wand (5th-level spell)
+SOURCE
+CRB
+PAGE
+597
+GOLD
+700
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Magic Wand (6th-level spell)
+SOURCE
+CRB
+PAGE
+597
+GOLD
+1500
+LEVEL
+13
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Magic Wand (7th-level spell)
+SOURCE
+CRB
+PAGE
+597
+GOLD
+3000
+LEVEL
+15
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Magic Wand (8th-level spell)
+SOURCE
+CRB
+PAGE
+597
+GOLD
+6500
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Magic Wand (9th-level spell)
+SOURCE
+CRB
+PAGE
+597
+GOLD
+15000
+LEVEL
+19
 BULK
 0.1
 ENTRY
@@ -4861,7 +8655,7 @@ CRB
 PAGE
 288
 GOLD
-245
+40000
 LEVEL
 3
 BULK
@@ -4912,15 +8706,83 @@ contact
 poison
 
 NAME
-Manacles
+Manacles (Poor)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0
+5.5
 LEVEL
 0
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Manacles (Simple)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+2
+LEVEL
+1
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Manacles (Average)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+3
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Manacles (Good)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+20
+LEVEL
+9
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Manacles (Superior)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+250
+LEVEL
+17
 BULK
 0.0
 ENTRY
@@ -4935,7 +8797,7 @@ CRB
 PAGE
 590
 GOLD
-55
+5000
 LEVEL
 1
 BULK
@@ -4949,15 +8811,34 @@ snare
 trap
 
 NAME
-Marvelous Medicines
+Marvelous Medicines (standard)
 SOURCE
 CRB
 PAGE
 574
 GOLD
-0
+3
 LEVEL
-12+
+12
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+necromancy
+held
+
+NAME
+Marvelous Medicines (greater)
+SOURCE
+CRB
+PAGE
+574
+GOLD
+1800
+LEVEL
+18
 BULK
 1
 ENTRY
@@ -4974,7 +8855,7 @@ CRB
 PAGE
 288
 GOLD
-0.3
+1900.0
 LEVEL
 0
 BULK
@@ -5026,15 +8907,53 @@ magical
 talisman
 
 NAME
-Mentalist's Staff
+Mentalist's Staff ()
 SOURCE
 CRB
 PAGE
 592
 GOLD
-0
+525
 LEVEL
-4+
+4
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+magical
+staff
+
+NAME
+Mentalist's Staff (greater)
+SOURCE
+CRB
+PAGE
+592
+GOLD
+90
+LEVEL
+8
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+magical
+staff
+
+NAME
+Mentalist's Staff (major)
+SOURCE
+CRB
+PAGE
+592
+GOLD
+450
+LEVEL
+12
 BULK
 1
 ENTRY
@@ -5082,15 +9001,35 @@ magical
 talisman
 
 NAME
-Messenger's Ring
+Messenger's Ring ()
 SOURCE
 CRB
 PAGE
 613
 GOLD
-0
+7
 LEVEL
-9+
+9
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+enchantment
+invested
+magical
+worn
+
+NAME
+Messenger's Ring (greater)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+700
+LEVEL
+17
 BULK
 0.0
 ENTRY
@@ -5108,7 +9047,7 @@ CRB
 PAGE
 553
 GOLD
-7
+13500
 LEVEL
 15
 BULK
@@ -5139,15 +9078,15 @@ TRAITS
 adventuring gear
 
 NAME
-Mistform Elixir
+Mistform Elixir (lesser)
 SOURCE
 CRB
 PAGE
 549
 GOLD
-0
+1
 LEVEL
-4+
+4
 BULK
 0.1
 ENTRY
@@ -5160,15 +9099,57 @@ illusion
 visual
 
 NAME
-Mithral
+Mistform Elixir (moderate)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+18
+LEVEL
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+illusion
+visual
+
+NAME
+Mistform Elixir (greater)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+56
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+illusion
+visual
+
+NAME
+Mithral (chunk)
 SOURCE
 CRB
 PAGE
 579
 GOLD
-0
+180
 LEVEL
-8+
+0
 BULK
 0
 ENTRY
@@ -5179,15 +9160,72 @@ precious
 material
 
 NAME
-Mithral Armor
+Mithral (ingot)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+500
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Mithral (standard-grade object)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+5000
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Mithral (high-grade object)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+350
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Mithral Armor (standard-grade)
 SOURCE
 CRB
 PAGE
 556
 GOLD
-0
+6000
 LEVEL
-12+
+12
 BULK
 0.0
 ENTRY
@@ -5197,15 +9235,33 @@ uncommon
 material
 
 NAME
-Mithral Shield
+Mithral Armor (high-grade)
+SOURCE
+CRB
+PAGE
+556
+GOLD
+1600
+LEVEL
+19
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Mithral Shield (standard-grade buckler)
 SOURCE
 CRB
 PAGE
 586
 GOLD
-0
+32000
 LEVEL
-8+
+8
 BULK
 0
 ENTRY
@@ -5215,15 +9271,87 @@ uncommon
 shield
 
 NAME
-Mithral Weapon
+Mithral Shield (standard-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+400
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+shield
+
+NAME
+Mithral Shield (high-grade buckler)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+440
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+shield
+
+NAME
+Mithral Shield (high-grade)
+SOURCE
+CRB
+PAGE
+586
+GOLD
+8000
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+shield
+
+NAME
+Mithral Weapon (standard-grade)
 SOURCE
 CRB
 PAGE
 599
 GOLD
-0
+8800
 LEVEL
-11+
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+material
+
+NAME
+Mithral Weapon (high-grade)
+SOURCE
+CRB
+PAGE
+599
+GOLD
+1400
+LEVEL
+17
 BULK
 0.0
 ENTRY
@@ -5239,7 +9367,7 @@ CRB
 PAGE
 568
 GOLD
-1
+13500
 LEVEL
 2
 BULK
@@ -5330,13 +9458,13 @@ magical
 talisman
 
 NAME
-Musical Instrument
+Musical Instrument (Handheld)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0
+6.6
 LEVEL
 0
 BULK
@@ -5347,15 +9475,186 @@ TRAITS
 adventuring gear
 
 NAME
-Necklace of Fireballs
+Musical Instrument (Virtuoso Handheld)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+8
+LEVEL
+3
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Musical Instrument (Heavy)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+50
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Musical Instrument (Virtuoso Heavy)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+2
+LEVEL
+3
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Necklace of Fireballs (I)
 SOURCE
 CRB
 PAGE
 613
 GOLD
-0
+100
 LEVEL
-5+
+5
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+invested
+magical
+worn
+
+NAME
+Necklace of Fireballs (II)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+44
+LEVEL
+7
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+invested
+magical
+worn
+
+NAME
+Necklace of Fireballs (III)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+115
+LEVEL
+9
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+invested
+magical
+worn
+
+NAME
+Necklace of Fireballs (IV)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+300
+LEVEL
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+invested
+magical
+worn
+
+NAME
+Necklace of Fireballs (V)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+700
+LEVEL
+13
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+invested
+magical
+worn
+
+NAME
+Necklace of Fireballs (VI)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+1600
+LEVEL
+15
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+invested
+magical
+worn
+
+NAME
+Necklace of Fireballs (VII)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+4200
+LEVEL
+17
 BULK
 0.0
 ENTRY
@@ -5373,7 +9672,7 @@ CRB
 PAGE
 561
 GOLD
-66
+9600
 LEVEL
 1
 BULK
@@ -5585,15 +9884,35 @@ magical
 oil
 
 NAME
-Oil of Weightlessness
+Oil of Weightlessness ()
 SOURCE
 CRB
 PAGE
 562
 GOLD
-0
+175
 LEVEL
-2+
+2
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+oil
+transmutation
+
+NAME
+Oil of Weightlessness (greater)
+SOURCE
+CRB
+PAGE
+562
+GOLD
+6
+LEVEL
+6
 BULK
 0.1
 ENTRY
@@ -5611,7 +9930,7 @@ CRB
 PAGE
 591
 GOLD
-175
+36
 LEVEL
 16
 BULK
@@ -5645,15 +9964,15 @@ transmutation
 talisman
 
 NAME
-Orichalcum
+Orichalcum (chunk)
 SOURCE
 CRB
 PAGE
 579
 GOLD
-0
+7
 LEVEL
-17+
+0
 BULK
 0
 ENTRY
@@ -5664,13 +9983,51 @@ precious
 material
 
 NAME
-Orichalcum Armor
+Orichalcum (ingot)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+1000
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+rare
+precious
+material
+
+NAME
+Orichalcum (high-grade object)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+10000
+LEVEL
+17
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+rare
+precious
+material
+
+NAME
+Orichalcum Armor (high-grade)
 SOURCE
 CRB
 PAGE
 556
 GOLD
-0
+10000
 LEVEL
 20
 BULK
@@ -5682,15 +10039,15 @@ rare
 material
 
 NAME
-Orichalcum Shield
+Orichalcum Shield (high-grade buckler)
 SOURCE
 CRB
 PAGE
 587
 GOLD
-0
+55000
 LEVEL
-17+
+17
 BULK
 0
 ENTRY
@@ -5700,13 +10057,31 @@ rare
 shield
 
 NAME
-Orichalcum Weapon
+Orichalcum Shield (high-grade)
+SOURCE
+CRB
+PAGE
+587
+GOLD
+0
+LEVEL
+17
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+rare
+shield
+
+NAME
+Orichalcum Weapon (high-grade)
 SOURCE
 CRB
 PAGE
 599
 GOLD
-0
+12000
 LEVEL
 18
 BULK
@@ -5724,7 +10099,7 @@ CRB
 PAGE
 569
 GOLD
-7
+22500
 LEVEL
 1
 BULK
@@ -5760,15 +10135,35 @@ necromancy
 potion
 
 NAME
-Pendant of the Occult
+Pendant of the Occult ()
 SOURCE
 CRB
 PAGE
 613
 GOLD
-0
+450
 LEVEL
-3+
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+invested
+occult
+worn
+
+NAME
+Pendant of the Occult (greater)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+60
+LEVEL
+9
 BULK
 0.0
 ENTRY
@@ -5786,7 +10181,7 @@ CRB
 PAGE
 560
 GOLD
-450
+650
 LEVEL
 12
 BULK
@@ -5800,15 +10195,36 @@ transmutation
 ammunition
 
 NAME
-Persona Mask
+Persona Mask ()
 SOURCE
 CRB
 PAGE
 613
 GOLD
-0
+400
 LEVEL
-3+
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+fortune
+illusion
+invested
+magical
+worn
+
+NAME
+Persona Mask (greater)
+SOURCE
+CRB
+PAGE
+613
+GOLD
+50
+LEVEL
+9
 BULK
 0.0
 ENTRY
@@ -5841,15 +10257,35 @@ consumable
 tool
 
 NAME
-Phylactery of Faithfulness
+Phylactery of Faithfulness ()
 SOURCE
 CRB
 PAGE
 614
 GOLD
-0
+650
 LEVEL
-9+
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+divine
+invested
+worn
+
+NAME
+Phylactery of Faithfulness (greater)
+SOURCE
+CRB
+PAGE
+614
+GOLD
+680
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -5867,7 +10303,7 @@ CRB
 PAGE
 288
 GOLD
-0.01
+1
 LEVEL
 0
 BULK
@@ -5957,15 +10393,35 @@ magical
 talisman
 
 NAME
-Potion of Flying
+Potion of Flying (standard)
 SOURCE
 CRB
 PAGE
 563
 GOLD
-0
+4
 LEVEL
-8+
+8
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+potion
+transmutation
+
+NAME
+Potion of Flying (greater)
+SOURCE
+CRB
+PAGE
+563
+GOLD
+100
+LEVEL
+15
 BULK
 0.1
 ENTRY
@@ -5983,7 +10439,7 @@ CRB
 PAGE
 563
 GOLD
-4
+1000
 LEVEL
 5
 BULK
@@ -6017,15 +10473,15 @@ potion
 transmutation
 
 NAME
-Potion of Resistance
+Potion of Resistance (lesser)
 SOURCE
 CRB
 PAGE
 563
 GOLD
-0
+90
 LEVEL
-6+
+6
 BULK
 0.1
 ENTRY
@@ -6037,15 +10493,75 @@ magical
 potion
 
 NAME
-Potion of Swimming
+Potion of Resistance (moderate)
 SOURCE
 CRB
 PAGE
 563
 GOLD
-0
+45
 LEVEL
-6+
+10
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+consumable
+magical
+potion
+
+NAME
+Potion of Resistance (greater)
+SOURCE
+CRB
+PAGE
+563
+GOLD
+180
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+consumable
+magical
+potion
+
+NAME
+Potion of Swimming (moderate)
+SOURCE
+CRB
+PAGE
+563
+GOLD
+850
+LEVEL
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+potion
+transmutation
+
+NAME
+Potion of Swimming (greater)
+SOURCE
+CRB
+PAGE
+563
+GOLD
+50
+LEVEL
+11
 BULK
 0.1
 ENTRY
@@ -6063,7 +10579,7 @@ CRB
 PAGE
 563
 GOLD
-90
+250
 LEVEL
 12
 BULK
@@ -6118,15 +10634,34 @@ potion
 transmutation
 
 NAME
-Primeval Mistletoe
+Primeval Mistletoe (standard)
 SOURCE
 CRB
 PAGE
 574
 GOLD
-0
+11
 LEVEL
-6+
+6
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+primal
+transmutation
+held
+
+NAME
+Primeval Mistletoe (greater)
+SOURCE
+CRB
+PAGE
+574
+GOLD
+230
+LEVEL
+14
 BULK
 0.0
 ENTRY
@@ -6143,7 +10678,7 @@ CRB
 PAGE
 553
 GOLD
-11
+3900
 LEVEL
 13
 BULK
@@ -6157,15 +10692,78 @@ injury
 poison
 
 NAME
-Quicksilver Mutagen
+Quicksilver Mutagen (lesser)
 SOURCE
 CRB
 PAGE
 549
 GOLD
-0
+500
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Quicksilver Mutagen (moderate)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Quicksilver Mutagen (greater)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Quicksilver Mutagen (major)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+300
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -6215,13 +10813,30 @@ magical
 shield
 
 NAME
-Religious Symbol
+Religious Symbol (Wooden)
 SOURCE
 CRB
 PAGE
 288
 GOLD
+1800.0
+LEVEL
 0
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Religious Symbol (Silver)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+1
 LEVEL
 0
 BULK
@@ -6238,7 +10853,7 @@ CRB
 PAGE
 288
 GOLD
-18000
+2
 LEVEL
 0
 BULK
@@ -6249,13 +10864,13 @@ TRAITS
 adventuring gear
 
 NAME
-Repair Kit
+Repair Kit (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0
+1
 LEVEL
 0
 BULK
@@ -6266,7 +10881,24 @@ TRAITS
 adventuring gear
 
 NAME
-Replacement Cosmetics
+Repair Kit (Superb)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+2
+LEVEL
+3
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Replacement Cosmetics (Base)
 SOURCE
 CRB
 PAGE
@@ -6283,13 +10915,30 @@ TRAITS
 adventuring gear
 
 NAME
-Replacement Picks
+Replacement Cosmetics (Elite Replacement Cosmetics)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0
+0.1
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Replacement Picks (Replacement Picks)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+0.5
 LEVEL
 0
 BULK
@@ -6300,15 +10949,87 @@ TRAITS
 adventuring gear
 
 NAME
-Resilient Rune
+Replacement Picks (Infiltrator)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+3
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Replacement Picks (Concealable)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+3
+LEVEL
+4
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Resilient () Rune
 SOURCE
 CRB
 PAGE
 581
 GOLD
-0
+10
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+rune
+
+NAME
+Resilient (greater) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+340
+LEVEL
+14
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+rune
+
+NAME
+Resilient (major) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+3440
+LEVEL
+20
 BULK
 0
 ENTRY
@@ -6325,7 +11046,7 @@ CRB
 PAGE
 602
 GOLD
-1
+49440
 LEVEL
 3
 BULK
@@ -6418,15 +11139,55 @@ magical
 worn
 
 NAME
-Ring of Energy Resistance
+Ring of Energy Resistance ()
 SOURCE
 CRB
 PAGE
 614
 GOLD
-0
+925
 LEVEL
-6+
+6
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+invested
+magical
+worn
+
+NAME
+Ring of Energy Resistance (greater)
+SOURCE
+CRB
+PAGE
+614
+GOLD
+245
+LEVEL
+10
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+invested
+magical
+worn
+
+NAME
+Ring of Energy Resistance (major)
+SOURCE
+CRB
+PAGE
+614
+GOLD
+975
+LEVEL
+14
 BULK
 0.0
 ENTRY
@@ -6444,7 +11205,7 @@ CRB
 PAGE
 614
 GOLD
-925
+4400
 LEVEL
 10
 BULK
@@ -6459,15 +11220,35 @@ magical
 worn
 
 NAME
-Ring of Maniacal Devices
+Ring of Maniacal Devices ()
 SOURCE
 CRB
 PAGE
 614
 GOLD
-0
+850
 LEVEL
-11+
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+invested
+magical
+worn
+
+NAME
+Ring of Maniacal Devices (greater)
+SOURCE
+CRB
+PAGE
+614
+GOLD
+1175
+LEVEL
+18
 BULK
 0.0
 ENTRY
@@ -6485,7 +11266,7 @@ CRB
 PAGE
 615
 GOLD
-850
+21000
 LEVEL
 20
 BULK
@@ -6541,15 +11322,15 @@ transmutation
 worn
 
 NAME
-Ring of the Ram
+Ring of the Ram ()
 SOURCE
 CRB
 PAGE
 615
 GOLD
-0
+1750
 LEVEL
-6+
+6
 BULK
 0.0
 ENTRY
@@ -6562,15 +11343,99 @@ magical
 worn
 
 NAME
-Ring of Wizardry
+Ring of the Ram (greater)
 SOURCE
 CRB
 PAGE
 615
 GOLD
-0
+220
 LEVEL
-7+
+13
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+force
+invested
+magical
+worn
+
+NAME
+Ring of Wizardry (Ring Wizardry (Type I))
+SOURCE
+CRB
+PAGE
+615
+GOLD
+2700
+LEVEL
+7
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+arcane
+divination
+invested
+worn
+
+NAME
+Ring of Wizardry (Ring Wizardry (Type II))
+SOURCE
+CRB
+PAGE
+615
+GOLD
+360
+LEVEL
+10
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+arcane
+divination
+invested
+worn
+
+NAME
+Ring of Wizardry (Ring Wizardry (Type III))
+SOURCE
+CRB
+PAGE
+615
+GOLD
+1000
+LEVEL
+12
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+arcane
+divination
+invested
+worn
+
+NAME
+Ring of Wizardry (Ring Wizardry (Type IV))
+SOURCE
+CRB
+PAGE
+615
+GOLD
+2000
+LEVEL
+14
 BULK
 0.0
 ENTRY
@@ -6589,7 +11454,7 @@ CRB
 PAGE
 615
 GOLD
-1750
+4500
 LEVEL
 17
 BULK
@@ -6604,15 +11469,36 @@ magical
 worn
 
 NAME
-Robe of the Archmagi
+Robe of the Archmagi ()
 SOURCE
 CRB
 PAGE
 616
 GOLD
-0
+13000
 LEVEL
-15+
+15
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+abjuration
+arcane
+invested
+worn
+
+NAME
+Robe of the Archmagi (greater)
+SOURCE
+CRB
+PAGE
+616
+GOLD
+6500
+LEVEL
+19
 BULK
 1
 ENTRY
@@ -6631,7 +11517,7 @@ CRB
 PAGE
 574
 GOLD
-13000
+32000
 LEVEL
 14
 BULK
@@ -6734,15 +11620,15 @@ TRAITS
 adventuring gear
 
 NAME
-Salamander Elixir
+Salamander Elixir (lesser)
 SOURCE
 CRB
 PAGE
 549
 GOLD
-0
+2
 LEVEL
-4+
+4
 BULK
 0.1
 ENTRY
@@ -6753,15 +11639,74 @@ consumable
 elixir
 
 NAME
-Salve of Antiparalysis
+Salamander Elixir (moderate)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+15
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Salamander Elixir (greater)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+320
+LEVEL
+16
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Salve of Antiparalysis ()
 SOURCE
 CRB
 PAGE
 562
 GOLD
-0
+1400
 LEVEL
-6+
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+healing
+magical
+necromancy
+oil
+
+NAME
+Salve of Antiparalysis (greater)
+SOURCE
+CRB
+PAGE
+562
+GOLD
+40
+LEVEL
+12
 BULK
 0.1
 ENTRY
@@ -6780,7 +11725,7 @@ CRB
 PAGE
 562
 GOLD
-2
+325
 LEVEL
 5
 BULK
@@ -6815,13 +11760,31 @@ magical
 talisman
 
 NAME
-Scholarly Journal
+Scholarly Journal (Scholarly Journal)
 SOURCE
 CRB
 PAGE
 288
 GOLD
+7
+LEVEL
 0
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+adventuring gear
+
+NAME
+Scholarly Journal (Scholarly Journal Compendium)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+6
 LEVEL
 3
 BULK
@@ -6833,15 +11796,186 @@ uncommon
 adventuring gear
 
 NAME
-Scroll
+Scroll (1st-level spell)
 SOURCE
 CRB
 PAGE
 564
 GOLD
-0
+30
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (2nd-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (3rd-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+12
+LEVEL
+5
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (4th-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+30
+LEVEL
+7
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (5th-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+70
+LEVEL
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (6th-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+150
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (7th-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+300
+LEVEL
+13
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (8th-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+600
+LEVEL
+15
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (9th-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+1300
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+scroll
+
+NAME
+Scroll (10th-level spell)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+3000
+LEVEL
+19
 BULK
 0.1
 ENTRY
@@ -6858,7 +11992,7 @@ CRB
 PAGE
 591
 GOLD
-7
+8000
 LEVEL
 12
 BULK
@@ -6872,15 +12006,15 @@ snare
 trap
 
 NAME
-Sea Touch Elixir
+Sea Touch Elixir (lesser)
 SOURCE
 CRB
 PAGE
 549
 GOLD
-0
+320
 LEVEL
-5+
+5
 BULK
 0.1
 ENTRY
@@ -6892,15 +12026,118 @@ elixir
 polymorph
 
 NAME
-Serene Mutagen
+Sea Touch Elixir (moderate)
 SOURCE
 CRB
 PAGE
 549
 GOLD
-0
+22
 LEVEL
-1+
+12
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+polymorph
+
+NAME
+Sea Touch Elixir (greater)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+300
+LEVEL
+15
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+polymorph
+
+NAME
+Serene Mutagen (lesser)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+920
+LEVEL
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Serene Mutagen (moderate)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Serene Mutagen (greater)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Serene Mutagen (major)
+SOURCE
+CRB
+PAGE
+549
+GOLD
+300
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -6919,7 +12156,7 @@ CRB
 PAGE
 564
 GOLD
-320
+3000
 LEVEL
 7
 BULK
@@ -6933,15 +12170,53 @@ potion
 transmutation
 
 NAME
-Shadow Rune
+Shadow () Rune
 SOURCE
 CRB
 PAGE
 583
 GOLD
-0
+60
 LEVEL
-5+
+5
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+transmutation
+rune
+
+NAME
+Shadow (greater) Rune
+SOURCE
+CRB
+PAGE
+583
+GOLD
+55
+LEVEL
+9
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+transmutation
+rune
+
+NAME
+Shadow (major) Rune
+SOURCE
+CRB
+PAGE
+583
+GOLD
+650
+LEVEL
+17
 BULK
 0
 ENTRY
@@ -6958,7 +12233,7 @@ CRB
 PAGE
 553
 GOLD
-60
+14000
 LEVEL
 10
 BULK
@@ -7033,15 +12308,15 @@ magical
 ammunition
 
 NAME
-Shock Rune
+Shock () Rune
 SOURCE
 CRB
 PAGE
 585
 GOLD
-0
+3
 LEVEL
-8+
+8
 BULK
 0
 ENTRY
@@ -7053,15 +12328,55 @@ magical
 rune
 
 NAME
-Shrinking Potion
+Shock (greater) Rune
+SOURCE
+CRB
+PAGE
+585
+GOLD
+500
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+electricity
+evocation
+magical
+rune
+
+NAME
+Shrinking Potion (standard)
 SOURCE
 CRB
 PAGE
 564
 GOLD
-0
+6500
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+potion
+transmutation
+
+NAME
+Shrinking Potion (greater)
+SOURCE
+CRB
+PAGE
+564
+GOLD
+15
+LEVEL
+8
 BULK
 0.1
 ENTRY
@@ -7110,15 +12425,15 @@ snare
 trap
 
 NAME
-Silver
+Silver (chunk)
 SOURCE
 CRB
 PAGE
 579
 GOLD
-0
+3
 LEVEL
-2+
+0
 BULK
 0
 ENTRY
@@ -7128,15 +12443,87 @@ precious
 material
 
 NAME
-Silver Armor
+Silver (ingot)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+10
+LEVEL
+0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+precious
+material
+
+NAME
+Silver (low-grade object)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+100
+LEVEL
+2
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+precious
+material
+
+NAME
+Silver (standard-grade object)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+20
+LEVEL
+7
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+precious
+material
+
+NAME
+Silver (high-grade object)
+SOURCE
+CRB
+PAGE
+579
+GOLD
+250
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+precious
+material
+
+NAME
+Silver Armor (low-grade)
 SOURCE
 CRB
 PAGE
 556
 GOLD
-0
+4500
 LEVEL
-5+
+5
 BULK
 0.0
 ENTRY
@@ -7145,15 +12532,49 @@ TRAITS
 material
 
 NAME
-Silver Shield
+Silver Armor (standard-grade)
+SOURCE
+CRB
+PAGE
+556
+GOLD
+140
+LEVEL
+11
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Armor (high-grade)
+SOURCE
+CRB
+PAGE
+556
+GOLD
+1200
+LEVEL
+18
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Shield (low-grade buckler)
 SOURCE
 CRB
 PAGE
 587
 GOLD
-0
+20000
 LEVEL
-2+
+2
 BULK
 0
 ENTRY
@@ -7162,15 +12583,134 @@ TRAITS
 material
 
 NAME
-Silver Weapon
+Silver Shield (low-grade)
+SOURCE
+CRB
+PAGE
+587
+GOLD
+30
+LEVEL
+2
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Shield (standard-grade buckler)
+SOURCE
+CRB
+PAGE
+587
+GOLD
+34
+LEVEL
+7
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Shield (standard-grade)
+SOURCE
+CRB
+PAGE
+587
+GOLD
+300
+LEVEL
+7
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Shield (high-grade buckler)
+SOURCE
+CRB
+PAGE
+587
+GOLD
+340
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Shield (high-grade)
+SOURCE
+CRB
+PAGE
+587
+GOLD
+5000
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Weapon (low-grade)
 SOURCE
 CRB
 PAGE
 599
 GOLD
-0
+5500
 LEVEL
-2+
+2
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Weapon (standard-grade)
+SOURCE
+CRB
+PAGE
+599
+GOLD
+40
+LEVEL
+10
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+material
+
+NAME
+Silver Weapon (high-grade)
+SOURCE
+CRB
+PAGE
+599
+GOLD
+880
+LEVEL
+16
 BULK
 0.0
 ENTRY
@@ -7185,7 +12725,7 @@ CRB
 PAGE
 554
 GOLD
-3
+9000
 LEVEL
 2
 BULK
@@ -7198,15 +12738,15 @@ consumable
 tool
 
 NAME
-Silvertongue Mutagen
+Silvertongue Mutagen (lesser)
 SOURCE
 CRB
 PAGE
 550
 GOLD
-0
+6
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -7219,15 +12759,97 @@ mutagen
 polymorph
 
 NAME
-Skeleton Key
+Silvertongue Mutagen (moderate)
+SOURCE
+CRB
+PAGE
+550
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Silvertongue Mutagen (greater)
+SOURCE
+CRB
+PAGE
+550
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Silvertongue Mutagen (major)
+SOURCE
+CRB
+PAGE
+550
+GOLD
+300
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Skeleton Key (standard)
 SOURCE
 CRB
 PAGE
 575
 GOLD
-0
+3000
 LEVEL
-5+
+5
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+transmutation
+held
+
+NAME
+Skeleton Key (greater)
+SOURCE
+CRB
+PAGE
+575
+GOLD
+125
+LEVEL
+11
 BULK
 0.0
 ENTRY
@@ -7244,7 +12866,7 @@ CRB
 PAGE
 602
 GOLD
-6
+1250
 LEVEL
 20
 BULK
@@ -7280,15 +12902,53 @@ sleep
 ammunition
 
 NAME
-Slick Rune
+Slick () Rune
 SOURCE
 CRB
 PAGE
 583
 GOLD
-0
+11
 LEVEL
-5+
+5
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+transmutation
+rune
+
+NAME
+Slick (greater) Rune
+SOURCE
+CRB
+PAGE
+583
+GOLD
+45
+LEVEL
+8
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+transmutation
+rune
+
+NAME
+Slick (major) Rune
+SOURCE
+CRB
+PAGE
+583
+GOLD
+450
+LEVEL
+16
 BULK
 0
 ENTRY
@@ -7305,7 +12965,7 @@ CRB
 PAGE
 282
 GOLD
-0.11
+90.0
 LEVEL
 0
 BULK
@@ -7357,26 +13017,7 @@ poison
 sleep
 
 NAME
-Smokestick
-SOURCE
-CRB
-PAGE
-554
-GOLD
-0
-LEVEL
-1+
-BULK
-0.1
-ENTRY
-This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
-TRAITS
-alchemical
-consumable
-tool
-
-NAME
-Snake Oil
+Smokestick (lesser)
 SOURCE
 CRB
 PAGE
@@ -7395,7 +13036,45 @@ consumable
 tool
 
 NAME
-Snare Kit
+Smokestick (greater)
+SOURCE
+CRB
+PAGE
+554
+GOLD
+3
+LEVEL
+7
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+tool
+
+NAME
+Snake Oil
+SOURCE
+CRB
+PAGE
+554
+GOLD
+53
+LEVEL
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+tool
+
+NAME
+Snare Kit (Snare Kit)
 SOURCE
 CRB
 PAGE
@@ -7412,13 +13091,30 @@ TRAITS
 adventuring gear
 
 NAME
+Snare Kit (Specialist)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+6
+LEVEL
+3
+BULK
+2
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
 Sneaky Key
 SOURCE
 CRB
 PAGE
 569
 GOLD
-5
+55
 LEVEL
 5
 BULK
@@ -7525,15 +13221,175 @@ magical
 shield
 
 NAME
-Spellstrike Ammunition
+Spellstrike Ammunition (I)
 SOURCE
 CRB
 PAGE
 560
 GOLD
-0
+250
 LEVEL
-3+
+3
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+transmutation
+ammunition
+
+NAME
+Spellstrike Ammunition (II)
+SOURCE
+CRB
+PAGE
+560
+GOLD
+12
+LEVEL
+5
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+transmutation
+ammunition
+
+NAME
+Spellstrike Ammunition (III)
+SOURCE
+CRB
+PAGE
+560
+GOLD
+30
+LEVEL
+7
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+transmutation
+ammunition
+
+NAME
+Spellstrike Ammunition (IV)
+SOURCE
+CRB
+PAGE
+560
+GOLD
+70
+LEVEL
+9
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+transmutation
+ammunition
+
+NAME
+Spellstrike Ammunition (V)
+SOURCE
+CRB
+PAGE
+560
+GOLD
+150
+LEVEL
+11
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+transmutation
+ammunition
+
+NAME
+Spellstrike Ammunition (VI)
+SOURCE
+CRB
+PAGE
+560
+GOLD
+300
+LEVEL
+13
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+transmutation
+ammunition
+
+NAME
+Spellstrike Ammunition (VII)
+SOURCE
+CRB
+PAGE
+560
+GOLD
+600
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+transmutation
+ammunition
+
+NAME
+Spellstrike Ammunition (VIII)
+SOURCE
+CRB
+PAGE
+560
+GOLD
+1300
+LEVEL
+17
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+consumable
+magical
+transmutation
+ammunition
+
+NAME
+Spellstrike Ammunition (IX)
+SOURCE
+CRB
+PAGE
+560
+GOLD
+3000
+LEVEL
+19
 BULK
 0
 ENTRY
@@ -7551,7 +13407,7 @@ CRB
 PAGE
 553
 GOLD
-250
+8000
 LEVEL
 9
 BULK
@@ -7604,13 +13460,13 @@ magical
 shield
 
 NAME
-Spyglass
+Spyglass (Base)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-20
+0
 LEVEL
 0
 BULK
@@ -7621,15 +13477,32 @@ TRAITS
 adventuring gear
 
 NAME
-Staff of Abjuration
+Spyglass (Fine)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+20
+LEVEL
+4
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Staff of Abjuration ()
 SOURCE
 CRB
 PAGE
 593
 GOLD
-0
+80
 LEVEL
-6+
+6
 BULK
 1
 ENTRY
@@ -7640,15 +13513,53 @@ magical
 staff
 
 NAME
-Staff of Conjuration
+Staff of Abjuration (greater)
 SOURCE
 CRB
 PAGE
 593
 GOLD
-0
+230
 LEVEL
-6+
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+staff
+
+NAME
+Staff of Abjuration (major)
+SOURCE
+CRB
+PAGE
+593
+GOLD
+900
+LEVEL
+14
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+staff
+
+NAME
+Staff of Conjuration ()
+SOURCE
+CRB
+PAGE
+593
+GOLD
+4000
+LEVEL
+6
 BULK
 1
 ENTRY
@@ -7659,15 +13570,53 @@ magical
 staff
 
 NAME
-Staff of Divination
+Staff of Conjuration (greater)
 SOURCE
 CRB
 PAGE
 593
 GOLD
-0
+230
 LEVEL
-6+
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+magical
+staff
+
+NAME
+Staff of Conjuration (major)
+SOURCE
+CRB
+PAGE
+593
+GOLD
+900
+LEVEL
+14
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+magical
+staff
+
+NAME
+Staff of Divination ()
+SOURCE
+CRB
+PAGE
+593
+GOLD
+4000
+LEVEL
+6
 BULK
 1
 ENTRY
@@ -7678,15 +13627,53 @@ magical
 staff
 
 NAME
-Staff of Enchantment
+Staff of Divination (greater)
 SOURCE
 CRB
 PAGE
 593
 GOLD
-0
+230
 LEVEL
-6+
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+magical
+staff
+
+NAME
+Staff of Divination (major)
+SOURCE
+CRB
+PAGE
+593
+GOLD
+900
+LEVEL
+14
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+magical
+staff
+
+NAME
+Staff of Enchantment ()
+SOURCE
+CRB
+PAGE
+593
+GOLD
+4000
+LEVEL
+6
 BULK
 1
 ENTRY
@@ -7697,15 +13684,53 @@ magical
 staff
 
 NAME
-Staff of Evocation
+Staff of Enchantment (greater)
 SOURCE
 CRB
 PAGE
 593
 GOLD
-0
+230
 LEVEL
-6+
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+enchantment
+magical
+staff
+
+NAME
+Staff of Enchantment (major)
+SOURCE
+CRB
+PAGE
+593
+GOLD
+900
+LEVEL
+14
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+enchantment
+magical
+staff
+
+NAME
+Staff of Evocation ()
+SOURCE
+CRB
+PAGE
+593
+GOLD
+4000
+LEVEL
+6
 BULK
 1
 ENTRY
@@ -7716,15 +13741,15 @@ magical
 staff
 
 NAME
-Staff of Fire
+Staff of Evocation (greater)
 SOURCE
 CRB
 PAGE
-594
+593
 GOLD
-0
+230
 LEVEL
-3+
+10
 BULK
 1
 ENTRY
@@ -7735,15 +13760,148 @@ magical
 staff
 
 NAME
-Staff of Healing
+Staff of Evocation (major)
+SOURCE
+CRB
+PAGE
+593
+GOLD
+900
+LEVEL
+14
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+staff
+
+NAME
+Staff of Fire ()
 SOURCE
 CRB
 PAGE
 594
 GOLD
-0
+4000
 LEVEL
-4+
+3
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+staff
+
+NAME
+Staff of Fire (greater)
+SOURCE
+CRB
+PAGE
+594
+GOLD
+60
+LEVEL
+8
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+staff
+
+NAME
+Staff of Fire (major)
+SOURCE
+CRB
+PAGE
+594
+GOLD
+450
+LEVEL
+12
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+staff
+
+NAME
+Staff of Healing ()
+SOURCE
+CRB
+PAGE
+594
+GOLD
+1800
+LEVEL
+4
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+necromancy
+staff
+
+NAME
+Staff of Healing (greater)
+SOURCE
+CRB
+PAGE
+594
+GOLD
+90
+LEVEL
+8
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+necromancy
+staff
+
+NAME
+Staff of Healing (major)
+SOURCE
+CRB
+PAGE
+594
+GOLD
+470
+LEVEL
+12
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+necromancy
+staff
+
+NAME
+Staff of Healing (true)
+SOURCE
+CRB
+PAGE
+594
+GOLD
+1800
+LEVEL
+16
 BULK
 1
 ENTRY
@@ -7760,7 +13918,7 @@ CRB
 PAGE
 594
 GOLD
-20
+9200
 LEVEL
 8
 BULK
@@ -7773,15 +13931,15 @@ magical
 staff
 
 NAME
-Staff of Illusion
+Staff of Illusion ()
 SOURCE
 CRB
 PAGE
 594
 GOLD
-0
+425
 LEVEL
-6+
+6
 BULK
 1
 ENTRY
@@ -7792,15 +13950,91 @@ magical
 staff
 
 NAME
-Staff of Necromancy
+Staff of Illusion (greater)
 SOURCE
 CRB
 PAGE
 594
 GOLD
-0
+230
 LEVEL
-6+
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+magical
+staff
+
+NAME
+Staff of Illusion (major)
+SOURCE
+CRB
+PAGE
+594
+GOLD
+900
+LEVEL
+14
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+magical
+staff
+
+NAME
+Staff of Necromancy ()
+SOURCE
+CRB
+PAGE
+594
+GOLD
+4000
+LEVEL
+6
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+necromancy
+staff
+
+NAME
+Staff of Necromancy (greater)
+SOURCE
+CRB
+PAGE
+594
+GOLD
+230
+LEVEL
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+necromancy
+staff
+
+NAME
+Staff of Necromancy (major)
+SOURCE
+CRB
+PAGE
+594
+GOLD
+900
+LEVEL
+14
 BULK
 1
 ENTRY
@@ -7817,7 +14051,7 @@ CRB
 PAGE
 595
 GOLD
-425
+4000
 LEVEL
 16
 BULK
@@ -7851,15 +14085,53 @@ magical
 staff
 
 NAME
-Staff of Transmutation
+Staff of Transmutation ()
 SOURCE
 CRB
 PAGE
 595
 GOLD
-0
+90000
 LEVEL
-6+
+6
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+staff
+transmutation
+
+NAME
+Staff of Transmutation (greater)
+SOURCE
+CRB
+PAGE
+595
+GOLD
+230
+LEVEL
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+staff
+transmutation
+
+NAME
+Staff of Transmutation (major)
+SOURCE
+CRB
+PAGE
+595
+GOLD
+900
+LEVEL
+14
 BULK
 1
 ENTRY
@@ -7876,7 +14148,7 @@ CRB
 PAGE
 591
 GOLD
-90000
+4000
 LEVEL
 4
 BULK
@@ -7953,15 +14225,15 @@ magical
 ammunition
 
 NAME
-Storm Flash
+Storm Flash ()
 SOURCE
 CRB
 PAGE
 602
 GOLD
-0
+130
 LEVEL
-14+
+14
 BULK
 1
 ENTRY
@@ -7973,15 +14245,73 @@ magical
 weapon
 
 NAME
-Striking Rune
+Storm Flash (greater)
+SOURCE
+CRB
+PAGE
+602
+GOLD
+4000
+LEVEL
+18
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+electricity
+evocation
+magical
+weapon
+
+NAME
+Striking () Rune
 SOURCE
 CRB
 PAGE
 581
 GOLD
-0
+21000
 LEVEL
-4+
+4
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+rune
+
+NAME
+Striking (greater) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+65
+LEVEL
+12
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+rune
+
+NAME
+Striking (major) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+1065
+LEVEL
+19
 BULK
 0
 ENTRY
@@ -7998,7 +14328,7 @@ CRB
 PAGE
 591
 GOLD
-130
+31065
 LEVEL
 8
 BULK
@@ -8032,15 +14362,110 @@ snare
 trap
 
 NAME
-Sturdy Shield
+Sturdy Shield (minor)
 SOURCE
 CRB
 PAGE
 588
 GOLD
-0
+320
 LEVEL
-4+
+4
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+shield
+
+NAME
+Sturdy Shield (lesser)
+SOURCE
+CRB
+PAGE
+588
+GOLD
+100
+LEVEL
+7
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+shield
+
+NAME
+Sturdy Shield (moderate)
+SOURCE
+CRB
+PAGE
+588
+GOLD
+360
+LEVEL
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+shield
+
+NAME
+Sturdy Shield (greater)
+SOURCE
+CRB
+PAGE
+588
+GOLD
+1000
+LEVEL
+13
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+shield
+
+NAME
+Sturdy Shield (major)
+SOURCE
+CRB
+PAGE
+588
+GOLD
+3000
+LEVEL
+16
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+abjuration
+magical
+shield
+
+NAME
+Sturdy Shield (supreme)
+SOURCE
+CRB
+PAGE
+588
+GOLD
+10000
+LEVEL
+19
 BULK
 1
 ENTRY
@@ -8057,7 +14482,7 @@ CRB
 PAGE
 554
 GOLD
-320
+40000
 LEVEL
 1
 BULK
@@ -8071,13 +14496,31 @@ light
 tool
 
 NAME
-Survey Map
+Survey Map (Survey Map)
 SOURCE
 CRB
 PAGE
 288
 GOLD
+3
+LEVEL
 0
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+uncommon
+adventuring gear
+
+NAME
+Survey Map (Survey Map Atlas)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+10
 LEVEL
 3
 BULK
@@ -8095,7 +14538,7 @@ CRB
 PAGE
 569
 GOLD
-3
+50
 LEVEL
 7
 BULK
@@ -8127,15 +14570,72 @@ TRAITS
 adventuring gear
 
 NAME
-Tanglefoot Bag
+Tanglefoot Bag (lesser)
 SOURCE
 CRB
 PAGE
 545
 GOLD
-0
+4
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+
+NAME
+Tanglefoot Bag (moderate)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+
+NAME
+Tanglefoot Bag (greater)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+
+NAME
+Tanglefoot Bag (major)
+SOURCE
+CRB
+PAGE
+545
+GOLD
+250
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -8152,7 +14652,7 @@ CRB
 PAGE
 553
 GOLD
-4
+2500
 LEVEL
 20
 BULK
@@ -8184,13 +14684,13 @@ TRAITS
 adventuring gear
 
 NAME
-Tent
+Tent (Pup)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-0
+0.1
 LEVEL
 0
 BULK
@@ -8201,15 +14701,83 @@ TRAITS
 adventuring gear
 
 NAME
-Thieves' Tools
+Tent (Four-person)
 SOURCE
 CRB
 PAGE
 288
 GOLD
-1
+8
 LEVEL
 0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Tent (Pavilion)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+5
+LEVEL
+2
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Thieves' Tools (Thieves' Tools)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+0
+LEVEL
+0
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Thieves' Tools (Infiltrator)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Thieves' Tools (Concealable)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+50
+LEVEL
+4
 BULK
 0.1
 ENTRY
@@ -8224,7 +14792,7 @@ CRB
 PAGE
 616
 GOLD
-3
+80
 LEVEL
 19
 BULK
@@ -8238,15 +14806,15 @@ magical
 worn
 
 NAME
-Thundering Rune
+Thundering () Rune
 SOURCE
 CRB
 PAGE
 585
 GOLD
-0
+40000
 LEVEL
-8+
+8
 BULK
 0
 ENTRY
@@ -8258,15 +14826,35 @@ sonic
 rune
 
 NAME
-Thunderstone
+Thundering (greater) Rune
+SOURCE
+CRB
+PAGE
+585
+GOLD
+500
+LEVEL
+15
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+sonic
+rune
+
+NAME
+Thunderstone (lesser)
 SOURCE
 CRB
 PAGE
 546
 GOLD
-0
+6500
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -8279,15 +14867,116 @@ sonic
 splash
 
 NAME
-Thurible of Revelation
+Thunderstone (moderate)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+sonic
+splash
+
+NAME
+Thunderstone (greater)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+sonic
+splash
+
+NAME
+Thunderstone (major)
+SOURCE
+CRB
+PAGE
+546
+GOLD
+250
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+bomb
+consumable
+sonic
+splash
+
+NAME
+Thurible of Revelation (lesser)
 SOURCE
 CRB
 PAGE
 575
 GOLD
-0
+2500
 LEVEL
-3+
+3
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+divine
+held
+
+NAME
+Thurible of Revelation (moderate)
+SOURCE
+CRB
+PAGE
+575
+GOLD
+55
+LEVEL
+10
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+divine
+held
+
+NAME
+Thurible of Revelation (greater)
+SOURCE
+CRB
+PAGE
+575
+GOLD
+900
+LEVEL
+18
 BULK
 1
 ENTRY
@@ -8304,7 +14993,7 @@ CRB
 PAGE
 569
 GOLD
-40000
+19000
 LEVEL
 5
 BULK
@@ -8338,13 +15027,30 @@ fire
 tool
 
 NAME
-Tool
+Tool (Long)
 SOURCE
 CRB
 PAGE
 288
 GOLD
+2
+LEVEL
 0
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+adventuring gear
+
+NAME
+Tool (Short)
+SOURCE
+CRB
+PAGE
+288
+GOLD
+0.1
 LEVEL
 0
 BULK
@@ -8361,7 +15067,7 @@ CRB
 PAGE
 288
 GOLD
-0.02
+0.04
 LEVEL
 0
 BULK
@@ -8372,15 +15078,35 @@ TRAITS
 adventuring gear
 
 NAME
-Tracker's Goggles
+Tracker's Goggles ()
 SOURCE
 CRB
 PAGE
 616
 GOLD
-0
+1
 LEVEL
-3+
+3
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+invested
+magical
+worn
+
+NAME
+Tracker's Goggles (greater)
+SOURCE
+CRB
+PAGE
+616
+GOLD
+60
+LEVEL
+9
 BULK
 0
 ENTRY
@@ -8398,7 +15124,7 @@ CRB
 PAGE
 576
 GOLD
-1
+660
 LEVEL
 6
 BULK
@@ -8573,15 +15299,15 @@ magical
 talisman
 
 NAME
-Ventriloquist's Ring
+Ventriloquist's Ring ()
 SOURCE
 CRB
 PAGE
 617
 GOLD
-0
+160
 LEVEL
-3+
+3
 BULK
 0.0
 ENTRY
@@ -8593,15 +15319,54 @@ magical
 worn
 
 NAME
-Verdant Staff
+Ventriloquist's Ring (greater)
+SOURCE
+CRB
+PAGE
+617
+GOLD
+60
+LEVEL
+9
+BULK
+0.0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+invested
+magical
+worn
+
+NAME
+Verdant Staff ()
 SOURCE
 CRB
 PAGE
 595
 GOLD
-0
+670
 LEVEL
-6+
+6
+BULK
+1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+divination
+magical
+staff
+
+NAME
+Verdant Staff (greater)
+SOURCE
+CRB
+PAGE
+595
+GOLD
+225
+LEVEL
+12
 BULK
 1
 ENTRY
@@ -8618,7 +15383,7 @@ CRB
 PAGE
 560
 GOLD
-160
+1750
 LEVEL
 3
 BULK
@@ -8715,15 +15480,15 @@ magical
 worn
 
 NAME
-Wand of Continuation
+Wand of Continuation (1st-level spell)
 SOURCE
 CRB
 PAGE
 598
 GOLD
-0
+14800
 LEVEL
-5+
+5
 BULK
 0.1
 ENTRY
@@ -8733,15 +15498,141 @@ magical
 wand
 
 NAME
-Wand of Manifold Missiles
+Wand of Continuation (2nd-level spell)
 SOURCE
 CRB
 PAGE
 598
 GOLD
-0
+160
 LEVEL
-5+
+7
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Continuation (3rd-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+360
+LEVEL
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Continuation (4th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+700
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Continuation (5th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+1400
+LEVEL
+13
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Continuation (6th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+3000
+LEVEL
+15
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Continuation (7th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+6500
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Continuation (8th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+15000
+LEVEL
+19
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Manifold Missiles (1st-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+40000
+LEVEL
+5
 BULK
 0.1
 ENTRY
@@ -8753,15 +15644,75 @@ magical
 wand
 
 NAME
-Wand of Slaying
+Wand of Manifold Missiles (3rd-level spell)
 SOURCE
 CRB
 PAGE
 598
 GOLD
-0
+160
 LEVEL
-16+
+9
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+force
+magical
+wand
+
+NAME
+Wand of Manifold Missiles (5th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+700
+LEVEL
+13
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+force
+magical
+wand
+
+NAME
+Wand of Manifold Missiles (7th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+3000
+LEVEL
+17
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+force
+magical
+wand
+
+NAME
+Wand of Slaying (7th level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+15000
+LEVEL
+16
 BULK
 0.1
 ENTRY
@@ -8772,15 +15723,53 @@ magical
 wand
 
 NAME
-Wand of Smoldering Fireballs
+Wand of Slaying (8th level spell)
 SOURCE
 CRB
 PAGE
 598
 GOLD
-0
+10000
 LEVEL
-8+
+18
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+magical
+wand
+
+NAME
+Wand of Slaying (9th level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+24000
+LEVEL
+20
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+illusion
+magical
+wand
+
+NAME
+Wand of Smoldering Fireballs (3rd-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+70000
+LEVEL
+8
 BULK
 0.1
 ENTRY
@@ -8792,15 +15781,219 @@ magical
 wand
 
 NAME
-Wand of Widening
+Wand of Smoldering Fireballs (5th-level spell)
 SOURCE
 CRB
 PAGE
 598
 GOLD
-0
+500
 LEVEL
-4+
+12
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+fire
+magical
+wand
+
+NAME
+Wand of Smoldering Fireballs (7th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+2000
+LEVEL
+16
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+fire
+magical
+wand
+
+NAME
+Wand of Smoldering Fireballs (9th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+10000
+LEVEL
+20
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+fire
+magical
+wand
+
+NAME
+Wand of Widening (1st-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+70000
+LEVEL
+4
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Widening (2nd-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+100
+LEVEL
+6
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Widening (3rd-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+250
+LEVEL
+8
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Widening (4th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+500
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Widening (5th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+1000
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Widening (6th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+2000
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Widening (7th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+4500
+LEVEL
+16
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Widening (8th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+10000
+LEVEL
+18
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+magical
+wand
+
+NAME
+Wand of Widening (9th-level spell)
+SOURCE
+CRB
+PAGE
+598
+GOLD
+24000
+LEVEL
+20
 BULK
 0.1
 ENTRY
@@ -8816,7 +16009,7 @@ CRB
 PAGE
 591
 GOLD
-14800
+70000
 LEVEL
 4
 BULK
@@ -8869,7 +16062,64 @@ magical
 worn
 
 NAME
-Weapon Potency Rune
+Weapon Potency (+1) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+28
+LEVEL
+2
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+rune
+
+NAME
+Weapon Potency (+2) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+35
+LEVEL
+10
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+rune
+
+NAME
+Weapon Potency (+3) Rune
+SOURCE
+CRB
+PAGE
+581
+GOLD
+935
+LEVEL
+16
+BULK
+0
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+evocation
+magical
+rune
+
+NAME
+Weapon Potency (+4) Rune
 SOURCE
 CRB
 PAGE
@@ -8877,7 +16127,7 @@ PAGE
 GOLD
 0
 LEVEL
-2+
+23
 BULK
 0
 ENTRY
@@ -8894,7 +16144,7 @@ CRB
 PAGE
 617
 GOLD
-28
+8935
 LEVEL
 20
 BULK
@@ -8929,15 +16179,53 @@ transmutation
 worn
 
 NAME
-Winter Wolf Elixir
+Winter Wolf Elixir (lesser)
 SOURCE
 CRB
 PAGE
 550
 GOLD
-0
+850
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Winter Wolf Elixir (moderate)
+SOURCE
+CRB
+PAGE
+550
+GOLD
+15
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Winter Wolf Elixir (greater)
+SOURCE
+CRB
+PAGE
+550
+GOLD
+320
+LEVEL
+16
 BULK
 0.1
 ENTRY
@@ -8954,7 +16242,7 @@ CRB
 PAGE
 570
 GOLD
-850
+1400
 LEVEL
 1
 BULK
@@ -8988,15 +16276,91 @@ ingested
 poison
 
 NAME
-Wondrous Figurine
+Wondrous Figurine (golden lions)
 SOURCE
 CRB
 PAGE
 576
 GOLD
-0
+155
 LEVEL
-2+
+10
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+magical
+held
+
+NAME
+Wondrous Figurine (jade serpent)
+SOURCE
+CRB
+PAGE
+576
+GOLD
+900
+LEVEL
+7
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+magical
+held
+
+NAME
+Wondrous Figurine (marble elephant)
+SOURCE
+CRB
+PAGE
+576
+GOLD
+340
+LEVEL
+13
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+magical
+held
+
+NAME
+Wondrous Figurine (obsidian steed)
+SOURCE
+CRB
+PAGE
+576
+GOLD
+2700
+LEVEL
+15
+BULK
+0.1
+ENTRY
+This flask filled with corrosive acid deals 1 acid damage, the listed {@condition persistent damage||persistent acid damage}, and the listed acid {@trait splash} damage. Many types grant an item bonus to attack rolls.
+TRAITS
+conjuration
+magical
+held
+
+NAME
+Wondrous Figurine (onyx dog)
+SOURCE
+CRB
+PAGE
+576
+GOLD
+6000
+LEVEL
+2
 BULK
 0.1
 ENTRY
@@ -9013,7 +16377,7 @@ CRB
 PAGE
 585
 GOLD
-155
+34
 LEVEL
 7
 BULK

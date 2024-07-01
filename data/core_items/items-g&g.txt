@@ -1,13 +1,13 @@
 NAME
-Ablative Armor Plating
+Ablative Armor Plating (lesser)
 SOURCE
 G&G
 PAGE
 66
 GOLD
-0
+4
 LEVEL
-1+
+1
 BULK
 1
 ENTRY
@@ -18,15 +18,167 @@ consumable
 gadget
 
 NAME
-Ablative Shield Plating
+Ablative Armor Plating (moderate)
+SOURCE
+G&G
+PAGE
+66
+GOLD
+4
+LEVEL
+3
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Ablative Armor Plating (greater)
+SOURCE
+G&G
+PAGE
+66
+GOLD
+12
+LEVEL
+7
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Ablative Armor Plating (major)
+SOURCE
+G&G
+PAGE
+66
+GOLD
+70
+LEVEL
+13
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Ablative Armor Plating (true)
+SOURCE
+G&G
+PAGE
+66
+GOLD
+600
+LEVEL
+19
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Ablative Shield Plating (lesser)
 SOURCE
 G&G
 PAGE
 67
 GOLD
-0
+8000
 LEVEL
-1+
+1
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Ablative Shield Plating (moderate)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+4
+LEVEL
+3
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Ablative Shield Plating (greater)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+12
+LEVEL
+7
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Ablative Shield Plating (major)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+70
+LEVEL
+13
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Ablative Shield Plating (true)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+600
+LEVEL
+19
 BULK
 1
 ENTRY
@@ -43,7 +195,7 @@ G&G
 PAGE
 78
 GOLD
-15
+8000
 LEVEL
 4
 BULK
@@ -242,15 +394,55 @@ alchemical
 consumable
 
 NAME
-Awakened Metal Shot
+Awakened Metal Shot (Awakened Adamantine Shot)
 SOURCE
 G&G
 PAGE
 168
 GOLD
-0
+5
 LEVEL
-17+
+18
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+evocation
+magical
+
+NAME
+Awakened Metal Shot (Awakened Cold Iron Shot)
+SOURCE
+G&G
+PAGE
+168
+GOLD
+3500
+LEVEL
+17
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+evocation
+magical
+
+NAME
+Awakened Metal Shot (Awakened Silver Shot)
+SOURCE
+G&G
+PAGE
+168
+GOLD
+2300
+LEVEL
+17
 BULK
 0
 ENTRY
@@ -268,7 +460,7 @@ G&G
 PAGE
 63
 GOLD
-0.5
+230.0
 LEVEL
 0
 BULK
@@ -339,15 +531,35 @@ assistive item
 wheelchair
 
 NAME
-Battering Ram
+Battering Ram ()
 SOURCE
 G&G
 PAGE
 74
 GOLD
-0
+16.0
 LEVEL
-5+
+5
+BULK
+20
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+large
+portable
+siege weapon
+
+NAME
+Battering Ram (covered)
+SOURCE
+G&G
+PAGE
+74
+GOLD
+250
+LEVEL
+6
 BULK
 20
 ENTRY
@@ -365,7 +577,7 @@ G&G
 PAGE
 78
 GOLD
-5
+250
 LEVEL
 10
 BULK
@@ -380,15 +592,53 @@ snare
 trap
 
 NAME
-Black Powder
+Black Powder (Dose or Round of Black Powder)
 SOURCE
 G&G
 PAGE
 169
 GOLD
-0
+1
 LEVEL
-0+
+0
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Black Powder (Horn of Black Powder)
+SOURCE
+G&G
+PAGE
+169
+GOLD
+1
+LEVEL
+2
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Black Powder (Keg of Black Powder)
+SOURCE
+G&G
+PAGE
+169
+GOLD
+5
+LEVEL
+6
 BULK
 0
 ENTRY
@@ -405,7 +655,7 @@ G&G
 PAGE
 64
 GOLD
-160
+50
 LEVEL
 1
 BULK
@@ -417,15 +667,72 @@ uncommon
 held
 
 NAME
-Blast Boots
+Blast Boots (lesser)
 SOURCE
 G&G
 PAGE
 67
 GOLD
-0
+18
 LEVEL
 1
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Blast Boots (moderate)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Blast Boots (greater)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+11
+LEVEL
+9
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Blast Boots (major)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+140
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -442,7 +749,7 @@ G&G
 PAGE
 173
 GOLD
-18
+2750
 LEVEL
 7
 BULK
@@ -458,15 +765,35 @@ attack
 range increment 
 
 NAME
-Blazons Of Shared Power
+Blazons Of Shared Power ()
 SOURCE
 G&G
 PAGE
 183
 GOLD
-0
+360
 LEVEL
-3+
+3
+BULK
+0.0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+evocation
+invested
+magical
+worn
+
+NAME
+Blazons Of Shared Power (greater)
+SOURCE
+G&G
+PAGE
+183
+GOLD
+52
+LEVEL
+11
 BULK
 0.0
 ENTRY
@@ -506,7 +833,7 @@ G&G
 PAGE
 64
 GOLD
-360
+1350
 LEVEL
 1
 BULK
@@ -539,15 +866,57 @@ manipulate
 range increment 
 
 NAME
-Breath Blaster
+Breath Blaster ()
 SOURCE
 G&G
 PAGE
 154
 GOLD
-0
+300
 LEVEL
-8+
+8
+BULK
+2
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+evocation
+magical
+weapon
+beast gun
+
+NAME
+Breath Blaster (greater)
+SOURCE
+G&G
+PAGE
+154
+GOLD
+500
+LEVEL
+14
+BULK
+2
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+evocation
+magical
+weapon
+beast gun
+
+NAME
+Breath Blaster (major)
+SOURCE
+G&G
+PAGE
+154
+GOLD
+4500
+LEVEL
+18
 BULK
 2
 ENTRY
@@ -566,7 +935,7 @@ G&G
 PAGE
 183
 GOLD
-300
+24000
 LEVEL
 3
 BULK
@@ -578,7 +947,7 @@ uncommon
 consumable
 
 NAME
-Camouflage Suit
+Camouflage Suit (Camouflage Suit)
 SOURCE
 G&G
 PAGE
@@ -586,7 +955,25 @@ PAGE
 GOLD
 10
 LEVEL
-3
+0
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+adventuring gear
+
+NAME
+Camouflage Suit (Superb Camouflage Suit)
+SOURCE
+G&G
+PAGE
+178
+GOLD
+10
+LEVEL
+9
 BULK
 0.1
 ENTRY
@@ -602,7 +989,7 @@ G&G
 PAGE
 174
 GOLD
-10
+140
 LEVEL
 8
 BULK
@@ -659,15 +1046,55 @@ consumable
 gadget
 
 NAME
-Chameleon Suit
+Chameleon Suit ()
 SOURCE
 G&G
 PAGE
 67
 GOLD
-0
+10
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+clockwork
+consumable
+gadget
+
+NAME
+Chameleon Suit (greater)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+16
+LEVEL
+8
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+clockwork
+consumable
+gadget
+
+NAME
+Chameleon Suit (major)
+SOURCE
+G&G
+PAGE
+67
+GOLD
+80
+LEVEL
+12
 BULK
 0.1
 ENTRY
@@ -685,7 +1112,7 @@ G&G
 PAGE
 85
 GOLD
-10
+320
 LEVEL
 1
 BULK
@@ -761,15 +1188,55 @@ water
 adventuring gear
 
 NAME
-Clockwork Goggles
+Clockwork Goggles ()
 SOURCE
 G&G
 PAGE
 68
 GOLD
-0
+200
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+clockwork
+consumable
+gadget
+
+NAME
+Clockwork Goggles (greater)
+SOURCE
+G&G
+PAGE
+68
+GOLD
+3
+LEVEL
+4
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+clockwork
+consumable
+gadget
+
+NAME
+Clockwork Goggles (major)
+SOURCE
+G&G
+PAGE
+68
+GOLD
+15
+LEVEL
+8
 BULK
 0.1
 ENTRY
@@ -787,7 +1254,7 @@ G&G
 PAGE
 87
 GOLD
-200
+80
 LEVEL
 1
 BULK
@@ -840,15 +1307,15 @@ TRAITS
 adventuring gear
 
 NAME
-Cryomister
+Cryomister (lesser)
 SOURCE
 G&G
 PAGE
 68
 GOLD
-0
+25
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -860,15 +1327,95 @@ consumable
 gadget
 
 NAME
-Darkvision Scope
+Cryomister (moderate)
+SOURCE
+G&G
+PAGE
+68
+GOLD
+3
+LEVEL
+5
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+cold
+consumable
+gadget
+
+NAME
+Cryomister (greater)
+SOURCE
+G&G
+PAGE
+68
+GOLD
+25
+LEVEL
+11
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+cold
+consumable
+gadget
+
+NAME
+Cryomister (major)
+SOURCE
+G&G
+PAGE
+68
+GOLD
+250
+LEVEL
+17
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+cold
+consumable
+gadget
+
+NAME
+Darkvision Scope ()
 SOURCE
 G&G
 PAGE
 180
 GOLD
-0
+2500
 LEVEL
-5+
+5
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+divination
+magical
+customization
+scope
+
+NAME
+Darkvision Scope (greater)
+SOURCE
+G&G
+PAGE
+180
+GOLD
+160
+LEVEL
+15
 BULK
 0.1
 ENTRY
@@ -886,7 +1433,7 @@ G&G
 PAGE
 87
 GOLD
-25
+5500
 LEVEL
 2
 BULK
@@ -920,15 +1467,33 @@ snare
 trap
 
 NAME
-Deployable Cover
+Deployable Cover ()
 SOURCE
 G&G
 PAGE
 64
 GOLD
-0
+9000
 LEVEL
-1+
+1
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+held
+
+NAME
+Deployable Cover (ballistic)
+SOURCE
+G&G
+PAGE
+64
+GOLD
+15
+LEVEL
+2
 BULK
 1
 ENTRY
@@ -944,7 +1509,7 @@ G&G
 PAGE
 79
 GOLD
-9000
+35
 LEVEL
 3
 BULK
@@ -1144,15 +1709,15 @@ alchemical
 consumable
 
 NAME
-Etheric Essence Disruptor
+Etheric Essence Disruptor (lesser)
 SOURCE
 G&G
 PAGE
 68
 GOLD
-0
+22
 LEVEL
-3+
+3
 BULK
 1
 ENTRY
@@ -1163,15 +1728,72 @@ consumable
 gadget
 
 NAME
-Explosive Mine
+Etheric Essence Disruptor (moderate)
+SOURCE
+G&G
+PAGE
+68
+GOLD
+12
+LEVEL
+7
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Etheric Essence Disruptor (greater)
+SOURCE
+G&G
+PAGE
+68
+GOLD
+70
+LEVEL
+11
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Etheric Essence Disruptor (major)
+SOURCE
+G&G
+PAGE
+68
+GOLD
+300
+LEVEL
+15
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Explosive Mine (lesser)
 SOURCE
 G&G
 PAGE
 69
 GOLD
-0
+1300
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -1182,15 +1804,108 @@ consumable
 gadget
 
 NAME
-Exsanguinating Ammunition
+Explosive Mine (moderate)
+SOURCE
+G&G
+PAGE
+69
+GOLD
+4
+LEVEL
+6
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Explosive Mine (greater)
+SOURCE
+G&G
+PAGE
+69
+GOLD
+40
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Explosive Mine (major)
+SOURCE
+G&G
+PAGE
+69
+GOLD
+400
+LEVEL
+18
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Exsanguinating Ammunition ()
 SOURCE
 G&G
 PAGE
 170
 GOLD
-0
+4000
 LEVEL
-4+
+4
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+alchemical
+consumable
+
+NAME
+Exsanguinating Ammunition (greater)
+SOURCE
+G&G
+PAGE
+170
+GOLD
+15
+LEVEL
+8
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+alchemical
+consumable
+
+NAME
+Exsanguinating Ammunition (major)
+SOURCE
+G&G
+PAGE
+170
+GOLD
+80
+LEVEL
+12
 BULK
 0
 ENTRY
@@ -1206,7 +1921,7 @@ G&G
 PAGE
 87
 GOLD
-22
+360
 LEVEL
 0
 BULK
@@ -1344,15 +2059,72 @@ snare
 trap
 
 NAME
-Flare Beacon
+Flare Beacon (lesser)
 SOURCE
 G&G
 PAGE
 69
 GOLD
-0
+25
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Flare Beacon (moderate)
+SOURCE
+G&G
+PAGE
+69
+GOLD
+4
+LEVEL
+6
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Flare Beacon (greater)
+SOURCE
+G&G
+PAGE
+69
+GOLD
+35
+LEVEL
+10
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Flare Beacon (major)
+SOURCE
+G&G
+PAGE
+69
+GOLD
+180
+LEVEL
+16
 BULK
 0.1
 ENTRY
@@ -1369,7 +2141,7 @@ G&G
 PAGE
 91
 GOLD
-25
+1500
 LEVEL
 8
 BULK
@@ -1467,15 +2239,35 @@ consumable
 gadget
 
 NAME
-Gecko Pads
+Gecko Pads ()
 SOURCE
 G&G
 PAGE
 70
 GOLD
-0
+20
 LEVEL
-5+
+5
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+clockwork
+consumable
+gadget
+
+NAME
+Gecko Pads (greater)
+SOURCE
+G&G
+PAGE
+70
+GOLD
+25
+LEVEL
+9
 BULK
 0.1
 ENTRY
@@ -1493,7 +2285,7 @@ G&G
 PAGE
 184
 GOLD
-20
+125
 LEVEL
 11
 BULK
@@ -1546,15 +2338,33 @@ magical
 talisman
 
 NAME
-Grappling Gun
+Grappling Gun ()
 SOURCE
 G&G
 PAGE
 64
 GOLD
-0
+24
 LEVEL
-0+
+0
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+held
+
+NAME
+Grappling Gun (clockwork)
+SOURCE
+G&G
+PAGE
+64
+GOLD
+3
+LEVEL
+1
 BULK
 1
 ENTRY
@@ -1570,7 +2380,7 @@ G&G
 PAGE
 155
 GOLD
-24
+15
 LEVEL
 9
 BULK
@@ -1835,15 +2645,15 @@ customization
 stabilizers
 
 NAME
-Impact Foam Chassis
+Impact Foam Chassis (lesser)
 SOURCE
 G&G
 PAGE
 70
 GOLD
-0
+700
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -1854,15 +2664,114 @@ consumable
 gadget
 
 NAME
-Indomitable Keepsake
+Impact Foam Chassis (moderate)
+SOURCE
+G&G
+PAGE
+70
+GOLD
+3
+LEVEL
+4
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Impact Foam Chassis (greater)
+SOURCE
+G&G
+PAGE
+70
+GOLD
+15
+LEVEL
+9
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Impact Foam Chassis (major)
+SOURCE
+G&G
+PAGE
+70
+GOLD
+150
+LEVEL
+14
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Indomitable Keepsake ()
 SOURCE
 G&G
 PAGE
 185
 GOLD
-0
+650
 LEVEL
-3+
+3
+BULK
+0.0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+abjuration
+consumable
+fortune
+magical
+talisman
+
+NAME
+Indomitable Keepsake (greater)
+SOURCE
+G&G
+PAGE
+185
+GOLD
+12
+LEVEL
+9
+BULK
+0.0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+abjuration
+consumable
+fortune
+magical
+talisman
+
+NAME
+Indomitable Keepsake (major)
+SOURCE
+G&G
+PAGE
+185
+GOLD
+120
+LEVEL
+15
 BULK
 0.0
 ENTRY
@@ -1881,7 +2790,7 @@ G&G
 PAGE
 70
 GOLD
-700
+1200
 LEVEL
 2
 BULK
@@ -1976,15 +2885,15 @@ light
 held
 
 NAME
-Lucky Draw Bandolier
+Lucky Draw Bandolier ()
 SOURCE
 G&G
 PAGE
 180
 GOLD
-0
+200
 LEVEL
-9+
+9
 BULK
 0.1
 ENTRY
@@ -1998,15 +2907,37 @@ customization
 holster
 
 NAME
-Magnetic Suit
+Lucky Draw Bandolier (greater)
+SOURCE
+G&G
+PAGE
+180
+GOLD
+700
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+conjuration
+invested
+magical
+customization
+holster
+
+NAME
+Magnetic Suit ()
 SOURCE
 G&G
 PAGE
 71
 GOLD
-0
+2000
 LEVEL
-4+
+4
 BULK
 1
 ENTRY
@@ -2016,15 +2947,51 @@ aura
 consumable
 
 NAME
-Magnetite Scope
+Magnetic Suit (greater)
+SOURCE
+G&G
+PAGE
+71
+GOLD
+20
+LEVEL
+10
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+aura
+consumable
+
+NAME
+Magnetic Suit (major)
+SOURCE
+G&G
+PAGE
+71
+GOLD
+200
+LEVEL
+16
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+aura
+consumable
+
+NAME
+Magnetite Scope (Scope)
 SOURCE
 G&G
 PAGE
 181
 GOLD
-0
+2000
 LEVEL
-9+
+9
 BULK
 0.1
 ENTRY
@@ -2036,15 +3003,35 @@ customization
 scope
 
 NAME
-Magnifying Scope
+Magnetite Scope (greater Scope)
 SOURCE
 G&G
 PAGE
 181
 GOLD
-0
+800
 LEVEL
-3+
+17
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+magical
+transmutation
+customization
+scope
+
+NAME
+Magnifying Scope (Scope)
+SOURCE
+G&G
+PAGE
+181
+GOLD
+16000
+LEVEL
+3
 BULK
 0.1
 ENTRY
@@ -2056,15 +3043,112 @@ customization
 scope
 
 NAME
-Material Essence Disruptor
+Magnifying Scope (greater Scope)
+SOURCE
+G&G
+PAGE
+181
+GOLD
+70
+LEVEL
+9
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+divination
+magical
+customization
+scope
+
+NAME
+Magnifying Scope (major Scope)
+SOURCE
+G&G
+PAGE
+181
+GOLD
+800
+LEVEL
+17
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+divination
+magical
+customization
+scope
+
+NAME
+Material Essence Disruptor (lesser)
 SOURCE
 G&G
 PAGE
 71
 GOLD
-0
+16000
 LEVEL
-3+
+3
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Material Essence Disruptor (moderate)
+SOURCE
+G&G
+PAGE
+71
+GOLD
+60
+LEVEL
+7
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Material Essence Disruptor (greater)
+SOURCE
+G&G
+PAGE
+71
+GOLD
+360
+LEVEL
+11
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Material Essence Disruptor (major)
+SOURCE
+G&G
+PAGE
+71
+GOLD
+1400
+LEVEL
+15
 BULK
 1
 ENTRY
@@ -2081,7 +3165,7 @@ G&G
 PAGE
 88
 GOLD
-200
+6500
 LEVEL
 1
 BULK
@@ -2093,15 +3177,59 @@ clockwork
 held
 
 NAME
-Meteor Shot
+Meteor Shot ()
 SOURCE
 G&G
 PAGE
 171
 GOLD
-0
+10
 LEVEL
-7+
+7
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+evocation
+fire
+magical
+splash
+
+NAME
+Meteor Shot (greater)
+SOURCE
+G&G
+PAGE
+171
+GOLD
+70
+LEVEL
+12
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+evocation
+fire
+magical
+splash
+
+NAME
+Meteor Shot (major)
+SOURCE
+G&G
+PAGE
+171
+GOLD
+400
+LEVEL
+17
 BULK
 0
 ENTRY
@@ -2121,7 +3249,7 @@ G&G
 PAGE
 176
 GOLD
-10
+3000
 LEVEL
 7
 BULK
@@ -2341,15 +3469,34 @@ magical
 held
 
 NAME
-Portable Weapon Mount
+Portable Weapon Mount (monopod)
 SOURCE
 G&G
 PAGE
 182
 GOLD
-0
+300.0
 LEVEL
-1+
+1
+BULK
+1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+customization
+stabilizers
+
+NAME
+Portable Weapon Mount (tripod, shielded)
+SOURCE
+G&G
+PAGE
+182
+GOLD
+2
+LEVEL
+3
 BULK
 1
 ENTRY
@@ -2366,7 +3513,7 @@ G&G
 PAGE
 178
 GOLD
-300.0
+5.0
 LEVEL
 0
 BULK
@@ -2440,13 +3587,13 @@ necromancy
 held
 
 NAME
-Repeating Magazine
+Repeating Magazine (Repeating Crossbow Magazine)
 SOURCE
 G&G
 PAGE
 63
 GOLD
-12.0
+0
 LEVEL
 0
 BULK
@@ -2458,13 +3605,67 @@ ammunition
 crossbow
 
 NAME
-Round
+Repeating Magazine (Repeating Hand Crossbow Magazine)
+SOURCE
+G&G
+PAGE
+63
+GOLD
+0
+LEVEL
+0
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+ammunition
+crossbow
+
+NAME
+Repeating Magazine (Repeating Heavy Crossbow Magazine)
+SOURCE
+G&G
+PAGE
+63
+GOLD
+0
+LEVEL
+0
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+ammunition
+crossbow
+
+NAME
+Round (5-pack)
 SOURCE
 G&G
 PAGE
 150
 GOLD
+0.9
+LEVEL
 0
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+alchemical
+ammunition
+
+NAME
+Round (10-pack)
+SOURCE
+G&G
+PAGE
+150
+GOLD
+0.1
 LEVEL
 0
 BULK
@@ -2503,7 +3704,7 @@ G&G
 PAGE
 177
 GOLD
-9
+1
 LEVEL
 3
 BULK
@@ -2557,15 +3758,65 @@ customization
 scope
 
 NAME
-Screech Shooter
+Screech Shooter ()
 SOURCE
 G&G
 PAGE
 155
 GOLD
-0
+3000
 LEVEL
-9+
+9
+BULK
+2
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+evocation
+magical
+weapon
+beast gun
+emotion
+enchantment
+fear
+mental
+
+NAME
+Screech Shooter (greater)
+SOURCE
+G&G
+PAGE
+155
+GOLD
+700
+LEVEL
+13
+BULK
+2
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+evocation
+magical
+weapon
+beast gun
+emotion
+enchantment
+fear
+mental
+
+NAME
+Screech Shooter (major)
+SOURCE
+G&G
+PAGE
+155
+GOLD
+3000
+LEVEL
+17
 BULK
 2
 ENTRY
@@ -2588,7 +3839,7 @@ G&G
 PAGE
 83
 GOLD
-3000
+15000
 LEVEL
 10
 BULK
@@ -2702,15 +3953,15 @@ magical
 talisman
 
 NAME
-Smoke Fan
+Smoke Fan ()
 SOURCE
 G&G
 PAGE
 71
 GOLD
-0
+3
 LEVEL
-2+
+2
 BULK
 0.1
 ENTRY
@@ -2721,15 +3972,74 @@ consumable
 gadget
 
 NAME
-Sniper's Bead
+Smoke Fan (greater)
+SOURCE
+G&G
+PAGE
+71
+GOLD
+5
+LEVEL
+8
+BULK
+0.1
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+gadget
+
+NAME
+Sniper's Bead ()
 SOURCE
 G&G
 PAGE
 185
 GOLD
-0
+75
 LEVEL
-4+
+4
+BULK
+0.0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+consumable
+magical
+talisman
+transmutation
+
+NAME
+Sniper's Bead (greater)
+SOURCE
+G&G
+PAGE
+185
+GOLD
+16
+LEVEL
+10
+BULK
+0.0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+consumable
+magical
+talisman
+transmutation
+
+NAME
+Sniper's Bead (major)
+SOURCE
+G&G
+PAGE
+185
+GOLD
+160
+LEVEL
+16
 BULK
 0.0
 ENTRY
@@ -2747,7 +4057,7 @@ G&G
 PAGE
 91
 GOLD
-3
+1600
 LEVEL
 12
 BULK
@@ -2762,15 +4072,59 @@ assistive item
 wheelchair
 
 NAME
-Spider Gun
+Spider Gun ()
 SOURCE
 G&G
 PAGE
 155
 GOLD
-0
+1800
 LEVEL
-6+
+6
+BULK
+2
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+evocation
+magical
+weapon
+beast gun
+conjuration
+
+NAME
+Spider Gun (greater)
+SOURCE
+G&G
+PAGE
+155
+GOLD
+250
+LEVEL
+9
+BULK
+2
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+evocation
+magical
+weapon
+beast gun
+conjuration
+
+NAME
+Spider Gun (major)
+SOURCE
+G&G
+PAGE
+155
+GOLD
+1400
+LEVEL
+15
 BULK
 2
 ENTRY
@@ -2790,7 +4144,7 @@ G&G
 PAGE
 156
 GOLD
-1800
+6500
 LEVEL
 6
 BULK
@@ -2827,15 +4181,69 @@ snare
 trap
 
 NAME
-Spirit-Singer
+Spirit-Singer ()
 SOURCE
 G&G
 PAGE
 83
 GOLD
-0
+90
 LEVEL
-5+
+5
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+rare
+adventuring gear
+
+NAME
+Spirit-Singer (handheld)
+SOURCE
+G&G
+PAGE
+83
+GOLD
+150
+LEVEL
+6
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+rare
+adventuring gear
+
+NAME
+Spirit-Singer (incredible)
+SOURCE
+G&G
+PAGE
+83
+GOLD
+200
+LEVEL
+11
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+rare
+adventuring gear
+
+NAME
+Spirit-Singer (incredible handheld)
+SOURCE
+G&G
+PAGE
+83
+GOLD
+1250
+LEVEL
+12
 BULK
 0
 ENTRY
@@ -2851,7 +4259,7 @@ G&G
 PAGE
 76
 GOLD
-90
+1650
 LEVEL
 7
 BULK
@@ -2928,15 +4336,35 @@ manipulate
 range increment 
 
 NAME
-Stepping Stone Shot
+Stepping Stone Shot ()
 SOURCE
 G&G
 PAGE
 171
 GOLD
-0
+6000
 LEVEL
-7+
+7
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+consumable
+magical
+transmutation
+
+NAME
+Stepping Stone Shot (greater)
+SOURCE
+G&G
+PAGE
+171
+GOLD
+65
+LEVEL
+10
 BULK
 0
 ENTRY
@@ -2954,7 +4382,7 @@ G&G
 PAGE
 91
 GOLD
-6000
+185
 LEVEL
 14
 BULK
@@ -2992,15 +4420,59 @@ intelligent
 held
 
 NAME
-Tentacle Cannon
+Tentacle Cannon ()
 SOURCE
 G&G
 PAGE
 156
 GOLD
-0
+4400
 LEVEL
-7+
+7
+BULK
+2
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+evocation
+magical
+weapon
+beast gun
+transmutation
+
+NAME
+Tentacle Cannon (greater)
+SOURCE
+G&G
+PAGE
+156
+GOLD
+360
+LEVEL
+13
+BULK
+2
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+evocation
+magical
+weapon
+beast gun
+transmutation
+
+NAME
+Tentacle Cannon (major)
+SOURCE
+G&G
+PAGE
+156
+GOLD
+2000
+LEVEL
+17
 BULK
 2
 ENTRY
@@ -3020,7 +4492,7 @@ G&G
 PAGE
 166
 GOLD
-4400
+15000
 LEVEL
 11
 BULK
@@ -3034,15 +4506,34 @@ primal
 held
 
 NAME
-Timepiece
+Timepiece (desktop clock)
 SOURCE
 G&G
 PAGE
 89
 GOLD
-0
+1400
 LEVEL
-1+
+1
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+uncommon
+clockwork
+adventuring gear
+
+NAME
+Timepiece (grand clock)
+SOURCE
+G&G
+PAGE
+89
+GOLD
+10
+LEVEL
+3
 BULK
 0
 ENTRY
@@ -3059,7 +4550,7 @@ G&G
 PAGE
 81
 GOLD
-1400
+50
 LEVEL
 5
 BULK
@@ -3228,15 +4719,35 @@ consumable
 gadget
 
 NAME
-Wind-up Wings
+Wind-up Wings (flutterback)
 SOURCE
 G&G
 PAGE
 65
 GOLD
-0
+6
 LEVEL
-3+
+3
+BULK
+0
+ENTRY
+Ablative armor plating is additional plating, combined with springs, clever clockwork, and improvised padding, to absorb damage by knocking the additional pieces free. The pieces slowly come apart on their own with time and movement.
+TRAITS
+rare
+clockwork
+customization
+weapon
+
+NAME
+Wind-up Wings (homing)
+SOURCE
+G&G
+PAGE
+65
+GOLD
+50
+LEVEL
+12
 BULK
 0
 ENTRY

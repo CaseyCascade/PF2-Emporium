@@ -60,15 +60,53 @@ invested
 magical
 
 NAME
-Cave Worm Repellent
+Cave Worm Repellent (purple)
 SOURCE
 EC5
 PAGE
 75
 GOLD
-0
+2800
 LEVEL
-13+
+13
+BULK
+0.1
+ENTRY
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Cave Worm Repellent (azure)
+SOURCE
+EC5
+PAGE
+75
+GOLD
+550
+LEVEL
+15
+BULK
+0.1
+ENTRY
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
+TRAITS
+uncommon
+alchemical
+consumable
+
+NAME
+Cave Worm Repellent (crimson)
+SOURCE
+EC5
+PAGE
+75
+GOLD
+1100
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -85,7 +123,7 @@ EC5
 PAGE
 75
 GOLD
-2800
+4500
 LEVEL
 17
 BULK
@@ -140,15 +178,35 @@ necromancy
 held
 
 NAME
-Staff Of The Black Desert
+Staff Of The Black Desert (Black Desert)
 SOURCE
 EC5
 PAGE
 76
 GOLD
-0
+23500
 LEVEL
-12+
+12
+BULK
+1
+ENTRY
+The tip of this +2 greater striking spear is large and wickedly barbed, and the haft is inlaid with fine silver lines that run the length of the weapon. Wielded by specially trained xulgath cavalry, anchor spears are used to prevent the escape of gogiteths or other monsters capable of climbing or burrowing.
+TRAITS
+uncommon
+divination
+magical
+staff
+
+NAME
+Staff Of The Black Desert (Black Desert (greater))
+SOURCE
+EC5
+PAGE
+76
+GOLD
+1850
+LEVEL
+16
 BULK
 1
 ENTRY

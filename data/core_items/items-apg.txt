@@ -60,15 +60,15 @@ transmutation
 visual
 
 NAME
-Blight Bomb
+Blight Bomb (lesser)
 SOURCE
 APG
 PAGE
 252
 GOLD
-0
+150
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -81,15 +81,114 @@ poison
 splash
 
 NAME
-Bloodhound Mask
+Blight Bomb (moderate)
+SOURCE
+APG
+PAGE
+252
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+poison
+splash
+
+NAME
+Blight Bomb (greater)
+SOURCE
+APG
+PAGE
+252
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+poison
+splash
+
+NAME
+Blight Bomb (major)
+SOURCE
+APG
+PAGE
+252
+GOLD
+250
+LEVEL
+17
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+poison
+splash
+
+NAME
+Bloodhound Mask (lesser)
 SOURCE
 APG
 PAGE
 254
 GOLD
-0
+2500
 LEVEL
-2+
+2
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+
+NAME
+Bloodhound Mask (moderate)
+SOURCE
+APG
+PAGE
+254
+GOLD
+6
+LEVEL
+6
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+
+NAME
+Bloodhound Mask (greater)
+SOURCE
+APG
+PAGE
+254
+GOLD
+40
+LEVEL
+11
 BULK
 0.1
 ENTRY
@@ -105,7 +204,7 @@ APG
 PAGE
 248
 GOLD
-150
+250
 LEVEL
 0
 BULK
@@ -211,15 +310,57 @@ evocation
 magical
 
 NAME
-Crystal Shards
+Crystal Shards (moderate)
 SOURCE
 APG
 PAGE
 252
 GOLD
-0
+70
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+earth
+splash
+
+NAME
+Crystal Shards (greater)
+SOURCE
+APG
+PAGE
+252
+GOLD
+16
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+earth
+splash
+
+NAME
+Crystal Shards (major)
+SOURCE
+APG
+PAGE
+252
+GOLD
+350
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -238,7 +379,7 @@ APG
 PAGE
 248
 GOLD
-70
+4000
 LEVEL
 3
 BULK
@@ -249,15 +390,15 @@ TRAITS
 adventuring gear
 
 NAME
-Drakeheart Mutagen
+Drakeheart Mutagen (lesser)
 SOURCE
 APG
 PAGE
 253
 GOLD
-0
+25
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -270,15 +411,150 @@ mutagen
 polymorph
 
 NAME
-Dread Ampoule
+Drakeheart Mutagen (moderate)
 SOURCE
 APG
 PAGE
 253
 GOLD
-0
+4
 LEVEL
-1+
+3
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Drakeheart Mutagen (greater)
+SOURCE
+APG
+PAGE
+253
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Drakeheart Mutagen (major)
+SOURCE
+APG
+PAGE
+253
+GOLD
+300
+LEVEL
+17
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Dread Ampoule (lesser)
+SOURCE
+APG
+PAGE
+253
+GOLD
+3000
+LEVEL
+1
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+emotion
+fear
+mental
+poison
+splash
+
+NAME
+Dread Ampoule (moderate)
+SOURCE
+APG
+PAGE
+253
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+emotion
+fear
+mental
+poison
+splash
+
+NAME
+Dread Ampoule (greater)
+SOURCE
+APG
+PAGE
+253
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+emotion
+fear
+mental
+poison
+splash
+
+NAME
+Dread Ampoule (major)
+SOURCE
+APG
+PAGE
+253
+GOLD
+300
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -300,7 +576,7 @@ APG
 PAGE
 248
 GOLD
-2.5
+300.0
 LEVEL
 0
 BULK
@@ -311,15 +587,35 @@ TRAITS
 adventuring gear
 
 NAME
-Dust Of Corpse Animation
+Dust Of Corpse Animation ()
 SOURCE
 APG
 PAGE
 257
 GOLD
-0
+5
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+uncommon
+consumable
+magical
+necromancy
+
+NAME
+Dust Of Corpse Animation (greater)
+SOURCE
+APG
+PAGE
+257
+GOLD
+100
+LEVEL
+16
 BULK
 0
 ENTRY
@@ -337,7 +633,7 @@ APG
 PAGE
 260
 GOLD
-5
+1500
 LEVEL
 15
 BULK
@@ -433,15 +729,37 @@ magical
 held
 
 NAME
-Fearsome Rune
+Fearsome () Rune
 SOURCE
 APG
 PAGE
 260
 GOLD
-0
+25
 LEVEL
-5+
+5
+BULK
+0
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+emotion
+enchantment
+fear
+magical
+mental
+rune
+
+NAME
+Fearsome (greater) Rune
+SOURCE
+APG
+PAGE
+260
+GOLD
+160
+LEVEL
+12
 BULK
 0
 ENTRY
@@ -461,7 +779,7 @@ APG
 PAGE
 260
 GOLD
-25
+2000
 LEVEL
 10
 BULK
@@ -499,15 +817,75 @@ trap
 visual
 
 NAME
-Focus Cathartic
+Focus Cathartic (lesser)
 SOURCE
 APG
 PAGE
 253
 GOLD
-0
+5
 LEVEL
-2+
+2
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Focus Cathartic (moderate)
+SOURCE
+APG
+PAGE
+253
+GOLD
+5
+LEVEL
+4
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Focus Cathartic (greater)
+SOURCE
+APG
+PAGE
+253
+GOLD
+15
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Focus Cathartic (major)
+SOURCE
+APG
+PAGE
+253
+GOLD
+325
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -525,7 +903,7 @@ APG
 PAGE
 254
 GOLD
-5
+3250
 LEVEL
 1
 BULK
@@ -600,15 +978,78 @@ potion
 transmutation
 
 NAME
-Ghost Charge
+Ghost Charge (lesser)
 SOURCE
 APG
 PAGE
 253
 GOLD
-0
+3
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+positive
+splash
+
+NAME
+Ghost Charge (moderate)
+SOURCE
+APG
+PAGE
+253
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+positive
+splash
+
+NAME
+Ghost Charge (greater)
+SOURCE
+APG
+PAGE
+253
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+bomb
+consumable
+positive
+splash
+
+NAME
+Ghost Charge (major)
+SOURCE
+APG
+PAGE
+253
+GOLD
+250
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -627,7 +1068,7 @@ APG
 PAGE
 255
 GOLD
-3
+2500
 LEVEL
 1
 BULK
@@ -760,15 +1201,15 @@ mental
 worn
 
 NAME
-Mask Of The Banshee
+Mask Of The Banshee ()
 SOURCE
 APG
 PAGE
 261
 GOLD
-0
+500
 LEVEL
-9+
+9
 BULK
 0
 ENTRY
@@ -782,7 +1223,7 @@ negative
 worn
 
 NAME
-Medusa's Scream
+Mask Of The Banshee (greater)
 SOURCE
 APG
 PAGE
@@ -790,7 +1231,49 @@ PAGE
 GOLD
 0
 LEVEL
-13+
+19
+BULK
+0
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+auditory
+invested
+magical
+necromancy
+negative
+worn
+
+NAME
+Medusa's Scream ()
+SOURCE
+APG
+PAGE
+261
+GOLD
+700
+LEVEL
+13
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+magical
+transmutation
+held
+visual
+
+NAME
+Medusa's Scream (greater)
+SOURCE
+APG
+PAGE
+261
+GOLD
+3000
+LEVEL
+16
 BULK
 1
 ENTRY
@@ -808,7 +1291,7 @@ APG
 PAGE
 256
 GOLD
-500
+9000
 LEVEL
 6
 BULK
@@ -840,15 +1323,36 @@ TRAITS
 adventuring gear
 
 NAME
-Oil Of Object Animation
+Oil Of Object Animation ()
 SOURCE
 APG
 PAGE
 258
 GOLD
-0
+1
 LEVEL
-8+
+8
+BULK
+0
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+uncommon
+consumable
+magical
+oil
+transmutation
+
+NAME
+Oil Of Object Animation (greater)
+SOURCE
+APG
+PAGE
+258
+GOLD
+85
+LEVEL
+16
 BULK
 0
 ENTRY
@@ -867,7 +1371,7 @@ APG
 PAGE
 258
 GOLD
-1
+1400
 LEVEL
 5
 BULK
@@ -881,15 +1385,15 @@ magical
 oil
 
 NAME
-Oil Of Unlife
+Oil Of Unlife (minor)
 SOURCE
 APG
 PAGE
 258
 GOLD
-0
+25
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -902,15 +1406,118 @@ negative
 oil
 
 NAME
-Olfactory Obfuscator
+Oil Of Unlife (lesser)
+SOURCE
+APG
+PAGE
+258
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+consumable
+magical
+necromancy
+negative
+oil
+
+NAME
+Oil Of Unlife (moderate)
+SOURCE
+APG
+PAGE
+258
+GOLD
+12
+LEVEL
+6
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+consumable
+magical
+necromancy
+negative
+oil
+
+NAME
+Oil Of Unlife (greater)
+SOURCE
+APG
+PAGE
+258
+GOLD
+50
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+consumable
+magical
+necromancy
+negative
+oil
+
+NAME
+Oil Of Unlife (major)
+SOURCE
+APG
+PAGE
+258
+GOLD
+400
+LEVEL
+18
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+consumable
+magical
+necromancy
+negative
+oil
+
+NAME
+Olfactory Obfuscator ()
 SOURCE
 APG
 PAGE
 254
 GOLD
-0
+5000
 LEVEL
-3+
+3
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+
+NAME
+Olfactory Obfuscator (greater)
+SOURCE
+APG
+PAGE
+254
+GOLD
+9
+LEVEL
+10
 BULK
 0.1
 ENTRY
@@ -927,7 +1534,7 @@ APG
 PAGE
 255
 GOLD
-25
+225
 LEVEL
 2
 BULK
@@ -973,15 +1580,59 @@ TRAITS
 adventuring gear
 
 NAME
-Potion Of Disguise
+Potion Of Disguise (lesser)
 SOURCE
 APG
 PAGE
 258
 GOLD
-0
+25
 LEVEL
-5+
+5
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+uncommon
+consumable
+magical
+polymorph
+potion
+transmutation
+
+NAME
+Potion Of Disguise (moderate)
+SOURCE
+APG
+PAGE
+258
+GOLD
+30
+LEVEL
+8
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+uncommon
+consumable
+magical
+polymorph
+potion
+transmutation
+
+NAME
+Potion Of Disguise (greater)
+SOURCE
+APG
+PAGE
+258
+GOLD
+100
+LEVEL
+11
 BULK
 0.1
 ENTRY
@@ -1001,7 +1652,7 @@ APG
 PAGE
 258
 GOLD
-25
+300
 LEVEL
 1
 BULK
@@ -1015,15 +1666,95 @@ potion
 transmutation
 
 NAME
-Potion Of Retaliation
+Potion Of Retaliation (minor)
 SOURCE
 APG
 PAGE
 259
 GOLD
-0
+3
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+consumable
+evocation
+magical
+potion
+
+NAME
+Potion Of Retaliation (lesser)
+SOURCE
+APG
+PAGE
+259
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+consumable
+evocation
+magical
+potion
+
+NAME
+Potion Of Retaliation (moderate)
+SOURCE
+APG
+PAGE
+259
+GOLD
+12
+LEVEL
+6
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+consumable
+evocation
+magical
+potion
+
+NAME
+Potion Of Retaliation (greater)
+SOURCE
+APG
+PAGE
+259
+GOLD
+50
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+consumable
+evocation
+magical
+potion
+
+NAME
+Potion Of Retaliation (major)
+SOURCE
+APG
+PAGE
+259
+GOLD
+400
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -1041,7 +1772,7 @@ APG
 PAGE
 259
 GOLD
-3
+5000
 LEVEL
 1
 BULK
@@ -1075,15 +1806,15 @@ magical
 held
 
 NAME
-Ration Tonic
+Ration Tonic ()
 SOURCE
 APG
 PAGE
 259
 GOLD
-0
+3
 LEVEL
-1+
+1
 BULK
 0.1
 ENTRY
@@ -1095,15 +1826,54 @@ magical
 potion
 
 NAME
-Ready Rune
+Ration Tonic (greater)
+SOURCE
+APG
+PAGE
+259
+GOLD
+3
+LEVEL
+7
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+conjuration
+consumable
+magical
+potion
+
+NAME
+Ready () Rune
 SOURCE
 APG
 PAGE
 262
 GOLD
-0
+55
 LEVEL
-6+
+6
+BULK
+0
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+evocation
+magical
+rune
+
+NAME
+Ready (greater) Rune
+SOURCE
+APG
+PAGE
+262
+GOLD
+200
+LEVEL
+11
 BULK
 0
 ENTRY
@@ -1120,7 +1890,7 @@ APG
 PAGE
 262
 GOLD
-3
+1200
 LEVEL
 20
 BULK
@@ -1134,15 +1904,53 @@ magical
 held
 
 NAME
-Rope Of Climbing
+Rope Of Climbing (lesser)
 SOURCE
 APG
 PAGE
 262
 GOLD
-0
+75000
 LEVEL
-3+
+3
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+magical
+transmutation
+held
+
+NAME
+Rope Of Climbing (moderate)
+SOURCE
+APG
+PAGE
+262
+GOLD
+45
+LEVEL
+5
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+magical
+transmutation
+held
+
+NAME
+Rope Of Climbing (greater)
+SOURCE
+APG
+PAGE
+262
+GOLD
+125
+LEVEL
+7
 BULK
 0.1
 ENTRY
@@ -1159,7 +1967,7 @@ APG
 PAGE
 259
 GOLD
-75000
+300
 LEVEL
 1
 BULK
@@ -1173,15 +1981,75 @@ magical
 oil
 
 NAME
-Sinew-shock Serum
+Sinew-shock Serum (lesser)
 SOURCE
 APG
 PAGE
 254
 GOLD
-0
+4
 LEVEL
-2+
+2
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Sinew-shock Serum (moderate)
+SOURCE
+APG
+PAGE
+254
+GOLD
+5
+LEVEL
+4
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Sinew-shock Serum (greater)
+SOURCE
+APG
+PAGE
+254
+GOLD
+15
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+elixir
+healing
+
+NAME
+Sinew-shock Serum (major)
+SOURCE
+APG
+PAGE
+254
+GOLD
+325
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -1199,7 +2067,7 @@ APG
 PAGE
 255
 GOLD
-4
+3250
 LEVEL
 7
 BULK
@@ -1231,15 +2099,36 @@ magical
 held
 
 NAME
-Sleeves Of Storage
+Sleeves Of Storage ()
 SOURCE
 APG
 PAGE
 263
 GOLD
-0
+2450
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+conjuration
+extradimensional
+invested
+magical
+worn
+
+NAME
+Sleeves Of Storage (greater)
+SOURCE
+APG
+PAGE
+263
+GOLD
+100
+LEVEL
+9
 BULK
 0.1
 ENTRY
@@ -1258,7 +2147,7 @@ APG
 PAGE
 256
 GOLD
-2450
+600
 LEVEL
 10
 BULK
@@ -1330,15 +2219,15 @@ teleportation
 held
 
 NAME
-Staff Of Impossible Visions
+Staff Of Impossible Visions ()
 SOURCE
 APG
 PAGE
 263
 GOLD
-0
+450
 LEVEL
-6+
+6
 BULK
 1
 ENTRY
@@ -1350,15 +2239,75 @@ magical
 staff
 
 NAME
-Staff Of Nature's Vengeance
+Staff Of Impossible Visions (greater)
 SOURCE
 APG
 PAGE
 263
 GOLD
-0
+230
 LEVEL
-10+
+12
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+uncommon
+illusion
+magical
+staff
+
+NAME
+Staff Of Impossible Visions (major)
+SOURCE
+APG
+PAGE
+263
+GOLD
+1800
+LEVEL
+16
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+uncommon
+illusion
+magical
+staff
+
+NAME
+Staff Of Impossible Visions (true)
+SOURCE
+APG
+PAGE
+263
+GOLD
+10000
+LEVEL
+20
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+uncommon
+illusion
+magical
+staff
+
+NAME
+Staff Of Nature's Vengeance ()
+SOURCE
+APG
+PAGE
+263
+GOLD
+70000
+LEVEL
+10
 BULK
 1
 ENTRY
@@ -1369,15 +2318,110 @@ magical
 staff
 
 NAME
-Staff Of Providence
+Staff Of Nature's Vengeance (greater)
+SOURCE
+APG
+PAGE
+263
+GOLD
+900
+LEVEL
+14
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+evocation
+magical
+staff
+
+NAME
+Staff Of Nature's Vengeance (major)
+SOURCE
+APG
+PAGE
+263
+GOLD
+4000
+LEVEL
+18
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+evocation
+magical
+staff
+
+NAME
+Staff Of Providence ()
 SOURCE
 APG
 PAGE
 264
 GOLD
-0
+24000
 LEVEL
-6+
+6
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+divination
+magical
+staff
+
+NAME
+Staff Of Providence (greater)
+SOURCE
+APG
+PAGE
+264
+GOLD
+230
+LEVEL
+10
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+divination
+magical
+staff
+
+NAME
+Staff Of Providence (major)
+SOURCE
+APG
+PAGE
+264
+GOLD
+900
+LEVEL
+14
+BULK
+1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+divination
+magical
+staff
+
+NAME
+Staff Of Providence (true)
+SOURCE
+APG
+PAGE
+264
+GOLD
+4100
+LEVEL
+20
 BULK
 1
 ENTRY
@@ -1394,7 +2438,7 @@ APG
 PAGE
 259
 GOLD
-450
+64000
 LEVEL
 6
 BULK
@@ -1448,15 +2492,51 @@ alchemical
 consumable
 
 NAME
-Universal Solvent
+Universal Solvent (moderate)
 SOURCE
 APG
 PAGE
 255
 GOLD
-0
+14
 LEVEL
-5+
+5
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+
+NAME
+Universal Solvent (greater)
+SOURCE
+APG
+PAGE
+255
+GOLD
+21
+LEVEL
+12
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+alchemical
+consumable
+
+NAME
+Universal Solvent (major)
+SOURCE
+APG
+PAGE
+255
+GOLD
+325
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -1472,7 +2552,7 @@ APG
 PAGE
 264
 GOLD
-14
+3250
 LEVEL
 9
 BULK
@@ -1487,15 +2567,36 @@ held
 attack
 
 NAME
-Victory Plate
+Victory Plate ()
 SOURCE
 APG
 PAGE
 264
 GOLD
-0
+700
 LEVEL
-9+
+9
+BULK
+4
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+uncommon
+abjuration
+invested
+magical
+armor
+
+NAME
+Victory Plate (greater)
+SOURCE
+APG
+PAGE
+264
+GOLD
+675
+LEVEL
+15
 BULK
 4
 ENTRY
@@ -1514,7 +2615,7 @@ APG
 PAGE
 264
 GOLD
-700
+5500
 LEVEL
 1
 BULK
@@ -1528,15 +2629,15 @@ transmutation
 other
 
 NAME
-Wand Of Crackling Lightning
+Wand Of Crackling Lightning (3rd-level spell)
 SOURCE
 APG
 PAGE
 265
 GOLD
-0
+12
 LEVEL
-8+
+8
 BULK
 0.1
 ENTRY
@@ -1548,15 +2649,75 @@ magical
 wand
 
 NAME
-Wand Of Hopeless Night
+Wand Of Crackling Lightning (4th-level spell)
 SOURCE
 APG
 PAGE
 265
 GOLD
-0
+500
 LEVEL
-6+
+10
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+electricity
+evocation
+magical
+wand
+
+NAME
+Wand Of Crackling Lightning (6th-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+1000
+LEVEL
+14
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+electricity
+evocation
+magical
+wand
+
+NAME
+Wand Of Crackling Lightning (8th-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+4500
+LEVEL
+18
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+electricity
+evocation
+magical
+wand
+
+NAME
+Wand Of Hopeless Night (2nd-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+24000
+LEVEL
+6
 BULK
 0.1
 ENTRY
@@ -1568,15 +2729,35 @@ magical
 wand
 
 NAME
-Wand Of Overflowing Life
+Wand Of Hopeless Night (4th-level spell)
 SOURCE
 APG
 PAGE
 265
 GOLD
-0
+250
 LEVEL
-9+
+10
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+darkness
+evocation
+magical
+wand
+
+NAME
+Wand Of Overflowing Life (3rd-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+1000
+LEVEL
+9
 BULK
 0.1
 ENTRY
@@ -1589,15 +2770,120 @@ positive
 wand
 
 NAME
-Wand Of The Snowfields
+Wand Of Overflowing Life (4th-level spell)
 SOURCE
 APG
 PAGE
 265
 GOLD
-0
+700
 LEVEL
-14+
+11
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+healing
+magical
+necromancy
+positive
+wand
+
+NAME
+Wand Of Overflowing Life (5th-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+1400
+LEVEL
+13
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+healing
+magical
+necromancy
+positive
+wand
+
+NAME
+Wand Of Overflowing Life (6th-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+3000
+LEVEL
+15
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+healing
+magical
+necromancy
+positive
+wand
+
+NAME
+Wand Of Overflowing Life (7th-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+6500
+LEVEL
+17
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+healing
+magical
+necromancy
+positive
+wand
+
+NAME
+Wand Of Overflowing Life (8th-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+15000
+LEVEL
+19
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+healing
+magical
+necromancy
+positive
+wand
+
+NAME
+Wand Of The Snowfields (5th-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+40000
+LEVEL
+14
 BULK
 0.1
 ENTRY
@@ -1609,15 +2895,35 @@ magical
 wand
 
 NAME
-Wand Of The Spider
+Wand Of The Snowfields (7th-level spell)
 SOURCE
 APG
 PAGE
 265
 GOLD
-0
+4500
 LEVEL
-7+
+18
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+cold
+evocation
+magical
+wand
+
+NAME
+Wand Of The Spider (2nd-level spell)
+SOURCE
+APG
+PAGE
+265
+GOLD
+24000
+LEVEL
+7
 BULK
 0.1
 ENTRY
@@ -1629,15 +2935,54 @@ poison
 wand
 
 NAME
-Winged Rune
+Wand Of The Spider (4th-level spell)
 SOURCE
 APG
 PAGE
 265
 GOLD
-0
+360
 LEVEL
-13+
+11
+BULK
+0.1
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+conjuration
+magical
+poison
+wand
+
+NAME
+Winged () Rune
+SOURCE
+APG
+PAGE
+265
+GOLD
+1400
+LEVEL
+13
+BULK
+0
+ENTRY
+Creation of these arrows was inspired by an encounter with a horned archon scout who sought to peacefully restrain their foes. When an activated antler arrow hits a target, bone antlers extend to pin it down. The target must succeed at a DC 16 Reflex save or become stuck to the surface, taking the critical specialization effects of a bow (Core Rulebook 284)
+TRAITS
+magical
+transmutation
+rune
+
+NAME
+Winged (greater) Rune
+SOURCE
+APG
+PAGE
+265
+GOLD
+2500
+LEVEL
+19
 BULK
 0
 ENTRY

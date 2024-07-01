@@ -19,15 +19,81 @@ invested
 worn
 
 NAME
-Energy Mutagen
+Energy Mutagen (lesser)
 SOURCE
 FoP
 PAGE
 56
 GOLD
-0
+160
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations. In addition, the wearer receives a +1 item bonus to {@skill Diplomacy} checks to {@action Make an Impression}.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Energy Mutagen (moderate)
+SOURCE
+FoP
+PAGE
+56
+GOLD
+4
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations. In addition, the wearer receives a +1 item bonus to {@skill Diplomacy} checks to {@action Make an Impression}.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Energy Mutagen (greater)
+SOURCE
+FoP
+PAGE
+56
+GOLD
+12
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations. In addition, the wearer receives a +1 item bonus to {@skill Diplomacy} checks to {@action Make an Impression}.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Energy Mutagen (major)
+SOURCE
+FoP
+PAGE
+56
+GOLD
+300
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -47,7 +113,7 @@ FoP
 PAGE
 58
 GOLD
-160
+3000
 LEVEL
 5
 BULK
@@ -122,15 +188,59 @@ invested
 worn
 
 NAME
-Stone Body Mutagen
+Stone Body Mutagen (lesser)
 SOURCE
 FoP
 PAGE
 56
 GOLD
-0
+160
 LEVEL
-5+
+5
+BULK
+0.1
+ENTRY
+This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations. In addition, the wearer receives a +1 item bonus to {@skill Diplomacy} checks to {@action Make an Impression}.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Stone Body Mutagen (moderate)
+SOURCE
+FoP
+PAGE
+56
+GOLD
+22
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This ornate copper band has a small ruby set in the center, flanked by a pair of dwarven runes. The wearer of this ring gains the ability to understand, read, and speak one common language of their choice, selected each morning as part of their daily preparations. In addition, the wearer receives a +1 item bonus to {@skill Diplomacy} checks to {@action Make an Impression}.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+mutagen
+polymorph
+
+NAME
+Stone Body Mutagen (greater)
+SOURCE
+FoP
+PAGE
+56
+GOLD
+300
+LEVEL
+15
 BULK
 0.1
 ENTRY
@@ -150,7 +260,7 @@ FoP
 PAGE
 58
 GOLD
-160
+920
 LEVEL
 5
 BULK

@@ -120,15 +120,51 @@ ingested
 poison
 
 NAME
-Handcuffs
+Handcuffs (average)
 SOURCE
 AoE1
 PAGE
 77
 GOLD
-0
+3
 LEVEL
-3+
+3
+BULK
+0.1
+ENTRY
+You can apply this pale eggshell powder to one outfit, one object of up to Medium size, or up to 10 smaller objects in the same space, such as jewelry, to make them appear gilded for 1 hour. If used as part of {@action Make an Impression||Making an Impression} on an audience swayed by expensive clothing, it makes most clothing or jewelry seem to be worth 10 times as much as they really are. Only someone who closely inspects an affected item notices it's not real gold. If you apply the salts to an object made of metal, the metal softens like gold, reducing its Hardness by 4 (to a minimum of Hardness 10) for 1 hour.
+TRAITS
+uncommon
+held
+
+NAME
+Handcuffs (good)
+SOURCE
+AoE1
+PAGE
+77
+GOLD
+30
+LEVEL
+9
+BULK
+0.1
+ENTRY
+You can apply this pale eggshell powder to one outfit, one object of up to Medium size, or up to 10 smaller objects in the same space, such as jewelry, to make them appear gilded for 1 hour. If used as part of {@action Make an Impression||Making an Impression} on an audience swayed by expensive clothing, it makes most clothing or jewelry seem to be worth 10 times as much as they really are. Only someone who closely inspects an affected item notices it's not real gold. If you apply the salts to an object made of metal, the metal softens like gold, reducing its Hardness by 4 (to a minimum of Hardness 10) for 1 hour.
+TRAITS
+uncommon
+held
+
+NAME
+Handcuffs (superior)
+SOURCE
+AoE1
+PAGE
+77
+GOLD
+350
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -144,7 +180,7 @@ AoE1
 PAGE
 81
 GOLD
-3
+6000
 LEVEL
 7
 BULK
@@ -221,15 +257,36 @@ necromancy
 poison
 
 NAME
-Recording Rod
+Recording Rod (basic)
 SOURCE
 AoE1
 PAGE
 80
 GOLD
-0
+200
 LEVEL
-3+
+3
+BULK
+1
+ENTRY
+You can apply this pale eggshell powder to one outfit, one object of up to Medium size, or up to 10 smaller objects in the same space, such as jewelry, to make them appear gilded for 1 hour. If used as part of {@action Make an Impression||Making an Impression} on an audience swayed by expensive clothing, it makes most clothing or jewelry seem to be worth 10 times as much as they really are. Only someone who closely inspects an affected item notices it's not real gold. If you apply the salts to an object made of metal, the metal softens like gold, reducing its Hardness by 4 (to a minimum of Hardness 10) for 1 hour.
+TRAITS
+uncommon
+consumable
+divination
+magical
+scrying
+
+NAME
+Recording Rod (reusable)
+SOURCE
+AoE1
+PAGE
+80
+GOLD
+20
+LEVEL
+5
 BULK
 1
 ENTRY
@@ -248,7 +305,7 @@ AoE1
 PAGE
 80
 GOLD
-200
+60
 LEVEL
 1
 BULK

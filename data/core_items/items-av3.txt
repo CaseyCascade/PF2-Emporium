@@ -107,15 +107,78 @@ consumable
 olfactory
 
 NAME
-Necrotic Bomb
+Necrotic Bomb (lesser)
 SOURCE
 AV3
 PAGE
 74
 GOLD
-0
+21
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This concave lens has a drifting crimson cloud resembling slowly swirling blood within it. While you have the Crimson Fulcrum Lens invested, you seethe with malevolent fury you can barely contain. You gain a +2 item bonus to saving throws against {@trait fear} effects and a +2 item bonus to your melee {@action Strike} damage (this increases to a +4 item bonus to damage if the melee {@action Strike} is a jaws attack). You can also activate the lens in the following ways.
+TRAITS
+alchemical
+bomb
+consumable
+negative
+splash
+
+NAME
+Necrotic Bomb (moderate)
+SOURCE
+AV3
+PAGE
+74
+GOLD
+3
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This concave lens has a drifting crimson cloud resembling slowly swirling blood within it. While you have the Crimson Fulcrum Lens invested, you seethe with malevolent fury you can barely contain. You gain a +2 item bonus to saving throws against {@trait fear} effects and a +2 item bonus to your melee {@action Strike} damage (this increases to a +4 item bonus to damage if the melee {@action Strike} is a jaws attack). You can also activate the lens in the following ways.
+TRAITS
+alchemical
+bomb
+consumable
+negative
+splash
+
+NAME
+Necrotic Bomb (greater)
+SOURCE
+AV3
+PAGE
+74
+GOLD
+10
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This concave lens has a drifting crimson cloud resembling slowly swirling blood within it. While you have the Crimson Fulcrum Lens invested, you seethe with malevolent fury you can barely contain. You gain a +2 item bonus to saving throws against {@trait fear} effects and a +2 item bonus to your melee {@action Strike} damage (this increases to a +4 item bonus to damage if the melee {@action Strike} is a jaws attack). You can also activate the lens in the following ways.
+TRAITS
+alchemical
+bomb
+consumable
+negative
+splash
+
+NAME
+Necrotic Bomb (major)
+SOURCE
+AV3
+PAGE
+74
+GOLD
+250
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -134,7 +197,7 @@ AV3
 PAGE
 76
 GOLD
-21
+2500
 LEVEL
 11
 BULK

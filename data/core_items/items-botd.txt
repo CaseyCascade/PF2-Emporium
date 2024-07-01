@@ -41,15 +41,15 @@ negative
 held
 
 NAME
-Peachwood Weapon
+Peachwood Weapon (standard-grade)
 SOURCE
 BotD
 PAGE
 20
 GOLD
-0
+2000
 LEVEL
-12+
+12
 BULK
 0.0
 ENTRY
@@ -59,15 +59,102 @@ uncommon
 material
 
 NAME
-Bottled Sunlight
+Peachwood Weapon (high-grade)
+SOURCE
+BotD
+PAGE
+20
+GOLD
+19000
+LEVEL
+18
+BULK
+0.0
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+uncommon
+material
+
+NAME
+Bottled Sunlight (lesser)
 SOURCE
 BotD
 PAGE
 18
 GOLD
-0
+7
 LEVEL
-2+
+2
+BULK
+0.1
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+alchemical
+bomb
+consumable
+fire
+light
+positive
+splash
+
+NAME
+Bottled Sunlight (moderate)
+SOURCE
+BotD
+PAGE
+18
+GOLD
+20
+LEVEL
+4
+BULK
+0.1
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+alchemical
+bomb
+consumable
+fire
+light
+positive
+splash
+
+NAME
+Bottled Sunlight (greater)
+SOURCE
+BotD
+PAGE
+18
+GOLD
+360
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+alchemical
+bomb
+consumable
+fire
+light
+positive
+splash
+
+NAME
+Bottled Sunlight (major)
+SOURCE
+BotD
+PAGE
+18
+GOLD
+4500
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -104,15 +191,55 @@ positive
 held
 
 NAME
-Dawnlight
+Dawnlight ()
 SOURCE
 BotD
 PAGE
 18
 GOLD
-0
+60
 LEVEL
-3+
+3
+BULK
+0.1
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+uncommon
+divine
+evocation
+held
+
+NAME
+Dawnlight (greater)
+SOURCE
+BotD
+PAGE
+18
+GOLD
+320
+LEVEL
+7
+BULK
+0.1
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+uncommon
+divine
+evocation
+held
+
+NAME
+Dawnlight (major)
+SOURCE
+BotD
+PAGE
+18
+GOLD
+1300
+LEVEL
+11
 BULK
 0.1
 ENTRY
@@ -142,15 +269,34 @@ alchemical
 consumable
 
 NAME
-Feast of Hungry Ghosts
+Feast of Hungry Ghosts ()
 SOURCE
 BotD
 PAGE
 19
 GOLD
-0
+120
 LEVEL
-9+
+9
+BULK
+0
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+consumable
+enchantment
+magical
+
+NAME
+Feast of Hungry Ghosts (banquet)
+SOURCE
+BotD
+PAGE
+19
+GOLD
+350
+LEVEL
+12
 BULK
 0
 ENTRY
@@ -242,15 +388,72 @@ divine
 positive
 
 NAME
-Peachwood
+Peachwood (branch)
 SOURCE
 BotD
 PAGE
 20
 GOLD
-0
+600
 LEVEL
-8+
+0
+BULK
+0
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Peachwood (lumber)
+SOURCE
+BotD
+PAGE
+20
+GOLD
+6000
+LEVEL
+0
+BULK
+0
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Peachwood (standard-grade object)
+SOURCE
+BotD
+PAGE
+20
+GOLD
+500
+LEVEL
+8
+BULK
+0
+ENTRY
+This silver chalice bears the symbol of {@deity Pharasma}, a swirling cloud that transforms into a flight of whippoorwills that encircle the top. The chalice can be activated in one of two ways, though only once per day total.
+TRAITS
+uncommon
+precious
+material
+
+NAME
+Peachwood (high-grade object)
+SOURCE
+BotD
+PAGE
+20
+GOLD
+7500
+LEVEL
+16
 BULK
 0
 ENTRY

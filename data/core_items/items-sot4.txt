@@ -61,15 +61,78 @@ magical
 held
 
 NAME
-Midday Lantern
+Midday Lantern (lesser)
 SOURCE
 SoT4
 PAGE
 76
 GOLD
-0
+235
 LEVEL
-6+
+6
+BULK
+0.1
+ENTRY
+This glowing piece of flesh increases the spell level of a spell with the {@trait light} trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a {@spell darkness} spell.
+TRAITS
+uncommon
+light
+magical
+transmutation
+held
+
+NAME
+Midday Lantern (moderate)
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+850
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This glowing piece of flesh increases the spell level of a spell with the {@trait light} trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a {@spell darkness} spell.
+TRAITS
+uncommon
+light
+magical
+transmutation
+held
+
+NAME
+Midday Lantern (greater)
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+3700
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This glowing piece of flesh increases the spell level of a spell with the {@trait light} trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a {@spell darkness} spell.
+TRAITS
+uncommon
+light
+magical
+transmutation
+held
+
+NAME
+Midday Lantern (major)
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+18750
+LEVEL
+18
 BULK
 0.1
 ENTRY
@@ -124,15 +187,78 @@ sling
 staff
 
 NAME
-Twilight Lantern
+Twilight Lantern (lesser)
 SOURCE
 SoT4
 PAGE
 76
 GOLD
-0
+235
 LEVEL
-6+
+6
+BULK
+0.1
+ENTRY
+This glowing piece of flesh increases the spell level of a spell with the {@trait light} trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a {@spell darkness} spell.
+TRAITS
+uncommon
+light
+magical
+transmutation
+held
+
+NAME
+Twilight Lantern (moderate)
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+850
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This glowing piece of flesh increases the spell level of a spell with the {@trait light} trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a {@spell darkness} spell.
+TRAITS
+uncommon
+light
+magical
+transmutation
+held
+
+NAME
+Twilight Lantern (greater)
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+3700
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This glowing piece of flesh increases the spell level of a spell with the {@trait light} trait by 1 (maximum 7) when determining whether the spell's light will shine in magical darkness or counteract a {@spell darkness} spell.
+TRAITS
+uncommon
+light
+magical
+transmutation
+held
+
+NAME
+Twilight Lantern (major)
+SOURCE
+SoT4
+PAGE
+76
+GOLD
+18750
+LEVEL
+18
 BULK
 0.1
 ENTRY

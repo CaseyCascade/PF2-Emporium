@@ -81,15 +81,57 @@ magical
 talisman
 
 NAME
-Sixfingers Elixir
+Sixfingers Elixir (lesser)
 SOURCE
 Sli
 PAGE
 61
 GOLD
-0
+65
 LEVEL
-5+
+5
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+polymorph
+
+NAME
+Sixfingers Elixir (moderate)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+25
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+alchemical
+consumable
+elixir
+polymorph
+
+NAME
+Sixfingers Elixir (greater)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+250
+LEVEL
+17
 BULK
 0.1
 ENTRY
@@ -108,7 +150,7 @@ Sli
 PAGE
 61
 GOLD
-65
+2500
 LEVEL
 7
 BULK
@@ -143,15 +185,15 @@ talisman
 transmutation
 
 NAME
-Wand Of Noisome Acid
+Wand Of Noisome Acid (2nd-level spell)
 SOURCE
 Sli
 PAGE
 61
 GOLD
-0
+12
 LEVEL
-6+
+6
 BULK
 0.1
 ENTRY
@@ -164,15 +206,218 @@ magical
 wand
 
 NAME
-Wand Of Teeming Ghosts
+Wand Of Noisome Acid (4th-level spell)
 SOURCE
 Sli
 PAGE
 61
 GOLD
-0
+250
 LEVEL
-6+
+10
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+acid
+evocation
+magical
+wand
+
+NAME
+Wand Of Noisome Acid (6th-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+1000
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+acid
+evocation
+magical
+wand
+
+NAME
+Wand Of Noisome Acid (8th-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+4500
+LEVEL
+18
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+acid
+evocation
+magical
+wand
+
+NAME
+Wand Of Teeming Ghosts (2nd-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+24000
+LEVEL
+6
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+magical
+necromancy
+wand
+
+NAME
+Wand Of Teeming Ghosts (3rd-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+250
+LEVEL
+8
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+magical
+necromancy
+wand
+
+NAME
+Wand Of Teeming Ghosts (4th-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+500
+LEVEL
+10
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+magical
+necromancy
+wand
+
+NAME
+Wand Of Teeming Ghosts (5th-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+1000
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+magical
+necromancy
+wand
+
+NAME
+Wand Of Teeming Ghosts (6th-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+2000
+LEVEL
+14
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+magical
+necromancy
+wand
+
+NAME
+Wand Of Teeming Ghosts (7th-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+4500
+LEVEL
+16
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+magical
+necromancy
+wand
+
+NAME
+Wand Of Teeming Ghosts (8th-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+10000
+LEVEL
+18
+BULK
+0.1
+ENTRY
+This long, thin +1 striking wounding dagger has a smooth edge on one side and a serrated edge on the other. Its {@condition persistent damage||persistent bleed damage} comes from slicing away long strips of the target's flesh, and it deals {@damage 1d8} {@condition persistent damage||persistent bleed damage} on a hit instead of {@dice 1d6}. A creature takes a –2 status penalty to saving throws against diseases for as long as it has {@condition persistent damage||persistent bleed damage} from this knife.
+TRAITS
+uncommon
+magical
+necromancy
+wand
+
+NAME
+Wand Of Teeming Ghosts (9th-level spell)
+SOURCE
+Sli
+PAGE
+61
+GOLD
+24000
+LEVEL
+20
 BULK
 0.1
 ENTRY

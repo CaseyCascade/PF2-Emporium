@@ -1,11 +1,29 @@
 NAME
-Tank
+Tank (stationary)
 SOURCE
 LOTG
 PAGE
 103
 GOLD
+1
+LEVEL
 0
+BULK
+0
+ENTRY
+NA
+TRAITS
+adventuring gear
+animal caretaking
+
+NAME
+Tank (traveling)
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+10
 LEVEL
 0
 BULK
@@ -23,7 +41,7 @@ LOTG
 PAGE
 103
 GOLD
-0.1
+1.0
 LEVEL
 0
 BULK
@@ -71,13 +89,13 @@ adventuring gear
 animal caretaking
 
 NAME
-Treats
+Treats (standard)
 SOURCE
 LOTG
 PAGE
 103
 GOLD
-0
+0.1
 LEVEL
 0
 BULK
@@ -89,13 +107,49 @@ adventuring gear
 animal caretaking
 
 NAME
-Feed
+Treats (unique)
 SOURCE
 LOTG
 PAGE
 103
 GOLD
+0.01
+LEVEL
 0
+BULK
+0
+ENTRY
+NA
+TRAITS
+adventuring gear
+animal caretaking
+
+NAME
+Feed (standard)
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+0.1
+LEVEL
+0
+BULK
+0
+ENTRY
+NA
+TRAITS
+adventuring gear
+animal caretaking
+
+NAME
+Feed (unique)
+SOURCE
+LOTG
+PAGE
+103
+GOLD
+0.01
 LEVEL
 0
 BULK
@@ -113,7 +167,7 @@ LOTG
 PAGE
 103
 GOLD
-0.5
+0.1
 LEVEL
 0
 BULK

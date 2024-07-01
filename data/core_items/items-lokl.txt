@@ -22,15 +22,37 @@ necromancy
 armor
 
 NAME
-Anointing Oil
+Anointing Oil ()
 SOURCE
 LOKL
 PAGE
 88
 GOLD
-0
+18
 LEVEL
-4+
+4
+BULK
+0.1
+ENTRY
+Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+consumable
+magical
+necromancy
+oil
+
+NAME
+Anointing Oil (greater)
+SOURCE
+LOKL
+PAGE
+88
+GOLD
+180
+LEVEL
+10
 BULK
 0.1
 ENTRY
@@ -130,15 +152,99 @@ magical
 rune
 
 NAME
-Camp Shroud
+Camp Shroud (minor)
 SOURCE
 LOKL
 PAGE
 89
 GOLD
-0
+15
 LEVEL
-4+
+4
+BULK
+0.0
+ENTRY
+Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+consumable
+illusion
+magical
+
+NAME
+Camp Shroud (lesser)
+SOURCE
+LOKL
+PAGE
+89
+GOLD
+65
+LEVEL
+7
+BULK
+0.0
+ENTRY
+Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+consumable
+illusion
+magical
+
+NAME
+Camp Shroud (moderate)
+SOURCE
+LOKL
+PAGE
+89
+GOLD
+175
+LEVEL
+10
+BULK
+0.0
+ENTRY
+Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+consumable
+illusion
+magical
+
+NAME
+Camp Shroud (greater)
+SOURCE
+LOKL
+PAGE
+89
+GOLD
+500
+LEVEL
+13
+BULK
+0.0
+ENTRY
+Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
+TRAITS
+{@organization knights of lastwall} have access to this item.
+uncommon
+consumable
+illusion
+magical
+
+NAME
+Camp Shroud (major)
+SOURCE
+LOKL
+PAGE
+89
+GOLD
+1500
+LEVEL
+16
 BULK
 0.0
 ENTRY

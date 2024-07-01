@@ -219,15 +219,59 @@ magical
 talisman
 
 NAME
-Privacy Ward Fulu
+Privacy Ward Fulu (hallway)
 SOURCE
 SoG1
 PAGE
 83
 GOLD
-0
+4
 LEVEL
-1+
+1
+BULK
+0.0
+ENTRY
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
+TRAITS
+rare
+abjuration
+consumable
+fulu
+magical
+talisman
+
+NAME
+Privacy Ward Fulu (room)
+SOURCE
+SoG1
+PAGE
+83
+GOLD
+25
+LEVEL
+5
+BULK
+0.0
+ENTRY
+While {@deity Yaezhing|LOGM} is feared and seldom worshipped in the open, some regions of Tian Xia see him as a god of necessary evil and their only hope for justice. This garment is often worn by bounty hunters or priests of {@deity Yaezhing|LOGM}, yet non-worshippers of the god of harsh justice sometimes wear this item without fear of religious persecution. The red cape appears almost black while in the shadows, with a lighter red mandala pattern on it that resembles a shuriken.
+TRAITS
+rare
+abjuration
+consumable
+fulu
+magical
+talisman
+
+NAME
+Privacy Ward Fulu (chamber)
+SOURCE
+SoG1
+PAGE
+83
+GOLD
+120
+LEVEL
+9
 BULK
 0.0
 ENTRY

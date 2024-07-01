@@ -1,13 +1,55 @@
 NAME
-Barricade Stone
+Barricade Stone (sphere)
 SOURCE
 SoT3
 PAGE
 75
 GOLD
-0
+40
 LEVEL
-6+
+6
+BULK
+0.0
+ENTRY
+The ancient inhabitants of Bloodsalt crafted these magic rocks to construct defenses quickly. In its stone form, a barricade stone appears to be a simple pebble with an unnaturally geometric shape. The size and shape of the stone's final form depends on the type of barricade stone.
+TRAITS
+uncommon
+conjuration
+consumable
+magical
+structure
+
+NAME
+Barricade Stone (cube)
+SOURCE
+SoT3
+PAGE
+75
+GOLD
+80
+LEVEL
+8
+BULK
+0.0
+ENTRY
+The ancient inhabitants of Bloodsalt crafted these magic rocks to construct defenses quickly. In its stone form, a barricade stone appears to be a simple pebble with an unnaturally geometric shape. The size and shape of the stone's final form depends on the type of barricade stone.
+TRAITS
+uncommon
+conjuration
+consumable
+magical
+structure
+
+NAME
+Barricade Stone (cylinder)
+SOURCE
+SoT3
+PAGE
+75
+GOLD
+160
+LEVEL
+10
 BULK
 0.0
 ENTRY
@@ -42,15 +84,57 @@ magical
 worn
 
 NAME
-Exploration Lens
+Exploration Lens (detecting)
 SOURCE
 SoT3
 PAGE
 76
 GOLD
-0
+1000
 LEVEL
-10+
+10
+BULK
+0.0
+ENTRY
+The ancient inhabitants of Bloodsalt crafted these magic rocks to construct defenses quickly. In its stone form, a barricade stone appears to be a simple pebble with an unnaturally geometric shape. The size and shape of the stone's final form depends on the type of barricade stone.
+TRAITS
+uncommon
+divination
+invested
+magical
+held
+
+NAME
+Exploration Lens (investigating)
+SOURCE
+SoT3
+PAGE
+76
+GOLD
+1750
+LEVEL
+12
+BULK
+0.0
+ENTRY
+The ancient inhabitants of Bloodsalt crafted these magic rocks to construct defenses quickly. In its stone form, a barricade stone appears to be a simple pebble with an unnaturally geometric shape. The size and shape of the stone's final form depends on the type of barricade stone.
+TRAITS
+uncommon
+divination
+invested
+magical
+held
+
+NAME
+Exploration Lens (searching)
+SOURCE
+SoT3
+PAGE
+76
+GOLD
+4000
+LEVEL
+14
 BULK
 0.0
 ENTRY
@@ -84,15 +168,53 @@ magical
 talisman
 
 NAME
-Red-Rib Gill Mask
+Red-Rib Gill Mask (lesser)
 SOURCE
 SoT3
 PAGE
 76
 GOLD
-0
+7
 LEVEL
-2+
+2
+BULK
+0.1
+ENTRY
+The ancient inhabitants of Bloodsalt crafted these magic rocks to construct defenses quickly. In its stone form, a barricade stone appears to be a simple pebble with an unnaturally geometric shape. The size and shape of the stone's final form depends on the type of barricade stone.
+TRAITS
+rare
+alchemical
+consumable
+
+NAME
+Red-Rib Gill Mask (moderate)
+SOURCE
+SoT3
+PAGE
+76
+GOLD
+100
+LEVEL
+8
+BULK
+0.1
+ENTRY
+The ancient inhabitants of Bloodsalt crafted these magic rocks to construct defenses quickly. In its stone form, a barricade stone appears to be a simple pebble with an unnaturally geometric shape. The size and shape of the stone's final form depends on the type of barricade stone.
+TRAITS
+rare
+alchemical
+consumable
+
+NAME
+Red-Rib Gill Mask (greater)
+SOURCE
+SoT3
+PAGE
+76
+GOLD
+700
+LEVEL
+14
 BULK
 0.1
 ENTRY

@@ -40,15 +40,15 @@ magical
 transmutation
 
 NAME
-Grisantian Pelt
+Grisantian Pelt (standard-grade object)
 SOURCE
 LOMM
 PAGE
 35
 GOLD
-0
+1200
 LEVEL
-12+
+12
 BULK
 0
 ENTRY
@@ -59,15 +59,52 @@ precious
 material
 
 NAME
-Grisantian Pelt Armor
+Grisantian Pelt (high-grade object)
 SOURCE
 LOMM
 PAGE
 35
 GOLD
-0
+1200
 LEVEL
-12+
+18
+BULK
+0
+ENTRY
+The tip of this {@runeItem longspear||+3 weapon potency||major striking||greater flaming||returning||speed|} is edged with several razor-sharp obsidian blades. The spear has the {@trait thrown||thrown 30 feet} weapon trait, in addition to the normal weapon traits for a longspear.
+TRAITS
+rare
+precious
+material
+
+NAME
+Grisantian Pelt Armor (standard-grade)
+SOURCE
+LOMM
+PAGE
+35
+GOLD
+12000
+LEVEL
+12
+BULK
+0.0
+ENTRY
+The tip of this {@runeItem longspear||+3 weapon potency||major striking||greater flaming||returning||speed|} is edged with several razor-sharp obsidian blades. The spear has the {@trait thrown||thrown 30 feet} weapon trait, in addition to the normal weapon traits for a longspear.
+TRAITS
+rare
+armor
+
+NAME
+Grisantian Pelt Armor (high-grade)
+SOURCE
+LOMM
+PAGE
+35
+GOLD
+1800
+LEVEL
+19
 BULK
 0.0
 ENTRY
@@ -83,7 +120,7 @@ LOMM
 PAGE
 35
 GOLD
-22000
+33000
 LEVEL
 18
 BULK

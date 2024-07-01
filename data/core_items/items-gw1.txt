@@ -43,15 +43,15 @@ consumable
 light
 
 NAME
-Cloak of Gnawing Leaves
+Cloak of Gnawing Leaves ()
 SOURCE
 GW1
 PAGE
 0
 GOLD
-0
+60
 LEVEL
-3+
+3
 BULK
 0.1
 ENTRY
@@ -64,15 +64,101 @@ transmutation
 worn
 
 NAME
-Stalk Goggles
+Cloak of Gnawing Leaves (thirsty fronds)
 SOURCE
 GW1
 PAGE
 0
 GOLD
-0
+330
 LEVEL
-1+
+7
+BULK
+0.1
+ENTRY
+This palm-sized talisman hangs on a string of braided bark fibers. It resembles a leaf from some unknown tree similar to oak, carved from jade and then dipped halfway into black ink that looks wet despite feeling completely dry. The gate key was originally created to open the aiudara known as the Seventh Arch. In recent years, corrupting magic has given it additional, stranger powers.
+TRAITS
+rare
+invested
+primal
+transmutation
+worn
+
+NAME
+Cloak of Gnawing Leaves (devouring thorns)
+SOURCE
+GW1
+PAGE
+0
+GOLD
+2000
+LEVEL
+12
+BULK
+0.1
+ENTRY
+This palm-sized talisman hangs on a string of braided bark fibers. It resembles a leaf from some unknown tree similar to oak, carved from jade and then dipped halfway into black ink that looks wet despite feeling completely dry. The gate key was originally created to open the aiudara known as the Seventh Arch. In recent years, corrupting magic has given it additional, stranger powers.
+TRAITS
+rare
+invested
+primal
+transmutation
+worn
+
+NAME
+Stalk Goggles ()
+SOURCE
+GW1
+PAGE
+0
+GOLD
+20
+LEVEL
+1
+BULK
+0.0
+ENTRY
+This palm-sized talisman hangs on a string of braided bark fibers. It resembles a leaf from some unknown tree similar to oak, carved from jade and then dipped halfway into black ink that looks wet despite feeling completely dry. The gate key was originally created to open the aiudara known as the Seventh Arch. In recent years, corrupting magic has given it additional, stranger powers.
+TRAITS
+rare
+invested
+magical
+morph
+transmutation
+worn
+
+NAME
+Stalk Goggles (greater)
+SOURCE
+GW1
+PAGE
+0
+GOLD
+60
+LEVEL
+3
+BULK
+0.0
+ENTRY
+This palm-sized talisman hangs on a string of braided bark fibers. It resembles a leaf from some unknown tree similar to oak, carved from jade and then dipped halfway into black ink that looks wet despite feeling completely dry. The gate key was originally created to open the aiudara known as the Seventh Arch. In recent years, corrupting magic has given it additional, stranger powers.
+TRAITS
+rare
+invested
+magical
+morph
+transmutation
+worn
+
+NAME
+Stalk Goggles (major)
+SOURCE
+GW1
+PAGE
+0
+GOLD
+450
+LEVEL
+8
 BULK
 0.0
 ENTRY

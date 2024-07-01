@@ -39,15 +39,81 @@ consumable
 darkness
 
 NAME
-Plate of Yled
+Plate of Yled (graveknight)
 SOURCE
 WtD5
 PAGE
 25
 GOLD
-0
+250
 LEVEL
-6+
+6
+BULK
+4
+ENTRY
+This macabre staff is crafted from gleaming white bone, a spinal column spiralling out of its base with a skull swinging from the spine's tip. It was handcrafted for {@creature Nyctessa|WtD5} by her father, a powerful Blood Lord, from her mortal mother's bones.
+TRAITS
+rare
+aberration
+evil
+magical
+necromancy
+armor
+
+NAME
+Plate of Yled (greater graveknight)
+SOURCE
+WtD5
+PAGE
+25
+GOLD
+415
+LEVEL
+8
+BULK
+4
+ENTRY
+This macabre staff is crafted from gleaming white bone, a spinal column spiralling out of its base with a skull swinging from the spine's tip. It was handcrafted for {@creature Nyctessa|WtD5} by her father, a powerful Blood Lord, from her mortal mother's bones.
+TRAITS
+rare
+aberration
+evil
+magical
+necromancy
+armor
+
+NAME
+Plate of Yled (major graveknight)
+SOURCE
+WtD5
+PAGE
+25
+GOLD
+1160
+LEVEL
+11
+BULK
+4
+ENTRY
+This macabre staff is crafted from gleaming white bone, a spinal column spiralling out of its base with a skull swinging from the spine's tip. It was handcrafted for {@creature Nyctessa|WtD5} by her father, a powerful Blood Lord, from her mortal mother's bones.
+TRAITS
+rare
+aberration
+evil
+magical
+necromancy
+armor
+
+NAME
+Plate of Yled (true graveknight)
+SOURCE
+WtD5
+PAGE
+25
+GOLD
+3600
+LEVEL
+14
 BULK
 4
 ENTRY
@@ -81,15 +147,78 @@ consumable
 magical
 
 NAME
-Steelscour
+Steelscour ((lesser))
 SOURCE
 WtD5
 PAGE
 26
 GOLD
-0
+3
 LEVEL
-1+
+1
+BULK
+0.1
+ENTRY
+This macabre staff is crafted from gleaming white bone, a spinal column spiralling out of its base with a skull swinging from the spine's tip. It was handcrafted for {@creature Nyctessa|WtD5} by her father, a powerful Blood Lord, from her mortal mother's bones.
+TRAITS
+uncommon
+acid
+alchemical
+bomb
+consumable
+
+NAME
+Steelscour ((moderate))
+SOURCE
+WtD5
+PAGE
+26
+GOLD
+9
+LEVEL
+3
+BULK
+0.1
+ENTRY
+This macabre staff is crafted from gleaming white bone, a spinal column spiralling out of its base with a skull swinging from the spine's tip. It was handcrafted for {@creature Nyctessa|WtD5} by her father, a powerful Blood Lord, from her mortal mother's bones.
+TRAITS
+uncommon
+acid
+alchemical
+bomb
+consumable
+
+NAME
+Steelscour ((greater))
+SOURCE
+WtD5
+PAGE
+26
+GOLD
+215
+LEVEL
+11
+BULK
+0.1
+ENTRY
+This macabre staff is crafted from gleaming white bone, a spinal column spiralling out of its base with a skull swinging from the spine's tip. It was handcrafted for {@creature Nyctessa|WtD5} by her father, a powerful Blood Lord, from her mortal mother's bones.
+TRAITS
+uncommon
+acid
+alchemical
+bomb
+consumable
+
+NAME
+Steelscour ((major))
+SOURCE
+WtD5
+PAGE
+26
+GOLD
+2100
+LEVEL
+17
 BULK
 0.1
 ENTRY
