@@ -206,7 +206,7 @@ magical
 wand
 
 NAME
-Wand Of Noisome Acid (spell 4th-level)
+Wand Of Noisome Acid (4th-level spell)
 SOURCE
 Sli
 PAGE
@@ -309,7 +309,7 @@ necromancy
 wand
 
 NAME
-Wand Of Teeming Ghosts (spell 4th-level)
+Wand Of Teeming Ghosts (4th-level spell)
 SOURCE
 Sli
 PAGE
@@ -329,7 +329,7 @@ necromancy
 wand
 
 NAME
-Wand Of Teeming Ghosts (5th-level spell)
+Wand Of Teeming Ghosts (spell 5th-level)
 SOURCE
 Sli
 PAGE
@@ -369,7 +369,7 @@ necromancy
 wand
 
 NAME
-Wand Of Teeming Ghosts (7th-level spell)
+Wand Of Teeming Ghosts (spell 7th-level)
 SOURCE
 Sli
 PAGE
@@ -409,7 +409,7 @@ necromancy
 wand
 
 NAME
-Wand Of Teeming Ghosts (9th-level spell)
+Wand Of Teeming Ghosts (spell 9th-level)
 SOURCE
 Sli
 PAGE

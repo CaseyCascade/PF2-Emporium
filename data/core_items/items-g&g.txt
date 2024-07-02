@@ -592,7 +592,7 @@ snare
 trap
 
 NAME
-Black Powder (dose or of round)
+Black Powder (of dose round or)
 SOURCE
 G&G
 PAGE
@@ -630,7 +630,7 @@ alchemical
 consumable
 
 NAME
-Black Powder (keg of)
+Black Powder (of keg)
 SOURCE
 G&G
 PAGE
@@ -3605,7 +3605,7 @@ ammunition
 crossbow
 
 NAME
-Repeating Magazine (crossbow hand)
+Repeating Magazine (hand crossbow)
 SOURCE
 G&G
 PAGE
@@ -4235,7 +4235,7 @@ rare
 adventuring gear
 
 NAME
-Spirit-Singer (handheld incredible)
+Spirit-Singer (incredible handheld)
 SOURCE
 G&G
 PAGE
@@ -4525,7 +4525,7 @@ clockwork
 adventuring gear
 
 NAME
-Timepiece (grand clock)
+Timepiece (clock grand)
 SOURCE
 G&G
 PAGE

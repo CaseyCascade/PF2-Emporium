@@ -1,5 +1,5 @@
 NAME
-Stone (object low-grade)
+Stone (low-grade object)
 SOURCE
 TV
 PAGE
@@ -582,7 +582,7 @@ magical
 tattoo
 
 NAME
-Bewitching Bloom (blossom cherry)
+Bewitching Bloom (cherry blossom)
 SOURCE
 TV
 PAGE
@@ -682,7 +682,7 @@ magical
 tattoo
 
 NAME
-Bewitching Bloom (red rose)
+Bewitching Bloom (rose red)
 SOURCE
 TV
 PAGE
@@ -702,7 +702,7 @@ magical
 tattoo
 
 NAME
-Bewitching Bloom (white poppy)
+Bewitching Bloom (poppy white)
 SOURCE
 TV
 PAGE
@@ -3911,7 +3911,7 @@ wand
 water
 
 NAME
-Wand of Choking Mist (spell 4th-level)
+Wand of Choking Mist (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -3931,7 +3931,7 @@ wand
 water
 
 NAME
-Wand of Chromatic Burst (spell 4th-level)
+Wand of Chromatic Burst (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -3953,7 +3953,7 @@ concentrate
 evocation
 
 NAME
-Wand of Chromatic Burst (7th-level spell)
+Wand of Chromatic Burst (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -3975,7 +3975,7 @@ concentrate
 evocation
 
 NAME
-Wand of Clinging Rime (7th-level spell)
+Wand of Clinging Rime (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -4017,7 +4017,7 @@ wand
 water
 
 NAME
-Wand of Clinging Rime (9th-level spell)
+Wand of Clinging Rime (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -4098,7 +4098,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (spell 4th-level)
+Wand of Dazzling Rays (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4120,7 +4120,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (5th-level spell)
+Wand of Dazzling Rays (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -4164,7 +4164,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (7th-level spell)
+Wand of Dazzling Rays (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -4208,7 +4208,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (9th-level spell)
+Wand of Dazzling Rays (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -4254,7 +4254,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (spell 4th-level)
+Wand of Dumbfounding Doom (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4278,7 +4278,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (5th-level spell)
+Wand of Dumbfounding Doom (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -4326,7 +4326,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (7th-level spell)
+Wand of Dumbfounding Doom (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -4374,7 +4374,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (9th-level spell)
+Wand of Dumbfounding Doom (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -4418,7 +4418,7 @@ plant
 wand
 
 NAME
-Wand of Hawthorn (spell 4th-level)
+Wand of Hawthorn (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4520,7 +4520,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (spell 4th-level)
+Wand of Hybrid Form (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4541,7 +4541,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (5th-level spell)
+Wand of Hybrid Form (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -4583,7 +4583,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (7th-level spell)
+Wand of Hybrid Form (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -4625,7 +4625,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (9th-level spell)
+Wand of Hybrid Form (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -4646,7 +4646,7 @@ transmutation
 wand
 
 NAME
-Wand of Legerdemain (1st-level spell)
+Wand of Legerdemain (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -4715,7 +4715,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (spell 4th-level)
+Wand of Legerdemain (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4738,7 +4738,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (5th-level spell)
+Wand of Legerdemain (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -4784,7 +4784,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (7th-level spell)
+Wand of Legerdemain (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -4830,7 +4830,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (9th-level spell)
+Wand of Legerdemain (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -4853,7 +4853,7 @@ mental
 visual
 
 NAME
-Wand of Mental Purification (1st-level spell)
+Wand of Mental Purification (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -4919,7 +4919,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (spell 4th-level)
+Wand of Mental Purification (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4941,7 +4941,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (5th-level spell)
+Wand of Mental Purification (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -4985,7 +4985,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (7th-level spell)
+Wand of Mental Purification (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -5029,7 +5029,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (9th-level spell)
+Wand of Mental Purification (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -5051,7 +5051,7 @@ mental
 wand
 
 NAME
-Wand of Mercy (1st-level spell)
+Wand of Mercy (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -5105,7 +5105,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (spell 4th-level)
+Wand of Mercy (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5123,7 +5123,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (5th-level spell)
+Wand of Mercy (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -5159,7 +5159,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (7th-level spell)
+Wand of Mercy (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -5195,7 +5195,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (9th-level spell)
+Wand of Mercy (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -5233,7 +5233,7 @@ magical
 wand
 
 NAME
-Wand of Noisome Acid (spell 4th-level)
+Wand of Noisome Acid (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5314,7 +5314,7 @@ mental
 wand
 
 NAME
-Wand of Paralytic Shock (7th-level spell)
+Wand of Paralytic Shock (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -5335,7 +5335,7 @@ mental
 wand
 
 NAME
-Wand of Pernicious Poison (1st-level spell)
+Wand of Pernicious Poison (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -5375,7 +5375,7 @@ poison
 wand
 
 NAME
-Wand of Reaching (1st-level spell)
+Wand of Reaching (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -5429,7 +5429,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (spell 4th-level)
+Wand of Reaching (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5447,7 +5447,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (5th-level spell)
+Wand of Reaching (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -5483,7 +5483,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (7th-level spell)
+Wand of Reaching (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -5519,7 +5519,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (9th-level spell)
+Wand of Reaching (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -5537,7 +5537,7 @@ magical
 wand
 
 NAME
-Wand of Refracting Rays (spell 4th-level)
+Wand of Refracting Rays (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5619,7 +5619,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (spell 4th-level)
+Wand of Rolling Flames (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5639,7 +5639,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (5th-level spell)
+Wand of Rolling Flames (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -5679,7 +5679,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (7th-level spell)
+Wand of Rolling Flames (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -5719,7 +5719,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (9th-level spell)
+Wand of Rolling Flames (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -5818,7 +5818,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (spell 4th-level)
+Wand of Teeming Ghosts (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5838,7 +5838,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (5th-level spell)
+Wand of Teeming Ghosts (spell 5th-level)
 SOURCE
 TV
 PAGE
@@ -5878,7 +5878,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (7th-level spell)
+Wand of Teeming Ghosts (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -5918,7 +5918,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (9th-level spell)
+Wand of Teeming Ghosts (spell 9th-level)
 SOURCE
 TV
 PAGE
@@ -6019,7 +6019,7 @@ poison
 wand
 
 NAME
-Wand of Toxic Blades (7th-level spell)
+Wand of Toxic Blades (spell 7th-level)
 SOURCE
 TV
 PAGE
@@ -6510,7 +6510,7 @@ magical
 worn
 
 NAME
-Bravery Baldric (greater restoration,)
+Bravery Baldric (restoration, greater)
 SOURCE
 TV
 PAGE
@@ -7667,7 +7667,7 @@ GOLD
 LEVEL
 3
 BULK
-as
+0.0
 ENTRY
 Stone was one of the earliest materials used to create tools, and crafters can still fashion it into a variety of implements, weapons, and even armor. Simple stone objects are made from common materials such as flint or basalt, while exquisite stone objects might be made from crystal, obsidian, or semi-precious gems. Particularly notable stone armors or weapons might even be crafted entirely from a giant emerald, ruby, or sapphire, though they can still use the base statistics presented below. Stone can replace the striking surface of any melee weapon as long as it has no complex moving parts, and ammunition can be crafted with it. Stone can replace metal components in chain and composite armor; only plate armor that specifically describes itself as being made from stone can be crafted from this material.
 TRAITS
@@ -7831,7 +7831,7 @@ magical
 held
 
 NAME
-Tattletale Orb (quartz clear)
+Tattletale Orb (clear quartz)
 SOURCE
 TV
 PAGE
@@ -12043,7 +12043,6 @@ uncommon
 alchemical
 consumable
 fire
-sparklers are common in tian xia and vudra and can be crafted by those who can specifically {@action craft} fireworks (such as a fireworks technician; guns & gears 134).
 
 NAME
 Bottled Roc

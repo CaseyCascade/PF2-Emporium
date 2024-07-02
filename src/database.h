@@ -21,7 +21,10 @@ class Database {
     public:
         Database();
         string getVariable(string);
+        bool searchTraitDatabase(string s);
+        void setTraitDatabase();
         void loadFile(string filepath);
         void load();
+        void printTraits();
         void print(); 
 };

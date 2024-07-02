@@ -2649,7 +2649,7 @@ magical
 wand
 
 NAME
-Wand Of Crackling Lightning (spell 4th-level)
+Wand Of Crackling Lightning (4th-level spell)
 SOURCE
 APG
 PAGE
@@ -2729,7 +2729,7 @@ magical
 wand
 
 NAME
-Wand Of Hopeless Night (spell 4th-level)
+Wand Of Hopeless Night (4th-level spell)
 SOURCE
 APG
 PAGE
@@ -2770,7 +2770,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (spell 4th-level)
+Wand Of Overflowing Life (4th-level spell)
 SOURCE
 APG
 PAGE
@@ -2791,7 +2791,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (5th-level spell)
+Wand Of Overflowing Life (spell 5th-level)
 SOURCE
 APG
 PAGE
@@ -2833,7 +2833,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (7th-level spell)
+Wand Of Overflowing Life (spell 7th-level)
 SOURCE
 APG
 PAGE
@@ -2875,7 +2875,7 @@ positive
 wand
 
 NAME
-Wand Of The Snowfields (5th-level spell)
+Wand Of The Snowfields (spell 5th-level)
 SOURCE
 APG
 PAGE
@@ -2895,7 +2895,7 @@ magical
 wand
 
 NAME
-Wand Of The Snowfields (7th-level spell)
+Wand Of The Snowfields (spell 7th-level)
 SOURCE
 APG
 PAGE
@@ -2935,7 +2935,7 @@ poison
 wand
 
 NAME
-Wand Of The Spider (spell 4th-level)
+Wand Of The Spider (4th-level spell)
 SOURCE
 APG
 PAGE

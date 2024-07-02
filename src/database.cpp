@@ -11,7 +11,28 @@ string Database :: getVariable(string line)
     } 
     return "NONE"; 
 }
+bool Database :: searchTraitDatabase(string s)
+{
+    for (auto &i : traitDatabase)
+    {
+        if (i == s) return true; 
+    }
+    return false; 
+}
 
+void Database :: setTraitDatabase()
+{
+    for (auto& item : itemDatabase)
+    {
+        for (auto& trait : item.getTraits())
+        {
+            if (!searchTraitDatabase(trait))
+            {
+                traitDatabase.push_back(trait); 
+            }
+        }
+    }
+}
 void Database :: loadFile(string filepath)
 {
     Item newItem = Item();
@@ -55,13 +76,22 @@ void Database :: load()
             }
         }
     }
+    setTraitDatabase(); 
+}
+
+void Database :: printTraits()
+{
+    for (auto& trait : traitDatabase)
+    {
+        cout << trait << endl; 
+    }
 }
 
 void Database :: print()
 {
-    cout << itemDatabase.size() << endl; 
     for (auto& item : itemDatabase)
     {
         cout << item.getName() << endl; 
     }
+    cout << itemDatabase.size() << endl; 
 }

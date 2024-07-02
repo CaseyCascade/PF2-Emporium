@@ -16,7 +16,7 @@ TRAITS
 uncommon
 divination
 magical
-follower of {@deity abadar}
+abadar
 held
 
 NAME
@@ -37,7 +37,7 @@ TRAITS
 uncommon
 conjuration
 magical
-follower of {@deity cayden cailean}
+cayden cailean
 held
 
 NAME
@@ -59,7 +59,7 @@ uncommon
 consumable
 magical
 necromancy
-follower of {@deity achaekek
+
 
 NAME
 Deteriorating Dust
@@ -80,7 +80,7 @@ uncommon
 consumable
 evocation
 magical
-follower of {@deity rovagug}
+rovagug
 
 NAME
 Deteriorating Dust (extended)
@@ -101,7 +101,7 @@ uncommon
 consumable
 evocation
 magical
-follower of {@deity rovagug}
+rovagug
 
 NAME
 Deteriorating Dust (caustic)
@@ -122,7 +122,7 @@ uncommon
 consumable
 evocation
 magical
-follower of {@deity rovagug}
+rovagug
 
 NAME
 Dreadsmoke Thurible
@@ -142,7 +142,7 @@ TRAITS
 uncommon
 magical
 necromancy
-follower of {@deity urgathoa}
+urgathoa
 held
 
 NAME
@@ -163,7 +163,7 @@ TRAITS
 uncommon
 enchantment
 magical
-follower of {@deity shelyn}
+shelyn
 held
 
 NAME
@@ -187,7 +187,7 @@ divination
 fortune
 magical
 talisman
-follower of {@deity desna}
+desna
 
 NAME
 Manacles Of Persuasion
@@ -208,7 +208,7 @@ uncommon
 magical
 necromancy
 nonlethal
-follower of {@deity zon-kuthon}
+zon-kuthon
 worn
 
 NAME
@@ -270,7 +270,7 @@ uncommon
 conjuration
 invested
 magical
-follower of {@deity pharasma}
+pharasma
 worn
 
 NAME
@@ -291,7 +291,7 @@ TRAITS
 uncommon
 conjuration
 magical
-follower of {@deity hanspur
+
 held
 
 NAME
@@ -312,7 +312,7 @@ TRAITS
 uncommon
 enchantment
 magical
-follower of {@deity irori}
+irori
 held
 auditory
 
@@ -335,6 +335,6 @@ uncommon
 divine
 magical
 transmutation
-follower of {@deity torag}
+torag
 held
 

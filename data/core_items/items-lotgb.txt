@@ -132,7 +132,7 @@ contact
 poison
 
 NAME
-Abysium Shield (buckler standard-grade)
+Abysium Shield (standard-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -168,7 +168,7 @@ rare
 material
 
 NAME
-Abysium Shield (high-grade buckler)
+Abysium Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1404,7 +1404,7 @@ precious
 material
 
 NAME
-Djezet (alloy object standard-grade)
+Djezet (object standard-grade alloy)
 SOURCE
 LOTGB
 PAGE
@@ -1423,7 +1423,7 @@ precious
 material
 
 NAME
-Djezet (alloy high-grade object)
+Djezet (object alloy high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1497,7 +1497,7 @@ consumable
 magical
 
 NAME
-Djezet Shield (buckler standard-grade)
+Djezet Shield (standard-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -1533,7 +1533,7 @@ rare
 material
 
 NAME
-Djezet Shield (high-grade buckler)
+Djezet Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1639,7 +1639,7 @@ TRAITS
 held
 
 NAME
-Doll (surprise exquisite)
+Doll (exquisite surprise)
 SOURCE
 LOTGB
 PAGE
@@ -1732,7 +1732,7 @@ alchemical
 consumable
 
 NAME
-Dragon's Breath Rune (1st-level spell)
+Dragon's Breath Rune (spell 1st-level)
 SOURCE
 LOTGB
 PAGE
@@ -1795,7 +1795,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (spell 4th-level)
+Dragon's Breath Rune (4th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1816,7 +1816,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (5th-level spell)
+Dragon's Breath Rune (spell 5th-level)
 SOURCE
 LOTGB
 PAGE
@@ -1858,7 +1858,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (7th-level spell)
+Dragon's Breath Rune (spell 7th-level)
 SOURCE
 LOTGB
 PAGE
@@ -1900,7 +1900,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (9th-level spell)
+Dragon's Breath Rune (spell 9th-level)
 SOURCE
 LOTGB
 PAGE
@@ -2138,7 +2138,7 @@ magical
 rune
 
 NAME
-Energy Robe (fire of)
+Energy Robe (of fire)
 SOURCE
 LOTGB
 PAGE
@@ -2180,7 +2180,7 @@ transmutation
 worn
 
 NAME
-Energy Robe (of acid)
+Energy Robe (acid of)
 SOURCE
 LOTGB
 PAGE
@@ -2617,7 +2617,7 @@ GOLD
 LEVEL
 0
 BULK
-1
+0.0
 ENTRY
 A blue-green metal with an eerie green luminescence, abysium radiates power that's inimical to life. Careless exposure to the material can lead to long-term damage to the immune system; as such, mining abysium is hazardous, as large quantities of the metal in an area cause all nearby creatures to become sick. A creature carrying an abysium object is {@condition sickened|CRB|sickened 1} for a standard-grade object of light Bulk, {@condition sickened|CRB|sickened 2} for a standard-grade object of 1 Bulk or more or a high-grade object of light Bulk, or {@condition sickened|CRB|sickened 3} for a high-grade object of 1 Bulk or more. This and all other sickening effects of abysium are {@trait poison} effects. Crafters can use 1 abysium chunk to create up to 6 doses of poisonous abysium powder. Unscrupulous smiths have harnessed abysium's toxic properties to create noxious weapons and deadly substances. All objects crafted from abysium shed dim light in a 10-foot radius.
 TRAITS
@@ -2684,7 +2684,7 @@ evocation
 magical
 
 NAME
-Games (dice loaded)
+Games (loaded dice)
 SOURCE
 LOTGB
 PAGE
@@ -3076,7 +3076,7 @@ rare
 material
 
 NAME
-Inubrix Shield (buckler standard-grade)
+Inubrix Shield (standard-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -3112,7 +3112,7 @@ rare
 material
 
 NAME
-Inubrix Shield (high-grade buckler)
+Inubrix Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3724,7 +3724,7 @@ rare
 material
 
 NAME
-Noqual Shield (high-grade buckler)
+Noqual Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3834,7 +3834,7 @@ teleportation
 rune
 
 NAME
-Paired Rune (greater runes)
+Paired Rune (runes greater)
 SOURCE
 LOTGB
 PAGE
@@ -3855,7 +3855,7 @@ teleportation
 rune
 
 NAME
-Paired Rune (major runes)
+Paired Rune (runes major)
 SOURCE
 LOTGB
 PAGE
@@ -4237,7 +4237,7 @@ TRAITS
 held
 
 NAME
-Puzzle Box (hollow level box; 0+)
+Puzzle Box (box; 0+ level hollow)
 SOURCE
 LOTGB
 PAGE
@@ -4838,7 +4838,7 @@ rare
 material
 
 NAME
-Siccatite Shield (buckler standard-grade)
+Siccatite Shield (standard-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -4874,7 +4874,7 @@ rare
 shield
 
 NAME
-Siccatite Shield (high-grade buckler)
+Siccatite Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -6080,7 +6080,7 @@ TRAITS
 adventuring gear
 
 NAME
-Waffle Iron (high-grade mithral)
+Waffle Iron (mithral high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -6139,7 +6139,7 @@ magical
 wand
 
 NAME
-Wand Of Spiritual Warfare (spell 4th-level)
+Wand Of Spiritual Warfare (4th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6223,7 +6223,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (spell 4th-level)
+Wand Of Thundering Echoes (4th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6244,7 +6244,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (5th-level spell)
+Wand Of Thundering Echoes (spell 5th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6286,7 +6286,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (7th-level spell)
+Wand Of Thundering Echoes (spell 7th-level)
 SOURCE
 LOTGB
 PAGE

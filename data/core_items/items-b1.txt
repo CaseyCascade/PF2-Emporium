@@ -9,7 +9,7 @@ GOLD
 LEVEL
 25
 BULK
-2
+0.0
 ENTRY
 This potent weapon used by {@creature Treerazer} is a +4 {@item greater corrosive} {@item major striking} obsidian {@item greataxe} that grants a +4 item bonus to attack rolls, deals an extra {@damage 2d6} damage to {@trait plant||plants}, and has the properties of {@item adamantine weapon (generic)||adamantine}.
 TRAITS

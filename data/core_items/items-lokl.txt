@@ -36,7 +36,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 consumable
 magical
@@ -58,7 +58,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 consumable
 magical
@@ -80,7 +80,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 abjuration
 magical
@@ -101,7 +101,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 companion
 invested
@@ -123,7 +123,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 conjuration
 divine
@@ -166,7 +166,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 consumable
 illusion
@@ -187,7 +187,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 consumable
 illusion
@@ -208,7 +208,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 consumable
 illusion
@@ -229,7 +229,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 consumable
 illusion
@@ -250,7 +250,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 consumable
 illusion
@@ -271,7 +271,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 conjuration
 magical
@@ -292,7 +292,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 divination
 invested
@@ -334,7 +334,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 abjuration
 divine
@@ -356,7 +356,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 divine
 enchantment
@@ -378,7 +378,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 enchantment
 magical
@@ -399,7 +399,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 companion
 divination
@@ -422,7 +422,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 divination
 magical
@@ -445,7 +445,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 magical
 necromancy
@@ -466,7 +466,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 conjuration
 magical
@@ -488,7 +488,7 @@ ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
 uncommon
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 adventuring gear
 
 NAME
@@ -507,7 +507,7 @@ ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
 uncommon
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 adventuring gear
 
 NAME
@@ -526,7 +526,7 @@ ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
 uncommon
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 adventuring gear
 
 NAME
@@ -545,7 +545,7 @@ ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
 uncommon
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 adventuring gear
 
 NAME
@@ -564,7 +564,7 @@ ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
 uncommon
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 adventuring gear
 
 NAME
@@ -583,7 +583,7 @@ ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
 uncommon
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 adventuring gear
 
 NAME
@@ -602,7 +602,7 @@ ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
 uncommon
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 adventuring gear
 
 NAME
@@ -620,7 +620,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 adjustment
 
@@ -639,7 +639,7 @@ BULK
 ENTRY
 Based on the armors used by the holy warriors who served under General Arnisant in the Shining Crusade, this well-polished +2 greater resilient half plate is decorated with religious motifs and carved with sacred scripture.
 TRAITS
-{@organization knights of lastwall} have access to this item.
+knights of lastwall
 uncommon
 adjustment
 

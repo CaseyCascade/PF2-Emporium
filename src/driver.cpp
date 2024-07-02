@@ -8,5 +8,5 @@ int main ()
 {
     Database db; 
     db.load(); 
-    db.print(); 
+    db.printTraits(); 
 }

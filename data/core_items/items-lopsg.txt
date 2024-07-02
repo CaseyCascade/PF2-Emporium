@@ -894,7 +894,7 @@ necromancy
 worn
 
 NAME
-Replacement Filter (level 1)
+Replacement Filter (1 level)
 SOURCE
 LOPSG
 PAGE
@@ -930,7 +930,7 @@ uncommon
 adventuring gear
 
 NAME
-Replacement Filter (10 level)
+Replacement Filter (level 10)
 SOURCE
 LOPSG
 PAGE

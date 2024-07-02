@@ -75,7 +75,7 @@ class Item:
 
         if bulk == 'L':
             self.bulk = 0.1
-        elif bulk == '\u2014' or bulk == '-' or bulk == '\u2013' or bulk == 'varies':
+        elif isinstance(bulk, str):
             self.bulk = 0.0
         else:
             self.bulk = bulk 
@@ -169,7 +169,46 @@ class Item:
         for trait in self.traits:
             print(trait)
         print()
+
+    def get_substring_after_character(self, s, target_char):
+        index = s.find(target_char)
+        if index == -1:
+            return ""  # Return empty string if target_char is not found
         
+        # Move index past the target_char
+        index += len(target_char)
+        
+        # Find the next space or end of string
+        start_index = index
+        end_index = len(s)
+        while start_index < len(s) and s[start_index] != ' ':
+            start_index += 1
+            
+        return s[index:start_index]
+
+    def get_substring_between(self, s, start_substr, end_substr):
+        start_index = s.find(start_substr)
+        if start_index == -1:
+            return ""  # Return empty string if start_substr is not found
+        
+        start_index += len(start_substr)
+        end_index = s.find(end_substr, start_index)
+        if end_index == -1:
+            return ""  # Return empty string if end_substr is not found after start_substr
+    
+        return s[start_index:end_index]
+
+    def parse_traits(self):
+        for index, trait in enumerate(self.traits):
+            if '@' in trait:
+                start_target = self.get_substring_after_character(trait, '@')
+                new_trait = self.get_substring_between(trait, start_target, '}')
+                new_trait = new_trait.strip()
+                if new_trait != "craft": # Weird edgecase for long string
+                    self.traits[index] = new_trait
+                else:
+                    self.traits.pop(index)
+
     def finalize(self):
         if self.name == None:
             print("No Name in Finalize:", self.base_name)
@@ -180,7 +219,7 @@ class Item:
             self.set_gold('gp', 0)
         if self.level == None:
             self.set_level(0)
-
+        self.parse_traits()
         if 'rune' in self.traits:
             if '(' in self.name:
                 self.name = self.name.replace("(", "Rune (")

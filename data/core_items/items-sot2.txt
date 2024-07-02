@@ -206,7 +206,7 @@ magical
 held
 
 NAME
-Warcaller's Chime (dread of)
+Warcaller's Chime (of dread)
 SOURCE
 SoT2
 PAGE
@@ -226,7 +226,7 @@ magical
 held
 
 NAME
-Warcaller's Chime (refuge of)
+Warcaller's Chime (of refuge)
 SOURCE
 SoT2
 PAGE
@@ -266,7 +266,7 @@ magical
 held
 
 NAME
-Warcaller's Chime (restoration of)
+Warcaller's Chime (of restoration)
 SOURCE
 SoT2
 PAGE
