@@ -185,7 +185,7 @@ magical
 worn
 
 NAME
-Ringmaster's Staff ()
+Ringmaster's Staff
 SOURCE
 EC2
 PAGE

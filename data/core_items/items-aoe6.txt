@@ -99,7 +99,7 @@ precious
 material
 
 NAME
-Warpglass (high-grade object)
+Warpglass (object high-grade)
 SOURCE
 AoE6
 PAGE

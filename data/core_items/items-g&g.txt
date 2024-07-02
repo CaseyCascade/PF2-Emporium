@@ -394,7 +394,7 @@ alchemical
 consumable
 
 NAME
-Awakened Metal Shot (Awakened Adamantine Shot)
+Awakened Metal Shot (adamantine)
 SOURCE
 G&G
 PAGE
@@ -414,7 +414,7 @@ evocation
 magical
 
 NAME
-Awakened Metal Shot (Awakened Cold Iron Shot)
+Awakened Metal Shot (iron cold)
 SOURCE
 G&G
 PAGE
@@ -434,7 +434,7 @@ evocation
 magical
 
 NAME
-Awakened Metal Shot (Awakened Silver Shot)
+Awakened Metal Shot (silver)
 SOURCE
 G&G
 PAGE
@@ -531,7 +531,7 @@ assistive item
 wheelchair
 
 NAME
-Battering Ram ()
+Battering Ram
 SOURCE
 G&G
 PAGE
@@ -592,7 +592,7 @@ snare
 trap
 
 NAME
-Black Powder (Dose or Round of Black Powder)
+Black Powder (dose or of round)
 SOURCE
 G&G
 PAGE
@@ -611,7 +611,7 @@ alchemical
 consumable
 
 NAME
-Black Powder (Horn of Black Powder)
+Black Powder (horn of)
 SOURCE
 G&G
 PAGE
@@ -630,7 +630,7 @@ alchemical
 consumable
 
 NAME
-Black Powder (Keg of Black Powder)
+Black Powder (keg of)
 SOURCE
 G&G
 PAGE
@@ -765,7 +765,7 @@ attack
 range increment 
 
 NAME
-Blazons Of Shared Power ()
+Blazons Of Shared Power
 SOURCE
 G&G
 PAGE
@@ -866,7 +866,7 @@ manipulate
 range increment 
 
 NAME
-Breath Blaster ()
+Breath Blaster
 SOURCE
 G&G
 PAGE
@@ -947,7 +947,7 @@ uncommon
 consumable
 
 NAME
-Camouflage Suit (Camouflage Suit)
+Camouflage Suit
 SOURCE
 G&G
 PAGE
@@ -965,7 +965,7 @@ uncommon
 adventuring gear
 
 NAME
-Camouflage Suit (Superb Camouflage Suit)
+Camouflage Suit (superb)
 SOURCE
 G&G
 PAGE
@@ -1046,7 +1046,7 @@ consumable
 gadget
 
 NAME
-Chameleon Suit ()
+Chameleon Suit
 SOURCE
 G&G
 PAGE
@@ -1188,7 +1188,7 @@ water
 adventuring gear
 
 NAME
-Clockwork Goggles ()
+Clockwork Goggles
 SOURCE
 G&G
 PAGE
@@ -1387,7 +1387,7 @@ consumable
 gadget
 
 NAME
-Darkvision Scope ()
+Darkvision Scope
 SOURCE
 G&G
 PAGE
@@ -1467,7 +1467,7 @@ snare
 trap
 
 NAME
-Deployable Cover ()
+Deployable Cover
 SOURCE
 G&G
 PAGE
@@ -1861,7 +1861,7 @@ consumable
 gadget
 
 NAME
-Exsanguinating Ammunition ()
+Exsanguinating Ammunition
 SOURCE
 G&G
 PAGE
@@ -2239,7 +2239,7 @@ consumable
 gadget
 
 NAME
-Gecko Pads ()
+Gecko Pads
 SOURCE
 G&G
 PAGE
@@ -2338,7 +2338,7 @@ magical
 talisman
 
 NAME
-Grappling Gun ()
+Grappling Gun
 SOURCE
 G&G
 PAGE
@@ -2721,7 +2721,7 @@ consumable
 gadget
 
 NAME
-Indomitable Keepsake ()
+Indomitable Keepsake
 SOURCE
 G&G
 PAGE
@@ -2885,7 +2885,7 @@ light
 held
 
 NAME
-Lucky Draw Bandolier ()
+Lucky Draw Bandolier
 SOURCE
 G&G
 PAGE
@@ -2929,7 +2929,7 @@ customization
 holster
 
 NAME
-Magnetic Suit ()
+Magnetic Suit
 SOURCE
 G&G
 PAGE
@@ -2983,7 +2983,7 @@ aura
 consumable
 
 NAME
-Magnetite Scope (Scope)
+Magnetite Scope
 SOURCE
 G&G
 PAGE
@@ -3003,7 +3003,7 @@ customization
 scope
 
 NAME
-Magnetite Scope (greater Scope)
+Magnetite Scope (greater)
 SOURCE
 G&G
 PAGE
@@ -3023,7 +3023,7 @@ customization
 scope
 
 NAME
-Magnifying Scope (Scope)
+Magnifying Scope
 SOURCE
 G&G
 PAGE
@@ -3043,7 +3043,7 @@ customization
 scope
 
 NAME
-Magnifying Scope (greater Scope)
+Magnifying Scope (greater)
 SOURCE
 G&G
 PAGE
@@ -3063,7 +3063,7 @@ customization
 scope
 
 NAME
-Magnifying Scope (major Scope)
+Magnifying Scope (major)
 SOURCE
 G&G
 PAGE
@@ -3177,7 +3177,7 @@ clockwork
 held
 
 NAME
-Meteor Shot ()
+Meteor Shot
 SOURCE
 G&G
 PAGE
@@ -3488,7 +3488,7 @@ customization
 stabilizers
 
 NAME
-Portable Weapon Mount (tripod, shielded)
+Portable Weapon Mount (shielded tripod,)
 SOURCE
 G&G
 PAGE
@@ -3587,7 +3587,7 @@ necromancy
 held
 
 NAME
-Repeating Magazine (Repeating Crossbow Magazine)
+Repeating Magazine (crossbow)
 SOURCE
 G&G
 PAGE
@@ -3605,7 +3605,7 @@ ammunition
 crossbow
 
 NAME
-Repeating Magazine (Repeating Hand Crossbow Magazine)
+Repeating Magazine (crossbow hand)
 SOURCE
 G&G
 PAGE
@@ -3623,7 +3623,7 @@ ammunition
 crossbow
 
 NAME
-Repeating Magazine (Repeating Heavy Crossbow Magazine)
+Repeating Magazine (crossbow heavy)
 SOURCE
 G&G
 PAGE
@@ -3758,7 +3758,7 @@ customization
 scope
 
 NAME
-Screech Shooter ()
+Screech Shooter
 SOURCE
 G&G
 PAGE
@@ -3953,7 +3953,7 @@ magical
 talisman
 
 NAME
-Smoke Fan ()
+Smoke Fan
 SOURCE
 G&G
 PAGE
@@ -3991,7 +3991,7 @@ consumable
 gadget
 
 NAME
-Sniper's Bead ()
+Sniper's Bead
 SOURCE
 G&G
 PAGE
@@ -4072,7 +4072,7 @@ assistive item
 wheelchair
 
 NAME
-Spider Gun ()
+Spider Gun
 SOURCE
 G&G
 PAGE
@@ -4181,7 +4181,7 @@ snare
 trap
 
 NAME
-Spirit-Singer ()
+Spirit-Singer
 SOURCE
 G&G
 PAGE
@@ -4235,7 +4235,7 @@ rare
 adventuring gear
 
 NAME
-Spirit-Singer (incredible handheld)
+Spirit-Singer (handheld incredible)
 SOURCE
 G&G
 PAGE
@@ -4336,7 +4336,7 @@ manipulate
 range increment 
 
 NAME
-Stepping Stone Shot ()
+Stepping Stone Shot
 SOURCE
 G&G
 PAGE
@@ -4420,7 +4420,7 @@ intelligent
 held
 
 NAME
-Tentacle Cannon ()
+Tentacle Cannon
 SOURCE
 G&G
 PAGE

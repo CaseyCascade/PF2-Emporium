@@ -21,7 +21,7 @@ saggorak
 rune
 
 NAME
-Bloodbane () Rune
+Bloodbane Rune
 SOURCE
 AoA4
 PAGE
@@ -42,7 +42,7 @@ magical
 rune
 
 NAME
-Bloodbane (greater) Rune
+Bloodbane Rune (greater)
 SOURCE
 AoA4
 PAGE

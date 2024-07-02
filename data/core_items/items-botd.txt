@@ -191,7 +191,7 @@ positive
 held
 
 NAME
-Dawnlight ()
+Dawnlight
 SOURCE
 BotD
 PAGE
@@ -269,7 +269,7 @@ alchemical
 consumable
 
 NAME
-Feast of Hungry Ghosts ()
+Feast of Hungry Ghosts
 SOURCE
 BotD
 PAGE
@@ -426,7 +426,7 @@ precious
 material
 
 NAME
-Peachwood (standard-grade object)
+Peachwood (object standard-grade)
 SOURCE
 BotD
 PAGE
@@ -445,7 +445,7 @@ precious
 material
 
 NAME
-Peachwood (high-grade object)
+Peachwood (object high-grade)
 SOURCE
 BotD
 PAGE

@@ -147,7 +147,7 @@ consumable
 magical
 
 NAME
-Steelscour ((lesser))
+Steelscour (lesser)
 SOURCE
 WtD5
 PAGE
@@ -168,7 +168,7 @@ bomb
 consumable
 
 NAME
-Steelscour ((moderate))
+Steelscour (moderate)
 SOURCE
 WtD5
 PAGE
@@ -189,7 +189,7 @@ bomb
 consumable
 
 NAME
-Steelscour ((greater))
+Steelscour (greater)
 SOURCE
 WtD5
 PAGE
@@ -210,7 +210,7 @@ bomb
 consumable
 
 NAME
-Steelscour ((major))
+Steelscour (major)
 SOURCE
 WtD5
 PAGE

@@ -43,7 +43,7 @@ consumable
 light
 
 NAME
-Cloak of Gnawing Leaves ()
+Cloak of Gnawing Leaves
 SOURCE
 GW1
 PAGE
@@ -85,7 +85,7 @@ transmutation
 worn
 
 NAME
-Cloak of Gnawing Leaves (devouring thorns)
+Cloak of Gnawing Leaves (thorns devouring)
 SOURCE
 GW1
 PAGE
@@ -106,7 +106,7 @@ transmutation
 worn
 
 NAME
-Stalk Goggles ()
+Stalk Goggles
 SOURCE
 GW1
 PAGE

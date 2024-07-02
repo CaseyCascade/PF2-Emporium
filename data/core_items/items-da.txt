@@ -64,7 +64,7 @@ held
 concentrate
 
 NAME
-Conrasu Coin (Arbiter)
+Conrasu Coin (arbiter)
 SOURCE
 DA
 PAGE
@@ -84,7 +84,7 @@ magical
 talisman
 
 NAME
-Conrasu Coin (Bythos)
+Conrasu Coin (bythos)
 SOURCE
 DA
 PAGE

@@ -1,5 +1,5 @@
 NAME
-Conundrum Spectacles (Conundrum Spectacles)
+Conundrum Spectacles
 SOURCE
 PFUM
 PAGE
@@ -20,7 +20,7 @@ magical
 worn
 
 NAME
-Conundrum Spectacles (Greater)
+Conundrum Spectacles (greater)
 SOURCE
 PFUM
 PAGE

@@ -121,7 +121,7 @@ precious
 material
 
 NAME
-Adamantine (standard-grade object)
+Adamantine (object standard-grade)
 SOURCE
 CRB
 PAGE
@@ -140,7 +140,7 @@ precious
 material
 
 NAME
-Adamantine (high-grade object)
+Adamantine (object high-grade)
 SOURCE
 CRB
 PAGE
@@ -195,7 +195,7 @@ uncommon
 material
 
 NAME
-Adamantine Shield (standard-grade buckler)
+Adamantine Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -320,7 +320,7 @@ TRAITS
 adventuring gear
 
 NAME
-Aeon Stone (clear spindle)
+Aeon Stone (spindle clear)
 SOURCE
 CRB
 PAGE
@@ -341,7 +341,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (dull gray)
+Aeon Stone (gray dull)
 SOURCE
 CRB
 PAGE
@@ -383,7 +383,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (lavender and green ellipsoid)
+Aeon Stone (green ellipsoid and lavender)
 SOURCE
 CRB
 PAGE
@@ -404,7 +404,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (orange prism)
+Aeon Stone (prism orange)
 SOURCE
 CRB
 PAGE
@@ -425,7 +425,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (pale lavender ellipsoid)
+Aeon Stone (pale ellipsoid lavender)
 SOURCE
 CRB
 PAGE
@@ -467,7 +467,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (tourmaline sphere)
+Aeon Stone (sphere tourmaline)
 SOURCE
 CRB
 PAGE
@@ -530,7 +530,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (dusty rose prism)
+Aeon Stone (rose prism dusty)
 SOURCE
 CRB
 PAGE
@@ -593,7 +593,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (pearly white spindle)
+Aeon Stone (spindle white pearly)
 SOURCE
 CRB
 PAGE
@@ -614,7 +614,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (western star)
+Aeon Stone (star western)
 SOURCE
 CRB
 PAGE
@@ -635,7 +635,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (black pearl)
+Aeon Stone (pearl black)
 SOURCE
 CRB
 PAGE
@@ -677,7 +677,7 @@ snare
 trap
 
 NAME
-Alchemist Goggles ()
+Alchemist Goggles
 SOURCE
 CRB
 PAGE
@@ -821,7 +821,7 @@ fire
 splash
 
 NAME
-Alchemist's Lab (Base)
+Alchemist's Lab (base)
 SOURCE
 CRB
 PAGE
@@ -838,7 +838,7 @@ TRAITS
 adventuring gear
 
 NAME
-Alchemist's Lab (Expanded)
+Alchemist's Lab (expanded)
 SOURCE
 CRB
 PAGE
@@ -912,7 +912,7 @@ magical
 rune
 
 NAME
-Animal Staff ()
+Animal Staff
 SOURCE
 CRB
 PAGE
@@ -1190,7 +1190,7 @@ elixir
 healing
 
 NAME
-Armbands of Athleticism ()
+Armbands of Athleticism
 SOURCE
 CRB
 PAGE
@@ -1230,7 +1230,7 @@ transmutation
 worn
 
 NAME
-Armor Potency (+1) Rune
+Armor Potency Rune (+1)
 SOURCE
 CRB
 PAGE
@@ -1249,7 +1249,7 @@ magical
 rune
 
 NAME
-Armor Potency (+2) Rune
+Armor Potency Rune (+2)
 SOURCE
 CRB
 PAGE
@@ -1268,7 +1268,7 @@ magical
 rune
 
 NAME
-Armor Potency (+3) Rune
+Armor Potency Rune (+3)
 SOURCE
 CRB
 PAGE
@@ -1360,7 +1360,7 @@ ingested
 poison
 
 NAME
-Artisan's Tools (Base)
+Artisan's Tools (base)
 SOURCE
 CRB
 PAGE
@@ -1377,7 +1377,7 @@ TRAITS
 adventuring gear
 
 NAME
-Artisan's Tools (Sterling)
+Artisan's Tools (sterling)
 SOURCE
 CRB
 PAGE
@@ -1431,7 +1431,7 @@ TRAITS
 adventuring gear
 
 NAME
-Bag of Holding (Bag Holding (Type I))
+Bag of Holding (i type)
 SOURCE
 CRB
 PAGE
@@ -1451,7 +1451,7 @@ magical
 held
 
 NAME
-Bag of Holding (Bag Holding (Type II))
+Bag of Holding (ii type)
 SOURCE
 CRB
 PAGE
@@ -1471,7 +1471,7 @@ magical
 held
 
 NAME
-Bag of Holding (Bag Holding (Type III))
+Bag of Holding (iii type)
 SOURCE
 CRB
 PAGE
@@ -1491,7 +1491,7 @@ magical
 held
 
 NAME
-Bag of Holding (Bag Holding (Type IV))
+Bag of Holding (iv type)
 SOURCE
 CRB
 PAGE
@@ -1686,7 +1686,7 @@ magical
 worn
 
 NAME
-Berserker's Cloak ()
+Berserker's Cloak
 SOURCE
 CRB
 PAGE
@@ -2060,7 +2060,7 @@ consumable
 elixir
 
 NAME
-Boots of Bounding ()
+Boots of Bounding
 SOURCE
 CRB
 PAGE
@@ -2100,7 +2100,7 @@ transmutation
 worn
 
 NAME
-Boots of Elvenkind ()
+Boots of Elvenkind
 SOURCE
 CRB
 PAGE
@@ -2284,7 +2284,7 @@ transmutation
 worn
 
 NAME
-Bracers of Armor (I)
+Bracers of Armor (i)
 SOURCE
 CRB
 PAGE
@@ -2304,7 +2304,7 @@ magical
 worn
 
 NAME
-Bracers of Armor (II)
+Bracers of Armor (ii)
 SOURCE
 CRB
 PAGE
@@ -2324,7 +2324,7 @@ magical
 worn
 
 NAME
-Bracers of Armor (III)
+Bracers of Armor (iii)
 SOURCE
 CRB
 PAGE
@@ -2344,7 +2344,7 @@ magical
 worn
 
 NAME
-Bracers of Missile Deflection ()
+Bracers of Missile Deflection
 SOURCE
 CRB
 PAGE
@@ -2444,7 +2444,7 @@ elixir
 mental
 
 NAME
-Breastplate of Command ()
+Breastplate of Command
 SOURCE
 CRB
 PAGE
@@ -2891,7 +2891,7 @@ magical
 held
 
 NAME
-Choker of Elocution ()
+Choker of Elocution
 SOURCE
 CRB
 PAGE
@@ -2951,7 +2951,7 @@ invested
 magical
 
 NAME
-Clandestine Cloak ()
+Clandestine Cloak
 SOURCE
 CRB
 PAGE
@@ -3013,7 +3013,7 @@ magical
 ammunition
 
 NAME
-Climbing Kit (Base)
+Climbing Kit (base)
 SOURCE
 CRB
 PAGE
@@ -3030,7 +3030,7 @@ TRAITS
 adventuring gear
 
 NAME
-Climbing Kit (Extreme)
+Climbing Kit (extreme)
 SOURCE
 CRB
 PAGE
@@ -3047,7 +3047,7 @@ TRAITS
 adventuring gear
 
 NAME
-Cloak of Elvenkind ()
+Cloak of Elvenkind
 SOURCE
 CRB
 PAGE
@@ -3087,7 +3087,7 @@ magical
 worn
 
 NAME
-Cloak of the Bat ()
+Cloak of the Bat
 SOURCE
 CRB
 PAGE
@@ -3332,7 +3332,7 @@ precious
 material
 
 NAME
-Cold Iron (low-grade object)
+Cold Iron (object low-grade)
 SOURCE
 CRB
 PAGE
@@ -3350,7 +3350,7 @@ precious
 material
 
 NAME
-Cold Iron (standard-grade object)
+Cold Iron (object standard-grade)
 SOURCE
 CRB
 PAGE
@@ -3368,7 +3368,7 @@ precious
 material
 
 NAME
-Cold Iron (high-grade object)
+Cold Iron (object high-grade)
 SOURCE
 CRB
 PAGE
@@ -3471,7 +3471,7 @@ TRAITS
 material
 
 NAME
-Cold Iron Shield (standard-grade buckler)
+Cold Iron Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -3630,7 +3630,7 @@ primal
 transmutation
 
 NAME
-Compass (Base)
+Compass (base)
 SOURCE
 CRB
 PAGE
@@ -3647,7 +3647,7 @@ TRAITS
 adventuring gear
 
 NAME
-Compass (Lensatic)
+Compass (lensatic)
 SOURCE
 CRB
 PAGE
@@ -3721,7 +3721,7 @@ TRAITS
 adventuring gear
 
 NAME
-Corrosive () Rune
+Corrosive Rune
 SOURCE
 CRB
 PAGE
@@ -3741,7 +3741,7 @@ magical
 rune
 
 NAME
-Corrosive (greater) Rune
+Corrosive Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -3761,7 +3761,7 @@ magical
 rune
 
 NAME
-Coyote Cloak ()
+Coyote Cloak
 SOURCE
 CRB
 PAGE
@@ -3801,7 +3801,7 @@ magical
 worn
 
 NAME
-Crafter's Eyepiece ()
+Crafter's Eyepiece
 SOURCE
 CRB
 PAGE
@@ -3841,7 +3841,7 @@ transmutation
 worn
 
 NAME
-Crowbar (Base)
+Crowbar (base)
 SOURCE
 CRB
 PAGE
@@ -3858,7 +3858,7 @@ TRAITS
 adventuring gear
 
 NAME
-Crowbar (Levered)
+Crowbar (levered)
 SOURCE
 CRB
 PAGE
@@ -3895,7 +3895,7 @@ necromancy
 talisman
 
 NAME
-Crystal Ball (clear quartz)
+Crystal Ball (quartz clear)
 SOURCE
 CRB
 PAGE
@@ -4060,7 +4060,7 @@ magical
 rune
 
 NAME
-Dancing Scarf ()
+Dancing Scarf
 SOURCE
 CRB
 PAGE
@@ -4102,7 +4102,7 @@ visual
 worn
 
 NAME
-Daredevil Boots ()
+Daredevil Boots
 SOURCE
 CRB
 PAGE
@@ -4237,7 +4237,7 @@ precious
 material
 
 NAME
-Darkwood (standard-grade object)
+Darkwood (object standard-grade)
 SOURCE
 CRB
 PAGE
@@ -4256,7 +4256,7 @@ precious
 material
 
 NAME
-Darkwood (high-grade object)
+Darkwood (object high-grade)
 SOURCE
 CRB
 PAGE
@@ -4311,7 +4311,7 @@ uncommon
 material
 
 NAME
-Darkwood Shield (standard-grade buckler)
+Darkwood Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -4347,7 +4347,7 @@ uncommon
 material
 
 NAME
-Darkwood Shield (standard-grade tower)
+Darkwood Shield (tower standard-grade)
 SOURCE
 CRB
 PAGE
@@ -4536,7 +4536,7 @@ necromancy
 armor
 
 NAME
-Demon Mask ()
+Demon Mask
 SOURCE
 CRB
 PAGE
@@ -4616,7 +4616,7 @@ magical
 worn
 
 NAME
-Disguise Kit (Base)
+Disguise Kit (base)
 SOURCE
 CRB
 PAGE
@@ -4633,7 +4633,7 @@ TRAITS
 adventuring gear
 
 NAME
-Disguise Kit (Elite)
+Disguise Kit (elite)
 SOURCE
 CRB
 PAGE
@@ -4691,7 +4691,7 @@ magical
 talisman
 
 NAME
-Disrupting () Rune
+Disrupting Rune
 SOURCE
 CRB
 PAGE
@@ -4710,7 +4710,7 @@ necromancy
 rune
 
 NAME
-Disrupting (greater) Rune
+Disrupting Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -4729,7 +4729,7 @@ necromancy
 rune
 
 NAME
-Doubling Rings ()
+Doubling Rings
 SOURCE
 CRB
 PAGE
@@ -4869,7 +4869,7 @@ magical
 potion
 
 NAME
-Dragonhide (standard-grade object)
+Dragonhide (object standard-grade)
 SOURCE
 CRB
 PAGE
@@ -4888,7 +4888,7 @@ precious
 material
 
 NAME
-Dragonhide (high-grade object)
+Dragonhide (object high-grade)
 SOURCE
 CRB
 PAGE
@@ -4943,7 +4943,7 @@ uncommon
 material
 
 NAME
-Dragonhide Shield (standard-grade buckler)
+Dragonhide Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -5490,7 +5490,7 @@ transmutation
 talisman
 
 NAME
-Energy-Resistant () Rune
+Energy-Resistant Rune
 SOURCE
 CRB
 PAGE
@@ -5509,7 +5509,7 @@ magical
 rune
 
 NAME
-Energy-Resistant (greater) Rune
+Energy-Resistant Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -5997,7 +5997,7 @@ transmutation
 weapon
 
 NAME
-Fishing Tackle (Base)
+Fishing Tackle (base)
 SOURCE
 CRB
 PAGE
@@ -6014,7 +6014,7 @@ TRAITS
 adventuring gear
 
 NAME
-Fishing Tackle (Professional)
+Fishing Tackle (professional)
 SOURCE
 CRB
 PAGE
@@ -6051,7 +6051,7 @@ magical
 talisman
 
 NAME
-Flame Tongue ()
+Flame Tongue
 SOURCE
 CRB
 PAGE
@@ -6091,7 +6091,7 @@ magical
 weapon
 
 NAME
-Flaming () Rune
+Flaming Rune
 SOURCE
 CRB
 PAGE
@@ -6111,7 +6111,7 @@ magical
 rune
 
 NAME
-Flaming (greater) Rune
+Flaming Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -6148,7 +6148,7 @@ TRAITS
 adventuring gear
 
 NAME
-Floating Shield ()
+Floating Shield
 SOURCE
 CRB
 PAGE
@@ -6265,7 +6265,7 @@ TRAITS
 adventuring gear
 
 NAME
-Fortification () Rune
+Fortification Rune
 SOURCE
 CRB
 PAGE
@@ -6284,7 +6284,7 @@ magical
 rune
 
 NAME
-Fortification (greater) Rune
+Fortification Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -6303,7 +6303,7 @@ magical
 rune
 
 NAME
-Frost () Rune
+Frost Rune
 SOURCE
 CRB
 PAGE
@@ -6323,7 +6323,7 @@ magical
 rune
 
 NAME
-Frost (greater) Rune
+Frost Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -6666,7 +6666,7 @@ transmutation
 worn
 
 NAME
-Goggles of Night ()
+Goggles of Night
 SOURCE
 CRB
 PAGE
@@ -6960,7 +6960,7 @@ transmutation
 worn
 
 NAME
-Handwraps of Mighty Blows (+2 striking)
+Handwraps of Mighty Blows (striking +2)
 SOURCE
 CRB
 PAGE
@@ -6980,7 +6980,7 @@ transmutation
 worn
 
 NAME
-Handwraps of Mighty Blows (+2 greater striking)
+Handwraps of Mighty Blows (greater striking +2)
 SOURCE
 CRB
 PAGE
@@ -7000,7 +7000,7 @@ transmutation
 worn
 
 NAME
-Handwraps of Mighty Blows (+3 greater striking)
+Handwraps of Mighty Blows (greater +3 striking)
 SOURCE
 CRB
 PAGE
@@ -7020,7 +7020,7 @@ transmutation
 worn
 
 NAME
-Handwraps of Mighty Blows (+3 major striking)
+Handwraps of Mighty Blows (major +3 striking)
 SOURCE
 CRB
 PAGE
@@ -7040,7 +7040,7 @@ transmutation
 worn
 
 NAME
-Hat of Disguise ()
+Hat of Disguise
 SOURCE
 CRB
 PAGE
@@ -7080,7 +7080,7 @@ magical
 worn
 
 NAME
-Hat of the Magi ()
+Hat of the Magi
 SOURCE
 CRB
 PAGE
@@ -7141,7 +7141,7 @@ magical
 fortune
 
 NAME
-Healer's Gloves ()
+Healer's Gloves
 SOURCE
 CRB
 PAGE
@@ -7181,7 +7181,7 @@ necromancy
 worn
 
 NAME
-Healer's Tools (Base)
+Healer's Tools (base)
 SOURCE
 CRB
 PAGE
@@ -7198,7 +7198,7 @@ TRAITS
 adventuring gear
 
 NAME
-Healer's Tools (Expanded)
+Healer's Tools (expanded)
 SOURCE
 CRB
 PAGE
@@ -7524,7 +7524,7 @@ water
 held
 
 NAME
-Horseshoes of Speed ()
+Horseshoes of Speed
 SOURCE
 CRB
 PAGE
@@ -7761,7 +7761,7 @@ magical
 structure
 
 NAME
-Invisibility () Rune
+Invisibility Rune
 SOURCE
 CRB
 PAGE
@@ -7780,7 +7780,7 @@ magical
 rune
 
 NAME
-Invisibility (greater) Rune
+Invisibility Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -8086,7 +8086,7 @@ poison
 virulent
 
 NAME
-Knapsack of Halflingkind ()
+Knapsack of Halflingkind
 SOURCE
 CRB
 PAGE
@@ -8149,7 +8149,7 @@ TRAITS
 adventuring gear
 
 NAME
-Lantern (Bull's Eye)
+Lantern (bull's eye)
 SOURCE
 CRB
 PAGE
@@ -8166,7 +8166,7 @@ TRAITS
 adventuring gear
 
 NAME
-Lantern (Hooded)
+Lantern (hooded)
 SOURCE
 CRB
 PAGE
@@ -8303,7 +8303,7 @@ magical
 shield
 
 NAME
-Lock (Poor)
+Lock (poor)
 SOURCE
 CRB
 PAGE
@@ -8320,7 +8320,7 @@ TRAITS
 adventuring gear
 
 NAME
-Lock (Simple)
+Lock (simple)
 SOURCE
 CRB
 PAGE
@@ -8337,7 +8337,7 @@ TRAITS
 adventuring gear
 
 NAME
-Lock (Average)
+Lock (average)
 SOURCE
 CRB
 PAGE
@@ -8354,7 +8354,7 @@ TRAITS
 adventuring gear
 
 NAME
-Lock (Good)
+Lock (good)
 SOURCE
 CRB
 PAGE
@@ -8371,7 +8371,7 @@ TRAITS
 adventuring gear
 
 NAME
-Lock (Superior)
+Lock (superior)
 SOURCE
 CRB
 PAGE
@@ -8388,7 +8388,7 @@ TRAITS
 adventuring gear
 
 NAME
-Luck Blade ()
+Luck Blade
 SOURCE
 CRB
 PAGE
@@ -8523,7 +8523,7 @@ magical
 wand
 
 NAME
-Magic Wand (3rd-level spell)
+Magic Wand (spell 3rd-level)
 SOURCE
 CRB
 PAGE
@@ -8541,7 +8541,7 @@ magical
 wand
 
 NAME
-Magic Wand (4th-level spell)
+Magic Wand (spell 4th-level)
 SOURCE
 CRB
 PAGE
@@ -8577,7 +8577,7 @@ magical
 wand
 
 NAME
-Magic Wand (6th-level spell)
+Magic Wand (spell 6th-level)
 SOURCE
 CRB
 PAGE
@@ -8613,7 +8613,7 @@ magical
 wand
 
 NAME
-Magic Wand (8th-level spell)
+Magic Wand (spell 8th-level)
 SOURCE
 CRB
 PAGE
@@ -8706,7 +8706,7 @@ contact
 poison
 
 NAME
-Manacles (Poor)
+Manacles (poor)
 SOURCE
 CRB
 PAGE
@@ -8723,7 +8723,7 @@ TRAITS
 adventuring gear
 
 NAME
-Manacles (Simple)
+Manacles (simple)
 SOURCE
 CRB
 PAGE
@@ -8740,7 +8740,7 @@ TRAITS
 adventuring gear
 
 NAME
-Manacles (Average)
+Manacles (average)
 SOURCE
 CRB
 PAGE
@@ -8757,7 +8757,7 @@ TRAITS
 adventuring gear
 
 NAME
-Manacles (Good)
+Manacles (good)
 SOURCE
 CRB
 PAGE
@@ -8774,7 +8774,7 @@ TRAITS
 adventuring gear
 
 NAME
-Manacles (Superior)
+Manacles (superior)
 SOURCE
 CRB
 PAGE
@@ -8907,7 +8907,7 @@ magical
 talisman
 
 NAME
-Mentalist's Staff ()
+Mentalist's Staff
 SOURCE
 CRB
 PAGE
@@ -9001,7 +9001,7 @@ magical
 talisman
 
 NAME
-Messenger's Ring ()
+Messenger's Ring
 SOURCE
 CRB
 PAGE
@@ -9179,7 +9179,7 @@ precious
 material
 
 NAME
-Mithral (standard-grade object)
+Mithral (object standard-grade)
 SOURCE
 CRB
 PAGE
@@ -9198,7 +9198,7 @@ precious
 material
 
 NAME
-Mithral (high-grade object)
+Mithral (object high-grade)
 SOURCE
 CRB
 PAGE
@@ -9253,7 +9253,7 @@ uncommon
 material
 
 NAME
-Mithral Shield (standard-grade buckler)
+Mithral Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -9458,7 +9458,7 @@ magical
 talisman
 
 NAME
-Musical Instrument (Handheld)
+Musical Instrument (handheld)
 SOURCE
 CRB
 PAGE
@@ -9475,7 +9475,7 @@ TRAITS
 adventuring gear
 
 NAME
-Musical Instrument (Virtuoso Handheld)
+Musical Instrument (virtuoso handheld)
 SOURCE
 CRB
 PAGE
@@ -9492,7 +9492,7 @@ TRAITS
 adventuring gear
 
 NAME
-Musical Instrument (Heavy)
+Musical Instrument (heavy)
 SOURCE
 CRB
 PAGE
@@ -9509,7 +9509,7 @@ TRAITS
 adventuring gear
 
 NAME
-Musical Instrument (Virtuoso Heavy)
+Musical Instrument (virtuoso heavy)
 SOURCE
 CRB
 PAGE
@@ -9526,7 +9526,7 @@ TRAITS
 adventuring gear
 
 NAME
-Necklace of Fireballs (I)
+Necklace of Fireballs (i)
 SOURCE
 CRB
 PAGE
@@ -9546,7 +9546,7 @@ magical
 worn
 
 NAME
-Necklace of Fireballs (II)
+Necklace of Fireballs (ii)
 SOURCE
 CRB
 PAGE
@@ -9566,7 +9566,7 @@ magical
 worn
 
 NAME
-Necklace of Fireballs (III)
+Necklace of Fireballs (iii)
 SOURCE
 CRB
 PAGE
@@ -9586,7 +9586,7 @@ magical
 worn
 
 NAME
-Necklace of Fireballs (IV)
+Necklace of Fireballs (iv)
 SOURCE
 CRB
 PAGE
@@ -9606,7 +9606,7 @@ magical
 worn
 
 NAME
-Necklace of Fireballs (V)
+Necklace of Fireballs (v)
 SOURCE
 CRB
 PAGE
@@ -9626,7 +9626,7 @@ magical
 worn
 
 NAME
-Necklace of Fireballs (VI)
+Necklace of Fireballs (vi)
 SOURCE
 CRB
 PAGE
@@ -9646,7 +9646,7 @@ magical
 worn
 
 NAME
-Necklace of Fireballs (VII)
+Necklace of Fireballs (vii)
 SOURCE
 CRB
 PAGE
@@ -9884,7 +9884,7 @@ magical
 oil
 
 NAME
-Oil of Weightlessness ()
+Oil of Weightlessness
 SOURCE
 CRB
 PAGE
@@ -10002,7 +10002,7 @@ precious
 material
 
 NAME
-Orichalcum (high-grade object)
+Orichalcum (object high-grade)
 SOURCE
 CRB
 PAGE
@@ -10135,7 +10135,7 @@ necromancy
 potion
 
 NAME
-Pendant of the Occult ()
+Pendant of the Occult
 SOURCE
 CRB
 PAGE
@@ -10195,7 +10195,7 @@ transmutation
 ammunition
 
 NAME
-Persona Mask ()
+Persona Mask
 SOURCE
 CRB
 PAGE
@@ -10257,7 +10257,7 @@ consumable
 tool
 
 NAME
-Phylactery of Faithfulness ()
+Phylactery of Faithfulness
 SOURCE
 CRB
 PAGE
@@ -10813,7 +10813,7 @@ magical
 shield
 
 NAME
-Religious Symbol (Wooden)
+Religious Symbol (wooden)
 SOURCE
 CRB
 PAGE
@@ -10830,7 +10830,7 @@ TRAITS
 adventuring gear
 
 NAME
-Religious Symbol (Silver)
+Religious Symbol (silver)
 SOURCE
 CRB
 PAGE
@@ -10864,7 +10864,7 @@ TRAITS
 adventuring gear
 
 NAME
-Repair Kit (Base)
+Repair Kit (base)
 SOURCE
 CRB
 PAGE
@@ -10881,7 +10881,7 @@ TRAITS
 adventuring gear
 
 NAME
-Repair Kit (Superb)
+Repair Kit (superb)
 SOURCE
 CRB
 PAGE
@@ -10898,7 +10898,7 @@ TRAITS
 adventuring gear
 
 NAME
-Replacement Cosmetics (Base)
+Replacement Cosmetics (base)
 SOURCE
 CRB
 PAGE
@@ -10915,7 +10915,7 @@ TRAITS
 adventuring gear
 
 NAME
-Replacement Cosmetics (Elite Replacement Cosmetics)
+Replacement Cosmetics (elite)
 SOURCE
 CRB
 PAGE
@@ -10932,7 +10932,7 @@ TRAITS
 adventuring gear
 
 NAME
-Replacement Picks (Replacement Picks)
+Replacement Picks
 SOURCE
 CRB
 PAGE
@@ -10949,7 +10949,7 @@ TRAITS
 adventuring gear
 
 NAME
-Replacement Picks (Infiltrator)
+Replacement Picks (infiltrator)
 SOURCE
 CRB
 PAGE
@@ -10966,7 +10966,7 @@ TRAITS
 adventuring gear
 
 NAME
-Replacement Picks (Concealable)
+Replacement Picks (concealable)
 SOURCE
 CRB
 PAGE
@@ -10983,7 +10983,7 @@ TRAITS
 adventuring gear
 
 NAME
-Resilient () Rune
+Resilient Rune
 SOURCE
 CRB
 PAGE
@@ -11002,7 +11002,7 @@ magical
 rune
 
 NAME
-Resilient (greater) Rune
+Resilient Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -11021,7 +11021,7 @@ magical
 rune
 
 NAME
-Resilient (major) Rune
+Resilient Rune (major)
 SOURCE
 CRB
 PAGE
@@ -11139,7 +11139,7 @@ magical
 worn
 
 NAME
-Ring of Energy Resistance ()
+Ring of Energy Resistance
 SOURCE
 CRB
 PAGE
@@ -11220,7 +11220,7 @@ magical
 worn
 
 NAME
-Ring of Maniacal Devices ()
+Ring of Maniacal Devices
 SOURCE
 CRB
 PAGE
@@ -11322,7 +11322,7 @@ transmutation
 worn
 
 NAME
-Ring of the Ram ()
+Ring of the Ram
 SOURCE
 CRB
 PAGE
@@ -11364,7 +11364,7 @@ magical
 worn
 
 NAME
-Ring of Wizardry (Ring Wizardry (Type I))
+Ring of Wizardry (i type)
 SOURCE
 CRB
 PAGE
@@ -11385,7 +11385,7 @@ invested
 worn
 
 NAME
-Ring of Wizardry (Ring Wizardry (Type II))
+Ring of Wizardry (ii type)
 SOURCE
 CRB
 PAGE
@@ -11406,7 +11406,7 @@ invested
 worn
 
 NAME
-Ring of Wizardry (Ring Wizardry (Type III))
+Ring of Wizardry (iii type)
 SOURCE
 CRB
 PAGE
@@ -11427,7 +11427,7 @@ invested
 worn
 
 NAME
-Ring of Wizardry (Ring Wizardry (Type IV))
+Ring of Wizardry (iv type)
 SOURCE
 CRB
 PAGE
@@ -11469,7 +11469,7 @@ magical
 worn
 
 NAME
-Robe of the Archmagi ()
+Robe of the Archmagi
 SOURCE
 CRB
 PAGE
@@ -11677,7 +11677,7 @@ consumable
 elixir
 
 NAME
-Salve of Antiparalysis ()
+Salve of Antiparalysis
 SOURCE
 CRB
 PAGE
@@ -11760,7 +11760,7 @@ magical
 talisman
 
 NAME
-Scholarly Journal (Scholarly Journal)
+Scholarly Journal
 SOURCE
 CRB
 PAGE
@@ -11778,7 +11778,7 @@ uncommon
 adventuring gear
 
 NAME
-Scholarly Journal (Scholarly Journal Compendium)
+Scholarly Journal (compendium)
 SOURCE
 CRB
 PAGE
@@ -11834,7 +11834,7 @@ magical
 scroll
 
 NAME
-Scroll (3rd-level spell)
+Scroll (spell 3rd-level)
 SOURCE
 CRB
 PAGE
@@ -11853,7 +11853,7 @@ magical
 scroll
 
 NAME
-Scroll (4th-level spell)
+Scroll (spell 4th-level)
 SOURCE
 CRB
 PAGE
@@ -11891,7 +11891,7 @@ magical
 scroll
 
 NAME
-Scroll (6th-level spell)
+Scroll (spell 6th-level)
 SOURCE
 CRB
 PAGE
@@ -11929,7 +11929,7 @@ magical
 scroll
 
 NAME
-Scroll (8th-level spell)
+Scroll (spell 8th-level)
 SOURCE
 CRB
 PAGE
@@ -12170,7 +12170,7 @@ potion
 transmutation
 
 NAME
-Shadow () Rune
+Shadow Rune
 SOURCE
 CRB
 PAGE
@@ -12189,7 +12189,7 @@ transmutation
 rune
 
 NAME
-Shadow (greater) Rune
+Shadow Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -12208,7 +12208,7 @@ transmutation
 rune
 
 NAME
-Shadow (major) Rune
+Shadow Rune (major)
 SOURCE
 CRB
 PAGE
@@ -12308,7 +12308,7 @@ magical
 ammunition
 
 NAME
-Shock () Rune
+Shock Rune
 SOURCE
 CRB
 PAGE
@@ -12328,7 +12328,7 @@ magical
 rune
 
 NAME
-Shock (greater) Rune
+Shock Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -12461,7 +12461,7 @@ precious
 material
 
 NAME
-Silver (low-grade object)
+Silver (object low-grade)
 SOURCE
 CRB
 PAGE
@@ -12479,7 +12479,7 @@ precious
 material
 
 NAME
-Silver (standard-grade object)
+Silver (object standard-grade)
 SOURCE
 CRB
 PAGE
@@ -12497,7 +12497,7 @@ precious
 material
 
 NAME
-Silver (high-grade object)
+Silver (object high-grade)
 SOURCE
 CRB
 PAGE
@@ -12600,7 +12600,7 @@ TRAITS
 material
 
 NAME
-Silver Shield (standard-grade buckler)
+Silver Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -12902,7 +12902,7 @@ sleep
 ammunition
 
 NAME
-Slick () Rune
+Slick Rune
 SOURCE
 CRB
 PAGE
@@ -12921,7 +12921,7 @@ transmutation
 rune
 
 NAME
-Slick (greater) Rune
+Slick Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -12940,7 +12940,7 @@ transmutation
 rune
 
 NAME
-Slick (major) Rune
+Slick Rune (major)
 SOURCE
 CRB
 PAGE
@@ -13074,7 +13074,7 @@ consumable
 tool
 
 NAME
-Snare Kit (Snare Kit)
+Snare Kit
 SOURCE
 CRB
 PAGE
@@ -13091,7 +13091,7 @@ TRAITS
 adventuring gear
 
 NAME
-Snare Kit (Specialist)
+Snare Kit (specialist)
 SOURCE
 CRB
 PAGE
@@ -13221,7 +13221,7 @@ magical
 shield
 
 NAME
-Spellstrike Ammunition (I)
+Spellstrike Ammunition (i)
 SOURCE
 CRB
 PAGE
@@ -13241,7 +13241,7 @@ transmutation
 ammunition
 
 NAME
-Spellstrike Ammunition (II)
+Spellstrike Ammunition (ii)
 SOURCE
 CRB
 PAGE
@@ -13261,7 +13261,7 @@ transmutation
 ammunition
 
 NAME
-Spellstrike Ammunition (III)
+Spellstrike Ammunition (iii)
 SOURCE
 CRB
 PAGE
@@ -13281,7 +13281,7 @@ transmutation
 ammunition
 
 NAME
-Spellstrike Ammunition (IV)
+Spellstrike Ammunition (iv)
 SOURCE
 CRB
 PAGE
@@ -13301,7 +13301,7 @@ transmutation
 ammunition
 
 NAME
-Spellstrike Ammunition (V)
+Spellstrike Ammunition (v)
 SOURCE
 CRB
 PAGE
@@ -13321,7 +13321,7 @@ transmutation
 ammunition
 
 NAME
-Spellstrike Ammunition (VI)
+Spellstrike Ammunition (vi)
 SOURCE
 CRB
 PAGE
@@ -13341,7 +13341,7 @@ transmutation
 ammunition
 
 NAME
-Spellstrike Ammunition (VII)
+Spellstrike Ammunition (vii)
 SOURCE
 CRB
 PAGE
@@ -13361,7 +13361,7 @@ transmutation
 ammunition
 
 NAME
-Spellstrike Ammunition (VIII)
+Spellstrike Ammunition (viii)
 SOURCE
 CRB
 PAGE
@@ -13381,7 +13381,7 @@ transmutation
 ammunition
 
 NAME
-Spellstrike Ammunition (IX)
+Spellstrike Ammunition (ix)
 SOURCE
 CRB
 PAGE
@@ -13460,7 +13460,7 @@ magical
 shield
 
 NAME
-Spyglass (Base)
+Spyglass (base)
 SOURCE
 CRB
 PAGE
@@ -13477,7 +13477,7 @@ TRAITS
 adventuring gear
 
 NAME
-Spyglass (Fine)
+Spyglass (fine)
 SOURCE
 CRB
 PAGE
@@ -13494,7 +13494,7 @@ TRAITS
 adventuring gear
 
 NAME
-Staff of Abjuration ()
+Staff of Abjuration
 SOURCE
 CRB
 PAGE
@@ -13551,7 +13551,7 @@ magical
 staff
 
 NAME
-Staff of Conjuration ()
+Staff of Conjuration
 SOURCE
 CRB
 PAGE
@@ -13608,7 +13608,7 @@ magical
 staff
 
 NAME
-Staff of Divination ()
+Staff of Divination
 SOURCE
 CRB
 PAGE
@@ -13665,7 +13665,7 @@ magical
 staff
 
 NAME
-Staff of Enchantment ()
+Staff of Enchantment
 SOURCE
 CRB
 PAGE
@@ -13722,7 +13722,7 @@ magical
 staff
 
 NAME
-Staff of Evocation ()
+Staff of Evocation
 SOURCE
 CRB
 PAGE
@@ -13779,7 +13779,7 @@ magical
 staff
 
 NAME
-Staff of Fire ()
+Staff of Fire
 SOURCE
 CRB
 PAGE
@@ -13836,7 +13836,7 @@ magical
 staff
 
 NAME
-Staff of Healing ()
+Staff of Healing
 SOURCE
 CRB
 PAGE
@@ -13931,7 +13931,7 @@ magical
 staff
 
 NAME
-Staff of Illusion ()
+Staff of Illusion
 SOURCE
 CRB
 PAGE
@@ -13988,7 +13988,7 @@ magical
 staff
 
 NAME
-Staff of Necromancy ()
+Staff of Necromancy
 SOURCE
 CRB
 PAGE
@@ -14085,7 +14085,7 @@ magical
 staff
 
 NAME
-Staff of Transmutation ()
+Staff of Transmutation
 SOURCE
 CRB
 PAGE
@@ -14225,7 +14225,7 @@ magical
 ammunition
 
 NAME
-Storm Flash ()
+Storm Flash
 SOURCE
 CRB
 PAGE
@@ -14265,7 +14265,7 @@ magical
 weapon
 
 NAME
-Striking () Rune
+Striking Rune
 SOURCE
 CRB
 PAGE
@@ -14284,7 +14284,7 @@ magical
 rune
 
 NAME
-Striking (greater) Rune
+Striking Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -14303,7 +14303,7 @@ magical
 rune
 
 NAME
-Striking (major) Rune
+Striking Rune (major)
 SOURCE
 CRB
 PAGE
@@ -14496,7 +14496,7 @@ light
 tool
 
 NAME
-Survey Map (Survey Map)
+Survey Map
 SOURCE
 CRB
 PAGE
@@ -14514,7 +14514,7 @@ uncommon
 adventuring gear
 
 NAME
-Survey Map (Survey Map Atlas)
+Survey Map (atlas)
 SOURCE
 CRB
 PAGE
@@ -14684,7 +14684,7 @@ TRAITS
 adventuring gear
 
 NAME
-Tent (Pup)
+Tent (pup)
 SOURCE
 CRB
 PAGE
@@ -14701,7 +14701,7 @@ TRAITS
 adventuring gear
 
 NAME
-Tent (Four-person)
+Tent (four-person)
 SOURCE
 CRB
 PAGE
@@ -14718,7 +14718,7 @@ TRAITS
 adventuring gear
 
 NAME
-Tent (Pavilion)
+Tent (pavilion)
 SOURCE
 CRB
 PAGE
@@ -14735,7 +14735,7 @@ TRAITS
 adventuring gear
 
 NAME
-Thieves' Tools (Thieves' Tools)
+Thieves' Tools
 SOURCE
 CRB
 PAGE
@@ -14752,7 +14752,7 @@ TRAITS
 adventuring gear
 
 NAME
-Thieves' Tools (Infiltrator)
+Thieves' Tools (infiltrator)
 SOURCE
 CRB
 PAGE
@@ -14769,7 +14769,7 @@ TRAITS
 adventuring gear
 
 NAME
-Thieves' Tools (Concealable)
+Thieves' Tools (concealable)
 SOURCE
 CRB
 PAGE
@@ -14806,7 +14806,7 @@ magical
 worn
 
 NAME
-Thundering () Rune
+Thundering Rune
 SOURCE
 CRB
 PAGE
@@ -14826,7 +14826,7 @@ sonic
 rune
 
 NAME
-Thundering (greater) Rune
+Thundering Rune (greater)
 SOURCE
 CRB
 PAGE
@@ -15027,7 +15027,7 @@ fire
 tool
 
 NAME
-Tool (Long)
+Tool (long)
 SOURCE
 CRB
 PAGE
@@ -15044,7 +15044,7 @@ TRAITS
 adventuring gear
 
 NAME
-Tool (Short)
+Tool (short)
 SOURCE
 CRB
 PAGE
@@ -15078,7 +15078,7 @@ TRAITS
 adventuring gear
 
 NAME
-Tracker's Goggles ()
+Tracker's Goggles
 SOURCE
 CRB
 PAGE
@@ -15299,7 +15299,7 @@ magical
 talisman
 
 NAME
-Ventriloquist's Ring ()
+Ventriloquist's Ring
 SOURCE
 CRB
 PAGE
@@ -15339,7 +15339,7 @@ magical
 worn
 
 NAME
-Verdant Staff ()
+Verdant Staff
 SOURCE
 CRB
 PAGE
@@ -15516,7 +15516,7 @@ magical
 wand
 
 NAME
-Wand of Continuation (3rd-level spell)
+Wand of Continuation (spell 3rd-level)
 SOURCE
 CRB
 PAGE
@@ -15534,7 +15534,7 @@ magical
 wand
 
 NAME
-Wand of Continuation (4th-level spell)
+Wand of Continuation (spell 4th-level)
 SOURCE
 CRB
 PAGE
@@ -15570,7 +15570,7 @@ magical
 wand
 
 NAME
-Wand of Continuation (6th-level spell)
+Wand of Continuation (spell 6th-level)
 SOURCE
 CRB
 PAGE
@@ -15606,7 +15606,7 @@ magical
 wand
 
 NAME
-Wand of Continuation (8th-level spell)
+Wand of Continuation (spell 8th-level)
 SOURCE
 CRB
 PAGE
@@ -15644,7 +15644,7 @@ magical
 wand
 
 NAME
-Wand of Manifold Missiles (3rd-level spell)
+Wand of Manifold Missiles (spell 3rd-level)
 SOURCE
 CRB
 PAGE
@@ -15704,7 +15704,7 @@ magical
 wand
 
 NAME
-Wand of Slaying (7th level spell)
+Wand of Slaying (level 7th spell)
 SOURCE
 CRB
 PAGE
@@ -15723,7 +15723,7 @@ magical
 wand
 
 NAME
-Wand of Slaying (8th level spell)
+Wand of Slaying (level spell 8th)
 SOURCE
 CRB
 PAGE
@@ -15742,7 +15742,7 @@ magical
 wand
 
 NAME
-Wand of Slaying (9th level spell)
+Wand of Slaying (level spell 9th)
 SOURCE
 CRB
 PAGE
@@ -15761,7 +15761,7 @@ magical
 wand
 
 NAME
-Wand of Smoldering Fireballs (3rd-level spell)
+Wand of Smoldering Fireballs (spell 3rd-level)
 SOURCE
 CRB
 PAGE
@@ -15877,7 +15877,7 @@ magical
 wand
 
 NAME
-Wand of Widening (3rd-level spell)
+Wand of Widening (spell 3rd-level)
 SOURCE
 CRB
 PAGE
@@ -15895,7 +15895,7 @@ magical
 wand
 
 NAME
-Wand of Widening (4th-level spell)
+Wand of Widening (spell 4th-level)
 SOURCE
 CRB
 PAGE
@@ -15931,7 +15931,7 @@ magical
 wand
 
 NAME
-Wand of Widening (6th-level spell)
+Wand of Widening (spell 6th-level)
 SOURCE
 CRB
 PAGE
@@ -15967,7 +15967,7 @@ magical
 wand
 
 NAME
-Wand of Widening (8th-level spell)
+Wand of Widening (spell 8th-level)
 SOURCE
 CRB
 PAGE
@@ -16062,7 +16062,7 @@ magical
 worn
 
 NAME
-Weapon Potency (+1) Rune
+Weapon Potency Rune (+1)
 SOURCE
 CRB
 PAGE
@@ -16081,7 +16081,7 @@ magical
 rune
 
 NAME
-Weapon Potency (+2) Rune
+Weapon Potency Rune (+2)
 SOURCE
 CRB
 PAGE
@@ -16100,7 +16100,7 @@ magical
 rune
 
 NAME
-Weapon Potency (+3) Rune
+Weapon Potency Rune (+3)
 SOURCE
 CRB
 PAGE
@@ -16119,7 +16119,7 @@ magical
 rune
 
 NAME
-Weapon Potency (+4) Rune
+Weapon Potency Rune (+4)
 SOURCE
 CRB
 PAGE
@@ -16295,7 +16295,7 @@ magical
 held
 
 NAME
-Wondrous Figurine (jade serpent)
+Wondrous Figurine (serpent jade)
 SOURCE
 CRB
 PAGE
@@ -16314,7 +16314,7 @@ magical
 held
 
 NAME
-Wondrous Figurine (marble elephant)
+Wondrous Figurine (elephant marble)
 SOURCE
 CRB
 PAGE
@@ -16333,7 +16333,7 @@ magical
 held
 
 NAME
-Wondrous Figurine (obsidian steed)
+Wondrous Figurine (steed obsidian)
 SOURCE
 CRB
 PAGE
@@ -16352,7 +16352,7 @@ magical
 held
 
 NAME
-Wondrous Figurine (onyx dog)
+Wondrous Figurine (dog onyx)
 SOURCE
 CRB
 PAGE

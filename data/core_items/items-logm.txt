@@ -62,7 +62,7 @@ necromancy
 follower of {@deity achaekek
 
 NAME
-Deteriorating Dust ()
+Deteriorating Dust
 SOURCE
 LOGM
 PAGE

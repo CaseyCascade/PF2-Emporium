@@ -1,5 +1,5 @@
 NAME
-Stone (low-grade object)
+Stone (object low-grade)
 SOURCE
 TV
 PAGE
@@ -261,7 +261,7 @@ held
 teleportation
 
 NAME
-Fortune's Coin ()
+Fortune's Coin
 SOURCE
 TV
 PAGE
@@ -582,7 +582,7 @@ magical
 tattoo
 
 NAME
-Bewitching Bloom (cherry blossom)
+Bewitching Bloom (blossom cherry)
 SOURCE
 TV
 PAGE
@@ -662,7 +662,7 @@ magical
 tattoo
 
 NAME
-Bewitching Bloom (purple iris)
+Bewitching Bloom (iris purple)
 SOURCE
 TV
 PAGE
@@ -763,7 +763,7 @@ magical
 tattoo
 
 NAME
-Eye Slash ()
+Eye Slash
 SOURCE
 TV
 PAGE
@@ -843,7 +843,7 @@ magical
 tattoo
 
 NAME
-Faith Tattoo ()
+Faith Tattoo
 SOURCE
 TV
 PAGE
@@ -1081,7 +1081,7 @@ magical
 tattoo
 
 NAME
-Soaring Wings ()
+Soaring Wings
 SOURCE
 TV
 PAGE
@@ -1181,7 +1181,7 @@ magical
 tattoo
 
 NAME
-Tooth and Claw Tattoo ()
+Tooth and Claw Tattoo
 SOURCE
 TV
 PAGE
@@ -1247,7 +1247,7 @@ morph
 polymorph
 
 NAME
-Tradecraft Tattoo ()
+Tradecraft Tattoo
 SOURCE
 TV
 PAGE
@@ -1460,7 +1460,7 @@ magical
 tattoo
 
 NAME
-Wildwood Ink ()
+Wildwood Ink
 SOURCE
 TV
 PAGE
@@ -1520,7 +1520,7 @@ tattoo
 transmutation
 
 NAME
-Wyrm on the Wing ()
+Wyrm on the Wing
 SOURCE
 TV
 PAGE
@@ -1580,7 +1580,7 @@ magical
 tattoo
 
 NAME
-Beastmaster's Sigil ()
+Beastmaster's Sigil
 SOURCE
 TV
 PAGE
@@ -1637,7 +1637,7 @@ magical
 spellheart
 
 NAME
-Brightbloom Posy ()
+Brightbloom Posy
 SOURCE
 TV
 PAGE
@@ -1697,7 +1697,7 @@ plant
 spellheart
 
 NAME
-Desolation Locket ()
+Desolation Locket
 SOURCE
 TV
 PAGE
@@ -1754,7 +1754,7 @@ magical
 spellheart
 
 NAME
-Enigma Mirror ()
+Enigma Mirror
 SOURCE
 TV
 PAGE
@@ -1811,7 +1811,7 @@ magical
 spellheart
 
 NAME
-Ghostcaller's Planchette ()
+Ghostcaller's Planchette
 SOURCE
 TV
 PAGE
@@ -1849,7 +1849,7 @@ necromancy
 spellheart
 
 NAME
-Jolt Coil ()
+Jolt Coil
 SOURCE
 TV
 PAGE
@@ -1909,7 +1909,7 @@ magical
 spellheart
 
 NAME
-Judgment Thurible ()
+Judgment Thurible
 SOURCE
 TV
 PAGE
@@ -1966,7 +1966,7 @@ magical
 spellheart
 
 NAME
-Jyoti's Feather ()
+Jyoti's Feather
 SOURCE
 TV
 PAGE
@@ -2029,7 +2029,7 @@ positive
 spellheart
 
 NAME
-Lightweave Scarf ()
+Lightweave Scarf
 SOURCE
 TV
 PAGE
@@ -2089,7 +2089,7 @@ spellheart
 visual
 
 NAME
-Phantasmal Doorknob ()
+Phantasmal Doorknob
 SOURCE
 TV
 PAGE
@@ -2152,7 +2152,7 @@ mental
 spellheart
 
 NAME
-Radiant Prism ()
+Radiant Prism
 SOURCE
 TV
 PAGE
@@ -2209,7 +2209,7 @@ magical
 spellheart
 
 NAME
-Resonating Fork ()
+Resonating Fork
 SOURCE
 TV
 PAGE
@@ -2269,7 +2269,7 @@ sonic
 spellheart
 
 NAME
-Rime Crystal ()
+Rime Crystal
 SOURCE
 TV
 PAGE
@@ -2329,7 +2329,7 @@ magical
 spellheart
 
 NAME
-Sanguine Fang ()
+Sanguine Fang
 SOURCE
 TV
 PAGE
@@ -2389,7 +2389,7 @@ negative
 spellheart
 
 NAME
-Saurian Spike ()
+Saurian Spike
 SOURCE
 TV
 PAGE
@@ -2446,7 +2446,7 @@ spellheart
 transmutation
 
 NAME
-Vigilant Eye ()
+Vigilant Eye
 SOURCE
 TV
 PAGE
@@ -2503,7 +2503,7 @@ magical
 spellheart
 
 NAME
-Warding Statuette ()
+Warding Statuette
 SOURCE
 TV
 PAGE
@@ -2543,7 +2543,7 @@ magical
 spellheart
 
 NAME
-Wyrm Claw ()
+Wyrm Claw
 SOURCE
 TV
 PAGE
@@ -2600,7 +2600,7 @@ magical
 spellheart
 
 NAME
-Accursed Staff ()
+Accursed Staff
 SOURCE
 TV
 PAGE
@@ -2657,7 +2657,7 @@ necromancy
 staff
 
 NAME
-Beast Staff ()
+Beast Staff
 SOURCE
 TV
 PAGE
@@ -2714,7 +2714,7 @@ staff
 transmutation
 
 NAME
-Boreal Staff ()
+Boreal Staff
 SOURCE
 TV
 PAGE
@@ -2812,7 +2812,7 @@ magical
 staff
 
 NAME
-Composer Staff ()
+Composer Staff
 SOURCE
 TV
 PAGE
@@ -2869,7 +2869,7 @@ magical
 staff
 
 NAME
-Dragonprism Staff ()
+Dragonprism Staff
 SOURCE
 TV
 PAGE
@@ -2927,7 +2927,7 @@ magical
 staff
 
 NAME
-Guardian Staff ()
+Guardian Staff
 SOURCE
 TV
 PAGE
@@ -3005,7 +3005,7 @@ magical
 staff
 
 NAME
-Librarian Staff ()
+Librarian Staff
 SOURCE
 TV
 PAGE
@@ -3045,7 +3045,7 @@ magical
 staff
 
 NAME
-Lyrakien Staff ()
+Lyrakien Staff
 SOURCE
 TV
 PAGE
@@ -3140,7 +3140,7 @@ magical
 staff
 
 NAME
-Spellstriker Staff ()
+Spellstriker Staff
 SOURCE
 TV
 PAGE
@@ -3197,7 +3197,7 @@ magical
 staff
 
 NAME
-Spy Staff ()
+Spy Staff
 SOURCE
 TV
 PAGE
@@ -3257,7 +3257,7 @@ magical
 staff
 
 NAME
-Staff of Air ()
+Staff of Air
 SOURCE
 TV
 PAGE
@@ -3314,7 +3314,7 @@ magical
 staff
 
 NAME
-Staff of Earth ()
+Staff of Earth
 SOURCE
 TV
 PAGE
@@ -3371,7 +3371,7 @@ magical
 staff
 
 NAME
-Staff of Water ()
+Staff of Water
 SOURCE
 TV
 PAGE
@@ -3447,7 +3447,7 @@ magical
 staff
 
 NAME
-Zombie Staff ()
+Zombie Staff
 SOURCE
 TV
 PAGE
@@ -3504,7 +3504,7 @@ necromancy
 staff
 
 NAME
-Bagpipes of Turmoil ()
+Bagpipes of Turmoil
 SOURCE
 TV
 PAGE
@@ -3564,7 +3564,7 @@ occult
 staff
 
 NAME
-Drums of War ()
+Drums of War
 SOURCE
 TV
 PAGE
@@ -3624,7 +3624,7 @@ occult
 staff
 
 NAME
-Entertainer's Lute ()
+Entertainer's Lute
 SOURCE
 TV
 PAGE
@@ -3705,7 +3705,7 @@ occult
 staff
 
 NAME
-Pipes of Compulsion ()
+Pipes of Compulsion
 SOURCE
 TV
 PAGE
@@ -3768,7 +3768,7 @@ occult
 staff
 
 NAME
-Seer's Flute ()
+Seer's Flute
 SOURCE
 TV
 PAGE
@@ -3831,7 +3831,7 @@ occult
 staff
 
 NAME
-Trickster's Mandolin ()
+Trickster's Mandolin
 SOURCE
 TV
 PAGE
@@ -3911,7 +3911,7 @@ wand
 water
 
 NAME
-Wand of Choking Mist (4th-level spell)
+Wand of Choking Mist (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -3931,7 +3931,7 @@ wand
 water
 
 NAME
-Wand of Chromatic Burst (4th-level spell)
+Wand of Chromatic Burst (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -3996,7 +3996,7 @@ wand
 water
 
 NAME
-Wand of Clinging Rime (8th-level spell)
+Wand of Clinging Rime (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -4076,7 +4076,7 @@ transmutation
 wand
 
 NAME
-Wand of Dazzling Rays (3rd-level spell)
+Wand of Dazzling Rays (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -4098,7 +4098,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (4th-level spell)
+Wand of Dazzling Rays (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4142,7 +4142,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (6th-level spell)
+Wand of Dazzling Rays (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -4186,7 +4186,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (8th-level spell)
+Wand of Dazzling Rays (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -4230,7 +4230,7 @@ magical
 wand
 
 NAME
-Wand of Dumbfounding Doom (3rd-level spell)
+Wand of Dumbfounding Doom (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -4254,7 +4254,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (4th-level spell)
+Wand of Dumbfounding Doom (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4302,7 +4302,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (6th-level spell)
+Wand of Dumbfounding Doom (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -4350,7 +4350,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (8th-level spell)
+Wand of Dumbfounding Doom (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -4418,7 +4418,7 @@ plant
 wand
 
 NAME
-Wand of Hawthorn (4th-level spell)
+Wand of Hawthorn (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4438,7 +4438,7 @@ plant
 wand
 
 NAME
-Wand of Hawthorn (6th-level spell)
+Wand of Hawthorn (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -4458,7 +4458,7 @@ plant
 wand
 
 NAME
-Wand of Hawthorn (8th-level spell)
+Wand of Hawthorn (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -4499,7 +4499,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (3rd-level spell)
+Wand of Hybrid Form (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -4520,7 +4520,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (4th-level spell)
+Wand of Hybrid Form (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4562,7 +4562,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (6th-level spell)
+Wand of Hybrid Form (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -4604,7 +4604,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (8th-level spell)
+Wand of Hybrid Form (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -4692,7 +4692,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (3rd-level spell)
+Wand of Legerdemain (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -4715,7 +4715,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (4th-level spell)
+Wand of Legerdemain (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4761,7 +4761,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (6th-level spell)
+Wand of Legerdemain (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -4807,7 +4807,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (8th-level spell)
+Wand of Legerdemain (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -4897,7 +4897,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (3rd-level spell)
+Wand of Mental Purification (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -4919,7 +4919,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (4th-level spell)
+Wand of Mental Purification (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4963,7 +4963,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (6th-level spell)
+Wand of Mental Purification (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -5007,7 +5007,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (8th-level spell)
+Wand of Mental Purification (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -5087,7 +5087,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (3rd-level spell)
+Wand of Mercy (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -5105,7 +5105,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (4th-level spell)
+Wand of Mercy (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5141,7 +5141,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (6th-level spell)
+Wand of Mercy (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -5177,7 +5177,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (8th-level spell)
+Wand of Mercy (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -5233,7 +5233,7 @@ magical
 wand
 
 NAME
-Wand of Noisome Acid (4th-level spell)
+Wand of Noisome Acid (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5253,7 +5253,7 @@ magical
 wand
 
 NAME
-Wand of Noisome Acid (6th-level spell)
+Wand of Noisome Acid (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -5273,7 +5273,7 @@ magical
 wand
 
 NAME
-Wand of Noisome Acid (8th-level spell)
+Wand of Noisome Acid (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -5293,7 +5293,7 @@ magical
 wand
 
 NAME
-Wand of Paralytic Shock (3rd-level spell)
+Wand of Paralytic Shock (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -5355,7 +5355,7 @@ poison
 wand
 
 NAME
-Wand of Pernicious Poison (6th-level spell)
+Wand of Pernicious Poison (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -5411,7 +5411,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (3rd-level spell)
+Wand of Reaching (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -5429,7 +5429,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (4th-level spell)
+Wand of Reaching (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5465,7 +5465,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (6th-level spell)
+Wand of Reaching (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -5501,7 +5501,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (8th-level spell)
+Wand of Reaching (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -5537,7 +5537,7 @@ magical
 wand
 
 NAME
-Wand of Refracting Rays (4th-level spell)
+Wand of Refracting Rays (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5558,7 +5558,7 @@ magical
 wand
 
 NAME
-Wand of Refracting Rays (6th-level spell)
+Wand of Refracting Rays (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -5599,7 +5599,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (3rd-level spell)
+Wand of Rolling Flames (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -5619,7 +5619,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (4th-level spell)
+Wand of Rolling Flames (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5659,7 +5659,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (6th-level spell)
+Wand of Rolling Flames (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -5699,7 +5699,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (8th-level spell)
+Wand of Rolling Flames (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -5798,7 +5798,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (3rd-level spell)
+Wand of Teeming Ghosts (spell 3rd-level)
 SOURCE
 TV
 PAGE
@@ -5818,7 +5818,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (4th-level spell)
+Wand of Teeming Ghosts (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5858,7 +5858,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (6th-level spell)
+Wand of Teeming Ghosts (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -5898,7 +5898,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (8th-level spell)
+Wand of Teeming Ghosts (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -5998,7 +5998,7 @@ sleep
 wand
 
 NAME
-Wand of Toxic Blades (6th-level spell)
+Wand of Toxic Blades (spell 6th-level)
 SOURCE
 TV
 PAGE
@@ -6040,7 +6040,7 @@ poison
 wand
 
 NAME
-Wand of Toxic Blades (8th-level spell)
+Wand of Toxic Blades (spell 8th-level)
 SOURCE
 TV
 PAGE
@@ -6121,7 +6121,7 @@ magical
 rune
 
 NAME
-Menacing () Rune
+Menacing Rune
 SOURCE
 TV
 PAGE
@@ -6140,7 +6140,7 @@ magical
 rune
 
 NAME
-Menacing (greater) Rune
+Menacing Rune (greater)
 SOURCE
 TV
 PAGE
@@ -6178,7 +6178,7 @@ transmutation
 rune
 
 NAME
-Preserving () Rune
+Preserving Rune
 SOURCE
 TV
 PAGE
@@ -6197,7 +6197,7 @@ necromancy
 rune
 
 NAME
-Preserving (greater) Rune
+Preserving Rune (greater)
 SOURCE
 TV
 PAGE
@@ -6216,7 +6216,7 @@ necromancy
 rune
 
 NAME
-Retaliation (lesser) Rune
+Retaliation Rune (lesser)
 SOURCE
 TV
 PAGE
@@ -6235,7 +6235,7 @@ magical
 rune
 
 NAME
-Retaliation (moderate) Rune
+Retaliation Rune (moderate)
 SOURCE
 TV
 PAGE
@@ -6254,7 +6254,7 @@ magical
 rune
 
 NAME
-Retaliation (greater) Rune
+Retaliation Rune (greater)
 SOURCE
 TV
 PAGE
@@ -6273,7 +6273,7 @@ magical
 rune
 
 NAME
-Retaliation (major) Rune
+Retaliation Rune (major)
 SOURCE
 TV
 PAGE
@@ -6292,7 +6292,7 @@ magical
 rune
 
 NAME
-Trackless () Rune
+Trackless Rune
 SOURCE
 TV
 PAGE
@@ -6311,7 +6311,7 @@ magical
 rune
 
 NAME
-Trackless (greater) Rune
+Trackless Rune (greater)
 SOURCE
 TV
 PAGE
@@ -6351,7 +6351,7 @@ magical
 worn
 
 NAME
-Everyneed Pack ()
+Everyneed Pack
 SOURCE
 TV
 PAGE
@@ -6510,7 +6510,7 @@ magical
 worn
 
 NAME
-Bravery Baldric (restoration, greater)
+Bravery Baldric (greater restoration,)
 SOURCE
 TV
 PAGE
@@ -7126,7 +7126,7 @@ magical
 worn
 
 NAME
-Thunderblast Slippers ()
+Thunderblast Slippers
 SOURCE
 TV
 PAGE
@@ -7613,7 +7613,7 @@ magical
 worn
 
 NAME
-Hat of Disagreeable Disguise ()
+Hat of Disagreeable Disguise
 SOURCE
 TV
 PAGE
@@ -7831,7 +7831,7 @@ magical
 held
 
 NAME
-Tattletale Orb (clear quartz)
+Tattletale Orb (quartz clear)
 SOURCE
 TV
 PAGE
@@ -8265,7 +8265,7 @@ teleportation
 worn
 
 NAME
-Helm of Underwater Action ()
+Helm of Underwater Action
 SOURCE
 TV
 PAGE
@@ -8592,7 +8592,7 @@ magical
 worn
 
 NAME
-Goz Mask ()
+Goz Mask
 SOURCE
 TV
 PAGE
@@ -8716,7 +8716,7 @@ necromancy
 worn
 
 NAME
-Rhinoceros Mask ()
+Rhinoceros Mask
 SOURCE
 TV
 PAGE
@@ -8800,7 +8800,7 @@ invested
 worn
 
 NAME
-Skittering Mask ()
+Skittering Mask
 SOURCE
 TV
 PAGE
@@ -8840,7 +8840,7 @@ transmutation
 worn
 
 NAME
-Tlil Mask ()
+Tlil Mask
 SOURCE
 TV
 PAGE
@@ -8934,7 +8934,7 @@ uncommon
 adjustment
 
 NAME
-Advancing () Rune
+Advancing Rune
 SOURCE
 TV
 PAGE
@@ -8953,7 +8953,7 @@ necromancy
 rune
 
 NAME
-Advancing (greater) Rune
+Advancing Rune (greater)
 SOURCE
 TV
 PAGE
@@ -9125,7 +9125,7 @@ transmutation
 rune
 
 NAME
-Quenching () Rune
+Quenching Rune
 SOURCE
 TV
 PAGE
@@ -9144,7 +9144,7 @@ magical
 rune
 
 NAME
-Quenching (greater) Rune
+Quenching Rune (greater)
 SOURCE
 TV
 PAGE
@@ -9163,7 +9163,7 @@ magical
 rune
 
 NAME
-Quenching (major) Rune
+Quenching Rune (major)
 SOURCE
 TV
 PAGE
@@ -9182,7 +9182,7 @@ magical
 rune
 
 NAME
-Quenching (true) Rune
+Quenching Rune (true)
 SOURCE
 TV
 PAGE
@@ -9220,7 +9220,7 @@ magical
 rune
 
 NAME
-Swallow-Spike () Rune
+Swallow-Spike Rune
 SOURCE
 TV
 PAGE
@@ -9240,7 +9240,7 @@ rune
 attack
 
 NAME
-Swallow-Spike (greater) Rune
+Swallow-Spike Rune (greater)
 SOURCE
 TV
 PAGE
@@ -9260,7 +9260,7 @@ rune
 attack
 
 NAME
-Swallow-Spike (major) Rune
+Swallow-Spike Rune (major)
 SOURCE
 TV
 PAGE
@@ -9280,7 +9280,7 @@ rune
 attack
 
 NAME
-Arachnid Harness ()
+Arachnid Harness
 SOURCE
 TV
 PAGE
@@ -9382,7 +9382,7 @@ magical
 armor
 
 NAME
-Blade Byrnie ()
+Blade Byrnie
 SOURCE
 TV
 PAGE
@@ -9578,7 +9578,7 @@ TRAITS
 ammunition
 
 NAME
-Library Robes ()
+Library Robes
 SOURCE
 TV
 PAGE
@@ -9700,7 +9700,7 @@ transmutation
 armor
 
 NAME
-Reef Heart ()
+Reef Heart
 SOURCE
 TV
 PAGE
@@ -9845,7 +9845,7 @@ armor
 cold
 
 NAME
-Clockwork Shield ()
+Clockwork Shield
 SOURCE
 TV
 PAGE
@@ -10302,7 +10302,7 @@ consumable
 force
 
 NAME
-Blightburn Bomb ()
+Blightburn Bomb
 SOURCE
 TV
 PAGE
@@ -10348,7 +10348,7 @@ poison
 splash
 
 NAME
-Boulder Seed ()
+Boulder Seed
 SOURCE
 TV
 PAGE
@@ -10388,7 +10388,7 @@ consumable
 splash
 
 NAME
-Lodestone Bomb ()
+Lodestone Bomb
 SOURCE
 TV
 PAGE
@@ -10430,7 +10430,7 @@ force
 splash
 
 NAME
-Shatterstone ()
+Shatterstone
 SOURCE
 TV
 PAGE
@@ -10560,7 +10560,7 @@ poison
 splash
 
 NAME
-Assassin Vine Wine ()
+Assassin Vine Wine
 SOURCE
 TV
 PAGE
@@ -10617,7 +10617,7 @@ consumable
 processed
 
 NAME
-Cooperative Waffles ()
+Cooperative Waffles
 SOURCE
 TV
 PAGE
@@ -10968,7 +10968,7 @@ consumable
 elixir
 
 NAME
-Journeybread ()
+Journeybread
 SOURCE
 TV
 PAGE
@@ -13778,7 +13778,7 @@ poison
 virulent
 
 NAME
-Bralani Breath ()
+Bralani Breath
 SOURCE
 TV
 PAGE
@@ -13835,7 +13835,7 @@ consumable
 magical
 
 NAME
-Euphoric Loop ()
+Euphoric Loop
 SOURCE
 TV
 PAGE
@@ -13911,7 +13911,7 @@ consumable
 magical
 
 NAME
-Nevercold ()
+Nevercold
 SOURCE
 TV
 PAGE
@@ -14638,7 +14638,7 @@ magical
 transmutation
 
 NAME
-Depth Charge (I)
+Depth Charge (i)
 SOURCE
 TV
 PAGE
@@ -14657,7 +14657,7 @@ evocation
 magical
 
 NAME
-Depth Charge (II)
+Depth Charge (ii)
 SOURCE
 TV
 PAGE
@@ -14676,7 +14676,7 @@ evocation
 magical
 
 NAME
-Depth Charge (III)
+Depth Charge (iii)
 SOURCE
 TV
 PAGE
@@ -14695,7 +14695,7 @@ evocation
 magical
 
 NAME
-Depth Charge (IV)
+Depth Charge (iv)
 SOURCE
 TV
 PAGE
@@ -14714,7 +14714,7 @@ evocation
 magical
 
 NAME
-Depth Charge (V)
+Depth Charge (v)
 SOURCE
 TV
 PAGE
@@ -14733,7 +14733,7 @@ evocation
 magical
 
 NAME
-Depth Charge (VI)
+Depth Charge (vi)
 SOURCE
 TV
 PAGE
@@ -14752,7 +14752,7 @@ evocation
 magical
 
 NAME
-Depth Charge (VII)
+Depth Charge (vii)
 SOURCE
 TV
 PAGE
@@ -15076,7 +15076,7 @@ consumable
 magical
 
 NAME
-Cayden's Brew (Cayden's)
+Cayden's Brew
 SOURCE
 TV
 PAGE
@@ -15097,7 +15097,7 @@ poison
 potion
 
 NAME
-Cayden's Brew (double Cayden's)
+Cayden's Brew (double)
 SOURCE
 TV
 PAGE
@@ -15118,7 +15118,7 @@ poison
 potion
 
 NAME
-Cayden's Brew (triple Cayden's)
+Cayden's Brew (triple)
 SOURCE
 TV
 PAGE
@@ -15476,7 +15476,7 @@ potion
 sonic
 
 NAME
-Rovagug's Mud ({@deity Rovagug}'s)
+Rovagug's Mud
 SOURCE
 TV
 PAGE
@@ -15496,7 +15496,7 @@ magical
 potion
 
 NAME
-Rovagug's Mud (greater {@deity Rovagug}'s)
+Rovagug's Mud (greater)
 SOURCE
 TV
 PAGE
@@ -15825,7 +15825,7 @@ magical
 talisman
 
 NAME
-False Death Vial ()
+False Death Vial
 SOURCE
 TV
 PAGE
@@ -15889,7 +15889,7 @@ misfortune
 talisman
 
 NAME
-Grudgestone ()
+Grudgestone
 SOURCE
 TV
 PAGE
@@ -15971,7 +15971,7 @@ necromancy
 talisman
 
 NAME
-Reflecting Shard ()
+Reflecting Shard
 SOURCE
 TV
 PAGE
@@ -16013,7 +16013,7 @@ magical
 talisman
 
 NAME
-Reverberating Stone ()
+Reverberating Stone
 SOURCE
 TV
 PAGE
@@ -16053,7 +16053,7 @@ magical
 talisman
 
 NAME
-Ruby Capacitor ()
+Ruby Capacitor
 SOURCE
 TV
 PAGE
@@ -17758,7 +17758,7 @@ magical
 metamagic
 
 NAME
-Linguist's Dictionary ()
+Linguist's Dictionary
 SOURCE
 TV
 PAGE
@@ -18125,7 +18125,7 @@ magical
 missive
 
 NAME
-Messenger Missive ()
+Messenger Missive
 SOURCE
 TV
 PAGE
@@ -18249,7 +18249,7 @@ magical
 oil
 
 NAME
-Disrupting Oil ()
+Disrupting Oil
 SOURCE
 TV
 PAGE
@@ -19311,7 +19311,7 @@ mental
 poison
 
 NAME
-Helmsman's Recourse ()
+Helmsman's Recourse
 SOURCE
 TV
 PAGE
@@ -19368,7 +19368,7 @@ transmutation
 held
 
 NAME
-Sanguine Klar ()
+Sanguine Klar
 SOURCE
 TV
 PAGE
@@ -19559,7 +19559,7 @@ magical
 held
 
 NAME
-Warding Escutcheon ()
+Warding Escutcheon
 SOURCE
 TV
 PAGE
@@ -19999,7 +19999,7 @@ alchemical
 adventuring gear
 
 NAME
-Trueshape Bomb ()
+Trueshape Bomb
 SOURCE
 TV
 PAGE

@@ -37,7 +37,7 @@ precious
 material
 
 NAME
-Abysium (standard-grade object)
+Abysium (object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -56,7 +56,7 @@ precious
 material
 
 NAME
-Abysium (high-grade object)
+Abysium (object high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -132,7 +132,7 @@ contact
 poison
 
 NAME
-Abysium Shield (Standard-Grade Abysium Buckler)
+Abysium Shield (buckler standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -168,7 +168,7 @@ rare
 material
 
 NAME
-Abysium Shield (High-Grade Abysium Buckler)
+Abysium Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -257,7 +257,7 @@ TRAITS
 held
 
 NAME
-Alluring Scarf ()
+Alluring Scarf
 SOURCE
 LOTGB
 PAGE
@@ -366,7 +366,7 @@ assistive item
 wheelchair upgrade
 
 NAME
-Anchoring () Rune
+Anchoring Rune
 SOURCE
 LOTGB
 PAGE
@@ -386,7 +386,7 @@ magical
 rune
 
 NAME
-Anchoring (greater) Rune
+Anchoring Rune (greater)
 SOURCE
 LOTGB
 PAGE
@@ -406,7 +406,7 @@ magical
 rune
 
 NAME
-Arctic Vigor ()
+Arctic Vigor
 SOURCE
 LOTGB
 PAGE
@@ -595,7 +595,7 @@ assistive item
 prosthesis
 
 NAME
-Big Rock Bullet ()
+Big Rock Bullet
 SOURCE
 LOTGB
 PAGE
@@ -679,7 +679,7 @@ transmutation
 rune
 
 NAME
-Blast Foot ()
+Blast Foot
 SOURCE
 LOTGB
 PAGE
@@ -777,7 +777,7 @@ necromancy
 rune
 
 NAME
-Brewer's Regret ()
+Brewer's Regret
 SOURCE
 LOTGB
 PAGE
@@ -836,7 +836,7 @@ magical
 held
 
 NAME
-Brooch Of Inspiration ()
+Brooch Of Inspiration
 SOURCE
 LOTGB
 PAGE
@@ -1139,7 +1139,7 @@ magical
 tattoo
 
 NAME
-Crown Of The Fire Eater ()
+Crown Of The Fire Eater
 SOURCE
 LOTGB
 PAGE
@@ -1202,7 +1202,7 @@ magical
 worn
 
 NAME
-Crushing () Rune
+Crushing Rune
 SOURCE
 LOTGB
 PAGE
@@ -1222,7 +1222,7 @@ necromancy
 rune
 
 NAME
-Crushing (greater) Rune
+Crushing Rune (greater)
 SOURCE
 LOTGB
 PAGE
@@ -1305,7 +1305,7 @@ necromancy
 rune
 
 NAME
-Dinosaur Boots ()
+Dinosaur Boots
 SOURCE
 LOTGB
 PAGE
@@ -1404,7 +1404,7 @@ precious
 material
 
 NAME
-Djezet (standard-grade alloy object)
+Djezet (alloy object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1423,7 +1423,7 @@ precious
 material
 
 NAME
-Djezet (high-grade alloy object)
+Djezet (alloy high-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -1497,7 +1497,7 @@ consumable
 magical
 
 NAME
-Djezet Shield (Standard-Grade Djezet Buckler)
+Djezet Shield (buckler standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1533,7 +1533,7 @@ rare
 material
 
 NAME
-Djezet Shield (High-Grade Djezet Buckler)
+Djezet Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -1605,7 +1605,7 @@ rare
 material
 
 NAME
-Doll ()
+Doll
 SOURCE
 LOTGB
 PAGE
@@ -1639,7 +1639,7 @@ TRAITS
 held
 
 NAME
-Doll (exquisite surprise)
+Doll (surprise exquisite)
 SOURCE
 LOTGB
 PAGE
@@ -1732,7 +1732,7 @@ alchemical
 consumable
 
 NAME
-Dragon's Breath (1st-level spell) Rune
+Dragon's Breath Rune (1st-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1753,7 +1753,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath (2nd-level spell) Rune
+Dragon's Breath Rune (2nd-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1774,7 +1774,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath (3rd-level spell) Rune
+Dragon's Breath Rune (spell 3rd-level)
 SOURCE
 LOTGB
 PAGE
@@ -1795,7 +1795,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath (4th-level spell) Rune
+Dragon's Breath Rune (spell 4th-level)
 SOURCE
 LOTGB
 PAGE
@@ -1816,7 +1816,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath (5th-level spell) Rune
+Dragon's Breath Rune (5th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1837,7 +1837,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath (6th-level spell) Rune
+Dragon's Breath Rune (spell 6th-level)
 SOURCE
 LOTGB
 PAGE
@@ -1858,7 +1858,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath (7th-level spell) Rune
+Dragon's Breath Rune (7th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1879,7 +1879,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath (8th-level spell) Rune
+Dragon's Breath Rune (spell 8th-level)
 SOURCE
 LOTGB
 PAGE
@@ -1900,7 +1900,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath (9th-level spell) Rune
+Dragon's Breath Rune (9th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1962,7 +1962,7 @@ potion
 transmutation
 
 NAME
-Dread (lesser) Rune
+Dread Rune (lesser)
 SOURCE
 LOTGB
 PAGE
@@ -1986,7 +1986,7 @@ visual
 rune
 
 NAME
-Dread (moderate) Rune
+Dread Rune (moderate)
 SOURCE
 LOTGB
 PAGE
@@ -2010,7 +2010,7 @@ visual
 rune
 
 NAME
-Dread (greater) Rune
+Dread Rune (greater)
 SOURCE
 LOTGB
 PAGE
@@ -2138,7 +2138,7 @@ magical
 rune
 
 NAME
-Energy Robe (of fire)
+Energy Robe (fire of)
 SOURCE
 LOTGB
 PAGE
@@ -2262,7 +2262,7 @@ assistive item
 hearing
 
 NAME
-Enveloping Light ()
+Enveloping Light
 SOURCE
 LOTGB
 PAGE
@@ -2346,7 +2346,7 @@ uncommon
 worn
 
 NAME
-Eye Of The Unseen ()
+Eye Of The Unseen
 SOURCE
 LOTGB
 PAGE
@@ -2405,7 +2405,7 @@ TRAITS
 consumable
 
 NAME
-Fanged () Rune
+Fanged Rune
 SOURCE
 LOTGB
 PAGE
@@ -2426,7 +2426,7 @@ rune
 polymorph
 
 NAME
-Fanged (greater) Rune
+Fanged Rune (greater)
 SOURCE
 LOTGB
 PAGE
@@ -2447,7 +2447,7 @@ rune
 polymorph
 
 NAME
-Fanged (major) Rune
+Fanged Rune (major)
 SOURCE
 LOTGB
 PAGE
@@ -2468,7 +2468,7 @@ rune
 polymorph
 
 NAME
-Fire And Iceberg ()
+Fire And Iceberg
 SOURCE
 LOTGB
 PAGE
@@ -2567,7 +2567,7 @@ primal
 worn
 
 NAME
-Folding Boat ()
+Folding Boat
 SOURCE
 LOTGB
 PAGE
@@ -2624,7 +2624,7 @@ TRAITS
 held
 
 NAME
-Follypops (Follypops (Hotpops))
+Follypops (hotpops)
 SOURCE
 LOTGB
 PAGE
@@ -2644,7 +2644,7 @@ evocation
 magical
 
 NAME
-Follypops (Follypops (Rotters))
+Follypops (rotters)
 SOURCE
 LOTGB
 PAGE
@@ -2664,7 +2664,7 @@ evocation
 magical
 
 NAME
-Follypops (Follypops (Sizzlers))
+Follypops (sizzlers)
 SOURCE
 LOTGB
 PAGE
@@ -2684,7 +2684,7 @@ evocation
 magical
 
 NAME
-Games (loaded dice)
+Games (dice loaded)
 SOURCE
 LOTGB
 PAGE
@@ -2746,7 +2746,7 @@ magical
 armor
 
 NAME
-Hauling () Rune
+Hauling Rune
 SOURCE
 LOTGB
 PAGE
@@ -2766,7 +2766,7 @@ magical
 rune
 
 NAME
-Hauling (greater) Rune
+Hauling Rune (greater)
 SOURCE
 LOTGB
 PAGE
@@ -2887,7 +2887,7 @@ transmutation
 rune
 
 NAME
-Impossible Cake ()
+Impossible Cake
 SOURCE
 LOTGB
 PAGE
@@ -3002,7 +3002,7 @@ precious
 material
 
 NAME
-Inubrix (standard-grade object)
+Inubrix (object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3021,7 +3021,7 @@ precious
 material
 
 NAME
-Inubrix (high-grade object)
+Inubrix (object high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3076,7 +3076,7 @@ rare
 material
 
 NAME
-Inubrix Shield (Standard-Grade Inubrix Buckler)
+Inubrix Shield (buckler standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3112,7 +3112,7 @@ rare
 material
 
 NAME
-Inubrix Shield (High-Grade Inubrix Buckler)
+Inubrix Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -3650,7 +3650,7 @@ precious
 material
 
 NAME
-Noqual (standard-grade object)
+Noqual (object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3669,7 +3669,7 @@ precious
 material
 
 NAME
-Noqual (high-grade object)
+Noqual (object high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3724,7 +3724,7 @@ rare
 material
 
 NAME
-Noqual Shield (High-Grade Noqual Buckler)
+Noqual Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -3813,7 +3813,7 @@ TRAITS
 held
 
 NAME
-Paired (runes) Rune
+Paired Rune (runes)
 SOURCE
 LOTGB
 PAGE
@@ -3834,7 +3834,7 @@ teleportation
 rune
 
 NAME
-Paired (greater runes) Rune
+Paired Rune (greater runes)
 SOURCE
 LOTGB
 PAGE
@@ -3855,7 +3855,7 @@ teleportation
 rune
 
 NAME
-Paired (major runes) Rune
+Paired Rune (major runes)
 SOURCE
 LOTGB
 PAGE
@@ -4012,7 +4012,7 @@ magical
 structure
 
 NAME
-Portable Ram ()
+Portable Ram
 SOURCE
 LOTGB
 PAGE
@@ -4063,7 +4063,7 @@ TRAITS
 consumable
 
 NAME
-Presentable () Rune
+Presentable Rune
 SOURCE
 LOTGB
 PAGE
@@ -4083,7 +4083,7 @@ magical
 rune
 
 NAME
-Presentable (greater) Rune
+Presentable Rune (greater)
 SOURCE
 LOTGB
 PAGE
@@ -4237,7 +4237,7 @@ TRAITS
 held
 
 NAME
-Puzzle Box (hollow box; Level 0+)
+Puzzle Box (hollow level box; 0+)
 SOURCE
 LOTGB
 PAGE
@@ -4317,7 +4317,7 @@ necromancy
 held
 
 NAME
-Quick Runner's Shirt ()
+Quick Runner's Shirt
 SOURCE
 LOTGB
 PAGE
@@ -4421,7 +4421,7 @@ magical
 held
 
 NAME
-Reading Ring ()
+Reading Ring
 SOURCE
 LOTGB
 PAGE
@@ -4764,7 +4764,7 @@ precious
 material
 
 NAME
-Siccatite (standard-grade object)
+Siccatite (object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -4783,7 +4783,7 @@ precious
 material
 
 NAME
-Siccatite (high-grade object)
+Siccatite (object high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -4838,7 +4838,7 @@ rare
 material
 
 NAME
-Siccatite Shield (Standard-Grade Siccatite Buckler)
+Siccatite Shield (buckler standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -4874,7 +4874,7 @@ rare
 shield
 
 NAME
-Siccatite Shield (High-Grade Siccatite Buckler)
+Siccatite Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -5049,7 +5049,7 @@ evocation
 magical
 
 NAME
-Skyrider Sword ()
+Skyrider Sword
 SOURCE
 LOTGB
 PAGE
@@ -5226,7 +5226,7 @@ consumable
 gadget
 
 NAME
-Staff of Final Rest ()
+Staff of Final Rest
 SOURCE
 LOTGB
 PAGE
@@ -5286,7 +5286,7 @@ necromancy
 staff
 
 NAME
-Staff Of The Dreamlands (Dreamlands)
+Staff Of The Dreamlands
 SOURCE
 LOTGB
 PAGE
@@ -5306,7 +5306,7 @@ magical
 staff
 
 NAME
-Staff Of The Dreamlands (greater Dreamlands)
+Staff Of The Dreamlands (greater)
 SOURCE
 LOTGB
 PAGE
@@ -5326,7 +5326,7 @@ magical
 staff
 
 NAME
-Staff Of The Dreamlands (major Dreamlands)
+Staff Of The Dreamlands (major)
 SOURCE
 LOTGB
 PAGE
@@ -5346,7 +5346,7 @@ magical
 staff
 
 NAME
-Stanching () Rune
+Stanching Rune
 SOURCE
 LOTGB
 PAGE
@@ -5366,7 +5366,7 @@ necromancy
 rune
 
 NAME
-Stanching (greater) Rune
+Stanching Rune (greater)
 SOURCE
 LOTGB
 PAGE
@@ -5386,7 +5386,7 @@ necromancy
 rune
 
 NAME
-Stanching (major) Rune
+Stanching Rune (major)
 SOURCE
 LOTGB
 PAGE
@@ -5406,7 +5406,7 @@ necromancy
 rune
 
 NAME
-Stanching (true) Rune
+Stanching Rune (true)
 SOURCE
 LOTGB
 PAGE
@@ -5448,7 +5448,7 @@ snare
 trap
 
 NAME
-Stone Circle ()
+Stone Circle
 SOURCE
 LOTGB
 PAGE
@@ -5639,7 +5639,7 @@ primal
 transmutation
 
 NAME
-Swarmsuit ()
+Swarmsuit
 SOURCE
 LOTGB
 PAGE
@@ -5734,7 +5734,7 @@ consumable
 magical
 
 NAME
-Toadskin Salve ()
+Toadskin Salve
 SOURCE
 LOTGB
 PAGE
@@ -5794,7 +5794,7 @@ consumable
 poison
 
 NAME
-Toy Carriage ()
+Toy Carriage
 SOURCE
 LOTGB
 PAGE
@@ -5828,7 +5828,7 @@ TRAITS
 adventuring gear
 
 NAME
-Transposition Ammunition ()
+Transposition Ammunition
 SOURCE
 LOTGB
 PAGE
@@ -6029,7 +6029,7 @@ magical
 held
 
 NAME
-Waffle Iron ()
+Waffle Iron
 SOURCE
 LOTGB
 PAGE
@@ -6139,7 +6139,7 @@ magical
 wand
 
 NAME
-Wand Of Spiritual Warfare (4th-level spell)
+Wand Of Spiritual Warfare (spell 4th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6160,7 +6160,7 @@ magical
 wand
 
 NAME
-Wand Of Spiritual Warfare (6th-level spell)
+Wand Of Spiritual Warfare (spell 6th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6181,7 +6181,7 @@ magical
 wand
 
 NAME
-Wand Of Spiritual Warfare (8th-level spell)
+Wand Of Spiritual Warfare (spell 8th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6202,7 +6202,7 @@ magical
 wand
 
 NAME
-Wand Of Thundering Echoes (3rd-level spell)
+Wand Of Thundering Echoes (spell 3rd-level)
 SOURCE
 LOTGB
 PAGE
@@ -6223,7 +6223,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (4th-level spell)
+Wand Of Thundering Echoes (spell 4th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6265,7 +6265,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (6th-level spell)
+Wand Of Thundering Echoes (spell 6th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6307,7 +6307,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (8th-level spell)
+Wand Of Thundering Echoes (spell 8th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6509,7 +6509,7 @@ magical
 worn
 
 NAME
-Wind-catcher () Rune
+Wind-catcher Rune
 SOURCE
 LOTGB
 PAGE
@@ -6529,7 +6529,7 @@ magical
 rune
 
 NAME
-Wind-catcher (greater) Rune
+Wind-catcher Rune (greater)
 SOURCE
 LOTGB
 PAGE

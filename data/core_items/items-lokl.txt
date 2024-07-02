@@ -22,7 +22,7 @@ necromancy
 armor
 
 NAME
-Anointing Oil ()
+Anointing Oil
 SOURCE
 LOKL
 PAGE

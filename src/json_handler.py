@@ -122,21 +122,27 @@ class Item:
         for word in set2:
             if word not in set1:
                 final_set.append(word)
+        final_set = {element for element in final_set if '{' not in element and '}' not in element}
         joined_string = ' '.join(final_set)
         return joined_string
 
 
-    def set_variant_name (self, variant_name): 
+    def set_variant_name (self, variant_name: str): 
+        if '(' in variant_name or ')' in variant_name:
+            variant_name = variant_name.replace("(", "")
+            variant_name = variant_name.replace(")", "")
         if self.base_name == None:
             print("ERROR: Base Name is Empty in set_variant_name()")
             return 
-        new_name = self.base_name + ' (' + self.string_diff(self.base_name.lower(), variant_name) + ')'
+        if self.string_diff(self.base_name.lower(), variant_name.lower()) == '':
+            new_name = str(self.base_name)
+        else:
+            new_name = self.base_name + ' (' + self.string_diff(self.base_name.lower(), variant_name.lower()) + ')'
         if self.name != None and self.name != new_name:
             #print("ERROR: name variable was not erased before set_variant_name()")
             print("Old:", self.name, "New:", new_name)
         elif self.name != None:
             return 
-        #print("New Name:", new_name)
         self.name = new_name
 
     def clear(self):
@@ -176,7 +182,10 @@ class Item:
             self.set_level(0)
 
         if 'rune' in self.traits:
-            self.name += ' Rune'
+            if '(' in self.name:
+                self.name = self.name.replace("(", "Rune (")
+            else:
+                self.name += ' Rune'
 
     def write_to_file(self, filepath):
         self.finalize()

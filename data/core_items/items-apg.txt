@@ -587,7 +587,7 @@ TRAITS
 adventuring gear
 
 NAME
-Dust Of Corpse Animation ()
+Dust Of Corpse Animation
 SOURCE
 APG
 PAGE
@@ -729,7 +729,7 @@ magical
 held
 
 NAME
-Fearsome () Rune
+Fearsome Rune
 SOURCE
 APG
 PAGE
@@ -751,7 +751,7 @@ mental
 rune
 
 NAME
-Fearsome (greater) Rune
+Fearsome Rune (greater)
 SOURCE
 APG
 PAGE
@@ -1201,7 +1201,7 @@ mental
 worn
 
 NAME
-Mask Of The Banshee ()
+Mask Of The Banshee
 SOURCE
 APG
 PAGE
@@ -1245,7 +1245,7 @@ negative
 worn
 
 NAME
-Medusa's Scream ()
+Medusa's Scream
 SOURCE
 APG
 PAGE
@@ -1323,7 +1323,7 @@ TRAITS
 adventuring gear
 
 NAME
-Oil Of Object Animation ()
+Oil Of Object Animation
 SOURCE
 APG
 PAGE
@@ -1490,7 +1490,7 @@ negative
 oil
 
 NAME
-Olfactory Obfuscator ()
+Olfactory Obfuscator
 SOURCE
 APG
 PAGE
@@ -1806,7 +1806,7 @@ magical
 held
 
 NAME
-Ration Tonic ()
+Ration Tonic
 SOURCE
 APG
 PAGE
@@ -1846,7 +1846,7 @@ magical
 potion
 
 NAME
-Ready () Rune
+Ready Rune
 SOURCE
 APG
 PAGE
@@ -1865,7 +1865,7 @@ magical
 rune
 
 NAME
-Ready (greater) Rune
+Ready Rune (greater)
 SOURCE
 APG
 PAGE
@@ -2099,7 +2099,7 @@ magical
 held
 
 NAME
-Sleeves Of Storage ()
+Sleeves Of Storage
 SOURCE
 APG
 PAGE
@@ -2219,7 +2219,7 @@ teleportation
 held
 
 NAME
-Staff Of Impossible Visions ()
+Staff Of Impossible Visions
 SOURCE
 APG
 PAGE
@@ -2299,7 +2299,7 @@ magical
 staff
 
 NAME
-Staff Of Nature's Vengeance ()
+Staff Of Nature's Vengeance
 SOURCE
 APG
 PAGE
@@ -2356,7 +2356,7 @@ magical
 staff
 
 NAME
-Staff Of Providence ()
+Staff Of Providence
 SOURCE
 APG
 PAGE
@@ -2567,7 +2567,7 @@ held
 attack
 
 NAME
-Victory Plate ()
+Victory Plate
 SOURCE
 APG
 PAGE
@@ -2629,7 +2629,7 @@ transmutation
 other
 
 NAME
-Wand Of Crackling Lightning (3rd-level spell)
+Wand Of Crackling Lightning (spell 3rd-level)
 SOURCE
 APG
 PAGE
@@ -2649,7 +2649,7 @@ magical
 wand
 
 NAME
-Wand Of Crackling Lightning (4th-level spell)
+Wand Of Crackling Lightning (spell 4th-level)
 SOURCE
 APG
 PAGE
@@ -2669,7 +2669,7 @@ magical
 wand
 
 NAME
-Wand Of Crackling Lightning (6th-level spell)
+Wand Of Crackling Lightning (spell 6th-level)
 SOURCE
 APG
 PAGE
@@ -2689,7 +2689,7 @@ magical
 wand
 
 NAME
-Wand Of Crackling Lightning (8th-level spell)
+Wand Of Crackling Lightning (spell 8th-level)
 SOURCE
 APG
 PAGE
@@ -2729,7 +2729,7 @@ magical
 wand
 
 NAME
-Wand Of Hopeless Night (4th-level spell)
+Wand Of Hopeless Night (spell 4th-level)
 SOURCE
 APG
 PAGE
@@ -2749,7 +2749,7 @@ magical
 wand
 
 NAME
-Wand Of Overflowing Life (3rd-level spell)
+Wand Of Overflowing Life (spell 3rd-level)
 SOURCE
 APG
 PAGE
@@ -2770,7 +2770,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (4th-level spell)
+Wand Of Overflowing Life (spell 4th-level)
 SOURCE
 APG
 PAGE
@@ -2812,7 +2812,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (6th-level spell)
+Wand Of Overflowing Life (spell 6th-level)
 SOURCE
 APG
 PAGE
@@ -2854,7 +2854,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (8th-level spell)
+Wand Of Overflowing Life (spell 8th-level)
 SOURCE
 APG
 PAGE
@@ -2935,7 +2935,7 @@ poison
 wand
 
 NAME
-Wand Of The Spider (4th-level spell)
+Wand Of The Spider (spell 4th-level)
 SOURCE
 APG
 PAGE
@@ -2955,7 +2955,7 @@ poison
 wand
 
 NAME
-Winged () Rune
+Winged Rune
 SOURCE
 APG
 PAGE
@@ -2974,7 +2974,7 @@ transmutation
 rune
 
 NAME
-Winged (greater) Rune
+Winged Rune (greater)
 SOURCE
 APG
 PAGE

@@ -1,5 +1,5 @@
 NAME
-Nosoi Charm ()
+Nosoi Charm
 SOURCE
 NGD
 PAGE

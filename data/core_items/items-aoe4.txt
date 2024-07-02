@@ -166,7 +166,7 @@ poison
 virulent
 
 NAME
-Poisoner's Staff ()
+Poisoner's Staff
 SOURCE
 AoE4
 PAGE

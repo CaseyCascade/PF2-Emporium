@@ -38,7 +38,7 @@ magical
 worn
 
 NAME
-Cloak Of Repute ()
+Cloak Of Repute
 SOURCE
 LOCG
 PAGE
@@ -161,7 +161,7 @@ magical
 worn
 
 NAME
-Insistent Door Knocker ()
+Insistent Door Knocker
 SOURCE
 LOCG
 PAGE
@@ -447,7 +447,7 @@ magical
 talisman
 
 NAME
-Unmemorable Mantle ()
+Unmemorable Mantle
 SOURCE
 LOCG
 PAGE

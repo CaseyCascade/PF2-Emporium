@@ -79,7 +79,7 @@ magical
 held
 
 NAME
-Backfire Mantle ()
+Backfire Mantle
 SOURCE
 SoM
 PAGE
@@ -159,7 +159,7 @@ transmutation
 polymorph
 
 NAME
-Binding Coil ()
+Binding Coil
 SOURCE
 SoM
 PAGE
@@ -199,7 +199,7 @@ talisman
 transmutation
 
 NAME
-Blade Of Four Energies ()
+Blade Of Four Energies
 SOURCE
 SoM
 PAGE
@@ -257,7 +257,7 @@ magical
 metamagic
 
 NAME
-Brilliant () Rune
+Brilliant Rune
 SOURCE
 SoM
 PAGE
@@ -277,7 +277,7 @@ rune
 light
 
 NAME
-Brilliant (greater) Rune
+Brilliant Rune (greater)
 SOURCE
 SoM
 PAGE
@@ -316,7 +316,7 @@ necromancy
 held
 
 NAME
-Buzzsaw Axe ()
+Buzzsaw Axe
 SOURCE
 SoM
 PAGE
@@ -452,7 +452,7 @@ magical
 worn
 
 NAME
-Codebreaker's Parchment ()
+Codebreaker's Parchment
 SOURCE
 SoM
 PAGE
@@ -509,7 +509,7 @@ magical
 held
 
 NAME
-Codex Of Unimpeded Sight (Codex Unimpeded Sight)
+Codex Of Unimpeded Sight
 SOURCE
 SoM
 PAGE
@@ -528,7 +528,7 @@ grimoire
 magical
 
 NAME
-Codex Of Unimpeded Sight (greater Codex Unimpeded Sight)
+Codex Of Unimpeded Sight (greater)
 SOURCE
 SoM
 PAGE
@@ -588,7 +588,7 @@ weapon
 martial
 
 NAME
-Dazzling Rosary ()
+Dazzling Rosary
 SOURCE
 SoM
 PAGE
@@ -769,7 +769,7 @@ healing
 positive
 
 NAME
-Endless Grimoire (Endless Grimoire)
+Endless Grimoire
 SOURCE
 SoM
 PAGE
@@ -788,7 +788,7 @@ grimoire
 magical
 
 NAME
-Endless Grimoire (Greater Endless Grimoire)
+Endless Grimoire (greater)
 SOURCE
 SoM
 PAGE
@@ -807,7 +807,7 @@ grimoire
 magical
 
 NAME
-Endless Grimoire (Major Endless Grimoire)
+Endless Grimoire (major)
 SOURCE
 SoM
 PAGE
@@ -826,7 +826,7 @@ grimoire
 magical
 
 NAME
-Endless Grimoire (True Endless Grimoire)
+Endless Grimoire (true)
 SOURCE
 SoM
 PAGE
@@ -845,7 +845,7 @@ grimoire
 magical
 
 NAME
-Extending () Rune
+Extending Rune
 SOURCE
 SoM
 PAGE
@@ -864,7 +864,7 @@ transmutation
 rune
 
 NAME
-Extending (greater) Rune
+Extending Rune (greater)
 SOURCE
 SoM
 PAGE
@@ -923,7 +923,7 @@ tattoo
 transmutation
 
 NAME
-Firestarter Pellets ()
+Firestarter Pellets
 SOURCE
 SoM
 PAGE
@@ -980,7 +980,7 @@ consumable
 magical
 
 NAME
-Five-feather Wreath ()
+Five-feather Wreath
 SOURCE
 SoM
 PAGE
@@ -1040,7 +1040,7 @@ spellheart
 transmutation
 
 NAME
-Flaming Star ()
+Flaming Star
 SOURCE
 SoM
 PAGE
@@ -1386,7 +1386,7 @@ evocation
 magical
 
 NAME
-Grim Sandglass ()
+Grim Sandglass
 SOURCE
 SoM
 PAGE
@@ -1560,7 +1560,7 @@ negative
 held
 
 NAME
-Impactful () Rune
+Impactful Rune
 SOURCE
 SoM
 PAGE
@@ -1580,7 +1580,7 @@ magical
 rune
 
 NAME
-Impactful (greater) Rune
+Impactful Rune (greater)
 SOURCE
 SoM
 PAGE
@@ -1825,7 +1825,7 @@ magical
 held
 
 NAME
-Noxious Incense ()
+Noxious Incense
 SOURCE
 SoM
 PAGE
@@ -1884,7 +1884,7 @@ magical
 talisman
 
 NAME
-Ouroboros Flail ()
+Ouroboros Flail
 SOURCE
 SoM
 PAGE
@@ -1941,7 +1941,7 @@ transmutation
 held
 
 NAME
-Perfect Droplet ()
+Perfect Droplet
 SOURCE
 SoM
 PAGE
@@ -2083,7 +2083,7 @@ magical
 potion
 
 NAME
-Potion Of Stable Form ()
+Potion Of Stable Form
 SOURCE
 SoM
 PAGE
@@ -2224,7 +2224,7 @@ magical
 structure
 
 NAME
-Retrieval Prism ()
+Retrieval Prism
 SOURCE
 SoM
 PAGE
@@ -2387,7 +2387,7 @@ magical
 scrying
 
 NAME
-Singing Shortbow ()
+Singing Shortbow
 SOURCE
 SoM
 PAGE
@@ -2429,7 +2429,7 @@ auditory
 abjuration
 
 NAME
-Sonic Tuning Mace ()
+Sonic Tuning Mace
 SOURCE
 SoM
 PAGE
@@ -2528,7 +2528,7 @@ grimoire
 magical
 
 NAME
-Spirit-sealing Fulu ()
+Spirit-sealing Fulu
 SOURCE
 SoM
 PAGE
@@ -2570,7 +2570,7 @@ magical
 necromancy
 
 NAME
-Staff Of Nature's Cunning ()
+Staff Of Nature's Cunning
 SOURCE
 SoM
 PAGE
@@ -2630,7 +2630,7 @@ staff
 transmutation
 
 NAME
-Staff Of The Desert Winds ()
+Staff Of The Desert Winds
 SOURCE
 SoM
 PAGE
@@ -2706,7 +2706,7 @@ magical
 staff
 
 NAME
-Staff-storing Shield ()
+Staff-storing Shield
 SOURCE
 SoM
 PAGE
@@ -2790,7 +2790,7 @@ transmutation
 held
 
 NAME
-Stampede Medallion ()
+Stampede Medallion
 SOURCE
 SoM
 PAGE
@@ -3092,7 +3092,7 @@ fulu
 magical
 
 NAME
-Trinity Geode ()
+Trinity Geode
 SOURCE
 SoM
 PAGE
@@ -3293,7 +3293,7 @@ magical
 metamagic
 
 NAME
-Warding Tattoo ()
+Warding Tattoo
 SOURCE
 SoM
 PAGE

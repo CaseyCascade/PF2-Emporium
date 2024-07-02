@@ -20,7 +20,7 @@ contact
 poison
 
 NAME
-Goz Mask ()
+Goz Mask
 SOURCE
 SoT1
 PAGE
@@ -169,7 +169,7 @@ necromancy
 worn
 
 NAME
-Rhinoceros Mask ()
+Rhinoceros Mask
 SOURCE
 SoT1
 PAGE
@@ -211,7 +211,7 @@ transmutation
 worn
 
 NAME
-Rhythm Bone ()
+Rhythm Bone
 SOURCE
 SoT1
 PAGE
@@ -272,7 +272,7 @@ transmutation
 worn
 
 NAME
-Skittering Mask ()
+Skittering Mask
 SOURCE
 SoT1
 PAGE
@@ -314,7 +314,7 @@ transmutation
 worn
 
 NAME
-Tlil Mask ()
+Tlil Mask
 SOURCE
 SoT1
 PAGE

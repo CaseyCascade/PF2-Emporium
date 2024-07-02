@@ -66,7 +66,7 @@ mental
 held
 
 NAME
-Blast Lance ()
+Blast Lance
 SOURCE
 OoA3
 PAGE

@@ -1,5 +1,5 @@
 NAME
-Golden Branding Iron ()
+Golden Branding Iron
 SOURCE
 OoA2
 PAGE
@@ -310,7 +310,7 @@ talisman
 teleportation
 
 NAME
-Liquid Gold ()
+Liquid Gold
 SOURCE
 OoA2
 PAGE

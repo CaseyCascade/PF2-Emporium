@@ -1,5 +1,5 @@
 NAME
-Nexian Sealing Blade (Nexian)
+Nexian Sealing Blade
 SOURCE
 WtD1
 PAGE
@@ -20,7 +20,7 @@ magical
 held
 
 NAME
-Nexian Sealing Blade (greater Nexian)
+Nexian Sealing Blade (greater)
 SOURCE
 WtD1
 PAGE
@@ -41,7 +41,7 @@ magical
 held
 
 NAME
-Rattling Bolt ()
+Rattling Bolt
 SOURCE
 WtD1
 PAGE

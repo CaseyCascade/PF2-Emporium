@@ -545,7 +545,7 @@ consumable
 splash
 
 NAME
-Oozepick ()
+Oozepick
 SOURCE
 LOIL
 PAGE
