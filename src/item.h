@@ -18,6 +18,7 @@ class Item {
 
     public: 
         Item();
+        Item(string errorMessage);
         // Setters
         void setName (string x);
         void setPage (int x);

@@ -2,6 +2,10 @@
 
 // Initialize & Setters
 Item :: Item() {}
+Item :: Item(string debugName)
+{
+    setName(debugName); 
+}
 void Item :: setName (string x){name = x;}
 void Item :: setPage (int x) {page = x;}
 void Item :: setGold (float x) {gold = x;}
