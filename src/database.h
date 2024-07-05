@@ -15,13 +15,25 @@ class Database {
     protected:
         vector <Item> itemDatabase; 
         vector <string> traitDatabase; 
+        vector <ShopTemplate> templateDatabase; 
         
     public:
+        // Constructor
         Database();
-        bool searchTraitDatabase(string s);
+
+        //Setters
         void setTraitDatabase();
         void loadItems();
+        void loadTemplates();
         void load(); 
+
+        // Getters
+        vector <Item> getItemDatabase();
+        vector <string> getTraitDatabase(); 
+        vector <ShopTemplate> getTemplateDatabase(); 
+
+        // Member Functions
+        bool searchTraitDatabase(string s);
         void printTraits();
-        void print(); 
+        void printItems(); 
 };

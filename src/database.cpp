@@ -2,15 +2,7 @@
 
 Database :: Database() {}
 
-bool Database :: searchTraitDatabase(string s)
-{
-    for (auto &i : traitDatabase)
-    {
-        if (i == s) return true; 
-    }
-    return false; 
-}
-
+// Setters / Load
 void Database :: setTraitDatabase()
 {
     for (auto& item : itemDatabase)
@@ -24,18 +16,45 @@ void Database :: setTraitDatabase()
         }
     }
 }
-
 void Database :: loadItems()
 {
     ItemDataManager dataManager; 
     itemDatabase = dataManager.load(); 
 }
-
+void Database :: loadTemplates() //TODO Not Implemented Yet
+{
+    //ShopTemplateDataManager dataManager; 
+    //templateDatabase = dataManager.load(); 
+}
 void Database :: load()
 {
     loadItems(); 
-    //loadTemplates(); 
-    setTraitDatabase(); 
+    setTraitDatabase();
+    loadTemplates(); 
+}
+
+// Getters
+vector <Item> Database :: getItemDatabase() 
+{
+    return itemDatabase; 
+};
+vector <string> Database :: getTraitDatabase()
+{
+    return traitDatabase; 
+}; 
+vector <ShopTemplate> Database :: getTemplateDatabase()
+{
+    return templateDatabase; 
+};
+
+// Member Functions
+bool Database :: searchTraitDatabase(string s)
+{
+    for (auto &i : traitDatabase)
+    {
+        if (i == s) return true; 
+    }
+    return false; 
 }
 
 void Database :: printTraits()
@@ -46,11 +65,10 @@ void Database :: printTraits()
     }
 }
 
-void Database :: print()
+void Database :: printItems()
 {
     for (auto& item : itemDatabase)
     {
-        cout << item.getName() << endl; 
-    }
-    cout << itemDatabase.size() << endl; 
+        item.print();
+    } 
 }

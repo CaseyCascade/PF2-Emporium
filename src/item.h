@@ -44,4 +44,5 @@ class Item {
 
         // Other
         void clear (); 
+        void print(); 
 }; 

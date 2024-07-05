@@ -24,7 +24,6 @@ float Item :: convertToFloat(const string& str) {
     } catch (const out_of_range&) {
         cerr << "Out of range: " << str << endl;
     }
-
     return defaultValue;
 }
 
@@ -42,16 +41,21 @@ bool Item :: enterData (string variable, string data)
             cout << "Variable: " << variable << endl; 
             return false; 
         }
+        if (variable == "GOLD") setGold(convertedFloat); 
+        else setBulk(convertedFloat); 
     }
     else if (variable == "PAGE" || variable == "LEVEL")
     {
-        float convertedInt = convertToInt(data); 
+        float convertedInt = convertToInt(data);
         if (convertedInt == -1)
         {
             cout << "Variable: " << variable << endl; 
             return false; 
         }
+        if (variable == "PAGE") setPage(convertedInt); 
+        else setLevel(convertedInt); 
     }
+
     else if (variable == "NAME") {setName(data);}
     else if (variable == "SOURCE") {setSource(data);}
     else if (variable == "ENTRY") {setEntry(data);}
@@ -81,3 +85,20 @@ void Item :: clear ()
     setEntry("NONE");
     traits.clear(); 
 }
+
+void Item :: print() 
+{
+    cout << "NAME: " << getName() << endl;
+    cout << "PAGE: " << getPage() << endl; 
+    cout << "GOLD: " << getGold() << endl;  
+    cout << "LEVEL: " << getLevel() << endl;
+    cout << "BULK: " << getBulk() << endl; 
+    cout << "SOURCE: " << getSource() << endl; 
+    cout << "ENTRY: " << getEntry() << endl;  
+    cout << "TRAITS: "; 
+    for (auto& i : traits)
+    {
+        cout << i << ", "; 
+    }
+    cout << endl << endl;  
+}; 

@@ -7,6 +7,7 @@ using namespace std;
 int main ()
 {
     Database db; 
-    db.load(); 
-    db.printTraits(); 
+    db.load();
+    cout << db.searchTraitDatabase("vehicle") << endl;
+    //db.printItems();  
 }
