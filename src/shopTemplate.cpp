@@ -1,25 +1,29 @@
 #include "shopTemplate.h"
 
 ShopTemplate :: ShopTemplate() {}; 
-ShopTemplate :: ShopTemplate(vector <string> traits) 
+ShopTemplate :: ShopTemplate(string name, vector <string> traits) 
 {
+    templateName = name;  
     setDefaultWeights(traits); 
     setLevelRange(-1, 30); 
 }; 
-ShopTemplate :: ShopTemplate(vector <string> traits, int min, int max) 
+ShopTemplate :: ShopTemplate(string name, vector <string> traits, int min, int max) 
 {
+    templateName = name; 
     setDefaultWeights(traits);
     setLevelRange(min, max);
 }; 
-ShopTemplate :: ShopTemplate(vector <string> traits, int min, int max, vector <string> blacklistSources, vector <string> blacklistTraits)
+ShopTemplate :: ShopTemplate(string name, vector <string> traits, int min, int max, vector <string> blacklistSources, vector <string> blacklistTraits)
 {
+    templateName = name; 
     setDefaultWeights(traits); 
     setLevelRange(min, max);
     traitBlacklist = blacklistTraits;
     sourceBlacklist = blacklistSources; 
 }
-ShopTemplate :: ShopTemplate(vector <ShopTemplate> templates) 
+ShopTemplate :: ShopTemplate(string name, vector <ShopTemplate> templates) 
 {
+    templateName = name; 
     setLevelRange(-1, 30); 
     for (int i = 0; i < templates.size(); i++)
     {

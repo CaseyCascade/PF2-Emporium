@@ -13,6 +13,7 @@ using namespace std;
 
 class ShopTemplate {
     protected:
+        string templateName; 
         vector <pair <string, int> > weightedTraits; 
         vector <string> sourceBlacklist;
         vector <string> traitBlacklist; 
@@ -22,10 +23,10 @@ class ShopTemplate {
     public:
         // Constructors
         ShopTemplate();
-        ShopTemplate(vector <string> traits); 
-        ShopTemplate(vector <string> traits, int min, int max); 
-        ShopTemplate(vector <string> traits, int min, int max, vector <string> blacklistSources, vector <string> blacklistTraits);
-        ShopTemplate(vector <ShopTemplate> templates); // For Combining Multiple Templates into One  
+        ShopTemplate(string name, vector <string> traits); 
+        ShopTemplate(string name, vector <string> traits, int min, int max); 
+        ShopTemplate(string name, vector <string> traits, int min, int max, vector <string> blacklistSources, vector <string> blacklistTraits);
+        ShopTemplate(string name, vector <ShopTemplate> templates); // For Combining Multiple Templates into One  
 
         // Setters
         void setDefaultWeights(vector <string> traits); 
