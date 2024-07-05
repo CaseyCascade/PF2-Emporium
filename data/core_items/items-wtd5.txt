@@ -61,7 +61,7 @@ necromancy
 armor
 
 NAME
-Plate of Yled (graveknight greater)
+Plate of Yled (greater graveknight)
 SOURCE
 WtD5
 PAGE
@@ -83,7 +83,7 @@ necromancy
 armor
 
 NAME
-Plate of Yled (graveknight major)
+Plate of Yled (major graveknight)
 SOURCE
 WtD5
 PAGE
@@ -105,7 +105,7 @@ necromancy
 armor
 
 NAME
-Plate of Yled (graveknight true)
+Plate of Yled (true graveknight)
 SOURCE
 WtD5
 PAGE

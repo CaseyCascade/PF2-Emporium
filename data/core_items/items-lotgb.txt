@@ -37,7 +37,7 @@ precious
 material
 
 NAME
-Abysium (object standard-grade)
+Abysium (standard-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -56,7 +56,7 @@ precious
 material
 
 NAME
-Abysium (object high-grade)
+Abysium (high-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -168,7 +168,7 @@ rare
 material
 
 NAME
-Abysium Shield (buckler high-grade)
+Abysium Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -1404,7 +1404,7 @@ precious
 material
 
 NAME
-Djezet (object standard-grade alloy)
+Djezet (standard-grade alloy object)
 SOURCE
 LOTGB
 PAGE
@@ -1423,7 +1423,7 @@ precious
 material
 
 NAME
-Djezet (object alloy high-grade)
+Djezet (high-grade alloy object)
 SOURCE
 LOTGB
 PAGE
@@ -1533,7 +1533,7 @@ rare
 material
 
 NAME
-Djezet Shield (buckler high-grade)
+Djezet Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -1732,7 +1732,7 @@ alchemical
 consumable
 
 NAME
-Dragon's Breath Rune (spell 1st-level)
+Dragon's Breath Rune (1st-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1774,7 +1774,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (spell 3rd-level)
+Dragon's Breath Rune (3rd-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1795,7 +1795,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (4th-level spell)
+Dragon's Breath Rune (spell 4th-level)
 SOURCE
 LOTGB
 PAGE
@@ -1816,7 +1816,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (spell 5th-level)
+Dragon's Breath Rune (5th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1837,7 +1837,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (spell 6th-level)
+Dragon's Breath Rune (6th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1858,7 +1858,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (spell 7th-level)
+Dragon's Breath Rune (7th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1879,7 +1879,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (spell 8th-level)
+Dragon's Breath Rune (8th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -1900,7 +1900,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (spell 9th-level)
+Dragon's Breath Rune (9th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -2138,7 +2138,7 @@ magical
 rune
 
 NAME
-Energy Robe (of fire)
+Energy Robe (fire of)
 SOURCE
 LOTGB
 PAGE
@@ -2159,7 +2159,7 @@ transmutation
 worn
 
 NAME
-Energy Robe (of cold)
+Energy Robe (cold of)
 SOURCE
 LOTGB
 PAGE
@@ -2180,7 +2180,7 @@ transmutation
 worn
 
 NAME
-Energy Robe (acid of)
+Energy Robe (of acid)
 SOURCE
 LOTGB
 PAGE
@@ -2201,7 +2201,7 @@ transmutation
 worn
 
 NAME
-Energy Robe (of electricity)
+Energy Robe (electricity of)
 SOURCE
 LOTGB
 PAGE
@@ -2684,7 +2684,7 @@ evocation
 magical
 
 NAME
-Games (loaded dice)
+Games (dice loaded)
 SOURCE
 LOTGB
 PAGE
@@ -3002,7 +3002,7 @@ precious
 material
 
 NAME
-Inubrix (object standard-grade)
+Inubrix (standard-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -3021,7 +3021,7 @@ precious
 material
 
 NAME
-Inubrix (object high-grade)
+Inubrix (high-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -3112,7 +3112,7 @@ rare
 material
 
 NAME
-Inubrix Shield (buckler high-grade)
+Inubrix Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -3650,7 +3650,7 @@ precious
 material
 
 NAME
-Noqual (object standard-grade)
+Noqual (standard-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -3669,7 +3669,7 @@ precious
 material
 
 NAME
-Noqual (object high-grade)
+Noqual (high-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -3724,7 +3724,7 @@ rare
 material
 
 NAME
-Noqual Shield (buckler high-grade)
+Noqual Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -4237,7 +4237,7 @@ TRAITS
 held
 
 NAME
-Puzzle Box (box; 0+ level hollow)
+Puzzle Box (box; hollow 0+ level)
 SOURCE
 LOTGB
 PAGE
@@ -4764,7 +4764,7 @@ precious
 material
 
 NAME
-Siccatite (object standard-grade)
+Siccatite (standard-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -4783,7 +4783,7 @@ precious
 material
 
 NAME
-Siccatite (object high-grade)
+Siccatite (high-grade object)
 SOURCE
 LOTGB
 PAGE
@@ -4874,7 +4874,7 @@ rare
 shield
 
 NAME
-Siccatite Shield (buckler high-grade)
+Siccatite Shield (high-grade buckler)
 SOURCE
 LOTGB
 PAGE
@@ -6080,7 +6080,7 @@ TRAITS
 adventuring gear
 
 NAME
-Waffle Iron (mithral high-grade)
+Waffle Iron (high-grade mithral)
 SOURCE
 LOTGB
 PAGE
@@ -6139,7 +6139,7 @@ magical
 wand
 
 NAME
-Wand Of Spiritual Warfare (4th-level spell)
+Wand Of Spiritual Warfare (spell 4th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6160,7 +6160,7 @@ magical
 wand
 
 NAME
-Wand Of Spiritual Warfare (spell 6th-level)
+Wand Of Spiritual Warfare (6th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6181,7 +6181,7 @@ magical
 wand
 
 NAME
-Wand Of Spiritual Warfare (spell 8th-level)
+Wand Of Spiritual Warfare (8th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6202,7 +6202,7 @@ magical
 wand
 
 NAME
-Wand Of Thundering Echoes (spell 3rd-level)
+Wand Of Thundering Echoes (3rd-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6223,7 +6223,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (4th-level spell)
+Wand Of Thundering Echoes (spell 4th-level)
 SOURCE
 LOTGB
 PAGE
@@ -6244,7 +6244,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (spell 5th-level)
+Wand Of Thundering Echoes (5th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6265,7 +6265,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (spell 6th-level)
+Wand Of Thundering Echoes (6th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6286,7 +6286,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (spell 7th-level)
+Wand Of Thundering Echoes (7th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6307,7 +6307,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (spell 8th-level)
+Wand Of Thundering Echoes (8th-level spell)
 SOURCE
 LOTGB
 PAGE

@@ -310,7 +310,7 @@ magical
 held
 
 NAME
-Wondrous Figurines (candy constrictor)
+Wondrous Figurines (constrictor candy)
 SOURCE
 EC2
 PAGE
@@ -330,7 +330,7 @@ magical
 held
 
 NAME
-Wondrous Figurines (rubber bear)
+Wondrous Figurines (bear rubber)
 SOURCE
 EC2
 PAGE

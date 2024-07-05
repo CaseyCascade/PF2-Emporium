@@ -3911,7 +3911,7 @@ wand
 water
 
 NAME
-Wand of Choking Mist (4th-level spell)
+Wand of Choking Mist (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -3931,7 +3931,7 @@ wand
 water
 
 NAME
-Wand of Chromatic Burst (4th-level spell)
+Wand of Chromatic Burst (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -3953,7 +3953,7 @@ concentrate
 evocation
 
 NAME
-Wand of Chromatic Burst (spell 7th-level)
+Wand of Chromatic Burst (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -3975,7 +3975,7 @@ concentrate
 evocation
 
 NAME
-Wand of Clinging Rime (spell 7th-level)
+Wand of Clinging Rime (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -3996,7 +3996,7 @@ wand
 water
 
 NAME
-Wand of Clinging Rime (spell 8th-level)
+Wand of Clinging Rime (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -4017,7 +4017,7 @@ wand
 water
 
 NAME
-Wand of Clinging Rime (spell 9th-level)
+Wand of Clinging Rime (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -4076,7 +4076,7 @@ transmutation
 wand
 
 NAME
-Wand of Dazzling Rays (spell 3rd-level)
+Wand of Dazzling Rays (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -4098,7 +4098,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (4th-level spell)
+Wand of Dazzling Rays (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4120,7 +4120,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (spell 5th-level)
+Wand of Dazzling Rays (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -4142,7 +4142,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (spell 6th-level)
+Wand of Dazzling Rays (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -4164,7 +4164,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (spell 7th-level)
+Wand of Dazzling Rays (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -4186,7 +4186,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (spell 8th-level)
+Wand of Dazzling Rays (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -4208,7 +4208,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (spell 9th-level)
+Wand of Dazzling Rays (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -4230,7 +4230,7 @@ magical
 wand
 
 NAME
-Wand of Dumbfounding Doom (spell 3rd-level)
+Wand of Dumbfounding Doom (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -4254,7 +4254,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (4th-level spell)
+Wand of Dumbfounding Doom (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4278,7 +4278,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (spell 5th-level)
+Wand of Dumbfounding Doom (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -4302,7 +4302,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (spell 6th-level)
+Wand of Dumbfounding Doom (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -4326,7 +4326,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (spell 7th-level)
+Wand of Dumbfounding Doom (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -4350,7 +4350,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (spell 8th-level)
+Wand of Dumbfounding Doom (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -4374,7 +4374,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (spell 9th-level)
+Wand of Dumbfounding Doom (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -4418,7 +4418,7 @@ plant
 wand
 
 NAME
-Wand of Hawthorn (4th-level spell)
+Wand of Hawthorn (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4438,7 +4438,7 @@ plant
 wand
 
 NAME
-Wand of Hawthorn (spell 6th-level)
+Wand of Hawthorn (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -4458,7 +4458,7 @@ plant
 wand
 
 NAME
-Wand of Hawthorn (spell 8th-level)
+Wand of Hawthorn (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -4499,7 +4499,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (spell 3rd-level)
+Wand of Hybrid Form (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -4520,7 +4520,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (4th-level spell)
+Wand of Hybrid Form (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4541,7 +4541,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (spell 5th-level)
+Wand of Hybrid Form (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -4562,7 +4562,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (spell 6th-level)
+Wand of Hybrid Form (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -4583,7 +4583,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (spell 7th-level)
+Wand of Hybrid Form (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -4604,7 +4604,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (spell 8th-level)
+Wand of Hybrid Form (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -4625,7 +4625,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (spell 9th-level)
+Wand of Hybrid Form (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -4646,7 +4646,7 @@ transmutation
 wand
 
 NAME
-Wand of Legerdemain (spell 1st-level)
+Wand of Legerdemain (1st-level spell)
 SOURCE
 TV
 PAGE
@@ -4692,7 +4692,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (spell 3rd-level)
+Wand of Legerdemain (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -4715,7 +4715,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (4th-level spell)
+Wand of Legerdemain (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4738,7 +4738,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (spell 5th-level)
+Wand of Legerdemain (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -4761,7 +4761,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (spell 6th-level)
+Wand of Legerdemain (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -4784,7 +4784,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (spell 7th-level)
+Wand of Legerdemain (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -4807,7 +4807,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (spell 8th-level)
+Wand of Legerdemain (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -4830,7 +4830,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (spell 9th-level)
+Wand of Legerdemain (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -4853,7 +4853,7 @@ mental
 visual
 
 NAME
-Wand of Mental Purification (spell 1st-level)
+Wand of Mental Purification (1st-level spell)
 SOURCE
 TV
 PAGE
@@ -4897,7 +4897,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (spell 3rd-level)
+Wand of Mental Purification (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -4919,7 +4919,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (4th-level spell)
+Wand of Mental Purification (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -4941,7 +4941,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (spell 5th-level)
+Wand of Mental Purification (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -4963,7 +4963,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (spell 6th-level)
+Wand of Mental Purification (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -4985,7 +4985,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (spell 7th-level)
+Wand of Mental Purification (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -5007,7 +5007,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (spell 8th-level)
+Wand of Mental Purification (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -5029,7 +5029,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (spell 9th-level)
+Wand of Mental Purification (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -5051,7 +5051,7 @@ mental
 wand
 
 NAME
-Wand of Mercy (spell 1st-level)
+Wand of Mercy (1st-level spell)
 SOURCE
 TV
 PAGE
@@ -5087,7 +5087,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (spell 3rd-level)
+Wand of Mercy (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -5105,7 +5105,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (4th-level spell)
+Wand of Mercy (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5123,7 +5123,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (spell 5th-level)
+Wand of Mercy (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -5141,7 +5141,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (spell 6th-level)
+Wand of Mercy (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -5159,7 +5159,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (spell 7th-level)
+Wand of Mercy (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -5177,7 +5177,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (spell 8th-level)
+Wand of Mercy (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -5195,7 +5195,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (spell 9th-level)
+Wand of Mercy (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -5233,7 +5233,7 @@ magical
 wand
 
 NAME
-Wand of Noisome Acid (4th-level spell)
+Wand of Noisome Acid (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5253,7 +5253,7 @@ magical
 wand
 
 NAME
-Wand of Noisome Acid (spell 6th-level)
+Wand of Noisome Acid (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -5273,7 +5273,7 @@ magical
 wand
 
 NAME
-Wand of Noisome Acid (spell 8th-level)
+Wand of Noisome Acid (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -5293,7 +5293,7 @@ magical
 wand
 
 NAME
-Wand of Paralytic Shock (spell 3rd-level)
+Wand of Paralytic Shock (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -5314,7 +5314,7 @@ mental
 wand
 
 NAME
-Wand of Paralytic Shock (spell 7th-level)
+Wand of Paralytic Shock (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -5335,7 +5335,7 @@ mental
 wand
 
 NAME
-Wand of Pernicious Poison (spell 1st-level)
+Wand of Pernicious Poison (1st-level spell)
 SOURCE
 TV
 PAGE
@@ -5355,7 +5355,7 @@ poison
 wand
 
 NAME
-Wand of Pernicious Poison (spell 6th-level)
+Wand of Pernicious Poison (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -5375,7 +5375,7 @@ poison
 wand
 
 NAME
-Wand of Reaching (spell 1st-level)
+Wand of Reaching (1st-level spell)
 SOURCE
 TV
 PAGE
@@ -5411,7 +5411,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (spell 3rd-level)
+Wand of Reaching (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -5429,7 +5429,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (4th-level spell)
+Wand of Reaching (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5447,7 +5447,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (spell 5th-level)
+Wand of Reaching (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -5465,7 +5465,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (spell 6th-level)
+Wand of Reaching (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -5483,7 +5483,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (spell 7th-level)
+Wand of Reaching (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -5501,7 +5501,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (spell 8th-level)
+Wand of Reaching (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -5519,7 +5519,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (spell 9th-level)
+Wand of Reaching (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -5537,7 +5537,7 @@ magical
 wand
 
 NAME
-Wand of Refracting Rays (4th-level spell)
+Wand of Refracting Rays (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5558,7 +5558,7 @@ magical
 wand
 
 NAME
-Wand of Refracting Rays (spell 6th-level)
+Wand of Refracting Rays (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -5599,7 +5599,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (spell 3rd-level)
+Wand of Rolling Flames (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -5619,7 +5619,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (4th-level spell)
+Wand of Rolling Flames (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5639,7 +5639,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (spell 5th-level)
+Wand of Rolling Flames (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -5659,7 +5659,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (spell 6th-level)
+Wand of Rolling Flames (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -5679,7 +5679,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (spell 7th-level)
+Wand of Rolling Flames (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -5699,7 +5699,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (spell 8th-level)
+Wand of Rolling Flames (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -5719,7 +5719,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (spell 9th-level)
+Wand of Rolling Flames (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -5798,7 +5798,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (spell 3rd-level)
+Wand of Teeming Ghosts (3rd-level spell)
 SOURCE
 TV
 PAGE
@@ -5818,7 +5818,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (4th-level spell)
+Wand of Teeming Ghosts (spell 4th-level)
 SOURCE
 TV
 PAGE
@@ -5838,7 +5838,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (spell 5th-level)
+Wand of Teeming Ghosts (5th-level spell)
 SOURCE
 TV
 PAGE
@@ -5858,7 +5858,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (spell 6th-level)
+Wand of Teeming Ghosts (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -5878,7 +5878,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (spell 7th-level)
+Wand of Teeming Ghosts (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -5898,7 +5898,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (spell 8th-level)
+Wand of Teeming Ghosts (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -5918,7 +5918,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (spell 9th-level)
+Wand of Teeming Ghosts (9th-level spell)
 SOURCE
 TV
 PAGE
@@ -5998,7 +5998,7 @@ sleep
 wand
 
 NAME
-Wand of Toxic Blades (spell 6th-level)
+Wand of Toxic Blades (6th-level spell)
 SOURCE
 TV
 PAGE
@@ -6019,7 +6019,7 @@ poison
 wand
 
 NAME
-Wand of Toxic Blades (spell 7th-level)
+Wand of Toxic Blades (7th-level spell)
 SOURCE
 TV
 PAGE
@@ -6040,7 +6040,7 @@ poison
 wand
 
 NAME
-Wand of Toxic Blades (spell 8th-level)
+Wand of Toxic Blades (8th-level spell)
 SOURCE
 TV
 PAGE
@@ -13753,7 +13753,7 @@ alchemical
 consumable
 injury
 poison
-member of the red mantis assassins
+red mantis assassins
 
 NAME
 Antipode Oil

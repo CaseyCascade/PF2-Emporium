@@ -912,7 +912,7 @@ uncommon
 adventuring gear
 
 NAME
-Replacement Filter (level 5)
+Replacement Filter (5 level)
 SOURCE
 LOPSG
 PAGE
@@ -930,7 +930,7 @@ uncommon
 adventuring gear
 
 NAME
-Replacement Filter (level 10)
+Replacement Filter (10 level)
 SOURCE
 LOPSG
 PAGE

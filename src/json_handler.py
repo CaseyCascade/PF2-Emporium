@@ -204,7 +204,8 @@ class Item:
                 start_target = self.get_substring_after_character(trait, '@')
                 new_trait = self.get_substring_between(trait, start_target, '}')
                 new_trait = new_trait.strip()
-                if new_trait != "craft": # Weird edgecase for long string
+                
+                if new_trait != "craft": # Weird edgecase for a single long string
                     self.traits[index] = new_trait
                 else:
                     self.traits.pop(index)
@@ -220,11 +221,19 @@ class Item:
         if self.level == None:
             self.set_level(0)
         self.parse_traits()
+
+        # Edge Case for Runes
         if 'rune' in self.traits:
             if '(' in self.name:
                 self.name = self.name.replace("(", "Rune (")
             else:
                 self.name += ' Rune'
+        # Edge Case for Organizations
+        for index, trait in enumerate(self.traits):
+            if "member" in trait:
+                trait = trait.replace("member of the ", "")
+                trait = trait.replace("member of a ", "")
+                self.traits[index] = trait
 
     def write_to_file(self, filepath):
         self.finalize()

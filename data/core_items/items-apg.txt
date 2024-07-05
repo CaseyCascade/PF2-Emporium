@@ -2629,7 +2629,7 @@ transmutation
 other
 
 NAME
-Wand Of Crackling Lightning (spell 3rd-level)
+Wand Of Crackling Lightning (3rd-level spell)
 SOURCE
 APG
 PAGE
@@ -2669,7 +2669,7 @@ magical
 wand
 
 NAME
-Wand Of Crackling Lightning (spell 6th-level)
+Wand Of Crackling Lightning (6th-level spell)
 SOURCE
 APG
 PAGE
@@ -2689,7 +2689,7 @@ magical
 wand
 
 NAME
-Wand Of Crackling Lightning (spell 8th-level)
+Wand Of Crackling Lightning (8th-level spell)
 SOURCE
 APG
 PAGE
@@ -2749,7 +2749,7 @@ magical
 wand
 
 NAME
-Wand Of Overflowing Life (spell 3rd-level)
+Wand Of Overflowing Life (3rd-level spell)
 SOURCE
 APG
 PAGE
@@ -2791,7 +2791,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (spell 5th-level)
+Wand Of Overflowing Life (5th-level spell)
 SOURCE
 APG
 PAGE
@@ -2812,7 +2812,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (spell 6th-level)
+Wand Of Overflowing Life (6th-level spell)
 SOURCE
 APG
 PAGE
@@ -2833,7 +2833,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (spell 7th-level)
+Wand Of Overflowing Life (7th-level spell)
 SOURCE
 APG
 PAGE
@@ -2854,7 +2854,7 @@ positive
 wand
 
 NAME
-Wand Of Overflowing Life (spell 8th-level)
+Wand Of Overflowing Life (8th-level spell)
 SOURCE
 APG
 PAGE
@@ -2875,7 +2875,7 @@ positive
 wand
 
 NAME
-Wand Of The Snowfields (spell 5th-level)
+Wand Of The Snowfields (5th-level spell)
 SOURCE
 APG
 PAGE
@@ -2895,7 +2895,7 @@ magical
 wand
 
 NAME
-Wand Of The Snowfields (spell 7th-level)
+Wand Of The Snowfields (7th-level spell)
 SOURCE
 APG
 PAGE

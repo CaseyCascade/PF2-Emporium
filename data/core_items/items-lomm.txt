@@ -40,7 +40,7 @@ magical
 transmutation
 
 NAME
-Grisantian Pelt (object standard-grade)
+Grisantian Pelt (standard-grade object)
 SOURCE
 LOMM
 PAGE
@@ -59,7 +59,7 @@ precious
 material
 
 NAME
-Grisantian Pelt (object high-grade)
+Grisantian Pelt (high-grade object)
 SOURCE
 LOMM
 PAGE

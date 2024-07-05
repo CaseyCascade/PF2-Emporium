@@ -85,7 +85,7 @@ transmutation
 worn
 
 NAME
-Cloak of Gnawing Leaves (devouring thorns)
+Cloak of Gnawing Leaves (thorns devouring)
 SOURCE
 GW1
 PAGE

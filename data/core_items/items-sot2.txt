@@ -166,7 +166,7 @@ magical
 held
 
 NAME
-Warcaller's Chime (of blasting)
+Warcaller's Chime (blasting of)
 SOURCE
 SoT2
 PAGE
@@ -266,7 +266,7 @@ magical
 held
 
 NAME
-Warcaller's Chime (of restoration)
+Warcaller's Chime (restoration of)
 SOURCE
 SoT2
 PAGE
@@ -286,7 +286,7 @@ magical
 held
 
 NAME
-Wondrous Figurines (leopards bismuth)
+Wondrous Figurines (bismuth leopards)
 SOURCE
 SoT2
 PAGE
@@ -306,7 +306,7 @@ magical
 held
 
 NAME
-Wondrous Figurines (ruby hippopotamus)
+Wondrous Figurines (hippopotamus ruby)
 SOURCE
 SoT2
 PAGE
