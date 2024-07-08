@@ -20,9 +20,8 @@ int main ()
     vector <string> SB1 = {"crb"};
     vector <string> SB2 = {"g&g"};
 
-    ShopTemplate test1(TL1, -1, 30, SB1, TB1);  
-    ShopTemplate test2(TL2, -1, 30, SB2, TB2); 
+    ShopTemplate test1("Dwarf Weaponsmith", TL1, -1, 30, SB1, TB1);  
+    ShopTemplate test2("Evil Magic", TL2, -1, 30, SB2, TB2); 
 
-    ShopTemplate combined({test1, test2}); 
-    combined.print();    
+    ShopTemplate combined("Evil Dwarf Thaumaturgist", {test1, test2}); 
 }

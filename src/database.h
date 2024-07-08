@@ -36,4 +36,5 @@ class Database {
         bool searchTraitDatabase(string s);
         void printTraits();
         void printItems(); 
+        void printTemplates(); 
 };

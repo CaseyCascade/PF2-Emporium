@@ -1,6 +1,7 @@
 #pragma once 
 
 #include <iostream>
+#include <sstream>
 #include <vector>
 
 #include "item.h"
@@ -23,16 +24,26 @@ class ShopTemplate {
     public:
         // Constructors
         ShopTemplate();
+        ShopTemplate(string errorMessage); 
         ShopTemplate(string name, vector <string> traits); 
         ShopTemplate(string name, vector <string> traits, int min, int max); 
         ShopTemplate(string name, vector <string> traits, int min, int max, vector <string> blacklistSources, vector <string> blacklistTraits);
         ShopTemplate(string name, vector <ShopTemplate> templates); // For Combining Multiple Templates into One  
 
         // Setters
+        void setName(string name); 
+        void addWeightedTrait (string trait, int weight); 
+        void addBlacklistedSource(string source); 
+        void addBlacklistedTrait(string trait); 
+        void setLevelMin(int min); 
+        void setLevelMax(int max); 
         void setDefaultWeights(vector <string> traits); 
         void setLevelRange(int min, int max);
+        void clear(); 
+        bool enterData(string variable, string data); 
 
         // Getters 
+        string getName(); 
         vector <pair<string, int>> getWeightedTraits(); 
         vector <string> getSourceBlacklist(); 
         vector <string> getTraitBlacklist();

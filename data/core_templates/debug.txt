@@ -1,0 +1,15 @@
+NAME
+Basic Dwarf Blacksmith
+SOURCE BLACKLIST
+TRAIT BLACKLIST
+magical
+legendary
+e
+elf
+goblin
+orc
+TRAITS
+dwarf|1 
+weapon|1
+b|1 
+

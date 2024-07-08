@@ -1,6 +1,10 @@
 #include "shopTemplate.h"
 
 ShopTemplate :: ShopTemplate() {}; 
+ShopTemplate :: ShopTemplate(string errorMessage) 
+{
+    templateName = errorMessage; 
+}; 
 ShopTemplate :: ShopTemplate(string name, vector <string> traits) 
 {
     templateName = name;  
@@ -32,6 +36,18 @@ ShopTemplate :: ShopTemplate(string name, vector <ShopTemplate> templates)
 }; 
 
 // Setters
+void ShopTemplate :: setName(string name){templateName = name;}; 
+void ShopTemplate :: addWeightedTrait (string trait, int weight){weightedTraits.push_back(make_pair(trait, weight));}; 
+void ShopTemplate :: addBlacklistedSource(string source){sourceBlacklist.push_back(source);}; 
+void ShopTemplate :: addBlacklistedTrait(string trait){traitBlacklist.push_back(trait);}; 
+void ShopTemplate :: setLevelMin(int min)
+{
+    if (min >= MIN_LEVEL) levelMin = min;
+}; 
+void ShopTemplate :: setLevelMax(int max)
+{
+    if (max <= MAX_LEVEL) levelMax = max;
+}; 
 void ShopTemplate :: setDefaultWeights(vector <string> traits) 
 {
     int weight = 1; // This calculation may change
@@ -45,13 +61,52 @@ void ShopTemplate :: setLevelRange(int min, int max)
     levelMax = max; 
     levelMin = min;
 };
+void ShopTemplate :: clear()
+{
+    templateName.clear(); 
+    weightedTraits.clear(); 
+    sourceBlacklist.clear(); 
+    traitBlacklist.clear(); 
+    levelMin = EMPTY; 
+    levelMax = EMPTY; 
+};
+bool ShopTemplate :: enterData(string variable, string data)
+{
+    Item utility; 
+    if (variable == "NAME") setName(data); 
+    if (variable == "SOURCE BLACKLIST") addBlacklistedSource(data);
+    if (variable == "TRAIT BLACKLIST") addBlacklistedTrait(data); 
+    if (variable == "LEVEL MIN") setLevelMin(utility.convertToInt(data)); 
+    if (variable == "LEVEL MAX") setLevelMax(utility.convertToInt(data)); 
+    if (variable == "TRAITS") 
+    {
+        vector <string> tokens; 
+        string token; 
+        stringstream ss(data); 
+
+        while (getline(ss, token, '|'))
+        {
+            tokens.push_back(token); 
+        }
+        if (tokens.size() != 2) 
+        {
+            cerr << "More than 2 Tokens in Trait Entry\n";
+            return false; 
+        } 
+        addWeightedTrait(tokens.at(0), utility.convertToInt(tokens.at(1))); 
+    }
+    return true;  
+}; 
 
 // Getters 
+string ShopTemplate :: getName()
+{
+    return templateName; 
+};
 vector <pair <string, int> > ShopTemplate :: getWeightedTraits() 
 {
     return weightedTraits; 
 }; 
-
 vector <string> ShopTemplate :: getSourceBlacklist() 
 {
     return sourceBlacklist; 

@@ -23,8 +23,8 @@ void Database :: loadItems()
 }
 void Database :: loadTemplates() //TODO Not Implemented Yet
 {
-    //ShopTemplateDataManager dataManager; 
-    //templateDatabase = dataManager.load(); 
+    ShopTemplateDataManager dataManager; 
+    templateDatabase = dataManager.load(); 
 }
 void Database :: load()
 {
@@ -71,4 +71,12 @@ void Database :: printItems()
     {
         item.print();
     } 
+}
+
+void Database :: printTemplates() 
+{
+    for (auto& i : templateDatabase)
+    {
+        i.print(); 
+    }
 }
