@@ -42,8 +42,6 @@ void ItemListGenerator :: rubberbandRecursion(vector <int> &pickedNumbers, int N
 
         // Calculate our Average, and pick a number in a range so that we attempt to increase or decrease our average towards the target
         int average = getAverage(pickedNumbers);  
-        printVector(pickedNumbers); 
-        cout << "AVERAGE: " << average << endl; 
         while (true)
         {
             if (average <= target)

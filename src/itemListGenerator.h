@@ -14,7 +14,7 @@ class ItemListGenerator {
         int target; 
 
         vector <int> pickedItemIndexes; 
-        bool debug = true; 
+        bool debug = false; 
     public:
         // Constructor
         ItemListGenerator(vector <pair <Item, int>> t, float p); 
