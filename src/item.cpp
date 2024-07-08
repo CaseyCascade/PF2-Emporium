@@ -74,6 +74,14 @@ string Item :: getEntry () {return entry;}
 vector <string> Item :: getTraits () {return traits;}
 
 // Other
+bool Item :: searchTrait(string trait)
+{
+    for (auto& i : traits)
+    {
+        if (trait == i) return true; 
+    }
+    return false; 
+};
 void Item :: clear () 
 {
     setName("NONE");

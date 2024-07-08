@@ -2,13 +2,15 @@
 
 #include "database.h"
 #include "shopTemplate.h"
+#include "scoredTable.h"
 
 
 using namespace std; 
 
 int main ()
 {
-    Database db; 
+    Database db;
+    Database* ptr = &db; 
     db.load();
 
     vector <string> TL1 = {"dwarf", "weapon"};
@@ -24,4 +26,8 @@ int main ()
     ShopTemplate test2("Evil Magic", TL2, -1, 30, SB2, TB2); 
 
     ShopTemplate combined("Evil Dwarf Thaumaturgist", {test1, test2}); 
+
+    ScoredTable table(ptr, combined);
+    table.generate(); 
+    table.print(); 
 }

@@ -43,6 +43,7 @@ class Item {
         vector <string> getTraits ();
 
         // Other
+        bool searchTrait(string trait); 
         void clear (); 
         void print(); 
 }; 
