@@ -1,9 +1,11 @@
 #pragma once
 
 #include <iostream>
+#include <sstream>
 #include <cstdlib>
 #include <algorithm> 
 #include <cctype> 
+#include <queue>
 
 #include "item.h"
 #include "shopTemplate.h"
@@ -16,7 +18,14 @@
 class CommandPalette {
     protected:
         Database database; 
+        Database *ptr = &database;
         float version = 0.1; 
+        string input; 
+        vector <string> validCommands = 
+        {
+        "help", "list shops", "list traits", "list items", "generate", 
+        "lookup shop", "lookup item", "create shop", "create item", "combine", "reset", "nuke custom", "clear"
+        };
 
     public:
         // Constructors
@@ -26,6 +35,9 @@ class CommandPalette {
         int convertToInt (const string& str); 
         bool isAllUppercase(const string& str);
         bool isAllLowercase(const string& str); 
+        queue <string> splitString(const string& str);
+        bool isValidCommand (string str); 
+        string border(); 
 
         // Getters
         vector <ShopTemplate> getTemplateDatabase(); 
@@ -51,8 +63,8 @@ class CommandPalette {
         void help(); 
 
         // Input Parsing 
-        void runCommand (string command);
-        void processLine (string line);  
+        void runCommand (string command, queue <string> args);
+        void processLine (queue <string> commands);  
         void run(); 
         void startup(); 
 }; 

@@ -1,11 +1,11 @@
 #include <iostream>
 
-#include "userInput.h"
+#include "commandPalette.h"
 
 using namespace std; 
 
 int main ()
 {
-    UserInput test;
-    test.startMenu(); 
+    CommandPalette emporium; 
+    emporium.startup();  
 }

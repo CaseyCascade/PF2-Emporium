@@ -27,7 +27,31 @@ bool CommandPalette :: isAllLowercase(const std::string& str)
         return std::islower(c) || !std::isalpha(c); // Ignore non-alphabetic characters
     });
 }
-
+queue <string> CommandPalette :: splitString(const string& str) 
+{
+    queue <string> tokens;
+    istringstream iss(str);
+    string token;
+    
+    while (iss >> token) {
+        tokens.push(token);
+    }
+    return tokens;
+}
+bool CommandPalette :: isValidCommand (string str) 
+{
+    transform (str.begin(), str.end(), str.begin(), ::tolower); 
+    for (auto& i : validCommands)
+    {
+        transform(i.begin(), i.end(), i.begin(), ::tolower); 
+        if (str == i) return true; 
+    }
+    return false; 
+};
+string CommandPalette :: border()
+{
+    return "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\n"; 
+};
 // Getters
 vector <ShopTemplate> CommandPalette :: getTemplateDatabase() 
 {
@@ -95,7 +119,9 @@ void CommandPalette :: combine(string shopOne, string shopTwo, string name) {};
 void CommandPalette :: reset() {};  
 void CommandPalette :: help() 
 {
+    cout << border();
     cout << "help                                       -- Displays a list of Commands\n";
+    cout << "clear                                      -- Clear text from terminal\n"; 
     cout << "list shops                                 -- Displays a list of all Shops\n";
     cout << "list traits                                -- Displays a list of all Traits\n";
     cout << "list items     (TRAIT 1) (TRAIT 2) (..)    -- Displays a list of all Items with the specified Traits\n";
@@ -105,14 +131,57 @@ void CommandPalette :: help()
     cout << "create shop                                -- Opens dialogue to create a new Shop\n";
     cout << "create item                                -- Opens dialogue to create a new Item\n";
     cout << "combine        (SHOP 1) (SHOP 2) (NAME)    -- Quickly creates a new shop by combining two shops together\n";
+    cout << "reset                                      -- Delete and Reload all Core Items from JSON files\n";
+    cout << "nuke custom                                -- Delete all custom items and templates\n";
+    cout << border(); 
 }; 
 
 // Driver
-void CommandPalette :: runCommand (string command) {};
-void CommandPalette :: processLine (string line) {};  
-void CommandPalette :: run() 
+void CommandPalette :: runCommand (string command, queue <string> args) //TODO 
 {
+    if (command == "help") help(); 
+    else if (command == "list shops") displayShopList(); 
+    else if (command == "list traits") displayTraits(); 
+    else if (command == "list items") return; 
+    else if (command == "generate") return;  
+    else if (command == "lookup shop") return;   
+    else if (command == "lookup item") return;
+    else if (command == "create shop") return;
+    else if (command == "create item") return;
+    else if (command == "combine") return;
+    else if (command == "reset") return; 
+    else if (command == "nuke custom") return; 
+    else if (command == "clear") 
+    {
+        clearScreen(); 
+        startup(); 
+    }
+};
+void CommandPalette :: processLine (queue <string> tail) 
+{
+    string head = tail.front(); 
+    tail.pop(); 
 
+    if (isValidCommand(head)) runCommand(head, tail); // Hard coded to allow commands of 1 or 2 words. We can make a recursvie function if needed 
+    else 
+    {
+        head += " " + tail.front(); 
+        tail.pop();  
+        if (isValidCommand(head)) runCommand(head, tail);
+        else 
+        {
+            cerr << "Invalid Input. Type help for list of commands.\n";
+            run(); 
+        }
+    }
+};
+void CommandPalette :: run()
+{
+    while (true)
+    {
+        getline(cin, input);
+        processLine(splitString(input));  
+    }
 }; 
 void CommandPalette :: startup() 
 {
