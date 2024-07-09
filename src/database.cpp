@@ -1,6 +1,9 @@
 #include "database.h"
 
-Database :: Database() {}
+Database :: Database() 
+{
+    load(); 
+}
 
 // Setters / Load
 void Database :: setTraitDatabase()

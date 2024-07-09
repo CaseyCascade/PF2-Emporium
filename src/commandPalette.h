@@ -8,6 +8,21 @@
 #include "itemListGenerator.h"
 
 class CommandPalette {
+    protected:
+        Database database; 
+    public:
+        // Constructors
+        CommandPalette(); 
+
+        // Getters
+        vector <ShopTemplate> getTemplateDatabase(); 
+
+        // Member Functions
+
+        // Print
+        void viewShop(int index); 
+        void displayShopList();
+        void displayTraits(); 
 
 
 }; 

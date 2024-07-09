@@ -10,14 +10,20 @@
 
 class UserInput {
     protected:
+    CommandPalette command; 
+    string input; 
 
     public:
     // Utility
     void clearScreen(); 
     void printBanner(); 
+    int convertToInt(const string& str);
+    
 
     // Generate from Shops
     void listGeneration();  
+    void viewShop(int index); 
+
     // Generate Shops (?)
     
     // Create Shops
