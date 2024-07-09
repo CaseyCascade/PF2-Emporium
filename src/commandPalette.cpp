@@ -87,23 +87,37 @@ void CommandPalette :: displayTraits() {};
 
 // Commands
 void CommandPalette :: generate(string shop, int numItems) {};
-void CommandPalette :: lookup(string str) 
-{
-    if (isAllLowercase(str)) // Lookup Item
-    {
-        database.getItem(str).print(); 
-    }
-    if (isAllUppercase(str)) // Lookup Shop
-    {
-        database.getShop(str).print(); 
-    }
-}; 
+void CommandPalette :: lookupShop(string str) 
+{};
+void CommandPalette :: lookupItem(string str)  {};
 void CommandPalette :: create(bool shop, string name) {}; 
 void CommandPalette :: combine(string shopOne, string shopTwo, string name) {};
 void CommandPalette :: reset() {};  
-void CommandPalette :: help() {}; 
+void CommandPalette :: help() 
+{
+    cout << "help                                       -- Displays a list of Commands\n";
+    cout << "list shops                                 -- Displays a list of all Shops\n";
+    cout << "list traits                                -- Displays a list of all Traits\n";
+    cout << "list items     (TRAIT 1) (TRAIT 2) (..)    -- Displays a list of all Items with the specified Traits\n";
+    cout << "generate       (SHOP NAME) (# OF ITEMS)    -- Generates a random list of items from the shop specified\n";
+    cout << "lookup shop    (SHOP NAME)                 -- View the specified Shop\n";
+    cout << "lookup item    (ITEM NAME)                 -- View the specified Item\n";
+    cout << "create shop                                -- Opens dialogue to create a new Shop\n";
+    cout << "create item                                -- Opens dialogue to create a new Item\n";
+    cout << "combine        (SHOP 1) (SHOP 2) (NAME)    -- Quickly creates a new shop by combining two shops together\n";
+}; 
 
-// Input Parsing 
+// Driver
 void CommandPalette :: runCommand (string command) {};
 void CommandPalette :: processLine (string line) {};  
-void CommandPalette :: run() {}; 
+void CommandPalette :: run() 
+{
+
+}; 
+void CommandPalette :: startup() 
+{
+    clearScreen(); 
+    displayBanner();
+    cout << "Welcome to Emporium version " << version << "!\nType help for a list of commands: \n";  
+    run(); 
+}; 
