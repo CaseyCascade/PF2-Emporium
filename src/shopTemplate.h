@@ -20,6 +20,7 @@ class ShopTemplate {
         vector <string> traitBlacklist; 
         int levelMin = MIN_LEVEL; 
         int levelMax = MAX_LEVEL; 
+        bool custom; 
 
     public:
         // Constructors
@@ -41,6 +42,7 @@ class ShopTemplate {
         void setLevelRange(int min, int max);
         void clear(); 
         bool enterData(string variable, string data); 
+        void setCustom ();
 
         // Getters 
         string getName(); 
@@ -52,6 +54,7 @@ class ShopTemplate {
         bool isDefaultLevelRange();
         bool isBlacklisted(string s); 
         int searchTrait(string trait); 
+        bool isCustom(); 
 
         // Member Functions
         bool acceptLevel (int level); 

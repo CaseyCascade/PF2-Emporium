@@ -19,5 +19,5 @@ class ShopTemplateDataManager {
         string getVariable(string line);
         vector <ShopTemplate> loadFile(string filepath);
         vector <ShopTemplate> load();  
-        void saveCustomTemplate(string filename, vector <ShopTemplate>);
+        void writeTemplatesToFile(string filename, vector <ShopTemplate>, bool custom);
 }; 

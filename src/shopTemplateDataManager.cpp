@@ -6,7 +6,7 @@ ShopTemplateDataManager :: ShopTemplateDataManager() {};
 // Member Variables 
 string ShopTemplateDataManager :: getVariable(string line) 
 {
-    vector <string> variables = {"NAME", "TRAITS", "SOURCE BLACKLIST", "TRAIT BLACKLIST", "LEVEL MIN", "LEVEL MAX"}; 
+    vector <string> variables = {"NAME", "TRAITS", "SOURCE BLACKLIST", "TRAIT BLACKLIST", "LEVEL MIN", "LEVEL MAX", "CUSTOM"}; 
     for (auto& i : variables)
     {
         if (line == i) return i; 
@@ -65,4 +65,5 @@ vector <ShopTemplate> ShopTemplateDataManager :: load()
     }
     return allTemplates;
 }; 
-void ShopTemplateDataManager :: saveCustomTemplate(string filename, vector <ShopTemplate>) {}; 
+void ShopTemplateDataManager :: writeTemplatesToFile(string filename, vector <ShopTemplate>, bool custom) // TODO 
+{};

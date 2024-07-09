@@ -95,8 +95,13 @@ bool ShopTemplate :: enterData(string variable, string data)
         } 
         addWeightedTrait(tokens.at(0), utility.convertToInt(tokens.at(1))); 
     }
+    if (variable == "CUSTOM") setCustom(); 
     return true;  
 }; 
+void ShopTemplate :: setCustom ()
+{
+    custom = true; 
+};
 
 // Getters 
 string ShopTemplate :: getName()
@@ -142,6 +147,10 @@ int ShopTemplate :: searchTrait(string trait)
         if (weightedTraits.at(i - 1).first == trait) return i; // Returns position in vector starting at 1, or 0 if it doesn't exist 
     } 
     return 0; 
+};
+bool ShopTemplate :: isCustom ()
+{
+    return custom; 
 };
 
 // Member Functions

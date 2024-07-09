@@ -37,6 +37,6 @@ void CommandPalette :: viewShop(int index)
 }; 
 void CommandPalette :: displayShopList() 
 {
-    cout << "TODO" << endl; 
+    cerr << "TODO\n"; 
 };
 void CommandPalette :: displayTraits() {}; 
