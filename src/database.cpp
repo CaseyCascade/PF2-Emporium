@@ -62,6 +62,19 @@ Item Database :: getItem(string name)
     cerr << "Item Not Found\n";
     return Item("ERROR"); 
 }; 
+ShopTemplate Database :: getShop (string name)
+{
+    transform(name.begin(), name.end(), name.begin(), ::tolower);
+
+    for (auto& i : templateDatabase)
+    {
+        string shopName = i.getName(); 
+        transform(shopName.begin(), shopName.end(), shopName.begin(), ::tolower);
+        if (name == shopName) return i; 
+    }
+    cerr << "Shop Not Found\n";
+    return ShopTemplate("ERROR"); 
+};
 
 // Member Functions
 bool Database :: searchTraitDatabase(string s)

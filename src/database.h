@@ -34,6 +34,7 @@ class Database {
         vector <string> getTraitDatabase(); 
         vector <ShopTemplate> getTemplateDatabase(); 
         Item getItem (string name); 
+        ShopTemplate getShop (string shop); 
 
         // Member Functions
         bool searchTraitDatabase(string s);
