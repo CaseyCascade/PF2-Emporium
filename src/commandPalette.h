@@ -6,6 +6,7 @@
 #include <algorithm> 
 #include <cctype> 
 #include <queue>
+#include <iomanip> 
 
 #include "item.h"
 #include "shopTemplate.h"
@@ -38,12 +39,13 @@ class CommandPalette {
         queue <string> splitString(const string& str);
         bool isValidCommand (string str); 
         string border(); 
+        void printColumns(const std::vector<std::vector<std::string>>& data);
 
         // Getters
         vector <ShopTemplate> getTemplateDatabase(); 
 
         // Member Functions
-        vector <Item> generateItemsFromShop(int shopIndex, int numItems); 
+        vector <Item> generateItemsFromShop(string shop, int numItems); 
         Item itemLookup (string itemName); 
 
         // Print

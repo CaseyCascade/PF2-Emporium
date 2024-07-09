@@ -52,6 +52,26 @@ string CommandPalette :: border()
 {
     return "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\n"; 
 };
+void CommandPalette :: printColumns(const vector<vector<string>>& data) {
+    if (data.empty()) return;
+
+    // Determine the maximum width for each column
+    std::vector<int> columnWidths(data[0].size(), 0);
+    for (const auto& row : data) {
+        for (size_t i = 0; i < row.size(); ++i) {
+            columnWidths[i] = std::max(columnWidths[i], static_cast<int>(row[i].length()));
+        }
+    }
+
+    // Print the data with uniform columns
+    for (const auto& row : data) {
+        for (size_t i = 0; i < row.size(); ++i) {
+            std::cout << std::setw(columnWidths[i] + 2) << std::left << row[i];
+        }
+        std::cout << std::endl;
+    }
+}
+
 // Getters
 vector <ShopTemplate> CommandPalette :: getTemplateDatabase() 
 {
@@ -59,10 +79,10 @@ vector <ShopTemplate> CommandPalette :: getTemplateDatabase()
 };
 
 // Member Functions
-vector <Item> CommandPalette :: generateItemsFromShop(int shopIndex, int numItems)
+vector <Item> CommandPalette :: generateItemsFromShop(string shop, int numItems)
 {
     vector <Item> result; 
-    ScoredTable table(ptr, database.getTemplateDatabase().at(shopIndex));
+    ScoredTable table(ptr, database.getShop(shop));
     table.generate();
     ItemListGenerator generator(table.getScoredTable(), 0.7);
     generator.rubberbandGenerator(numItems);
