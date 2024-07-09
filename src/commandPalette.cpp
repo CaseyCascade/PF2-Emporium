@@ -15,16 +15,16 @@ int CommandPalette :: convertToInt (const string& str)
     }
     return defaultValue;
 }; 
-bool CommandPalette :: isAllUppercase(const std::string& str) 
+bool CommandPalette :: isAllUppercase(const string& str) 
 {
-    return std::all_of(str.begin(), str.end(), [](unsigned char c) {
-        return std::isupper(c) || !std::isalpha(c); // Ignore non-alphabetic characters
+    return all_of(str.begin(), str.end(), [](unsigned char c) {
+        return isupper(c) || !isalpha(c); // Ignore non-alphabetic characters
     });
 }
-bool CommandPalette :: isAllLowercase(const std::string& str) 
+bool CommandPalette :: isAllLowercase(const string& str) 
 {
-    return std::all_of(str.begin(), str.end(), [](unsigned char c) {
-        return std::islower(c) || !std::isalpha(c); // Ignore non-alphabetic characters
+    return all_of(str.begin(), str.end(), [](unsigned char c) {
+        return islower(c) || !isalpha(c); // Ignore non-alphabetic characters
     });
 }
 queue <string> CommandPalette :: splitString(const string& str) 
@@ -56,20 +56,25 @@ void CommandPalette :: printColumns(const vector<vector<string>>& data) {
     if (data.empty()) return;
 
     // Determine the maximum width for each column
-    std::vector<int> columnWidths(data[0].size(), 0);
+    vector<int> columnWidths(data[0].size(), 0);
     for (const auto& row : data) {
         for (size_t i = 0; i < row.size(); ++i) {
-            columnWidths[i] = std::max(columnWidths[i], static_cast<int>(row[i].length()));
+            columnWidths[i] = max(columnWidths[i], static_cast<int>(row[i].length()));
         }
     }
 
     // Print the data with uniform columns
     for (const auto& row : data) {
         for (size_t i = 0; i < row.size(); ++i) {
-            std::cout << std::setw(columnWidths[i] + 2) << std::left << row[i];
+            cout << setw(columnWidths[i] + 2) << left << row[i];
         }
-        std::cout << std::endl;
+        cout << endl;
     }
+}
+vector<string> CommandPalette :: concatenate(const vector<string>& v1, const vector<string>& v2) {
+    vector<string> result = v1;              // Copy the first vector
+    result.insert(result.end(), v2.begin(), v2.end()); // Append the second vector
+    return result;
 }
 
 // Getters
@@ -115,7 +120,7 @@ void CommandPalette :: displayBanner()
 (  _ \ / _\(_  _)/ )( \(  __)(  )(  ( \(    \(  __)(  _ \  (___ \(  __)  (  __)( \/ )(  _ \ /  \(  _ \(  )/ )( \( \/ )
  ) __//    \ )(  ) __ ( ) _)  )( /    / ) D ( ) _)  )   /   / __/ ) _)    ) _) / \/ \ ) __/(  O ))   / )( ) \/ (/ \/ \
 (__)  \_/\_/(__) \_)(_/(__)  (__)\_)__)(____/(____)(__\_)  (____)(____)  (____)\_)(_/(__)   \__/(__\_)(__)\____/\_)(_/
-)" << std::endl;
+)" << endl;
 }
 
 void CommandPalette :: viewShop(int index) 
@@ -127,7 +132,21 @@ void CommandPalette :: displayShopList()
 {
     cerr << "TODO\n"; 
 };
-void CommandPalette :: displayTraits() {}; 
+void CommandPalette :: displayTraits() // TODO Make a new function printTable(int numColumns, vector<vector<string>> list) to make the column number variable
+{
+    int numColumns = 3;
+    vector <string> list = database.getTraitDatabase();
+    vector<vector<string>> numberedList; 
+    vector<vector<string>> newList; 
+    for (int i = 0; i < list.size(); i++) numberedList.push_back({to_string(i+1) + ".", list.at(i)});
+
+    for (int i = 0; i < numberedList.size() - 1; i = i+numColumns)
+    {
+        if (i == numberedList.size() - numColumns) newList.push_back(numberedList.at(i)); // Needs to concatenate remainder vectors 
+        else newList.push_back(concatenate(numberedList.at(i), numberedList.at(i+1))); // Needs to account for more than 2 vectors
+    }
+    printColumns(newList); 
+}; 
 
 // Commands
 void CommandPalette :: generate(string shop, int numItems) {};

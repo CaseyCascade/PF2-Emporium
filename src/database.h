@@ -24,6 +24,7 @@ class Database {
         Database();
 
         //Setters
+        string trim(const std::string& str);
         void setTraitDatabase();
         void loadItems();
         void loadTemplates();
@@ -40,5 +41,7 @@ class Database {
         bool searchTraitDatabase(string s);
         void printTraits();
         void printItems(); 
-        void printTemplates(); 
+        void printTemplates();
+        bool searchVector(vector <string> vec, string s);
+        void fixTraits();  
 };

@@ -39,7 +39,8 @@ class CommandPalette {
         queue <string> splitString(const string& str);
         bool isValidCommand (string str); 
         string border(); 
-        void printColumns(const std::vector<std::vector<std::string>>& data);
+        void printColumns(const vector<vector<string>>& data);
+        vector<string> concatenate(const vector<string>& v1, const vector<string>& v2);
 
         // Getters
         vector <ShopTemplate> getTemplateDatabase(); 
