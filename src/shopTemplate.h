@@ -18,8 +18,8 @@ class ShopTemplate {
         vector <pair <string, int> > weightedTraits; 
         vector <string> sourceBlacklist;
         vector <string> traitBlacklist; 
-        int levelMin = EMPTY; 
-        int levelMax = EMPTY; 
+        int levelMin = MIN_LEVEL; 
+        int levelMax = MAX_LEVEL; 
 
     public:
         // Constructors
@@ -61,5 +61,4 @@ class ShopTemplate {
 
         // Print
         void print(); 
-
 }; 

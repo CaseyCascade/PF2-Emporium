@@ -27,6 +27,10 @@ int ItemListGenerator :: getAverage(vector <int> pickedNumbers)
     }
     return sum / pickedNumbers.size(); 
 }; 
+vector <int> ItemListGenerator :: getPickedItemIndexes()
+{
+    return pickedItemIndexes; 
+};
 
 // Member Functions
 bool ItemListGenerator :: searchVector(vector <int> range, int n)

@@ -22,7 +22,9 @@ class UserInput {
 
     // Generate from Shops
     void listGeneration();  
-    void viewShop(int index); 
+    void viewShop(int userShopindex); 
+    void displayItemList(vector <Item> items, int userShopIndex);
+    void displayItem(vector<Item> currentList, int userShopIndex, Item itemToDisplay, bool noList);
 
     // Generate Shops (?)
     

@@ -10,6 +10,8 @@
 class CommandPalette {
     protected:
         Database database; 
+        Database *ptr = &database;
+
     public:
         // Constructors
         CommandPalette(); 
@@ -18,6 +20,8 @@ class CommandPalette {
         vector <ShopTemplate> getTemplateDatabase(); 
 
         // Member Functions
+        vector <Item> generateItemsFromShop(int shopIndex, int numItems); 
+        Item itemLookup (string itemName); 
 
         // Print
         void viewShop(int index); 

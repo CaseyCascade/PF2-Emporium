@@ -49,6 +49,19 @@ vector <ShopTemplate> Database :: getTemplateDatabase()
 {
     return templateDatabase; 
 };
+Item Database :: getItem(string name)
+{
+    transform(name.begin(), name.end(), name.begin(), ::tolower);
+
+    for (auto& i : itemDatabase)
+    {
+        string itemName = i.getName(); 
+        transform(itemName.begin(), itemName.end(), itemName.begin(), ::tolower);
+        if (name == itemName) return i; 
+    }
+    cerr << "Item Not Found\n";
+    return Item("ERROR"); 
+}; 
 
 // Member Functions
 bool Database :: searchTraitDatabase(string s)

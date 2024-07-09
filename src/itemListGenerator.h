@@ -21,7 +21,8 @@ class ItemListGenerator {
 
         // Getters
         vector <int> getScoreRange(); 
-        int getAverage(vector <int> pickedNumbers); 
+        int getAverage(vector <int> pickedNumbers);
+        vector <int> getPickedItemIndexes();  
 
         // Member Functions
         bool searchVector(vector <int> range, int n); 

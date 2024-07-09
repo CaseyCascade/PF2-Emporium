@@ -41,16 +41,44 @@ void UserInput :: listGeneration()
     else if (convertToInt(input) == -1 or convertToInt(input) > command.getTemplateDatabase().size()) listGeneration(); 
     else viewShop(convertToInt(input)); 
 }; 
-void UserInput :: viewShop(int index) 
+void UserInput :: viewShop(int userShopIndex) 
 {
     clearScreen();
-    command.viewShop(index - 1); 
+    command.viewShop(userShopIndex - 1); 
     cout << "How many items would you like to generate? (0 to return): \n";
     getline(cin, input); 
 
-    //ItemListGenerator generator; TODO
-
+    displayItemList(command.generateItemsFromShop(userShopIndex - 1, convertToInt(input)), userShopIndex); 
 };
+
+void UserInput :: displayItemList(vector <Item> items, int userShopIndex)
+{
+    clearScreen(); 
+    for (int i = 0; i < items.size(); i++)
+    {
+        cout << i+1 << ": " << items.at(i).getName() << endl; 
+    }
+    cout << "\nSelect an Item you would like to view (0 to return, R to generate a new list)\n"; 
+
+    getline(cin, input); 
+    
+    // Might we want a way to save the results? Probably not
+    if (input == "0") startMenu(); 
+    else if (input == "R" or input == "r") displayItemList(command.generateItemsFromShop(userShopIndex - 1, items.size()), userShopIndex);
+    else if (convertToInt(input) <= items.size()) displayItem(items, userShopIndex, items.at(convertToInt(input) - 1), false);
+    else displayItemList(items,userShopIndex); 
+};
+void UserInput :: displayItem(vector <Item> currentList, int userShopIndex, Item itemToDisplay, bool noList)
+{
+    clearScreen();
+    itemToDisplay.print(); 
+    cout << "\nInput 0 to return\n"; 
+    getline(cin, input); 
+
+    if (input == "0" and noList == false) displayItemList(currentList, userShopIndex);
+    else if (input == "0" and noList == true) startMenu(); 
+    else displayItem(currentList, userShopIndex, itemToDisplay, false); 
+};  
 
 // Generate Shops (?)
 
@@ -59,7 +87,16 @@ void UserInput :: shopCreation() {};
 // Create Items
 void UserInput :: itemCreation() {}; 
 // Search Item
-void UserInput :: itemSearch() {};
+void UserInput :: itemSearch() 
+{
+    clearScreen(); 
+    cout << "Type in the name of the item you would like to view (0 to return): \n"; 
+    getline(cin, input);
+
+    vector <Item> empty; 
+    if (input == "0") startMenu(); 
+    else displayItem(empty, 0, command.itemLookup(input), true);
+};
 // Run
 void UserInput :: startMenu()
 {

@@ -4,6 +4,8 @@
 #include <iostream> 
 #include <vector> 
 #include <string>
+#include <algorithm>
+#include <cctype>
 
 // Internal Includes
 #include "item.h"
@@ -31,6 +33,7 @@ class Database {
         vector <Item> getItemDatabase();
         vector <string> getTraitDatabase(); 
         vector <ShopTemplate> getTemplateDatabase(); 
+        Item getItem (string name); 
 
         // Member Functions
         bool searchTraitDatabase(string s);
