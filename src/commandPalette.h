@@ -22,11 +22,6 @@ class CommandPalette {
         Database *ptr = &database;
         float version = 0.1; 
         string input; 
-        vector <string> validCommands = 
-        {
-        "help", "list shops", "list traits", "list items", "generate", "quit",
-        "lookup shop", "lookup item", "create shop", "create item", "combine", "reset", "nuke custom", "clear"
-        };
 
     public:
         // Constructors
@@ -37,7 +32,6 @@ class CommandPalette {
         bool isAllUppercase(const string& str);
         bool isAllLowercase(const string& str); 
         queue <string> splitString(const string& str);
-        bool isValidCommand (string str); 
         string border(); 
         void printColumns(const vector<string>& data, int numColumns);
         vector<string> concatenate(const vector<string>& v1, const vector<string>& v2);
@@ -72,6 +66,7 @@ class CommandPalette {
 
         void combine(queue <string> args);
         void reset();  
+        void nuke(); 
         void help(); 
 
         // Input Parsing 

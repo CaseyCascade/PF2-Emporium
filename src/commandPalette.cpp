@@ -38,19 +38,10 @@ queue <string> CommandPalette :: splitString(const string& str)
     }
     return tokens;
 }
-bool CommandPalette :: isValidCommand (string str) 
-{
-    transform (str.begin(), str.end(), str.begin(), ::tolower); 
-    for (auto& i : validCommands)
-    {
-        transform(i.begin(), i.end(), i.begin(), ::tolower); 
-        if (str == i) return true; 
-    }
-    return false; 
-};
+
 string CommandPalette :: border()
 {
-    return "\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\n"; 
+    return "\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\n\n"; 
 };
 void CommandPalette :: printColumns(const vector<string>& data, int numColumns) {
     if (data.empty()) return;
@@ -138,7 +129,6 @@ void CommandPalette :: invalidInput()
     run();  
 }
 
-
 // Commands
 void CommandPalette :: listShops() 
 {
@@ -214,44 +204,56 @@ void CommandPalette :: createFork(queue <string> args)
 
 
 void CommandPalette :: combine(queue <string> args) {};
-void CommandPalette :: reset() {};  
+void CommandPalette :: reset() {}; 
+void CommandPalette :: nuke() 
+{
+    cout << border(); 
+    cout << "ARE YOU SURE? This will delete all your custom entered data. Type DELETE to continue:\n";
+    getline(cin, input);
+    if (input == "DELETE")
+    {
+        cout << "TODO\n"; 
+    }
+    else startup(); 
+
+};  
 void CommandPalette :: help() 
 {
     cout << border();
-    cout << "help                                       -- Displays a list of Commands\n";
-    cout << "clear                                      -- Clear text from terminal\n"; 
-    cout << "list shops                                 -- Displays a list of all Shops\n";
-    cout << "list traits                                -- Displays a list of all Traits\n";
-    cout << "list items     (TRAIT 1) (TRAIT 2) (..)    -- Displays a list of all Items with the specified Traits\n";
-    cout << "generate       (SHOP NAME) (# OF ITEMS)    -- Generates a random list of items from the shop specified\n";
-    cout << "lookup shop    (SHOP NAME)                 -- View the specified Shop\n";
-    cout << "lookup item    (ITEM NAME)                 -- View the specified Item\n";
-    cout << "create shop                                -- Opens dialogue to create a new Shop\n";
-    cout << "create item                                -- Opens dialogue to create a new Item\n";
-    cout << "combine        (SHOP 1) (SHOP 2) (NAME)    -- Quickly creates a new shop by combining two shops together\n";
-    cout << "reset                                      -- Delete and Reload all Core Items from JSON files\n";
-    cout << "quit                                       -- close the program\n";
-    cout << "nuke                                       -- Delete all custom items and templates\n";
+    cout << "[h]elp                                          -- Displays a list of Commands\n";
+    cout << "[c]lear                                         -- Clear text from terminal\n"; 
+    cout << "list shops                                      -- Displays a list of all Shops\n";
+    cout << "list traits                                     -- Displays a list of all Traits\n";
+    cout << "list items     (TRAIT 1) (TRAIT 2) (..)         -- Displays a list of all Items with the specified Traits\n";
+    cout << "[g]enerate       (SHOP NAME) (# OF ITEMS)       -- Generates a random list of items from the shop specified\n";
+    cout << "lookup shop    (SHOP NAME)                      -- View the specified Shop\n";
+    cout << "lookup item    (ITEM NAME)                      -- View the specified Item\n";
+    cout << "create shop                                     -- Opens dialogue to create a new Shop\n";
+    cout << "create item                                     -- Opens dialogue to create a new Item\n";
+    cout << "combine        (SHOP 1) (SHOP 2) (NAME)         -- Quickly creates a new shop by combining two shops together\n";
+    cout << "[r]eset                                         -- Delete and Reload all Core Items from JSON files\n";
+    cout << "[q]uit                                          -- close the program\n";
+    cout << "nuke                                            -- Delete all custom items and templates\n";
     cout << border(); 
 }; 
 
 // Driver
 void CommandPalette :: runCommand (string command, queue <string> args) //TODO 
 {
-    if (command == "help") help(); 
+    if (command == "help" or command == "h") help(); 
     else if (command == "list") listFork(args); 
-    else if (command == "generate") return;  
+    else if (command == "generate" or command == "g") generate(args); 
     else if (command == "lookup") lookupFork(args);
     else if (command == "create") createFork(args); 
-    else if (command == "combine") return;
-    else if (command == "reset") return; 
-    else if (command == "nuke") return; 
-    else if (command == "clear") 
+    else if (command == "combine") combine(args); 
+    else if (command == "reset" or command == "r") reset(); 
+    else if (command == "nuke") nuke(); 
+    else if (command == "clear" or command == "c") 
     {
         clearScreen(); 
         startup(); 
     }
-    else if (command == "quit") exit(0); 
+    else if (command == "quit" or command == "q") exit(0); 
     else invalidInput(); 
 };
 void CommandPalette :: processLine (queue <string> args) 
