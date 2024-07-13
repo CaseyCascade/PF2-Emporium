@@ -65,7 +65,39 @@ vector <Item> ItemDataManager :: load()
     return allItems;
 }
 
-void ItemDataManager :: saveCustomItems(vector <Item>, string filename) //TODO
+void ItemDataManager :: saveCustomItems(vector <Item> items, string filename) //TODO
 {
-
+    filesystem :: path file(filename + ".txt");
+    filesystem :: path fullPath(customItemDirectory / file); 
+    ofstream fout; 
+    fout.open(fullPath, ios::in|ios::out|ios::app); // Appends file instead of overwriting it
+    if (!fout)
+    {
+        cerr << "Error opening file\n";
+        exit(0);
+    }
+    for (auto& item : items) 
+    {
+        fout << "NAME" << endl; 
+        fout << item.getName() << endl; 
+        fout << "SOURCE\n";
+        fout << item.getSource();
+        fout << "PAGE\n";
+        fout << item.getPage();
+        fout << "GOLD\n";
+        fout << item.getGold();
+        fout << "LEVEL\n";
+        fout << item.getLevel();
+        fout << "BULK\n";
+        fout << item.getBulk();
+        fout << "ENTRY\n";
+        fout << item.getEntry();
+        fout << "TRAITS\n"; 
+        for (auto& trait : item.getTraits())
+        {
+            fout << trait << endl;
+        }
+       fout << endl; 
+    }
+    fout.close(); 
 }

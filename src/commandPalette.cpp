@@ -307,10 +307,23 @@ void CommandPalette :: lookupFork(queue <string> args)
 
 void CommandPalette :: createShop() // TODO 
 {
-    ShopTemplate test("Peanut Salesman", {"dwarf", "weapon"}, 3, 10, {"crb"}, {"bludgeoning"});
-    ShopTemplateDataManager dataManager; 
-    dataManager.writeTemplatesToFile("debug", {test}); 
-    cout << "DONE\n";
+    queue <string> tokens;
+    
+    // Traits // TODO Make into its own function and repeat for other parameters. 
+    vector <string> traits;
+    clearScreen();
+    listTraits(); 
+    cout << "Enter all the Traits you want for the shop by name or number (Example: dwarf / weapon / 32 / magical)\n";
+    getInput(); 
+    tokens = splitString(input); 
+    flattenArgs(tokens); 
+    while (!tokens.empty())
+    {
+        if (isNumeric(tokens.front()) && convertToInt(tokens.front()) <= database.getTraitDatabase().size()) 
+            traits.push_back(database.getTraitDatabase().at(convertToInt(tokens.front()) - 1));
+        else traits.push_back(tokens.front());
+        tokens.pop(); 
+    }
 }; 
 void CommandPalette :: createItem() // TODO
 {};
