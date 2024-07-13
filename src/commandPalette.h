@@ -33,10 +33,12 @@ class CommandPalette {
         int convertToInt (const string& str); 
         bool isAllUppercase(const string& str);
         bool isAllLowercase(const string& str); 
+        void flattenArgs(queue <string>& tokens);
         queue <string> splitString(const string& str);
         string border(); 
         void printColumns(const vector<string>& data, int numColumns);
         vector<string> concatenate(const vector<string>& v1, const vector<string>& v2);
+        void getInput(); 
 
         // Member Functions
         vector <Item> generateItemsFromShop(string shop, int numItems); 

@@ -30,6 +30,31 @@ bool CommandPalette :: isAllLowercase(const string& str)
         return islower(c) || !isalpha(c); // Ignore non-alphabetic characters
     });
 }
+void CommandPalette :: flattenArgs(queue <string>& tokens)
+{
+    queue <string> result;
+    string arg;  
+    while (!tokens.empty())
+    {
+        if (tokens.front() == "/")
+        {
+            arg.pop_back(); 
+            result.push(arg); 
+            arg.clear(); 
+            tokens.pop(); 
+        }
+        else
+        {
+            arg += tokens.front() + " "; 
+            tokens.pop();
+        }
+    }
+
+    arg.pop_back(); 
+    result.push(arg); 
+
+    tokens = result; 
+}
 queue <string> CommandPalette :: splitString(const string& str) 
 {
     queue <string> tokens;
@@ -85,8 +110,14 @@ vector<string> CommandPalette :: concatenate(const vector<string>& v1, const vec
     result.insert(result.end(), v2.begin(), v2.end()); // Append the second vector
     return result;
 }
+void CommandPalette :: getInput()
+{
+    cout << "[>]: "; 
+    getline(cin, input);
+    transform(input.begin(), input.end(), input.begin(), [](unsigned char c) { return std::tolower(c); }); // Lowercasify input 
+}
 
-// Member Functions
+// Helper Functions
 vector <Item> CommandPalette :: generateItemsFromShop(string shop, int numItems)
 {
     vector <Item> result; 
@@ -152,9 +183,16 @@ void CommandPalette :: listItems (queue <string> args)
     filteredItemList.clear(); 
     vector <string> vec;
 
+    flattenArgs(args);
+
+    if (args.empty()) cout << "HUh" << endl; 
+
     while (!args.empty())
     {
-        if (database.searchTraitDatabase(args.front())) vec.push_back(args.front()); 
+        if (database.searchTraitDatabase(args.front()))
+        {
+            vec.push_back(args.front()); 
+        } 
         args.pop(); 
     }
 
@@ -188,9 +226,34 @@ void CommandPalette :: listFork (queue <string> args)
     else invalidInput();
 }; 
 
-void CommandPalette :: generate(queue <string> args) // TODO 
+void CommandPalette :: generate(queue <string> args) 
 {
+    queue <string> originalArgs = args;
+    flattenArgs(args); 
 
+    string shopName = args.front();
+    args.pop();
+
+    if (!isNumeric(args.front())) invalidInput();
+    int numItems = convertToInt(args.front()); 
+    args.pop(); 
+    
+    
+
+    filteredItemList = generateItemsFromShop(shopName, numItems); 
+    vector <string> list;
+    for (auto& i : filteredItemList) list.push_back(i.getName());
+    cout << border();
+    printColumns(list, 2);
+    cout << border();  
+    cout << "[r] to re-generate a new list. Enter a selection to view Item. [0] to continue: \n";
+    getInput();
+    queue <string> selection;
+    selection.push(input);
+
+    if (input == "r") generate(originalArgs);
+    else if (input == "0") run(); 
+    else lookupItem(selection);
 };
 void CommandPalette :: lookupShop(queue <string> args) 
 {
@@ -267,6 +330,7 @@ void CommandPalette :: nuke() // TODO
 {
     cout << border(); 
     cout << "ARE YOU SURE? This will delete all your custom entered data. Type DELETE to continue:\n";
+    cout << "[>]: "; 
     getline(cin, input);
     if (input == "DELETE")
     {
@@ -282,13 +346,13 @@ void CommandPalette :: help()
     cout << "[c]    clear                                           -- Clear text from terminal\n"; 
     cout << "[lis]  list shops                                      -- Displays a list of all Shops\n";
     cout << "[lit]  list traits                                     -- Displays a list of all Traits\n";
-    cout << "[lii]  list items     (TRAIT 1) (TRAIT 2) (..)         -- Displays a list of all Items with the specified Traits\n";
-    cout << "[g]    generate       (SHOP NAME) (# OF ITEMS)         -- Generates a random list of items from the shop specified\n";
+    cout << "[lii]  list items     (TRAIT 1) / (TRAIT 2) / (..)     -- Displays a list of all Items with the specified Traits\n";
+    cout << "[g]    generate       (SHOP NAME) / (# OF ITEMS)       -- Generates a random list of items from the shop specified\n";
     cout << "[lus]  lookup shop    (SHOP NAME)                      -- View the specified Shop\n";
     cout << "[lui]  lookup item    (ITEM NAME)                      -- View the specified Item\n";
     cout << "[cs]   create shop                                     -- Opens dialogue to create a new Shop\n";
     cout << "[ci]   create item                                     -- Opens dialogue to create a new Item\n";
-    cout << "[co]   combine        (SHOP 1) (SHOP 2) (NAME)         -- Quickly creates a new shop by combining two shops together\n";
+    cout << "[co]   combine        (SHOP 1) / (SHOP 2) / (NAME)     -- Quickly creates a new shop by combining two shops together\n";
     cout << "[r]    reset                                           -- Delete and Reload all Core Items from JSON files\n";
     cout << "[q]    quit                                            -- close the program\n";
     cout << "       nuke                                            -- Delete all custom items and templates\n";
@@ -332,8 +396,8 @@ void CommandPalette :: run()
 {
     while (true)
     {
-        getline(cin, input);
-        transform(input.begin(), input.end(), input.begin(), [](unsigned char c) { return std::tolower(c); }); // Lowercasify input 
+        getInput();
+        if (input.empty()) run();
         processLine(splitString(input));  
     }
 }; 

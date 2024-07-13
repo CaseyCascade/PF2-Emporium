@@ -149,5 +149,5 @@ void Item :: print()
     {
         cout << i << ", "; 
     }
-    cout << endl << endl;  
+    cout << endl;  
 }; 
