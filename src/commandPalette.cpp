@@ -157,7 +157,33 @@ void CommandPalette :: listTraits()
 }; 
 void CommandPalette :: listItems (queue <string> args) 
 {
-    cout << "TODO\n"; 
+    filteredItemList.clear(); 
+    vector <string> vec;
+
+    while (!args.empty())
+    {
+        if (database.searchTraitDatabase(args.front())) vec.push_back(args.front()); 
+        args.pop(); 
+    }
+
+    if (vec.empty()) invalidInput();
+    
+    ShopTemplate list("TEMPORARY", vec);
+    ScoredTable table(ptr, list);
+    table.generate();
+    vector <string> itemNames; 
+
+    for (auto& i : table.getScoredTable())
+    {
+        if (i.second > 0)
+        {
+            filteredItemList.push_back(i.first); 
+            itemNames.push_back(i.first.getName()); 
+        }
+    }
+    cout << border(); 
+    printColumns(itemNames, 4); 
+    cout << border(); 
 };
 void CommandPalette :: listFork (queue <string> args) 
 {
@@ -185,7 +211,8 @@ void CommandPalette :: lookupShop(queue <string> args)
     {
         database.getTemplateDatabase().at(convertToInt(shopName)-1).print();
     }
-    else database.getShop(shopName).print();
+    else if (database.getShop(shopName).getName() != "ERROR") database.getShop(shopName).print();
+    else cerr << "Shop Not Found\n";
     cout << border();
 };
 void CommandPalette :: lookupItem(queue <string> args)  
@@ -199,7 +226,16 @@ void CommandPalette :: lookupItem(queue <string> args)
     itemName.pop_back(); 
 
     cout << border();
-    database.getItem(itemName).print();
+    if (isNumeric(itemName) && convertToInt(itemName) <= filteredItemList.size())
+    {
+        filteredItemList.at(convertToInt(itemName)-1).print();
+    }
+    else if (isNumeric(itemName) && filteredItemList.empty())
+    {
+        cout << "Filter a list of items first using the list items command\n";
+    }
+    else if (database.getItem(itemName).getName() != "ERROR") database.getItem(itemName).print();
+    else if (database.getItem(itemName).getName() == "ERROR") cerr << "Item Not Found\n";
     cout << border();
 };
 void CommandPalette :: lookupFork(queue <string> args) 
@@ -221,7 +257,6 @@ void CommandPalette :: createFork(queue <string> args)
     else if (command == "item") createItem();
     else invalidInput();
 }; 
-
 
 void CommandPalette :: combine(queue <string> args) {};
 void CommandPalette :: reset() {}; 

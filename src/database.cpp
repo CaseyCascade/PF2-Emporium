@@ -79,7 +79,6 @@ Item Database :: getItem(string name)
         transform(itemName.begin(), itemName.end(), itemName.begin(), ::tolower);
         if (name == itemName) return i; 
     }
-    cerr << "Item Not Found\n";
     return Item("ERROR"); 
 }; 
 ShopTemplate Database :: getShop (string name)
@@ -92,7 +91,6 @@ ShopTemplate Database :: getShop (string name)
         transform(shopName.begin(), shopName.end(), shopName.begin(), ::tolower);
         if (name == shopName) return i; 
     }
-    cerr << "Shop Not Found\n";
     return ShopTemplate("ERROR"); 
 };
 

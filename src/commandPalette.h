@@ -22,6 +22,7 @@ class CommandPalette {
         Database *ptr = &database;
         float version = 0.1; 
         string input; 
+        vector <Item> filteredItemList; 
 
     public:
         // Constructors
