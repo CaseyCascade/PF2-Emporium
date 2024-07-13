@@ -1,0 +1,28 @@
+NAME
+Peanut Salesman
+SOURCE BLACKLIST
+crb
+TRAIT BLACKLIST
+bludgeoning
+TRAITS
+dwarf|1
+weapon|1
+LEVEL MIN
+3
+LEVEL MAX
+10
+
+NAME
+Peanut Salesman
+SOURCE BLACKLIST
+crb
+TRAIT BLACKLIST
+bludgeoning
+TRAITS
+dwarf|1
+weapon|1
+LEVEL MIN
+3
+LEVEL MAX
+10
+

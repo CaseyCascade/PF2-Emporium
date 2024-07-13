@@ -6,7 +6,7 @@ ShopTemplateDataManager :: ShopTemplateDataManager() {};
 // Member Variables 
 string ShopTemplateDataManager :: getVariable(string line) 
 {
-    vector <string> variables = {"NAME", "TRAITS", "SOURCE BLACKLIST", "TRAIT BLACKLIST", "LEVEL MIN", "LEVEL MAX", "CUSTOM"}; 
+    vector <string> variables = {"NAME", "TRAITS", "SOURCE BLACKLIST", "TRAIT BLACKLIST", "LEVEL MIN", "LEVEL MAX"}; 
     for (auto& i : variables)
     {
         if (line == i) return i; 
@@ -65,5 +65,40 @@ vector <ShopTemplate> ShopTemplateDataManager :: load()
     }
     return allTemplates;
 }; 
-void ShopTemplateDataManager :: writeTemplatesToFile(string filename, vector <ShopTemplate>, bool custom) // TODO 
-{};
+void ShopTemplateDataManager :: writeTemplatesToFile(string filename, vector <ShopTemplate> templates) // TODO 
+{
+    filesystem :: path file(filename + ".txt");
+    filesystem :: path fullPath(customTemplateDirectory / file); 
+    ofstream fout; 
+    fout.open(fullPath, ios::in|ios::out|ios::app); // Appends file instead of overwriting it
+    if (!fout)
+    {
+        cerr << "Error opening file\n";
+        exit(0);
+    }
+    for (auto& shop : templates) 
+    {
+        fout << "NAME" << endl; 
+        fout << shop.getName() << endl; 
+        fout << "SOURCE BLACKLIST" << endl; 
+        for (auto& source : shop.getSourceBlacklist())
+        {
+            fout << source << "\n"; 
+        }
+        fout << "TRAIT BLACKLIST" << endl; 
+        for (auto& trait : shop.getTraitBlacklist())
+        {
+            fout << trait << "\n"; 
+        }
+        fout << "TRAITS" << endl; 
+        for (auto& trait : shop.getWeightedTraits())
+        {
+            fout << trait.first << "|" << trait.second << "\n"; 
+        }
+        fout << "LEVEL MIN\n";
+        fout << shop.getLevelMin() << endl;
+        fout << "LEVEL MAX\n";
+        fout << shop.getLevelMax() << endl << endl; 
+    }
+    fout.close(); 
+};

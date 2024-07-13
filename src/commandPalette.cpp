@@ -306,7 +306,12 @@ void CommandPalette :: lookupFork(queue <string> args)
 };
 
 void CommandPalette :: createShop() // TODO 
-{}; 
+{
+    ShopTemplate test("Peanut Salesman", {"dwarf", "weapon"}, 3, 10, {"crb"}, {"bludgeoning"});
+    ShopTemplateDataManager dataManager; 
+    dataManager.writeTemplatesToFile("debug", {test}); 
+    cout << "DONE\n";
+}; 
 void CommandPalette :: createItem() // TODO
 {};
 void CommandPalette :: createFork(queue <string> args) 
