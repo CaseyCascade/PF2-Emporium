@@ -6,6 +6,26 @@ Item :: Item(string debugName)
 {
     setName(debugName); 
 }
+
+// Utility 
+string Item :: trim(const std::string& str) 
+{
+    // Find the position of the first non-whitespace character
+    auto start = str.begin();
+    while (start != str.end() && std::isspace(*start)) {
+        ++start;
+    }
+
+    // Find the position of the last non-whitespace character
+    auto end = str.end();
+    do {
+        --end;
+    } while (end != start && std::isspace(*end));
+
+    // Return the trimmed string
+    return std::string(start, end + 1);
+}
+
 void Item :: setName (string x){name = x;}
 void Item :: setPage (int x) {page = x;}
 void Item :: setGold (float x) {gold = x;}
@@ -61,6 +81,27 @@ bool Item :: enterData (string variable, string data)
     else if (variable == "ENTRY") {setEntry(data);}
     else if (variable == "TRAITS") {addTrait(data);}
     return true; 
+}
+void Item :: fixTraits()
+{
+for (auto& i : traits)
+    {
+        if (i == "e") i = "evil";
+        if (i == "g") i = "good";
+        if (i == "n") i = "neutral";  
+        if (i == "cn") i = "chaotic neutral";
+        if (i == "ln") i = "lawful neutral";
+        if (i == "cg") i = "chaotic good"; 
+        if (i == "lg") i = "lawful good"; 
+        if (i == "ce") i = "chaotic evil";
+        if (i == "le") i = "lawful evil";
+        if (i == "b") i = "bludgeoning"; 
+        if (i == "s") i = "slashing"; 
+        if (i == "p") i = "piercing"; 
+        if (i == "1") i = "1 damage";
+
+        i = trim(i);  
+    }
 }
 
 // Getters

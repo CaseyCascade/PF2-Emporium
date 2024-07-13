@@ -51,8 +51,8 @@ void Database :: loadTemplates() //TODO Not Implemented Yet
 void Database :: load()
 {
     loadItems(); 
+    fixTraits(); 
     setTraitDatabase();
-    fixTraits();
     loadTemplates(); 
 }
 
@@ -140,28 +140,5 @@ bool Database :: searchVector(vector <string> vec, string s)
 };
 void Database :: fixTraits()
 {
-    for (auto& i : traitDatabase)
-    {
-        if (i == "e") i = "evil";
-        if (i == "g") i = "good";
-        if (i == "n") i = "neutral";  
-        if (i == "cn") i = "chaotic neutral";
-        if (i == "ln") i = "lawful neutral";
-        if (i == "cg") i = "chaotic good"; 
-        if (i == "lg") i = "lawful good"; 
-        if (i == "ce") i = "chaotic evil";
-        if (i == "le") i = "lawful evil";
-        if (i == "b") i = "bludgeoning"; 
-        if (i == "s") i = "slashing"; 
-        if (i == "p") i = "piercing"; 
-        if (i == "1") i = "1 damage"; 
-    }
-
-    vector <string> newVector; 
-    for (auto& i : traitDatabase)
-    {
-        i = trim(i); 
-        if (!searchVector(newVector, i)) newVector.push_back(i); 
-    }
-    traitDatabase = newVector; 
+    for (auto& item : itemDatabase) item.fixTraits();
 }; 

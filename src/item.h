@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <vector> 
+#include <string> 
 
 using namespace std; 
 
@@ -19,6 +20,10 @@ class Item {
     public: 
         Item();
         Item(string errorMessage);
+        
+        // Utility 
+        string trim(const std::string& str); 
+
         // Setters
         void setName (string x);
         void setPage (int x);
@@ -31,6 +36,7 @@ class Item {
         float convertToFloat(const string& str);
         int convertToInt(const string& str);
         bool enterData (string variable, string data); 
+        void fixTraits(); 
 
         // Getters
         string getName ();
