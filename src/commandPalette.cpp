@@ -3,6 +3,9 @@
 CommandPalette :: CommandPalette() {}; 
 
 // Utility
+bool CommandPalette :: isNumeric(const std::string& str) {
+    return !str.empty() && std::all_of(str.begin(), str.end(), ::isdigit);
+}
 int CommandPalette :: convertToInt (const string& str) 
 {
     int defaultValue = -1.0;
@@ -46,7 +49,14 @@ string CommandPalette :: border()
 void CommandPalette :: printColumns(const vector<string>& data, int numColumns) {
     if (data.empty()) return;
 
-    int numRows = data.size();
+    vector <string> numberedList; 
+
+    for (int i = 0; i < data.size(); i++)
+    {
+        numberedList.push_back(to_string(i+1) + ". " + data.at(i)); 
+    }
+
+    int numRows = numberedList.size();
     int numRowsPerColumn = (numRows + numColumns - 1) / numColumns;
 
     // Determine the maximum width for each column
@@ -54,8 +64,8 @@ void CommandPalette :: printColumns(const vector<string>& data, int numColumns) 
     for (int i = 0; i < numColumns; ++i) {
         for (int j = 0; j < numRowsPerColumn; ++j) {
             int index = j * numColumns + i;
-            if (index < data.size()) {
-                columnWidths[i] = max(columnWidths[i], static_cast<int>(data[index].length()));
+            if (index < numberedList.size()) {
+                columnWidths[i] = max(columnWidths[i], static_cast<int>(numberedList[index].length()));
             }
         }
     }
@@ -64,8 +74,8 @@ void CommandPalette :: printColumns(const vector<string>& data, int numColumns) 
     for (int i = 0; i < numRowsPerColumn; ++i) {
         for (int j = 0; j < numColumns; ++j) {
             int index = i * numColumns + j;
-            if (index < data.size()) {
-                cout << setw(columnWidths[j] + 2) << left << data[index];
+            if (index < numberedList.size()) {
+                cout << setw(columnWidths[j] + 2) << left << numberedList[index];
             }
         }
         cout << endl;
@@ -98,11 +108,6 @@ vector <Item> CommandPalette :: generateItemsFromShop(string shop, int numItems)
         result.push_back(table.getScoredTable().at(i).first);
     }
     return result; 
-};
-
-Item CommandPalette :: itemLookup(string itemName)
-{
-    return database.getItem(itemName);
 };
 
 // Print
@@ -145,7 +150,7 @@ void CommandPalette :: listShops()
 void CommandPalette :: listTraits() 
 {
     cout << border(); 
-    int numColumns = 10;
+    int numColumns = 8;
     vector <string> list = database.getTraitDatabase();
     printColumns(list, numColumns);
     cout << border(); 
@@ -167,7 +172,22 @@ void CommandPalette :: listFork (queue <string> args)
 
 void CommandPalette :: generate(queue <string> args) {};
 void CommandPalette :: lookupShop(queue <string> args) 
-{};
+{
+    string shopName; 
+    while (!args.empty())
+    {
+        shopName += args.front() + " "; 
+        args.pop(); 
+    }
+    shopName.pop_back(); 
+    cout << border();
+    if (isNumeric(shopName) && convertToInt(shopName) <= database.getTemplateDatabase().size())
+    {
+        database.getTemplateDatabase().at(convertToInt(shopName)-1).print();
+    }
+    else database.getShop(shopName).print();
+    cout << border();
+};
 void CommandPalette :: lookupItem(queue <string> args)  
 {
     string itemName; 
@@ -220,20 +240,20 @@ void CommandPalette :: nuke()
 void CommandPalette :: help() 
 {
     cout << border();
-    cout << "[h]elp                                          -- Displays a list of Commands\n";
-    cout << "[c]lear                                         -- Clear text from terminal\n"; 
-    cout << "list shops                                      -- Displays a list of all Shops\n";
-    cout << "list traits                                     -- Displays a list of all Traits\n";
-    cout << "list items     (TRAIT 1) (TRAIT 2) (..)         -- Displays a list of all Items with the specified Traits\n";
-    cout << "[g]enerate       (SHOP NAME) (# OF ITEMS)       -- Generates a random list of items from the shop specified\n";
-    cout << "lookup shop    (SHOP NAME)                      -- View the specified Shop\n";
-    cout << "lookup item    (ITEM NAME)                      -- View the specified Item\n";
-    cout << "create shop                                     -- Opens dialogue to create a new Shop\n";
-    cout << "create item                                     -- Opens dialogue to create a new Item\n";
-    cout << "combine        (SHOP 1) (SHOP 2) (NAME)         -- Quickly creates a new shop by combining two shops together\n";
-    cout << "[r]eset                                         -- Delete and Reload all Core Items from JSON files\n";
-    cout << "[q]uit                                          -- close the program\n";
-    cout << "nuke                                            -- Delete all custom items and templates\n";
+    cout << "[h]    help                                            -- Displays a list of Commands\n";
+    cout << "[c]    clear                                           -- Clear text from terminal\n"; 
+    cout << "[lis]  list shops                                      -- Displays a list of all Shops\n";
+    cout << "[lit]  list traits                                     -- Displays a list of all Traits\n";
+    cout << "[lii]  list items     (TRAIT 1) (TRAIT 2) (..)         -- Displays a list of all Items with the specified Traits\n";
+    cout << "[g]    generate       (SHOP NAME) (# OF ITEMS)         -- Generates a random list of items from the shop specified\n";
+    cout << "[lus]  lookup shop    (SHOP NAME)                      -- View the specified Shop\n";
+    cout << "[lui]  lookup item    (ITEM NAME)                      -- View the specified Item\n";
+    cout << "[cs]   create shop                                     -- Opens dialogue to create a new Shop\n";
+    cout << "[ci]   create item                                     -- Opens dialogue to create a new Item\n";
+    cout << "[co]   combine        (SHOP 1) (SHOP 2) (NAME)         -- Quickly creates a new shop by combining two shops together\n";
+    cout << "[r]    reset                                           -- Delete and Reload all Core Items from JSON files\n";
+    cout << "[q]    quit                                            -- close the program\n";
+    cout << "       nuke                                            -- Delete all custom items and templates\n";
     cout << border(); 
 }; 
 
@@ -242,10 +262,17 @@ void CommandPalette :: runCommand (string command, queue <string> args) //TODO
 {
     if (command == "help" or command == "h") help(); 
     else if (command == "list") listFork(args); 
+    else if (command == "lis") listShops(); 
+    else if (command == "lit") listTraits();
+    else if (command == "lii") listItems(args);
     else if (command == "generate" or command == "g") generate(args); 
     else if (command == "lookup") lookupFork(args);
-    else if (command == "create") createFork(args); 
-    else if (command == "combine") combine(args); 
+    else if (command == "lus") lookupShop(args); 
+    else if (command == "lui") lookupItem(args); 
+    else if (command == "create") createFork(args);
+    else if (command == "cs") createShop(); 
+    else if (command == "ci") createItem();  
+    else if (command == "combine" or command == "co") combine(args); 
     else if (command == "reset" or command == "r") reset(); 
     else if (command == "nuke") nuke(); 
     else if (command == "clear" or command == "c") 

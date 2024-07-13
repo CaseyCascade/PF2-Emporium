@@ -28,6 +28,7 @@ class CommandPalette {
         CommandPalette(); 
 
         // Utility
+        bool isNumeric(const std::string& str);
         int convertToInt (const string& str); 
         bool isAllUppercase(const string& str);
         bool isAllLowercase(const string& str); 
@@ -41,8 +42,7 @@ class CommandPalette {
 
         // Member Functions
         vector <Item> generateItemsFromShop(string shop, int numItems); 
-        Item itemLookup (string itemName); 
-
+        
         // Print
         void clearScreen(); 
         void displayBanner(); 
@@ -69,7 +69,7 @@ class CommandPalette {
         void nuke(); 
         void help(); 
 
-        // Input Parsing 
+        // Driver 
         void runCommand (string command, queue <string> args);
         void processLine (queue <string> commands);  
         void run(); 
