@@ -24,7 +24,7 @@ class CommandPalette {
         string input; 
         vector <string> validCommands = 
         {
-        "help", "list shops", "list traits", "list items", "generate", 
+        "help", "list shops", "list traits", "list items", "generate", "quit",
         "lookup shop", "lookup item", "create shop", "create item", "combine", "reset", "nuke custom", "clear"
         };
 
@@ -39,7 +39,7 @@ class CommandPalette {
         queue <string> splitString(const string& str);
         bool isValidCommand (string str); 
         string border(); 
-        void printColumns(const vector<vector<string>>& data);
+        void printColumns(const vector<string>& data, int numColumns);
         vector<string> concatenate(const vector<string>& v1, const vector<string>& v2);
 
         // Getters
@@ -52,16 +52,25 @@ class CommandPalette {
         // Print
         void clearScreen(); 
         void displayBanner(); 
-        void viewShop(int index); 
-        void displayShopList();
-        void displayTraits(); 
-
+        void invalidInput();
+        
         // Commands
-        void generate(string shop, int numItems);
-        void lookupShop(string str);
-        void lookupItem(string str);
-        void create(bool shop, string name);
-        void combine(string shopOne, string shopTwo, string name);
+        void listShops();
+        void listTraits();
+        void listItems(queue <string> args); 
+        void listFork(queue <string> args); 
+
+        void generate(queue <string> args);
+
+        void lookupShop(queue <string> args);
+        void lookupItem(queue <string> args);
+        void lookupFork(queue <string> args); 
+
+        void createShop();
+        void createItem(); 
+        void createFork(queue <string> args);
+
+        void combine(queue <string> args);
         void reset();  
         void help(); 
 

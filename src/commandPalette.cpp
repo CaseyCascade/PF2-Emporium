@@ -50,27 +50,37 @@ bool CommandPalette :: isValidCommand (string str)
 };
 string CommandPalette :: border()
 {
-    return "= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\n"; 
+    return "\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\n"; 
 };
-void CommandPalette :: printColumns(const vector<vector<string>>& data) {
+void CommandPalette :: printColumns(const vector<string>& data, int numColumns) {
     if (data.empty()) return;
 
+    int numRows = data.size();
+    int numRowsPerColumn = (numRows + numColumns - 1) / numColumns;
+
     // Determine the maximum width for each column
-    vector<int> columnWidths(data[0].size(), 0);
-    for (const auto& row : data) {
-        for (size_t i = 0; i < row.size(); ++i) {
-            columnWidths[i] = max(columnWidths[i], static_cast<int>(row[i].length()));
+    vector<int> columnWidths(numColumns, 0);
+    for (int i = 0; i < numColumns; ++i) {
+        for (int j = 0; j < numRowsPerColumn; ++j) {
+            int index = j * numColumns + i;
+            if (index < data.size()) {
+                columnWidths[i] = max(columnWidths[i], static_cast<int>(data[index].length()));
+            }
         }
     }
 
     // Print the data with uniform columns
-    for (const auto& row : data) {
-        for (size_t i = 0; i < row.size(); ++i) {
-            cout << setw(columnWidths[i] + 2) << left << row[i];
+    for (int i = 0; i < numRowsPerColumn; ++i) {
+        for (int j = 0; j < numColumns; ++j) {
+            int index = i * numColumns + j;
+            if (index < data.size()) {
+                cout << setw(columnWidths[j] + 2) << left << data[index];
+            }
         }
         cout << endl;
     }
 }
+
 vector<string> CommandPalette :: concatenate(const vector<string>& v1, const vector<string>& v2) {
     vector<string> result = v1;              // Copy the first vector
     result.insert(result.end(), v2.begin(), v2.end()); // Append the second vector
@@ -122,39 +132,88 @@ void CommandPalette :: displayBanner()
 (__)  \_/\_/(__) \_)(_/(__)  (__)\_)__)(____/(____)(__\_)  (____)(____)  (____)\_)(_/(__)   \__/(__\_)(__)\____/\_)(_/
 )" << endl;
 }
-
-void CommandPalette :: viewShop(int index) 
-{ 
-    ShopTemplate shop = getTemplateDatabase().at(index);
-    shop.print(); 
-}; 
-void CommandPalette :: displayShopList() 
+void CommandPalette :: invalidInput()
 {
-    cerr << "TODO\n"; 
-};
-void CommandPalette :: displayTraits() // TODO Make a new function printTable(int numColumns, vector<vector<string>> list) to make the column number variable
-{
-    int numColumns = 3;
-    vector <string> list = database.getTraitDatabase();
-    vector<vector<string>> numberedList; 
-    vector<vector<string>> newList; 
-    for (int i = 0; i < list.size(); i++) numberedList.push_back({to_string(i+1) + ".", list.at(i)});
+    cout << "Invalid Input. Type help for a list of commands\n";
+    run();  
+}
 
-    for (int i = 0; i < numberedList.size() - 1; i = i+numColumns)
-    {
-        if (i == numberedList.size() - numColumns) newList.push_back(numberedList.at(i)); // Needs to concatenate remainder vectors 
-        else newList.push_back(concatenate(numberedList.at(i), numberedList.at(i+1))); // Needs to account for more than 2 vectors
-    }
-    printColumns(newList); 
-}; 
 
 // Commands
-void CommandPalette :: generate(string shop, int numItems) {};
-void CommandPalette :: lookupShop(string str) 
+void CommandPalette :: listShops() 
+{
+    cout << border(); 
+    int numColumns = 10; 
+    vector <string> shopList; 
+    for (auto& i : database.getTemplateDatabase())
+    {
+        shopList.push_back(i.getName());
+    }
+    printColumns(shopList, numColumns);
+    cout << border(); 
+};
+void CommandPalette :: listTraits() 
+{
+    cout << border(); 
+    int numColumns = 10;
+    vector <string> list = database.getTraitDatabase();
+    printColumns(list, numColumns);
+    cout << border(); 
+}; 
+void CommandPalette :: listItems (queue <string> args) 
+{
+    cout << "TODO\n"; 
+};
+void CommandPalette :: listFork (queue <string> args) 
+{
+    string command = args.front();
+    args.pop(); 
+
+    if (command == "shops") listShops();
+    else if (command == "traits") listTraits(); 
+    else if (command == "items") listItems(args);
+    else invalidInput();
+}; 
+
+void CommandPalette :: generate(queue <string> args) {};
+void CommandPalette :: lookupShop(queue <string> args) 
 {};
-void CommandPalette :: lookupItem(string str)  {};
-void CommandPalette :: create(bool shop, string name) {}; 
-void CommandPalette :: combine(string shopOne, string shopTwo, string name) {};
+void CommandPalette :: lookupItem(queue <string> args)  
+{
+    string itemName; 
+    while (!args.empty())
+    {
+        itemName += args.front() + " "; 
+        args.pop(); 
+    }
+    itemName.pop_back(); 
+
+    cout << border();
+    database.getItem(itemName).print();
+    cout << border();
+};
+void CommandPalette :: lookupFork(queue <string> args) 
+{   
+    string command = args.front();
+    args.pop();
+    if (command == "shop") return; 
+    else if (command == "item") return;
+    else invalidInput();
+};
+
+void CommandPalette :: createShop() {}; 
+void CommandPalette :: createItem() {}; 
+void CommandPalette :: createFork(queue <string> args) 
+{
+    string command = args.front();
+    args.pop();
+    if (command == "shop") createShop(); 
+    else if (command == "item") createItem();
+    else invalidInput();
+}; 
+
+
+void CommandPalette :: combine(queue <string> args) {};
 void CommandPalette :: reset() {};  
 void CommandPalette :: help() 
 {
@@ -171,7 +230,8 @@ void CommandPalette :: help()
     cout << "create item                                -- Opens dialogue to create a new Item\n";
     cout << "combine        (SHOP 1) (SHOP 2) (NAME)    -- Quickly creates a new shop by combining two shops together\n";
     cout << "reset                                      -- Delete and Reload all Core Items from JSON files\n";
-    cout << "nuke custom                                -- Delete all custom items and templates\n";
+    cout << "quit                                       -- close the program\n";
+    cout << "nuke                                       -- Delete all custom items and templates\n";
     cout << border(); 
 }; 
 
@@ -179,40 +239,27 @@ void CommandPalette :: help()
 void CommandPalette :: runCommand (string command, queue <string> args) //TODO 
 {
     if (command == "help") help(); 
-    else if (command == "list shops") displayShopList(); 
-    else if (command == "list traits") displayTraits(); 
-    else if (command == "list items") return; 
+    else if (command == "list") listFork(args); 
     else if (command == "generate") return;  
-    else if (command == "lookup shop") return;   
-    else if (command == "lookup item") return;
-    else if (command == "create shop") return;
-    else if (command == "create item") return;
+    else if (command == "lookup") lookupFork(args);
+    else if (command == "create") createFork(args); 
     else if (command == "combine") return;
     else if (command == "reset") return; 
-    else if (command == "nuke custom") return; 
+    else if (command == "nuke") return; 
     else if (command == "clear") 
     {
         clearScreen(); 
         startup(); 
     }
+    else if (command == "quit") exit(0); 
+    else invalidInput(); 
 };
-void CommandPalette :: processLine (queue <string> tail) 
+void CommandPalette :: processLine (queue <string> args) 
 {
-    string head = tail.front(); 
-    tail.pop(); 
+    string command = args.front(); 
+    args.pop(); 
 
-    if (isValidCommand(head)) runCommand(head, tail); // Hard coded to allow commands of 1 or 2 words. We can make a recursvie function if needed 
-    else 
-    {
-        head += " " + tail.front(); 
-        tail.pop();  
-        if (isValidCommand(head)) runCommand(head, tail);
-        else 
-        {
-            cerr << "Invalid Input. Type help for list of commands.\n";
-            run(); 
-        }
-    }
+    runCommand(command, args); // Hard coded to allow commands of 1 or 2 words. We can make a recursvie function if needed 
 };
 void CommandPalette :: run()
 {
