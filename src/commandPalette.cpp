@@ -41,7 +41,6 @@ queue <string> CommandPalette :: splitString(const string& str)
     }
     return tokens;
 }
-
 string CommandPalette :: border()
 {
     return "\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =\n\n"; 
@@ -81,18 +80,11 @@ void CommandPalette :: printColumns(const vector<string>& data, int numColumns) 
         cout << endl;
     }
 }
-
 vector<string> CommandPalette :: concatenate(const vector<string>& v1, const vector<string>& v2) {
     vector<string> result = v1;              // Copy the first vector
     result.insert(result.end(), v2.begin(), v2.end()); // Append the second vector
     return result;
 }
-
-// Getters
-vector <ShopTemplate> CommandPalette :: getTemplateDatabase() 
-{
-    return database.getTemplateDatabase(); 
-};
 
 // Member Functions
 vector <Item> CommandPalette :: generateItemsFromShop(string shop, int numItems)
@@ -196,7 +188,10 @@ void CommandPalette :: listFork (queue <string> args)
     else invalidInput();
 }; 
 
-void CommandPalette :: generate(queue <string> args) {};
+void CommandPalette :: generate(queue <string> args) // TODO 
+{
+
+};
 void CommandPalette :: lookupShop(queue <string> args) 
 {
     string shopName; 
@@ -247,8 +242,10 @@ void CommandPalette :: lookupFork(queue <string> args)
     else invalidInput();
 };
 
-void CommandPalette :: createShop() {}; 
-void CommandPalette :: createItem() {}; 
+void CommandPalette :: createShop() // TODO 
+{}; 
+void CommandPalette :: createItem() // TODO
+{};
 void CommandPalette :: createFork(queue <string> args) 
 {
     string command = args.front();
@@ -258,9 +255,15 @@ void CommandPalette :: createFork(queue <string> args)
     else invalidInput();
 }; 
 
-void CommandPalette :: combine(queue <string> args) {};
-void CommandPalette :: reset() {}; 
-void CommandPalette :: nuke() 
+void CommandPalette :: combine(queue <string> args) // TODO 
+{
+
+}; 
+void CommandPalette :: reset() // TODO
+{
+
+}; 
+void CommandPalette :: nuke() // TODO
 {
     cout << border(); 
     cout << "ARE YOU SURE? This will delete all your custom entered data. Type DELETE to continue:\n";
@@ -330,6 +333,7 @@ void CommandPalette :: run()
     while (true)
     {
         getline(cin, input);
+        transform(input.begin(), input.end(), input.begin(), [](unsigned char c) { return std::tolower(c); }); // Lowercasify input 
         processLine(splitString(input));  
     }
 }; 

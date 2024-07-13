@@ -38,9 +38,6 @@ class CommandPalette {
         void printColumns(const vector<string>& data, int numColumns);
         vector<string> concatenate(const vector<string>& v1, const vector<string>& v2);
 
-        // Getters
-        vector <ShopTemplate> getTemplateDatabase(); 
-
         // Member Functions
         vector <Item> generateItemsFromShop(string shop, int numItems); 
         
