@@ -3,6 +3,8 @@ import os
 
 debug = True
 
+
+
 class Item: 
     base_name = None
     name = None
@@ -359,7 +361,6 @@ def check_for_new_json_files(json_dir, data_dir):
 reject_trait_identifiers = ['region', 'Member']
 trait_keys = ['category', 'subCategory', 'damage', 'damageType', 'group', 'traits', 'access']
 new_item = Item()
-
 repo_directory = os.path.dirname(os.path.abspath(os.path.dirname(os.path.abspath(__file__)))) 
 json_directory = 'json_input'
 data_directory = 'data/core_items'
@@ -367,4 +368,5 @@ data_directory = 'data/core_items'
 full_json_path = os.path.join(repo_directory, json_directory)
 full_data_path = os.path.join(repo_directory, data_directory)
 
-check_for_new_json_files(full_json_path, full_data_path)
+def load():
+    check_for_new_json_files(full_json_path, full_data_path)

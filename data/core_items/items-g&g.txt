@@ -592,7 +592,7 @@ snare
 trap
 
 NAME
-Black Powder (round dose of or)
+Black Powder (or dose round of)
 SOURCE
 G&G
 PAGE
@@ -611,7 +611,7 @@ alchemical
 consumable
 
 NAME
-Black Powder (of horn)
+Black Powder (horn of)
 SOURCE
 G&G
 PAGE
@@ -3605,7 +3605,7 @@ ammunition
 crossbow
 
 NAME
-Repeating Magazine (hand crossbow)
+Repeating Magazine (crossbow hand)
 SOURCE
 G&G
 PAGE
@@ -3623,7 +3623,7 @@ ammunition
 crossbow
 
 NAME
-Repeating Magazine (heavy crossbow)
+Repeating Magazine (crossbow heavy)
 SOURCE
 G&G
 PAGE

@@ -37,7 +37,7 @@ precious
 material
 
 NAME
-Abysium (standard-grade object)
+Abysium (object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -56,7 +56,7 @@ precious
 material
 
 NAME
-Abysium (high-grade object)
+Abysium (object high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -132,7 +132,7 @@ contact
 poison
 
 NAME
-Abysium Shield (standard-grade buckler)
+Abysium Shield (buckler standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -168,7 +168,7 @@ rare
 material
 
 NAME
-Abysium Shield (high-grade buckler)
+Abysium Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1404,7 +1404,7 @@ precious
 material
 
 NAME
-Djezet (standard-grade alloy object)
+Djezet (object alloy standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1423,7 +1423,7 @@ precious
 material
 
 NAME
-Djezet (high-grade alloy object)
+Djezet (object alloy high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1497,7 +1497,7 @@ consumable
 magical
 
 NAME
-Djezet Shield (standard-grade buckler)
+Djezet Shield (buckler standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1533,7 +1533,7 @@ rare
 material
 
 NAME
-Djezet Shield (high-grade buckler)
+Djezet Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -1732,7 +1732,7 @@ alchemical
 consumable
 
 NAME
-Dragon's Breath Rune (1st-level spell)
+Dragon's Breath Rune (spell 1st-level)
 SOURCE
 LOTGB
 PAGE
@@ -1795,7 +1795,7 @@ rune
 metamagic
 
 NAME
-Dragon's Breath Rune (spell 4th-level)
+Dragon's Breath Rune (4th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -2180,7 +2180,7 @@ transmutation
 worn
 
 NAME
-Energy Robe (of acid)
+Energy Robe (acid of)
 SOURCE
 LOTGB
 PAGE
@@ -2684,7 +2684,7 @@ evocation
 magical
 
 NAME
-Games (dice loaded)
+Games (loaded dice)
 SOURCE
 LOTGB
 PAGE
@@ -3002,7 +3002,7 @@ precious
 material
 
 NAME
-Inubrix (standard-grade object)
+Inubrix (object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3021,7 +3021,7 @@ precious
 material
 
 NAME
-Inubrix (high-grade object)
+Inubrix (object high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3076,7 +3076,7 @@ rare
 material
 
 NAME
-Inubrix Shield (standard-grade buckler)
+Inubrix Shield (buckler standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3112,7 +3112,7 @@ rare
 material
 
 NAME
-Inubrix Shield (high-grade buckler)
+Inubrix Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3650,7 +3650,7 @@ precious
 material
 
 NAME
-Noqual (standard-grade object)
+Noqual (object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3669,7 +3669,7 @@ precious
 material
 
 NAME
-Noqual (high-grade object)
+Noqual (object high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3724,7 +3724,7 @@ rare
 material
 
 NAME
-Noqual Shield (high-grade buckler)
+Noqual Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -3834,7 +3834,7 @@ teleportation
 rune
 
 NAME
-Paired Rune (runes greater)
+Paired Rune (greater runes)
 SOURCE
 LOTGB
 PAGE
@@ -3855,7 +3855,7 @@ teleportation
 rune
 
 NAME
-Paired Rune (runes major)
+Paired Rune (major runes)
 SOURCE
 LOTGB
 PAGE
@@ -4237,7 +4237,7 @@ TRAITS
 held
 
 NAME
-Puzzle Box (box; hollow 0+ level)
+Puzzle Box (hollow level box; 0+)
 SOURCE
 LOTGB
 PAGE
@@ -4764,7 +4764,7 @@ precious
 material
 
 NAME
-Siccatite (standard-grade object)
+Siccatite (object standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -4783,7 +4783,7 @@ precious
 material
 
 NAME
-Siccatite (high-grade object)
+Siccatite (object high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -4838,7 +4838,7 @@ rare
 material
 
 NAME
-Siccatite Shield (standard-grade buckler)
+Siccatite Shield (buckler standard-grade)
 SOURCE
 LOTGB
 PAGE
@@ -4874,7 +4874,7 @@ rare
 shield
 
 NAME
-Siccatite Shield (high-grade buckler)
+Siccatite Shield (buckler high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -6080,7 +6080,7 @@ TRAITS
 adventuring gear
 
 NAME
-Waffle Iron (high-grade mithral)
+Waffle Iron (mithral high-grade)
 SOURCE
 LOTGB
 PAGE
@@ -6139,7 +6139,7 @@ magical
 wand
 
 NAME
-Wand Of Spiritual Warfare (spell 4th-level)
+Wand Of Spiritual Warfare (4th-level spell)
 SOURCE
 LOTGB
 PAGE
@@ -6223,7 +6223,7 @@ sonic
 wand
 
 NAME
-Wand Of Thundering Echoes (spell 4th-level)
+Wand Of Thundering Echoes (4th-level spell)
 SOURCE
 LOTGB
 PAGE

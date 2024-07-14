@@ -22,5 +22,3 @@ def delete_files_in_directory(local_directory):
     new_file = os.path.join(directory, gitkeep) 
     with open(new_file, 'w') as file:
         pass  # Do nothing
-
-delete_files_in_directory(core_items_path)

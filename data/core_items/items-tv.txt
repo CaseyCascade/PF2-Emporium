@@ -582,7 +582,7 @@ magical
 tattoo
 
 NAME
-Bewitching Bloom (cherry blossom)
+Bewitching Bloom (blossom cherry)
 SOURCE
 TV
 PAGE
@@ -662,7 +662,7 @@ magical
 tattoo
 
 NAME
-Bewitching Bloom (iris purple)
+Bewitching Bloom (purple iris)
 SOURCE
 TV
 PAGE
@@ -702,7 +702,7 @@ magical
 tattoo
 
 NAME
-Bewitching Bloom (poppy white)
+Bewitching Bloom (white poppy)
 SOURCE
 TV
 PAGE
@@ -3911,7 +3911,7 @@ wand
 water
 
 NAME
-Wand of Choking Mist (spell 4th-level)
+Wand of Choking Mist (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -3931,7 +3931,7 @@ wand
 water
 
 NAME
-Wand of Chromatic Burst (spell 4th-level)
+Wand of Chromatic Burst (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4098,7 +4098,7 @@ magical
 wand
 
 NAME
-Wand of Dazzling Rays (spell 4th-level)
+Wand of Dazzling Rays (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4254,7 +4254,7 @@ prediction
 wand
 
 NAME
-Wand of Dumbfounding Doom (spell 4th-level)
+Wand of Dumbfounding Doom (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4418,7 +4418,7 @@ plant
 wand
 
 NAME
-Wand of Hawthorn (spell 4th-level)
+Wand of Hawthorn (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4520,7 +4520,7 @@ transmutation
 wand
 
 NAME
-Wand of Hybrid Form (spell 4th-level)
+Wand of Hybrid Form (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4646,7 +4646,7 @@ transmutation
 wand
 
 NAME
-Wand of Legerdemain (1st-level spell)
+Wand of Legerdemain (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -4715,7 +4715,7 @@ mental
 visual
 
 NAME
-Wand of Legerdemain (spell 4th-level)
+Wand of Legerdemain (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -4853,7 +4853,7 @@ mental
 visual
 
 NAME
-Wand of Mental Purification (1st-level spell)
+Wand of Mental Purification (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -4919,7 +4919,7 @@ mental
 wand
 
 NAME
-Wand of Mental Purification (spell 4th-level)
+Wand of Mental Purification (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5051,7 +5051,7 @@ mental
 wand
 
 NAME
-Wand of Mercy (1st-level spell)
+Wand of Mercy (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -5105,7 +5105,7 @@ magical
 wand
 
 NAME
-Wand of Mercy (spell 4th-level)
+Wand of Mercy (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5233,7 +5233,7 @@ magical
 wand
 
 NAME
-Wand of Noisome Acid (spell 4th-level)
+Wand of Noisome Acid (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5335,7 +5335,7 @@ mental
 wand
 
 NAME
-Wand of Pernicious Poison (1st-level spell)
+Wand of Pernicious Poison (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -5375,7 +5375,7 @@ poison
 wand
 
 NAME
-Wand of Reaching (1st-level spell)
+Wand of Reaching (spell 1st-level)
 SOURCE
 TV
 PAGE
@@ -5429,7 +5429,7 @@ magical
 wand
 
 NAME
-Wand of Reaching (spell 4th-level)
+Wand of Reaching (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5537,7 +5537,7 @@ magical
 wand
 
 NAME
-Wand of Refracting Rays (spell 4th-level)
+Wand of Refracting Rays (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5619,7 +5619,7 @@ magical
 wand
 
 NAME
-Wand of Rolling Flames (spell 4th-level)
+Wand of Rolling Flames (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -5818,7 +5818,7 @@ necromancy
 wand
 
 NAME
-Wand of Teeming Ghosts (spell 4th-level)
+Wand of Teeming Ghosts (4th-level spell)
 SOURCE
 TV
 PAGE
@@ -6510,7 +6510,7 @@ magical
 worn
 
 NAME
-Bravery Baldric (restoration, greater)
+Bravery Baldric (greater restoration,)
 SOURCE
 TV
 PAGE
@@ -7831,7 +7831,7 @@ magical
 held
 
 NAME
-Tattletale Orb (clear quartz)
+Tattletale Orb (quartz clear)
 SOURCE
 TV
 PAGE

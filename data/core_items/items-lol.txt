@@ -509,7 +509,7 @@ precious
 material
 
 NAME
-Sovereign Steel (standard-grade object)
+Sovereign Steel (object standard-grade)
 SOURCE
 LOL
 PAGE
@@ -528,7 +528,7 @@ precious
 material
 
 NAME
-Sovereign Steel (high-grade object)
+Sovereign Steel (object high-grade)
 SOURCE
 LOL
 PAGE

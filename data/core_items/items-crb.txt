@@ -195,7 +195,7 @@ uncommon
 material
 
 NAME
-Adamantine Shield (standard-grade buckler)
+Adamantine Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -231,7 +231,7 @@ uncommon
 material
 
 NAME
-Adamantine Shield (high-grade buckler)
+Adamantine Shield (buckler high-grade)
 SOURCE
 CRB
 PAGE
@@ -362,7 +362,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (gold nodule)
+Aeon Stone (nodule gold)
 SOURCE
 CRB
 PAGE
@@ -383,7 +383,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (lavender and green ellipsoid)
+Aeon Stone (ellipsoid green and lavender)
 SOURCE
 CRB
 PAGE
@@ -425,7 +425,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (lavender pale ellipsoid)
+Aeon Stone (lavender ellipsoid pale)
 SOURCE
 CRB
 PAGE
@@ -446,7 +446,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (pink rhomboid)
+Aeon Stone (rhomboid pink)
 SOURCE
 CRB
 PAGE
@@ -467,7 +467,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (tourmaline sphere)
+Aeon Stone (sphere tourmaline)
 SOURCE
 CRB
 PAGE
@@ -509,7 +509,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (briolette azure)
+Aeon Stone (azure briolette)
 SOURCE
 CRB
 PAGE
@@ -530,7 +530,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (prism rose dusty)
+Aeon Stone (dusty prism rose)
 SOURCE
 CRB
 PAGE
@@ -551,7 +551,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (pale rhomboid orange)
+Aeon Stone (rhomboid orange pale)
 SOURCE
 CRB
 PAGE
@@ -572,7 +572,7 @@ transmutation
 worn
 
 NAME
-Aeon Stone (pyramid pearlescent)
+Aeon Stone (pearlescent pyramid)
 SOURCE
 CRB
 PAGE
@@ -1431,7 +1431,7 @@ TRAITS
 adventuring gear
 
 NAME
-Bag of Holding (i type)
+Bag of Holding (type i)
 SOURCE
 CRB
 PAGE
@@ -1451,7 +1451,7 @@ magical
 held
 
 NAME
-Bag of Holding (type ii)
+Bag of Holding (ii type)
 SOURCE
 CRB
 PAGE
@@ -1491,7 +1491,7 @@ magical
 held
 
 NAME
-Bag of Holding (iv type)
+Bag of Holding (type iv)
 SOURCE
 CRB
 PAGE
@@ -3332,7 +3332,7 @@ precious
 material
 
 NAME
-Cold Iron (object low-grade)
+Cold Iron (low-grade object)
 SOURCE
 CRB
 PAGE
@@ -3437,7 +3437,7 @@ TRAITS
 material
 
 NAME
-Cold Iron Shield (buckler low-grade)
+Cold Iron Shield (low-grade buckler)
 SOURCE
 CRB
 PAGE
@@ -3471,7 +3471,7 @@ TRAITS
 material
 
 NAME
-Cold Iron Shield (standard-grade buckler)
+Cold Iron Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -3505,7 +3505,7 @@ TRAITS
 material
 
 NAME
-Cold Iron Shield (high-grade buckler)
+Cold Iron Shield (buckler high-grade)
 SOURCE
 CRB
 PAGE
@@ -4311,7 +4311,7 @@ uncommon
 material
 
 NAME
-Darkwood Shield (standard-grade buckler)
+Darkwood Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -4347,7 +4347,7 @@ uncommon
 material
 
 NAME
-Darkwood Shield (standard-grade tower)
+Darkwood Shield (tower standard-grade)
 SOURCE
 CRB
 PAGE
@@ -4365,7 +4365,7 @@ uncommon
 material
 
 NAME
-Darkwood Shield (high-grade buckler)
+Darkwood Shield (buckler high-grade)
 SOURCE
 CRB
 PAGE
@@ -4943,7 +4943,7 @@ uncommon
 material
 
 NAME
-Dragonhide Shield (standard-grade buckler)
+Dragonhide Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -4979,7 +4979,7 @@ uncommon
 shield
 
 NAME
-Dragonhide Shield (high-grade buckler)
+Dragonhide Shield (buckler high-grade)
 SOURCE
 CRB
 PAGE
@@ -5845,7 +5845,7 @@ consumable
 magical
 
 NAME
-Feather Token (bush holly)
+Feather Token (holly bush)
 SOURCE
 CRB
 PAGE
@@ -6980,7 +6980,7 @@ transmutation
 worn
 
 NAME
-Handwraps of Mighty Blows (striking +2 greater)
+Handwraps of Mighty Blows (greater striking +2)
 SOURCE
 CRB
 PAGE
@@ -7000,7 +7000,7 @@ transmutation
 worn
 
 NAME
-Handwraps of Mighty Blows (+3 striking greater)
+Handwraps of Mighty Blows (greater +3 striking)
 SOURCE
 CRB
 PAGE
@@ -7020,7 +7020,7 @@ transmutation
 worn
 
 NAME
-Handwraps of Mighty Blows (major +3 striking)
+Handwraps of Mighty Blows (striking +3 major)
 SOURCE
 CRB
 PAGE
@@ -8149,7 +8149,7 @@ TRAITS
 adventuring gear
 
 NAME
-Lantern (eye bull's)
+Lantern (bull's eye)
 SOURCE
 CRB
 PAGE
@@ -8487,7 +8487,7 @@ magical
 held
 
 NAME
-Magic Wand (1st-level spell)
+Magic Wand (spell 1st-level)
 SOURCE
 CRB
 PAGE
@@ -9253,7 +9253,7 @@ uncommon
 material
 
 NAME
-Mithral Shield (standard-grade buckler)
+Mithral Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -9289,7 +9289,7 @@ uncommon
 shield
 
 NAME
-Mithral Shield (high-grade buckler)
+Mithral Shield (buckler high-grade)
 SOURCE
 CRB
 PAGE
@@ -10039,7 +10039,7 @@ rare
 material
 
 NAME
-Orichalcum Shield (high-grade buckler)
+Orichalcum Shield (buckler high-grade)
 SOURCE
 CRB
 PAGE
@@ -11364,7 +11364,7 @@ magical
 worn
 
 NAME
-Ring of Wizardry (i type)
+Ring of Wizardry (type i)
 SOURCE
 CRB
 PAGE
@@ -11385,7 +11385,7 @@ invested
 worn
 
 NAME
-Ring of Wizardry (type ii)
+Ring of Wizardry (ii type)
 SOURCE
 CRB
 PAGE
@@ -11427,7 +11427,7 @@ invested
 worn
 
 NAME
-Ring of Wizardry (iv type)
+Ring of Wizardry (type iv)
 SOURCE
 CRB
 PAGE
@@ -11796,7 +11796,7 @@ uncommon
 adventuring gear
 
 NAME
-Scroll (1st-level spell)
+Scroll (spell 1st-level)
 SOURCE
 CRB
 PAGE
@@ -12461,7 +12461,7 @@ precious
 material
 
 NAME
-Silver (object low-grade)
+Silver (low-grade object)
 SOURCE
 CRB
 PAGE
@@ -12566,7 +12566,7 @@ TRAITS
 material
 
 NAME
-Silver Shield (buckler low-grade)
+Silver Shield (low-grade buckler)
 SOURCE
 CRB
 PAGE
@@ -12600,7 +12600,7 @@ TRAITS
 material
 
 NAME
-Silver Shield (standard-grade buckler)
+Silver Shield (buckler standard-grade)
 SOURCE
 CRB
 PAGE
@@ -12634,7 +12634,7 @@ TRAITS
 material
 
 NAME
-Silver Shield (high-grade buckler)
+Silver Shield (buckler high-grade)
 SOURCE
 CRB
 PAGE
@@ -15480,7 +15480,7 @@ magical
 worn
 
 NAME
-Wand of Continuation (1st-level spell)
+Wand of Continuation (spell 1st-level)
 SOURCE
 CRB
 PAGE
@@ -15624,7 +15624,7 @@ magical
 wand
 
 NAME
-Wand of Manifold Missiles (1st-level spell)
+Wand of Manifold Missiles (spell 1st-level)
 SOURCE
 CRB
 PAGE
@@ -15704,7 +15704,7 @@ magical
 wand
 
 NAME
-Wand of Slaying (7th level spell)
+Wand of Slaying (level 7th spell)
 SOURCE
 CRB
 PAGE
@@ -15723,7 +15723,7 @@ magical
 wand
 
 NAME
-Wand of Slaying (level spell 8th)
+Wand of Slaying (8th level spell)
 SOURCE
 CRB
 PAGE
@@ -15742,7 +15742,7 @@ magical
 wand
 
 NAME
-Wand of Slaying (9th level spell)
+Wand of Slaying (level 9th spell)
 SOURCE
 CRB
 PAGE
@@ -15841,7 +15841,7 @@ magical
 wand
 
 NAME
-Wand of Widening (1st-level spell)
+Wand of Widening (spell 1st-level)
 SOURCE
 CRB
 PAGE
@@ -16276,7 +16276,7 @@ ingested
 poison
 
 NAME
-Wondrous Figurine (lions golden)
+Wondrous Figurine (golden lions)
 SOURCE
 CRB
 PAGE
@@ -16295,7 +16295,7 @@ magical
 held
 
 NAME
-Wondrous Figurine (jade serpent)
+Wondrous Figurine (serpent jade)
 SOURCE
 CRB
 PAGE
@@ -16314,7 +16314,7 @@ magical
 held
 
 NAME
-Wondrous Figurine (elephant marble)
+Wondrous Figurine (marble elephant)
 SOURCE
 CRB
 PAGE
