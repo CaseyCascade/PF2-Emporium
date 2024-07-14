@@ -13,14 +13,24 @@ LEVEL MAX
 10
 
 NAME
-Peanut Salesman
+Alchemy Shops
 SOURCE BLACKLIST
-crb
 TRAIT BLACKLIST
-bludgeoning
+weapon 
+scroll
+magical
+oil
+pet 
+catalyst
+clockwork
+adventuring gear
+unique
 TRAITS
-dwarf|1
-weapon|1
+alchemical|1
+virulent|1
+rare|1
+poison|1
+mutagen|1
 LEVEL MIN
 3
 LEVEL MAX
