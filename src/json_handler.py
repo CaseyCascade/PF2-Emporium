@@ -368,5 +368,5 @@ data_directory = 'data/core_items'
 full_json_path = os.path.join(repo_directory, json_directory)
 full_data_path = os.path.join(repo_directory, data_directory)
 
-def load():
+def load(): #TODO Entries in ec6.txt are being repeated, plus possible other errors with some items 
     check_for_new_json_files(full_json_path, full_data_path)
